@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<contentpackage name="Carrier" modversion="1.0.4" corepackage="False" gameversion="1.6.19.1">
-  <Submarine file="%ModDir%/Carrier.sub" />
+<contentpackage name="Carrier" modversion="1.0.6" corepackage="False" gameversion="1.6.19.1">
   <Submarine file="%ModDir%/CarrierBot.sub" />
+  <Submarine file="%ModDir%/Carrier.sub" />
 </contentpackage>
