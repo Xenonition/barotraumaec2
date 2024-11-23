@@ -1,0 +1,554 @@
+﻿[11/16/2024 16:57:13]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:15]
+  Console command "revive Liberator762" executed by Cryonite.
+[11/16/2024 16:57:17]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:57:17]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:57:17]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:57:17]
+  Rowena Dyer unequipped Screwdriver
+[11/16/2024 16:57:17]
+  Rowena Dyer equipped Welding Tool
+[11/16/2024 16:57:18]
+  Outer wall repaired by Rowena Dyer
+[11/16/2024 16:57:18]
+  Liberator762 picked up Disposable Diving Suit
+[11/16/2024 16:57:18]
+  Inner wall repaired by Rowena Dyer
+[11/16/2024 16:57:18]
+  Rowena Dyer: No more leaks in Electrical!
+[11/16/2024 16:57:18]
+  Marylee Hutchinson: No more leaks in Reactor Engine!
+[11/16/2024 16:57:19]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:19]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:57:19]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:57:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:19]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling has died (Cause of death: Bite wounds)
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:57:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 30.0 Bleeding: 2.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:25]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:27]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:29]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:32]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:57:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  Spineling has died (Cause of death: Bite wounds)
+[11/16/2024 16:57:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:42]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:44]
+  bjoe998822 picked up Diving Suit
+[11/16/2024 16:57:44]
+  bjoe998822 dropped Diving Suit
+[11/16/2024 16:57:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:53]
+  Rowena Dyer unequipped Welding Tool
+[11/16/2024 16:57:53]
+  Rowena Dyer equipped Screwdriver
+[11/16/2024 16:57:54]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:59]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:59]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:59]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:58:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:01]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:58:01]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:04]
+  The respawn shuttle is leaving.
+[11/16/2024 16:58:05]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:58:06]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:06]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:14]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:58:14]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:58:14]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:58:19]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:58:20]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:25]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:26]
+  Liberator762 has died (Cause of death: Unknown)
+[11/16/2024 16:58:26]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 16:58:26]
+  Respawning Cryonite (139.0.137.235:56152) as Assistant.
+[11/16/2024 16:58:26]
+  Dispatching the respawn shuttle.
+[11/16/2024 16:58:27]
+  Respawning Liberator762 (76.65.29.83:53662) as Mechanic.
+[11/16/2024 16:58:27]
+  Dispatching the respawn shuttle.
+[11/16/2024 16:58:28]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:58:28]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:58:36]
+  Bonethresher has died (Cause of death: Bite wounds)
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:52]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:59]
+  Liberator762 picked up Disposable Diving Suit
+[11/16/2024 16:59:02]
+  Liberator762 equipped Welding Tool
+[11/16/2024 16:59:04]
+  LaywithMind equipped Coilgun Ammunition Box
+[11/16/2024 16:59:04]
+  LaywithMind picked up Coilgun Ammunition Box
+[11/16/2024 16:59:06]
+  LaywithMind placed Coilgun Ammunition Box in the inventory of Coilgun Loader (ID: 48)
+[11/16/2024 16:59:06]
+  LaywithMind removed Coilgun Ammunition Box from the inventory of Coilgun Loader (ID: 48)
+[11/16/2024 16:59:06]
+  LaywithMind equipped Coilgun Ammunition Box
+[11/16/2024 16:59:06]
+  LaywithMind picked up Coilgun Ammunition Box
+[11/16/2024 16:59:07]
+  LaywithMind dropped Coilgun Ammunition Box
+[11/16/2024 16:59:07]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:09]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:09]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:11]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:17]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Crawler_large has died (Cause of death: Lacerations)
+[11/16/2024 16:59:23]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:23]
+  Mission info: Target terminated - The crawler is terminated. Reach the next station to claim the reward.
+[11/16/2024 16:59:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:42]
+  bjoe998822 equipped Underwater Scooter
+[11/16/2024 17:00:11]
+  Cryonite docked Hemulen to Yasa Outpost
+[11/16/2024 17:00:21]
+  bjoe998822 equipped Screwdriver
+[11/16/2024 17:00:21]
+  The respawn shuttle is leaving.
+[11/16/2024 17:00:23]
+  bjoe998822 equipped Wrench
+[11/16/2024 17:00:25]
+  Ending round (submarine reached the end of the level)
+[11/16/2024 17:00:25]
+  Ending the round...

@@ -1,0 +1,1600 @@
+﻿[11/16/2024 15:49:30]
+  Starting the server...
+[11/16/2024 15:49:30]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/16/2024 15:49:30]
+  Server started
+[11/16/2024 15:49:53]
+  Cryonite has joined the server.
+[11/16/2024 15:49:53]
+  Saving client permissions
+[11/16/2024 15:49:59]
+  Gamemode changed to Mission
+[11/16/2024 15:50:41]
+  LaywithMind has joined the server.
+[11/16/2024 15:50:41]
+  Saving client permissions
+[11/16/2024 15:50:54]
+  Cryonite is causing the server to slow down.
+[11/16/2024 15:50:58]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:50:58]
+  Cryonite changed SelectedLevelDifficulty to 50
+[11/16/2024 15:50:59]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:50:59]
+  Cryonite changed BotCount to 3
+[11/16/2024 15:51:00]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:00]
+  Cryonite changed BotCount to 4
+[11/16/2024 15:51:00]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:00]
+  Cryonite changed BotCount to 5
+[11/16/2024 15:51:02]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:02]
+  Cryonite changed BotCount to 4
+[11/16/2024 15:54:29]
+  widjajajames has joined the server.
+[11/16/2024 15:54:29]
+  Saving client permissions
+[11/16/2024 15:54:59]
+  widjajajames is ready to start the game.
+[11/16/2024 15:55:12]
+  Client "Cryonite" started the round.
+[11/16/2024 15:55:12]
+  Starting a new round...
+[11/16/2024 15:55:23]
+  Eleanor Heuer equipped Wrench
+[11/16/2024 15:55:23]
+  Eleanor Heuer unequipped Wrench
+[11/16/2024 15:55:23]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Wrench
+[11/16/2024 15:55:23]
+  Sara Monroe unequipped Wrench
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Crowbar
+[11/16/2024 15:55:23]
+  Mission: Coalition Vessel
+[11/16/2024 15:55:23]
+  Seek out the Coalition vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[11/16/2024 15:55:23]
+  Game mode: Mission
+[11/16/2024 15:55:23]
+  Submarine: Carrier
+[11/16/2024 15:55:23]
+  Level seed: 84FUzhe5
+[11/16/2024 15:55:23]
+  Mission: Coalition Vessel
+[11/16/2024 15:55:23]
+  Keri Jack equipped Welding Tool
+[11/16/2024 15:55:23]
+  Sherry Cluck equipped Welding Tool
+[11/16/2024 15:55:25]
+  Round started.
+[11/16/2024 15:55:26]
+  Fractalguardian2 equipped Guardian Steam Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:28]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 15:55:28]
+  Sara Monroe unequipped Crowbar
+[11/16/2024 15:55:32]
+  Mathew Flowers: They that go down to the sea in ships;
+[11/16/2024 15:55:33]
+  Mathew Flowers: Dorsey Celina Ryder, man the weapons!
+[11/16/2024 15:55:33]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:34]
+  Dorsey Celina Ryder: Aye!
+[11/16/2024 15:55:36]
+  Mathew Flowers: That do business in great waters;
+[11/16/2024 15:55:39]
+  Carie Williams: Copy that.
+[11/16/2024 15:55:39]
+  Mathew Flowers: These see the works of the Lord, and His wonders in the deep.
+[11/16/2024 15:55:40]
+  widjajajames equipped Wrench
+[11/16/2024 15:55:41]
+  widjajajames equipped Screwdriver
+[11/16/2024 15:55:42]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:43]
+  widjajajames: I'll power up the reactor!
+[11/16/2024 15:55:44]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:44]
+  Mathew Flowers: Off we go! Good luck, crew!
+[11/16/2024 15:55:48]
+  Mathew Flowers: Dorsey Celina Ryder, man the weapons!
+[11/16/2024 15:55:49]
+  Dorsey Celina Ryder: Yes, sir!
+[11/16/2024 15:56:18]
+  Liza Swanger: I need diving gear!
+[11/16/2024 15:57:07]
+  Liberator762 has joined the server.
+[11/16/2024 15:57:07]
+  Saving client permissions
+[11/16/2024 15:57:13]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:28]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:38]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:38]
+  Respawning Liberator762 (76.65.29.83:53662) as Mechanic.
+[11/16/2024 15:57:38]
+  Dispatching the respawn shuttle.
+[11/16/2024 15:57:39]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:57:56]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:57:57]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:57:57]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:03]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:58:03]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:58:04]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:51]
+  Console command "enablecheats" executed by Cryonite.
+[11/16/2024 15:59:02]
+  Console command "giveitem "Boarding Pod"" executed by Cryonite.
+[11/16/2024 15:59:02]
+  Cryonite equipped Boarding Pod
+[11/16/2024 15:59:06]
+  Cryonite placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 15:59:10]
+  Cryonite picked up Diving Suit
+[11/16/2024 16:00:09]
+  Liberator762 docked Hemulen to Carrier
+[11/16/2024 16:00:11]
+  Liberator762 undocked Hemulen from Carrier
+[11/16/2024 16:00:12]
+  Liberator762 docked Hemulen to Carrier
+[11/16/2024 16:00:17]
+  widjajajames undocked CarrierBot from Carrier
+[11/16/2024 16:00:27]
+  The respawn shuttle is leaving.
+[11/16/2024 16:00:58]
+  The respawn shuttle has left.
+[11/16/2024 16:01:10]
+  Mathew Flowers: Eleanor Heuer, take care of broken devices!
+[11/16/2024 16:01:11]
+  Eleanor Heuer: Copy that.
+[11/16/2024 16:01:12]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:01:15]
+  Liberator762 attacked by widjajajames. Lacerations: 2.5 Bleeding: 1.5
+[11/16/2024 16:01:15]
+  widjajajames used Screwdriver on Liberator762.
+[11/16/2024 16:01:16]
+  Mathew Flowers: Sara Monroe, take care of broken devices!
+[11/16/2024 16:01:17]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:01:17]
+  Sara Monroe: Sure thing!
+[11/16/2024 16:02:16]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:02:17]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:02:22]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:02:22]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:02:42]
+  Eleanor Heuer equipped Wrench
+[11/16/2024 16:02:43]
+  Sara Monroe equipped Wrench
+[11/16/2024 16:02:51]
+  Eleanor Heuer unequipped Wrench
+[11/16/2024 16:02:52]
+  Sara Monroe unequipped Wrench
+[11/16/2024 16:03:24]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:03:25]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:03:25]
+  Eleanor Heuer failed to repair Junction Box
+[11/16/2024 16:03:39]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:03:41]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:03:51]
+  widjajajames docked CarrierBot to Carrier
+[11/16/2024 16:04:00]
+  Cryonite dropped Diving Suit
+[11/16/2024 16:04:02]
+  Liberator762 picked up Diving Suit
+[11/16/2024 16:04:08]
+  Liberator762 equipped Boarding Pod
+[11/16/2024 16:04:12]
+  Liberator762 placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:04:23]
+  widjajajames picked up Diving Suit
+[11/16/2024 16:04:27]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:04:27]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:04:28]
+  Eleanor Heuer failed to repair Junction Box
+[11/16/2024 16:04:32]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:04:33]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:04:42]
+  Cryonite undocked CarrierBot from Carrier
+[11/16/2024 16:04:54]
+  Filiberto Eastman: I need diving gear!
+[11/16/2024 16:04:58]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:04:59]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:05:02]
+  Liza Swanger: Need to find a diving suit!
+[11/16/2024 16:05:07]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:05:07]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:05:14]
+  Liza Swanger equipped Welding Tool
+[11/16/2024 16:05:14]
+  Outer wall repaired by Liza Swanger
+[11/16/2024 16:05:15]
+  Liza Swanger unequipped Welding Tool
+[11/16/2024 16:05:25]
+  LaywithMind picked up Diving Suit
+[11/16/2024 16:05:32]
+  Glenn Saunders: I need diving gear!
+[11/16/2024 16:05:32]
+  Mechelle Santistevan: I need diving gear!
+[11/16/2024 16:05:41]
+  Mechelle Santistevan: Pressure level dangerously high in Reactor Engine!
+[11/16/2024 16:05:41]
+  Filiberto Eastman: Pressure level dangerously high in Reactor Engine!
+[11/16/2024 16:05:42]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:05:42]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:05:43]
+  Glenn Saunders: Pressure rising in Electrical!
+[11/16/2024 16:05:47]
+  Filiberto Eastman equipped Diving Suit
+[11/16/2024 16:05:48]
+  Sara Monroe failed to repair Junction Box
+[11/16/2024 16:05:49]
+  Mechelle Santistevan: gasping
+[11/16/2024 16:05:51]
+  Client "Cryonite" ended the round.
+[11/16/2024 16:05:51]
+  Ending the round...
+[11/16/2024 16:05:52]
+  Round ended.
+[11/16/2024 16:06:04]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:06:04]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:06:04]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:06:20]
+  Client "Cryonite" started the round.
+[11/16/2024 16:06:20]
+  Starting a new round...
+[11/16/2024 16:06:30]
+  Janee Malone equipped Wrench
+[11/16/2024 16:06:30]
+  Janee Malone unequipped Wrench
+[11/16/2024 16:06:30]
+  Janee Malone equipped Screwdriver
+[11/16/2024 16:06:30]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:06:30]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:06:30]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:06:30]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:06:30]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:06:31]
+  Mission: Coalition Vessel
+[11/16/2024 16:06:31]
+  Seek out the Coalition vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[11/16/2024 16:06:31]
+  Game mode: Mission
+[11/16/2024 16:06:31]
+  Submarine: Carrier
+[11/16/2024 16:06:31]
+  Level seed: hhpFfKtN
+[11/16/2024 16:06:31]
+  Mission: Coalition Vessel
+[11/16/2024 16:06:31]
+  Priscilla Patel equipped Screwdriver
+[11/16/2024 16:06:33]
+  Round started.
+[11/16/2024 16:06:34]
+  Fractalguardian2 equipped Guardian Steam Cannon
+[11/16/2024 16:06:34]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 16:06:34]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 16:06:34]
+  Fractalguardian2 equipped Guardian Steam Cannon
+[11/16/2024 16:06:34]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 16:06:35]
+  Priscilla Patel unequipped Screwdriver
+[11/16/2024 16:06:35]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:06:35]
+  Janee Malone unequipped Screwdriver
+[11/16/2024 16:06:39]
+  Pete Hoffman: Buckle down—we've got a long road ahead of us!
+[11/16/2024 16:06:39]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:06:40]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:06:40]
+  Pete Hoffman: Terrell Rangel, man the guns!
+[11/16/2024 16:06:41]
+  Terrell Rangel: Sure thing!
+[11/16/2024 16:06:43]
+  Terrell Rangel: Aye, sir!
+[11/16/2024 16:06:44]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:06:44]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:06:47]
+  Pete Hoffman: Creola Summers, operate the weapons!
+[11/16/2024 16:06:48]
+  Creola Summers: Aye aye!
+[11/16/2024 16:06:49]
+  widjajajames: I'll power up the reactor!
+[11/16/2024 16:06:57]
+  Pete Hoffman: Terrell Rangel, man the guns!
+[11/16/2024 16:06:58]
+  Terrell Rangel: Got it!
+[11/16/2024 16:06:59]
+  LaywithMind equipped Revolver
+[11/16/2024 16:07:18]
+  Priscilla Patel has died (Cause of death: Internal damage)
+[11/16/2024 16:07:26]
+  LaywithMind equipped Medic Crate
+[11/16/2024 16:07:28]
+  LaywithMind dropped Medic Crate
+[11/16/2024 16:07:29]
+  Console command "spawnitem "Boarding Pod"" executed by Cryonite.
+[11/16/2024 16:07:29]
+  Console command "spawnitem "Boarding Pod"" executed by Cryonite.
+[11/16/2024 16:07:29]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:07:30]
+  Console command "spawnitem "Boarding Pod"" executed by Cryonite.
+[11/16/2024 16:07:31]
+  Mila Shah equipped Boarding Pod
+[11/16/2024 16:07:31]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:07:32]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:07:33]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:07:34]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:07:34]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:07:34]
+  Ethel Radice equipped Boarding Pod
+[11/16/2024 16:07:35]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:07:35]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:07:36]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:07:37]
+  LaywithMind equipped Chemical Crate
+[11/16/2024 16:07:38]
+  LaywithMind dropped Chemical Crate
+[11/16/2024 16:07:40]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:07:41]
+  Liberator762 equipped Boarding Pod
+[11/16/2024 16:07:42]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:07:43]
+  LaywithMind equipped Medic Crate
+[11/16/2024 16:07:44]
+  LaywithMind dropped Medic Crate
+[11/16/2024 16:07:46]
+  Liberator762 placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:07:47]
+  Console command "spawnitem Rifle cursor" executed by Cryonite.
+[11/16/2024 16:07:48]
+  Console command "spawnitem Rifle cursor" executed by Cryonite.
+[11/16/2024 16:07:48]
+  Console command "spawnitem Rifle cursor" executed by Cryonite.
+[11/16/2024 16:07:49]
+  Rob Mcclure equipped Rifle
+[11/16/2024 16:07:52]
+  Ethel Radice equipped Rifle
+[11/16/2024 16:08:00]
+  Console command "spawnitem assaultrifleround cursor" executed by Cryonite.
+[11/16/2024 16:08:00]
+  Console command "spawnitem assaultrifleround cursor" executed by Cryonite.
+[11/16/2024 16:08:01]
+  Console command "spawnitem assaultrifleround cursor" executed by Cryonite.
+[11/16/2024 16:08:01]
+  Console command "spawnitem assaultrifleround cursor" executed by Cryonite.
+[11/16/2024 16:08:01]
+  Console command "spawnitem assaultrifleround cursor" executed by Cryonite.
+[11/16/2024 16:08:05]
+  Liberator762 equipped Boarding Pod
+[11/16/2024 16:08:08]
+  LaywithMind equipped Boarding Pod
+[11/16/2024 16:08:09]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:10]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:10]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:10]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:10]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:11]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:11]
+  Liberator762 dropped Boarding Pod
+[11/16/2024 16:08:11]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:11]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:08:11]
+  Mila Shah equipped Assault Rifle Magazine
+[11/16/2024 16:08:19]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:08:20]
+  Rob Mcclure equipped Assault Rifle Magazine
+[11/16/2024 16:08:20]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:08:20]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:08:20]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:08:21]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:08:25]
+  Cryonite picked up Assault Rifle
+[11/16/2024 16:08:26]
+  Lynwood Simpson equipped Assault Rifle
+[11/16/2024 16:08:26]
+  LaywithMind dropped Boarding Pod
+[11/16/2024 16:08:28]
+  Cryonite placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 12339)
+[11/16/2024 16:08:29]
+  Ethel Radice equipped Assault Rifle
+[11/16/2024 16:08:30]
+  widjajajames equipped Boarding Pod
+[11/16/2024 16:08:32]
+  LaywithMind picked up Oxygen Tank
+[11/16/2024 16:08:33]
+  Liberator762 equipped Assault Rifle Magazine
+[11/16/2024 16:08:34]
+  LaywithMind picked up Diving Suit
+[11/16/2024 16:08:35]
+  Liberator762 equipped Rifle
+[11/16/2024 16:08:38]
+  widjajajames picked up Underwater Scooter
+[11/16/2024 16:08:40]
+  LaywithMind picked up Assault Rifle
+[11/16/2024 16:08:41]
+  widjajajames picked up Oxygen Tank
+[11/16/2024 16:08:43]
+  widjajajames removed Oxygen Tank from the inventory of Large Steel Cabinet (ID: 697)
+[11/16/2024 16:08:43]
+  widjajajames picked up Oxygen Tank
+[11/16/2024 16:08:44]
+  Mila Shah equipped Assault Rifle
+[11/16/2024 16:08:46]
+  LaywithMind equipped Assault Rifle
+[11/16/2024 16:08:51]
+  LaywithMind dropped Assault Rifle
+[11/16/2024 16:08:55]
+  widjajajames dropped Boarding Pod
+[11/16/2024 16:08:57]
+  Lynwood Simpson equipped Assault Rifle
+[11/16/2024 16:08:58]
+  widjajajames equipped Boarding Pod
+[11/16/2024 16:08:59]
+  LaywithMind equipped Assault Rifle
+[11/16/2024 16:09:01]
+  LaywithMind placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 12340)
+[11/16/2024 16:09:03]
+  widjajajames placed Boarding Pod in the inventory of Depth Charge Loader (ID: 298)
+[11/16/2024 16:09:18]
+  LaywithMind equipped Boarding Pod
+[11/16/2024 16:09:24]
+  LaywithMind dropped Boarding Pod
+[11/16/2024 16:09:25]
+  widjajajames picked up Diving Suit
+[11/16/2024 16:09:50]
+  Cryonite equipped Assault Rifle
+[11/16/2024 16:10:08]
+  Liberator762 dropped Rifle
+[11/16/2024 16:10:10]
+  LaywithMind unequipped Rifle
+[11/16/2024 16:10:11]
+  Liberator762 dropped x2 Assault Rifle Magazine
+[11/16/2024 16:10:12]
+  LaywithMind dropped Rifle
+[11/16/2024 16:10:23]
+  Liberator762 unequipped Assault Rifle Magazine
+[11/16/2024 16:10:32]
+  LaywithMind equipped Assault Rifle
+[11/16/2024 16:10:32]
+  LaywithMind picked up Assault Rifle
+[11/16/2024 16:10:39]
+  Liberator762 equipped Assault Rifle
+[11/16/2024 16:10:39]
+  Liberator762 picked up Assault Rifle
+[11/16/2024 16:10:40]
+  LaywithMind dropped Assault Rifle
+[11/16/2024 16:10:47]
+  Mila Shah equipped Assault Rifle
+[11/16/2024 16:10:48]
+  Liberator762 placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 12342)
+[11/16/2024 16:10:49]
+  Lynwood Simpson: Need to find a diving suit!
+[11/16/2024 16:10:49]
+  Liberator762 picked up Assault Rifle Magazine
+[11/16/2024 16:10:49]
+  Liberator762 dropped Assault Rifle Magazine
+[11/16/2024 16:10:49]
+  Liberator762 placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 12342)
+[11/16/2024 16:10:50]
+  LaywithMind removed Oxygen Tank from the inventory of Oxygen Tank Shelf (ID: 186)
+[11/16/2024 16:10:50]
+  LaywithMind placed Oxygen Tank in the inventory of Diving Suit (ID: 184)
+[11/16/2024 16:10:52]
+  Lynwood Simpson equipped Welding Tool
+[11/16/2024 16:10:55]
+  Outer wall repaired by Lynwood Simpson
+[11/16/2024 16:10:55]
+  Lynwood Simpson: No more leaks in Bottom Airlock!
+[11/16/2024 16:10:57]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:58]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:58]
+  Liberator762 picked up Diving Suit
+[11/16/2024 16:10:58]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:58]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:58]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:59]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:59]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:59]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:10:59]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:11:01]
+  widjajajames equipped Boarding Pod
+[11/16/2024 16:11:03]
+  Inner wall repaired by Lynwood Simpson
+[11/16/2024 16:11:03]
+  Outer wall repaired by Lynwood Simpson
+[11/16/2024 16:11:04]
+  Lynwood Simpson unequipped Welding Tool
+[11/16/2024 16:11:05]
+  widjajajames placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:11:06]
+  Pete Hoffman: Yes, sir!
+[11/16/2024 16:11:14]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:11:14]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:11:25]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 16:11:26]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 16:11:26]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 16:11:26]
+  LaywithMind set the recharge speed of Supercapacitor to 40 %
+[11/16/2024 16:11:27]
+  LaywithMind set the recharge speed of Supercapacitor to 50 %
+[11/16/2024 16:11:27]
+  LaywithMind set the recharge speed of Supercapacitor to 40 %
+[11/16/2024 16:11:30]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 16:11:30]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 16:11:30]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 16:11:30]
+  LaywithMind set the recharge speed of Supercapacitor to 40 %
+[11/16/2024 16:11:33]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 16:11:33]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 16:11:33]
+  LaywithMind set the recharge speed of Supercapacitor to 40 %
+[11/16/2024 16:11:38]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:11:38]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:11:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:11:43]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:12:01]
+  Pete Hoffman: Terrell Rangel, operate the weapons!
+[11/16/2024 16:12:01]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:12:01]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:12:01]
+  Outer wall breached by Hammerheadgold
+[11/16/2024 16:12:02]
+  Terrell Rangel: Copy that.
+[11/16/2024 16:12:02]
+  Outer wall breached by Tigerthresher
+[11/16/2024 16:12:06]
+  Mila Shah: Giving first aid to Liberator762 in reactor engine!
+[11/16/2024 16:12:06]
+  Rob Mcclure: Liberator762 is back in shape!
+[11/16/2024 16:12:06]
+  Mila Shah: Liberator762 is all right!
+[11/16/2024 16:12:07]
+  widjajajames equipped Wrench
+[11/16/2024 16:12:08]
+  Pete Hoffman: Creola Summers, man the guns!
+[11/16/2024 16:12:08]
+  Mission info: Coalition vessel detected - Neutralize the crew or sink the submarine to the bottom of the sea!
+[11/16/2024 16:12:09]
+  Creola Summers: Copy that.
+[11/16/2024 16:12:12]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:12]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:12]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:12]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:12]
+  Pete Hoffman: Raymon Fesler, take care of broken devices!
+[11/16/2024 16:12:13]
+  Raymon Fesler: Got it!
+[11/16/2024 16:12:14]
+  Rob Mcclure: Treating widjajajames in reactor engine!
+[11/16/2024 16:12:14]
+  Rob Mcclure: widjajajames is back in shape!
+[11/16/2024 16:12:14]
+  Mila Shah: widjajajames is all right!
+[11/16/2024 16:12:15]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:12:15]
+  Janee Malone equipped Welding Tool
+[11/16/2024 16:12:15]
+  Outer wall repaired by Janee Malone
+[11/16/2024 16:12:16]
+  Janee Malone unequipped Welding Tool
+[11/16/2024 16:12:16]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:16]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:16]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:16]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:17]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:18]
+  Terrell Rangel launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:18]
+  Pete Hoffman: Terrell Rangel, man the guns!
+[11/16/2024 16:12:18]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:18]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:18]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:19]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:19]
+  Terrell Rangel: Sure thing!
+[11/16/2024 16:12:19]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:19]
+  Terrell Rangel launched Railgun (projectile: Railgun Shell)
+[11/16/2024 16:12:19]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:19]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:20]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:20]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:20]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:20]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:12:20]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:21]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:21]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:21]
+  Kendall Riles equipped Diving Knife
+[11/16/2024 16:12:21]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:21]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:21]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:22]
+  Liberator762 dropped Assault Rifle
+[11/16/2024 16:12:22]
+  Watcher has died (Cause of death: Deep tissue injury)
+[11/16/2024 16:12:22]
+  Creola Summers launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:22]
+  Creola Summers: Enemy down!
+[11/16/2024 16:12:22]
+  Joy Gould equipped Riot Shotgun
+[11/16/2024 16:12:22]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:12:23]
+  Creola Summers equipped Diving Knife
+[11/16/2024 16:12:23]
+  Terrell Rangel equipped Riot Shotgun
+[11/16/2024 16:12:23]
+  Janee Malone equipped Wrench
+[11/16/2024 16:12:23]
+  Liberator762 equipped Welding Tool
+[11/16/2024 16:12:24]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:24]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:25]
+  Kendall Riles used Diving Knife on Tigerthresher.
+[11/16/2024 16:12:25]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:12:25]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:25]
+  Pete Hoffman: Janee Malone, start fixing leaks!
+[11/16/2024 16:12:25]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:25]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:25]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:25]
+  Inner wall breached by Hammerheadgold
+[11/16/2024 16:12:26]
+  Creola Summers unequipped Diving Knife
+[11/16/2024 16:12:26]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:26]
+  Janee Malone: Got it!
+[11/16/2024 16:12:27]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:27]
+  Rob Mcclure: Mila Shah's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:28]
+  Mila Shah: Lynwood Simpson's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Rob Mcclure: Lynwood Simpson's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:28]
+  Mila Shah: Ethel Radice's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Rob Mcclure: Ethel Radice's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:28]
+  Mila Shah: I don't have the means to treat myself!
+[11/16/2024 16:12:28]
+  Mila Shah: Rob Mcclure's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:12:28]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:29]
+  Kendall Riles used Diving Knife on Tigerthresher.
+[11/16/2024 16:12:29]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:29]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 16:12:30]
+  Rob Mcclure: I don't have the means to treat myself!
+[11/16/2024 16:12:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:30]
+  Kendall Riles used Diving Knife on Tigerthresher.
+[11/16/2024 16:12:30]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:30]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:31]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:31]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:31]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:31]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:31]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[11/16/2024 16:12:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:31]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/16/2024 16:12:31]
+  Pete Hoffman: Joy Gould, take care of any leaks!
+[11/16/2024 16:12:31]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:31]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:31]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:31]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:32]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:32]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:12:32]
+  Joy Gould: Got it!
+[11/16/2024 16:12:32]
+  Joy Gould unequipped Riot Shotgun
+[11/16/2024 16:12:32]
+  Joy Gould equipped Diving Knife
+[11/16/2024 16:12:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:33]
+  Janee Malone opened Custom Door
+[11/16/2024 16:12:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:33]
+  Kendall Riles used Diving Knife on Tigerthresher.
+[11/16/2024 16:12:33]
+  Terrell Rangel unequipped Riot Shotgun
+[11/16/2024 16:12:33]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[11/16/2024 16:12:33]
+  Terrell Rangel equipped Diving Knife
+[11/16/2024 16:12:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:33]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:34]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:12:34]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:12:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:12:34]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:12:35]
+  Kendall Riles used Diving Knife on Tigerthresher.
+[11/16/2024 16:12:35]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:12:35]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 8.3
+[11/16/2024 16:12:35]
+  Mila Shah: Giving first aid to widjajajames in reactor engine!
+[11/16/2024 16:12:36]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 16:12:36]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/16/2024 16:12:36]
+  Terrell Rangel unequipped Diving Knife
+[11/16/2024 16:12:36]
+  Terrell Rangel equipped Revolver
+[11/16/2024 16:12:36]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 16:12:36]
+  Joy Gould: Target eliminated!
+[11/16/2024 16:12:36]
+  Mila Shah: I need to find deusizine or pomegrenade extract!
+[11/16/2024 16:12:36]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 16:12:37]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[11/16/2024 16:12:37]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 16:12:38]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:38]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:12:38]
+  Joy Gould unequipped Diving Knife
+[11/16/2024 16:12:39]
+  Cryonite equipped Boarding Pod
+[11/16/2024 16:12:39]
+  Crawler has died (Cause of death: Bite wounds)
+[11/16/2024 16:12:40]
+  Codi Clements: Target eliminated!
+[11/16/2024 16:12:40]
+  Kendall Riles: Target eliminated!
+[11/16/2024 16:12:40]
+  Terrell Rangel: Target down!
+[11/16/2024 16:12:41]
+  Cryonite dropped Boarding Pod
+[11/16/2024 16:12:42]
+  Kendall Riles unequipped Diving Knife
+[11/16/2024 16:12:42]
+  Kendall Riles equipped Bandage
+[11/16/2024 16:12:42]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:12:42]
+  Joy Gould equipped Welding Tool
+[11/16/2024 16:12:44]
+  Joy Gould unequipped Welding Tool
+[11/16/2024 16:12:46]
+  Pete Hoffman: Aye aye!
+[11/16/2024 16:12:46]
+  Liberator762 unequipped Welding Tool
+[11/16/2024 16:12:50]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:50]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:52]
+  Liberator762 equipped Toolbelt
+[11/16/2024 16:12:53]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:53]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:53]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:12:53]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:53]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:54]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:54]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:54]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:54]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:54]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:54]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:54]
+  Kendall Riles equipped Diving Knife
+[11/16/2024 16:12:54]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:54]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:54]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:54]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:54]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:54]
+  Pete Hoffman equipped Boom Stick
+[11/16/2024 16:12:55]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:55]
+  Codi Clements equipped Diving Knife
+[11/16/2024 16:12:55]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:55]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:56]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:56]
+  Codi Clements unequipped Diving Knife
+[11/16/2024 16:12:56]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:56]
+  Pete Hoffman unequipped Boom Stick
+[11/16/2024 16:12:56]
+  Joy Gould has died (Cause of death: Barotrauma)
+[11/16/2024 16:12:56]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:56]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:56]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:57]
+  Crawler has died (Cause of death: Bite wounds)
+[11/16/2024 16:12:57]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:57]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:57]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:57]
+  Creola Summers equipped SMG
+[11/16/2024 16:12:57]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:57]
+  Codi Clements equipped Riot Shotgun
+[11/16/2024 16:12:57]
+  Terrell Rangel has died (Cause of death: Barotrauma)
+[11/16/2024 16:12:58]
+  Codi Clements unequipped Riot Shotgun
+[11/16/2024 16:12:58]
+  Creola Summers unequipped SMG
+[11/16/2024 16:12:59]
+  Pete Hoffman: Copy that.
+[11/16/2024 16:13:00]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:00]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:01]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:01]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:01]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:01]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:03]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:03]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:03]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:04]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:13:04]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:04]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:04]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:04]
+  Janee Malone has died (Cause of death: Barotrauma)
+[11/16/2024 16:13:05]
+  Creola Summers has died (Cause of death: Barotrauma)
+[11/16/2024 16:13:05]
+  Kendall Riles has died (Cause of death: Bite wounds)
+[11/16/2024 16:13:05]
+  Pete Hoffman has died (Cause of death: Barotrauma)
+[11/16/2024 16:13:06]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:13:06]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:13:09]
+  Inner wall breached by Tigerthresher
+[11/16/2024 16:13:10]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:10]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:10]
+  Codi Clements has died (Cause of death: Barotrauma)
+[11/16/2024 16:13:10]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:10]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:11]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:12]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:12]
+  Console command "spawnitem "Rifle Round" cursor" executed by Cryonite.
+[11/16/2024 16:13:13]
+  Liberator762 placed Assault Rifle Magazine in the inventory of Toolbelt (ID: 11719)
+[11/16/2024 16:13:15]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:15]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:13:16]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:13:16]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:13:17]
+  Raymon Fesler closed Custom Door
+[11/16/2024 16:13:17]
+  Raymon Fesler opened Custom Door
+[11/16/2024 16:13:20]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:22]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:13:22]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:13:24]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:13:24]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:24]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:24]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:24]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:24]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:25]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:25]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:25]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:25]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:26]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:26]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:27]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:27]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:27]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:27]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:27]
+  Liberator762 picked up x2 Assault Rifle Magazine
+[11/16/2024 16:13:28]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:28]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:28]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:28]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:29]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:29]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:29]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:29]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:30]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:30]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:30]
+  Liberator762 picked up Assault Rifle Magazine
+[11/16/2024 16:13:30]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:30]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:31]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:31]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:31]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:31]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:32]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:32]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:13:35]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:13:35]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:13:35]
+  Raymon Fesler failed to repair Junction Box
+[11/16/2024 16:13:36]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:41]
+  Rob Mcclure: I don't have the means to treat Liberator762!
+[11/16/2024 16:13:41]
+  Mila Shah: I don't have the means to treat Liberator762!
+[11/16/2024 16:13:42]
+  Mila Shah: Treating Liberator762 in command!
+[11/16/2024 16:13:42]
+  Rob Mcclure: Giving first aid to Liberator762 in command!
+[11/16/2024 16:13:43]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:43]
+  Mila Shah: I need to find deusizine, pomegrenade extract, fentanyl or morphine!
+[11/16/2024 16:13:43]
+  Rob Mcclure: I need deusizine, pomegrenade extract, fentanyl or morphine to treat Liberator762!
+[11/16/2024 16:13:43]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:52]
+  Outer wall breached by Crawler
+[11/16/2024 16:13:56]
+  Rob Mcclure: Treating widjajajames in reactor engine!
+[11/16/2024 16:13:56]
+  Liberator762 placed Welding Tool in the inventory of Toolbelt (ID: 11719)
+[11/16/2024 16:13:57]
+  Rob Mcclure: I need to find deusizine or pomegrenade extract!
+[11/16/2024 16:14:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:00]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:14:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:01]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:14:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:03]
+  Liberator762 picked up Welding Tool
+[11/16/2024 16:14:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:03]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:14:03]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:14:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:04]
+  Liberator762 dropped Toolbelt
+[11/16/2024 16:14:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:14:05]
+  Liberator762 equipped Welding Tool
+[11/16/2024 16:14:07]
+  widjajajames equipped Screwdriver
+[11/16/2024 16:14:07]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:14:15]
+  Liberator762 unequipped Welding Tool
+[11/16/2024 16:14:18]
+  Liberator762 placed Toolbelt in the inventory of Large Steel Cabinet (ID: 243)
+[11/16/2024 16:14:21]
+  LaywithMind equipped Assault Rifle Magazine
+[11/16/2024 16:14:23]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:14:23]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:14:29]
+  LaywithMind removed Oxygen Tank from the inventory of Oxygen Tank Shelf (ID: 179)
+[11/16/2024 16:14:29]
+  LaywithMind placed Oxygen Tank in the inventory of Diving Suit (ID: 184)
+[11/16/2024 16:14:30]
+  Liberator762 placed Wrench in the inventory of Toolbelt (ID: 11719)
+[11/16/2024 16:14:31]
+  Liberator762 placed Screwdriver in the inventory of Toolbelt (ID: 11719)
+[11/16/2024 16:14:32]
+  widjajajames picked up Rifle Round
+[11/16/2024 16:14:33]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:14:33]
+  Raymon Fesler equipped Wrench
+[11/16/2024 16:14:35]
+  Raymon Fesler unequipped Wrench
+[11/16/2024 16:14:35]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:35]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:35]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:36]
+  widjajajames placed x4 Rifle Round in the inventory of Rifle (ID: 12317)
+[11/16/2024 16:14:36]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:36]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:36]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:36]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:37]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:37]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:39]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:39]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:39]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:39]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:40]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:40]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:40]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:40]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:41]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:41]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:41]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:41]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:42]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:42]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:43]
+  widjajajames picked up Rifle Round
+[11/16/2024 16:14:43]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:43]
+  Raymon Fesler equipped Screwdriver
+[11/16/2024 16:14:55]
+  Raymon Fesler unequipped Screwdriver
+[11/16/2024 16:14:55]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:55]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:55]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:56]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:56]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:57]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:57]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:57]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:57]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:58]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:58]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:58]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:58]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:59]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:59]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:14:59]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:14:59]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:00]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:00]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:00]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:00]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:01]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:01]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:01]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:01]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:02]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:02]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:02]
+  Raymon Fesler unequipped Crowbar
+[11/16/2024 16:15:02]
+  Raymon Fesler equipped Crowbar
+[11/16/2024 16:15:03]
+  Mission info: Coalition vessel eliminated - Navigate the submarine to Yasa Outpost to claim your reward.
+[11/16/2024 16:15:12]
+  LaywithMind placed Boarding Pod in the inventory of Depth Charge Loader (ID: 298)
+[11/16/2024 16:15:15]
+  Raymon Fesler has died (Cause of death: Bite wounds)
+[11/16/2024 16:15:16]
+  Ethel Radice: Need to find a diving suit!
+[11/16/2024 16:15:23]
+  Lynwood Simpson: I don't have the means to treat myself!
+[11/16/2024 16:15:23]
+  Ethel Radice: I don't have the means to treat myself!
+[11/16/2024 16:15:27]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:15:28]
+  Outer wall breached by Crawler
+[11/16/2024 16:15:30]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:15:32]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:32]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:32]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:33]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:33]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:34]
+  Tigerthresher has died (Cause of death: Gunshot wound)
+[11/16/2024 16:15:34]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:34]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:15:34]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:34]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:35]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:15:35]
+  Tigerthresher attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:15:36]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:15:39]
+  Inner wall breached by Crawler
+[11/16/2024 16:15:40]
+  widjajajames started repairing Navigation Terminal
+[11/16/2024 16:15:42]
+  Ethel Radice equipped Boarding Pod
+[11/16/2024 16:15:43]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:15:44]
+  widjajajames started repairing Navigation Terminal
+[11/16/2024 16:15:50]
+  Crawler attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:51]
+  Crawler attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:51]
+  Crawler has died (Cause of death: Gunshot wound)
+[11/16/2024 16:15:51]
+  Crawler attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3
+[11/16/2024 16:15:51]
+  Cryonite dropped Boarding Pod
+[11/16/2024 16:15:53]
+  Crawler attacked by LaywithMind. Gunshot wound: 25.0 Bleeding: 15.0 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:15:59]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:15:59]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:00]
+  Lynwood Simpson: I need diving gear!
+[11/16/2024 16:16:00]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:00]
+  Tigerthresher attacked by Liberator762. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:16:01]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:01]
+  Tigerthresher attacked by Liberator762. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:16:01]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:01]
+  Tigerthresher attacked by Liberator762. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:16:01]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:01]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:02]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:02]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:02]
+  Tigerthresher attacked by Liberator762. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:16:02]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:03]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:08]
+  Crawler has died (Cause of death: Lacerations)
+[11/16/2024 16:16:08]
+  Cryonite has died (Cause of death: Barotrauma)
+[11/16/2024 16:16:09]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:09]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:09]
+  Tigerthresher attacked by Liberator762. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:16:09]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:09]
+  Liberator762 launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:16:18]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:16:18]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:16:18]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:16:18]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:16:38]
+  Liberator762 dropped Welding Tool
+[11/16/2024 16:16:39]
+  Ethel Radice equipped Welding Tool
+[11/16/2024 16:16:56]
+  Liberator762 dropped Diving Suit
+[11/16/2024 16:16:57]
+  Crawler has died (Cause of death: Bite wounds)
+[11/16/2024 16:17:00]
+  Mila Shah equipped Diving Suit
+[11/16/2024 16:17:31]
+  Ethel Radice: This is going to be a rough ride.
+[11/16/2024 16:17:33]
+  widjajajames dropped Welding Tool
+[11/16/2024 16:17:36]
+  widjajajames placed Welding Fuel Tank in the inventory of Welding Tool (ID: 10644)
+[11/16/2024 16:17:50]
+  widjajajames equipped Welding Tool
+[11/16/2024 16:17:51]
+  Inner wall breached by Crawler
+[11/16/2024 16:17:52]
+  Rob Mcclure equipped Boarding Pod
+[11/16/2024 16:17:58]
+  Client "Cryonite" ended the round.

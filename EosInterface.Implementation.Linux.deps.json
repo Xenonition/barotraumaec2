@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0/linux-x64",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {},
+    ".NETCoreApp,Version=v6.0/linux-x64": {
+      "EosInterface.Implementation.Linux/1.0.0": {
+        "dependencies": {
+          "BarotraumaCore": "1.0.0",
+          "EosInterface": "1.0.0",
+          "Facepunch.Steamworks.Posix64": "2.3.4"
+        },
+        "runtime": {
+          "EosInterface.Implementation.Linux.dll": {}
+        }
+      },
+      "BarotraumaCore/1.0.0": {
+        "dependencies": {
+          "XNATypes": "1.0.0"
+        },
+        "runtime": {
+          "BarotraumaCore.dll": {}
+        }
+      },
+      "EosInterface/1.0.0": {
+        "dependencies": {
+          "BarotraumaCore": "1.0.0"
+        },
+        "runtime": {
+          "EosInterface.dll": {}
+        }
+      },
+      "Facepunch.Steamworks.Posix64/2.3.4": {
+        "runtime": {
+          "Facepunch.Steamworks.Posix64.dll": {}
+        }
+      },
+      "XNATypes/1.0.0": {
+        "runtime": {
+          "XNATypes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EosInterface.Implementation.Linux/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BarotraumaCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "EosInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facepunch.Steamworks.Posix64/2.3.4": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "XNATypes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

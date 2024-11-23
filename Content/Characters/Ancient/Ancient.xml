@@ -1,0 +1,26 @@
+﻿<Character visiblity="100" SpeciesName="Ancient" SpeciesTranslationOverride="" DisplayName="" Group="ancientalien" Humanoid="False" HasInfo="False" CanInteract="False" Husk="False" UseHuskAppendage="False" NeedsAir="False" NeedsWater="False" CanSpeak="False" ShowHealthBar="False" UseBossHealthBar="False" Noise="100" Visibility="100" BloodDecal="blood" BleedParticleAir="blooddrop" BleedParticleWater="waterblood" BleedParticleMultiplier="1" CanEat="False" EatingSpeed="5" UsePathFinding="False" PathFinderPriority="1" HideInSonar="False" HideInThermalGoggles="False" SonarDisruption="0" DistantSonarRange="0" DisableDistance="1000000" SoundInterval="10" DrawLast="False" AITurretPriority="0">
+  <ragdolls folder="default" />
+  <animations folder="default" />
+  <damageemitter particle="gib" drawontop="True" particleamount="10" velocitymin="50" velocitymax="300" anglemin="0" anglemax="360" scalemin="0.25" scalemax="0.5" emitinterval="0" particlespersecond="0" highqualitycollisiondetection="False" copyentityangle="False" />
+  <bloodemitter particle="blood" particleamount="10" anglemin="0" anglemax="0" scalemin="1" scalemax="1" velocitymin="0" velocitymax="0" emitinterval="0" particlespersecond="0" highqualitycollisiondetection="False" copyentityangle="False" />
+  <bloodemitter particle="waterblood" particleamount="1" anglemin="0" anglemax="0" scalemin="1" scalemax="1" velocitymin="0" velocitymax="0" emitinterval="0" particlespersecond="0" highqualitycollisiondetection="False" copyentityangle="False" />
+  <gibemitter particle="gib" particleamount="20" velocitymin="200" velocitymax="700" anglemin="0" anglemax="360" scalemin="1" scalemax="1" emitinterval="0" particlespersecond="0" highqualitycollisiondetection="False" copyentityangle="False" />
+  <gibemitter particle="heavygib" particleamount="5" velocitymin="50" velocitymax="500" anglemin="0" anglemax="360" scalemin="0.5" scalemax="0.8" emitinterval="0" particlespersecond="0" highqualitycollisiondetection="False" copyentityangle="False" />
+  <health Vitality="100" DoesBleed="True" CrushDepth="Infinity" UseHealthWindow="False" BleedingReduction="0.2" BurnReduction="0" ConstantHealthRegeneration="0" HealthRegenerationWhenEating="10" StunImmunity="False" PoisonImmunity="False" ApplyAfflictionColors="False"/>
+  <ai CombatStrength="0" Sight="10" Hearing="10" AggressionHurt="0" AggressionGreed="0" FleeHealthThreshold="99" AttackWhenProvoked="False" AvoidGunfire="False" DamageThreshold="0" AvoidTime="5" MinFleeTime="20" AggressiveBoarding="False" EnforceAggressiveBehaviorForMissions="False" TargetOuterWalls="True" RandomAttack="False" CanOpenDoors="False" UsePathFindingToGetInside="False" KeepDoorsClosed="False" AvoidAbyss="False" StayInAbyss="False" PatrolFlooded="False" PatrolDry="False" StartAggression="0" MaxAggression="0" AggressionCumulation="0" WallTargetingMethod="Target">
+    <target Tag="Jove" State="Attack" Priority="100" ReactDistance="0" AttackDistance="0" Timer="0" IgnoreContained="False" IgnoreInside="False" IgnoreOutside="False" IgnoreIfNotInSameSub="False" IgnoreIncapacitated="False" Threshold="0" ThresholdMin="-1" ThresholdMax="-1" Offset="0,0" AttackPattern="Circle" PrioritizeSubCenter="False" SweepDistance="0" SweepStrength="10" SweepSpeed="1" CircleStartDistance="1500" CircleRotationSpeed="0.6" CircleRandomRotationFactor="0" CircleStrikeDistanceMultiplier="0" CircleMaxRandomOffset="0" IgnoreTargetSize="True"/>
+    <SwarmBehavior mindistfromclosest="200" maxdistfromcenter="100000" cohesion="0" forceactive="true"/>
+  </ai>
+  <StatusEffect type="OnDamaged" target="this">
+    <AITrigger state="Escape" duration="0" allowtobeoverridden="false" allowtooverride="true" />
+  </StatusEffect>
+  <!-- Delayed death-->
+  <StatusEffect type="OnActive" target="this">
+    <Conditional HealthPercentage="lt 100"/>
+    <Affliction identifier="internaldamage" strength="0.5"/>
+  </StatusEffect>
+  <!--Remove the invisible body. Shouldn't be less than the dead color time defined in the limbs. -->
+  <StatusEffect type="OnDeath" target="This" delay="1">
+    <RemoveCharacter />
+  </StatusEffect>
+</Character>

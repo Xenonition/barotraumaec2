@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Turkish" nowhitespace="false" translatedname="Türkçe">
+
+
+<!-- Modified values -->
+<entityname.piratehelmet>Ayrılıkçı Kaskı</entityname.piratehelmet>
+<entitydescription.piratehelmet>Özelleştirilmiş balistik bir kask. Üzerinde yapılan kaba iyileştirmelere rağmen şaşırtıcı derecede sağlam görünüyor.</entitydescription.piratehelmet>
+<entityname.piratebodyarmor>Ayrılıkçı Vücut Zırhı</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>Jovian Ayrılıkçıları tarafından kısmen doğaçlama malzemelerden yapılmış bir vücut zırhı seti. Göründüğünden daha ağır.</entitydescription.piratebodyarmor>
+<entityname.piratecaptainhat>Ayrılıkçı Kaptan Şapkası</entityname.piratecaptainhat>
+<entityname.piratebandana>Ayrılıkçı Bandanası</entityname.piratebandana>
+<entityname.pirateclothes>Ayrılıkçı Kostümü</entityname.pirateclothes>
+<entitydescription.pirateclothes>Europa'da deniz yaşamının zorlu koşullarına dayanması için tasarlanmış, Jovian Ayrılıkçıları tarafından elle üretilmiş sağlam bir kıyafet. Bu özel kıyafet hafif zırh kaplamasıyla geliştirilmiş.</entitydescription.pirateclothes>
+<entityname.piratesubexterior>Ayrılıkçı Denizaltı Dış Kısmı</entityname.piratesubexterior>
+<entityname.piratesubdeco>Ayrılıkçı Denizaltı Dekorasyonu</entityname.piratesubdeco>
+<missionname.escort1>Koalisyon Personeli Nakli</missionname.escort1>
+<missiondescription.escort1>Koalisyon [location1] konumundan bir grup insanı işe aldı ve onların [location2] konumuna naklini istiyor. Hayatlarını tehlikeye atmamaya özen göster çünkü yalnızca hiçbiri ölmezse [reward] mark ödülünü almaya hak kazanacaksın.</missiondescription.escort1>
+<missiondescription.escort3>Yakalanan bir Ayrılıkçı grubunun [reward] mark ödül karşılığında [location2] konumuna nakledilmesi gerekiyor. Kaçmaya çalışabileceklerinden, bu mahkûmların yolculuk sırasında iyi korunduğundan emin ol. Hiçbirinin ölmesine izin verme.</missiondescription.escort3>
+<missionname.escort2>Koalisyon Resmi Personeli Nakli</missionname.escort2>
+<missiondescription.escort2>Çok önemli bir Koalisyon yetkilisinin ve silahlı refakatçilerinin [location2] konumuna nakledilmesi gerekiliyor. VIP için gereksiz bir risk oluşturmamaya özen göster, çünkü yalnızca hedef hayatta kaldığında [reward] mark ödülü almaya hak kazanacaksın.</missiondescription.escort2>
+<missionname.pirate1>Ayrılıkçı Gemisi</missionname.pirate1>
+<missiondescription.pirate1>Bu bölgede terör estiren Jovian Ayrılıkçı gemisini bul ve mürettebatını yok et. İşaretli yerler, geminin en son nerelerde görüldüğünü gösteriyor.</missiondescription.pirate1>
+<missionsuccess.pirate1>Ayrılıkçı gemisinin mürettebatı başarıyla ortadan kaldırıldı.</missionsuccess.pirate1>
+<missionfailure.pirate1>Ayrılıkçı gemisinin mürettebatı ortadan kaldırılmadı.</missionfailure.pirate1>
+<missionsonarlabel.pirate1>Ayrılıkçı tespiti</missionsonarlabel.pirate1>
+<missionheader0.pirate1>Ayrılıkçılar tespit edildi</missionheader0.pirate1>
+<missionheader1.pirate1>Ayrılıkçılar ortadan kaldırıldı</missionheader1.pirate1>
+<eventtext.missionevent_escort1.c1>“İş mi arıyorsun? Koalisyon üssümüzdeki bir grup taze kanı işe aldı ve onları yakındaki bir üsse atadı. Yolculuğu güvenle yapmalarını sağla ve paranı al.”</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort2.c1>“Üst kademe Koalisyon yetkilileriyle aranı yapmak istiyorsan senin için çok iyi bir fırsatım var. Üst düzey bir Koalisyon yetkilisi ve onun silahlı refakatçileri üssümüzü ziyarete geldiler ve şimdi kendilerini yakındaki bir üsse götürecek bir araç arıyorlar. Güvenle gitmelerini sağlarsan mark kazanabilirsin.”</eventtext.missionevent_escort2.c1>
+<eventtext.missionevent_escort3.c1>"Kısa bir süre önce birkaç Ayrılıkçı yakaladık ve onları yakındaki bir üsse götürecek birini arıyoruz. Bana kalsa onları hava kilidinden dışarı atardım ama görünüşe göre Koalisyon yetkilileri onları sorgulamak istiyorlar. Taşıyıcılık yapman için sana iyi para ödenecek ancak yakından korunmaları gerektiklerini unutma.”</eventtext.missionevent_escort3.c1>
+<eventtext.missionevent_escort4.c1>“Ayrılıkçı teröristlerin bir sonraki nakliye gemisine binmek isteyen masum sivillerin arasına sızdığına inanıyoruz. Gemini bu nakliye aracıymış gibi lanse edersen teröristleri açığa çıkarıp alıkoyabilirsin. Sadece sivillerin hayatta kalmasını sağla yeter.”</eventtext.missionevent_escort4.c1>
+<missiondescription.cargocompoundn>Jovian Ayrılıkçıları, [location2] konumundaki bir grup ajana yüksek patlayıcı sevkiyatı teslim etme karşılığında [reward] mark teklif ediyorlar.</missiondescription.cargocompoundn>
+<lockedpathtooltipcoalitionreputation>Geçiş yolu kapatıldı. Daha ileriye gidebilmek için ‖color:faction.coalition‖Europa Koalisyonundaki‖end‖ itibarın [requiredreputation] seviyesinde olmalı ve üs içerisindeki bir yetkiliden izin almalısın. İtibar seviyeni bilgi sekmesinden takip edebilirsin.\n\nMevcut itibarın: [currentreputation]</lockedpathtooltipcoalitionreputation>
+
+<!-- New values -->
+<missionname.separatistattack1>Ayrılıkçı Pususu</missionname.separatistattack1>
+<missionheader0.separatistattack1>Gelen mesaj</missionheader0.separatistattack1>
+<missionmessage0.separatistattack1>"Bu geçit Jovian Ayrılıkçılar tarafından geri alındı. Derhâl rotanızı geri çevirin yoksa siz faşistlerin buradan canlı çıkmaması için elimizden geleni ardımıza koymayacağız.”</missionmessage0.separatistattack1>
+<missionname.coalitionattack1>Koalisyon Pususu</missionname.coalitionattack1>
+<missionheader0.coalitionattack1>Gelen mesaj</missionheader0.coalitionattack1>
+<missionmessage0.coalitionattack1>“Yolun sonu hainler! Koalisyona yapılan ihanetin bedeli ölümdür!”</missionmessage0.coalitionattack1>
+<missionname.escort1separatists>Ayrılıkçı Nakli</missionname.escort1separatists>
+<missiondescription.escort1separatists>Önemli bir görevde olan bir grup Jovian Ayrılıkçısının [location2] konumuna nakledilmesi gerekiyor. Her birinin varış noktasına zarar görmeden ulaşması gerekiyor. [reward] mark ödülünü yalnızca hiçbiri ölmezse alacaksın.</missiondescription.escort1separatists>
+<missionname.escort2separatists>Aktivist Ayrılıkçı Nakli</missionname.escort2separatists>
+<missiondescription.escort2separatists>Jovian Ayrılıkçılarından etkili bir aktivistin silahlı refakatçileriyle birlikte [location2] konumuna nakledilmesi gerek. VIP için gereksiz bir risk oluşturmamaya özen göster, çünkü [reward] marka yalnızca hedef hayatta kalırsa hak kazanacaksın.</missiondescription.escort2separatists>
+<missionname.escort3separatists>Tutsak Nakli</missionname.escort3separatists>
+<missiondescription.escort3separatists>Jovian Ayrılıkçıları, yakalanan bir grup Koalisyon personelini [location2] konumuna nakleden kişilere [reward] mark değerinde bir ödül teklif ediyor. Kaçma ihtimallerine karşı yolculuk sırasında gözün üzerlerinde olsun. Hiçbirinin ölmesine izin verme.</missiondescription.escort3separatists>
+<missionname.escort4separatists>Karşı Gözetleme</missionname.escort4separatists>
+<missiondescription.escort4separatists>Koalisyon ajanlarının bölgede Ayrılıkçı faaliyetleri gözetlediğine dair raporlar var. Bazıları, masum yolcuların arasında gemine gizlice girmeye çalışabilir. Masum sivillerin [location2] konumuna canlı ulaşmasını sağla ve kendilerini açık eden tüm hedefleri öldür ki [reward] marklık ödüle hak kazan.</missiondescription.escort4separatists>
+<missionsuccess.escort4separatists>Personel nakli başarılı oldu ve Koalisyon ajanlarının icabına bakıldı.</missionsuccess.escort4separatists>
+<missionfailure.escort4separatists>Personel nakli başarısız oldu veya Koalisyon ajanları etkisiz hâle getirilemedi.</missionfailure.escort4separatists>
+<missionheader1.escort4separatists>Koalisyon ajanları etkisiz hâle getirildi</missionheader1.escort4separatists>
+<missionmessage1.escort4separatists>Görünüşe göre son gizli ajan da etkisiz hâle getirildi. Ödülünü almak için denizaltıyla [location2] konumuna git.</missionmessage1.escort4separatists>
+<eventtext.missionevent_escort1separatists.c1>"Kendilerini yakınlardaki bir üsse götürecek bir araç arayan bir grup Jovian aktivisti var. Tüm detayları anlatmasam daha iyi olur ama önemli bir görevde olduklarını bilsen yeter. Eğer iyi bir amaç uğruna bir şeyler yapmak istiyorsan onlara eşlik edip emeğinin karşılığını alabilirsin.”</eventtext.missionevent_escort1separatists.c1>
+<eventtext.missionevent_escort2separatists.c1>“Koalisyon faşistlerine karşı mücadelemize katkıda bulunmak istiyorsan sana bir görevimiz var. Davamız için çok önemi olan bir aktivist, kendisini silahlı korumalarıyla birlikte yakındaki bir üsse götürecek birini arıyor. Onları güvenli bir şekilde oraya götürürsen, harcadığın zamanın karşılığını aldığından emin oluruz.”</eventtext.missionevent_escort2separatists.c1>
+<eventtext.missionevent_escort3separatists.c1>"Geçenlerde bir Koalisyon saldırı denizaltısıyla küçük bir sorun yaşadık ve uzun lafın kısası, hayatta kalan mürettebatı hücremize kilitledik. Bir süre konuştuktan sonra, onları bir sonraki üsse taşımamız gerektiğine karar verdik. Birkaç mark karşılığında onları oraya götürmeye istekliysen buyur ama gözlerin üzerlerinde olsun.”</eventtext.missionevent_escort3separatists.c1>
+<eventtext.missionevent_escort4separatists.c1>"Kaynaklarımıza göre Koalisyon, bölgedeki Ayrılıkçı faaliyetleri araştırmak için birkaç gizli ajan görevlendirmiş. İçlerinden bazılarının bir sonraki nakliye gemisine masum sivil kılığında girmeye çalışacağına dair sağlam bulgularımız var. Söz konusu nakliye aracıymış gibi davranarak, ajanları açığa çıkarabilir ve onları alıkoyabilirsin. Sivillere zarar gelmesini önle yeter.”</eventtext.missionevent_escort4separatists.c1>
+<missionname.escort1huskcult>Tarikatçı Nakli</missionname.escort1huskcult>
+<missiondescription.escort1huskcult>Kabuk Kilisesi, bir grup üyenin [location2] konumuna nakli için [reward] mark değerinde bir ödül teklif etti. Bazılarının vaktinden erken bir şekilde "komünyon" oluşturup soğuk denizlere kaçmayı planladıklarına dair şüphelerimiz var. Kilise senden onlara göz kulak olmanı ve insan formlarını korumuş bir şekilde [location2] konumuna getirilmelerini istedi.</missiondescription.escort1huskcult>
+<EventText.missionevent_escort1huskcult.c1>"Pişt! İş mi arıyorsun? Birkaç tarikat üyesi yakındaki üsse gitmek için bir ulaşım aracı arıyor. Yine de uyarayım; onlara henüz buna hazır olmadıklarını açıkça belirtmemize rağmen, kendi "komünyonlarını" planlıyor olabileceklerinden şüpheleniyorum. Bu yüzden onlara göz kulak olmalı ve gemide aptalca bir şey yapmadıklarından emin olmalısın.”</EventText.missionevent_escort1huskcult.c1>
+<eventtext.missionevent_cargohuskcult>“İş mi arıyorsun? Biraz işimiz var. Komşu üste ihtiyaç duyulan araştırma materyalleri diyelim. Onları oraya götür, soru sorma, paranı al.”</eventtext.missionevent_cargohuskcult>
+<missionname.huskcultspecialassassinate>Sessizliğin Bekçisi</missionname.huskcultspecialassassinate>
+<missiondescription.huskcultspecialassassinate>Kilise, bir Koalisyon ajanının Kilise faaliyetlerini araştırdığını fark etti. Ajan Kilise'nin işleri o denli burnunu sokmuş durumda ki artık kalıcı olarak susturulmasının vakti geldi. [location1] konumuna git ve olabildiğince sessiz bir şekilde ajanı etkisiz hâle getir.</missiondescription.huskcultspecialassassinate>
+<missionsuccess.huskcultspecialassassinate>Hedef öldürüldü ve Kilise sırları artık güvende.</missionsuccess.huskcultspecialassassinate>
+<missionfailure.huskcultspecialassassinate>Hedef hâlâ hayatta. En kısa sürede icabına bakılmalı.</missionfailure.huskcultspecialassassinate>
+<missionname.huskcultrescuesubra>Subra'yı Kurtarmak</missionname.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Kabuk Kilisesi'nin "Baş Organizatörü" Jacov Subra [location1] konumunda yetkililerden saklanıyor. Kilise onun kellesine konan ödülü almak isteyen grubun kendisinin bulunduğu yeri çözdüğüne dair bulgular edinmiş. [location1] konumuna git ve onu başkası ele geçirmeden gemine al.</missiondescription.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Jacov Subra, sağ salim gemiye bindi. Onu sonraki konuma götürüp bir Ecclesiast'a kurtarma görevinin başarılı olduğunu söyle.</missionsuccess.huskcultrescuesubra>
+<missionfailure.huskcultrescuesubra>Jacov Subra hâlen [location1] konumunda bulunuyor ve en kısa zamanda kurtarılması gerekiyor.</missionfailure.huskcultrescuesubra>
+<missionname.escort1clowns>Palyaço Nakli</missionname.escort1clowns>
+<missiondescription.escort1clowns>Bir grup palyaço, [location2] konumuna ulaşmak için [reward] mark ödemeyi teklif etti. Biraz kural tanımaz olabilecekleri veya en azından denizaltıya alışık olmadıkları konusunda uyarıldınız.</missiondescription.escort1clowns>
+<EventText.missionevent_escort1clowns.c1>"Hop! Fazladan birkaç yolcu için yerin var mı? Arkadaşlarım yandaki üsse gitmek için ulaşım arıyorlar ve ödeme yapmaya da hazırlar.” Palyaço alçak seste konuşmaya başladı. "Onlara göz kulak olmak isteyebilirsin. Anlarsın ya, kafalarında birkaç tahta eksik ve daha önce hiçbir denizaltıya binmediler. Bu durumla nasıl başa çıkacaklarını bilmiyorum.”</EventText.missionevent_escort1clowns.c1>
+<missionname.gotoclownhaven>Nihai Şaka</missionname.gotoclownhaven>
+<missiondescription.gotoclownhaven>Kornaanne'nin Çocukları, eskiden kendilerine ait olan bir üssü geri alman için seni görevlendirdi. Planları, üssün içinde bulunanları oradan çıkana kadar rahatsız etmek. Göreve yardımcı olması için sana özel bir exokıyafeti verildi.</missiondescription.gotoclownhaven>
+<missionsuccess.gotoclownhaven>Plan işe yaramış gibi görünüyor: üsteki insanlar yılmış ve artık üssü palyaçolara bırakmaya karar vermiş gibi görünüyor.</missionsuccess.gotoclownhaven>
+<eventtext.missionevent_pirate1separatists.c1>“Bir Koalisyon gemisi bir süredir üssümüz etrafındaki sularda devriye geziyor, gelen yük sevkiyatlarına el koyuyor ve gemilerimizi taciz ediyor. Şimdiye kadar durumu daha fazla tırmandırmaktan kaçındık ama artık malzeme kıtlığı çekiyoruz. Bize yardım edip o gemiyi indirmeyi kabul edersen, bu üssümüz ve Ayrılıkçıların davası için büyük bir iyilik olur. Elbette bunun için bir ödeme yapmaktan çok mutlu oluruz.”</eventtext.missionevent_pirate1separatists.c1>
+<EventText.missionevent_cargocompoundn.c1>"Koalisyona karşı mücadelemizde bize yardım etmeye istekliysen, sana bir teklifim var. Yan üste görevleri için patlayıcı isteyen birkaç ajanımız var. Patlayıcıları sağlam bir şekilde oraya götür, biz de harcadığın zamanın karşılığını verelim.</EventText.missionevent_cargocompoundn.c1>
+<missionname.cargoweaponscoalition>Silah Teslimatı</missionname.cargoweaponscoalition>
+<missiondescription.cargoweaponscoalition>Koalisyon, [location2] konumundaki Ayrılıkçı faaliyetlerini araştırmak için birkaç gizli ajan gönderdi. Ajanların acil olarak silah ve cephaneye ihtiyaçları var; teslimatı yap ve [reward] marklık ödemeyi al.</missiondescription.cargoweaponscoalition>
+<missionsuccess.cargoweaponscoalition>Silahlar başarıyla teslim edildi.</missionsuccess.cargoweaponscoalition>
+<EventText.missionevent_cargoweaponscoalition.c1>"Sana verebileceğim önemli bir iş var. Koalisyonun komşu üsteki Ayrılıkçı faaliyetleri araştıran birkaç gizli ajanı var. Ayrıntılara girmesem daha iyi olur ama onlara biraz silah ve cephane sağlanması gerekiyor. Teslimatı gerçekleştirirsen Koalisyon için büyük bir iyilik yapmış olursun ve tabii mark olarak karşılığını da alırsın.”</EventText.missionevent_cargoweaponscoalition.c1>
+<missionname.pirate1separatists>Koalisyon Gemisi</missionname.pirate1separatists>
+<missiondescription.pirate1separatists>Bu bölgede terör estiren Koalisyon gemisini bul ve mürettebatını ortadan kaldır. İşaretli yerler, geminin en son nerede görüldüğünü gösterir.</missiondescription.pirate1separatists>
+<missionsuccess.pirate1separatists>Koalisyon gemisinin mürettebatı başarıyla ortadan kaldırıldı.</missionsuccess.pirate1separatists>
+<missionfailure.pirate1separatists>Koalisyon gemisi mürettebatının icabına bakılamadı.</missionfailure.pirate1separatists>
+<missionsonarlabel.pirate1separatists>Koalisyon Gemisi Tespiti</missionsonarlabel.pirate1separatists>
+<missionheader0.pirate1separatists>Koalisyon gemisi tespit edildi</missionheader0.pirate1separatists>
+<missionmessage0.pirate1separatists>Mürettebatı etkisiz hâle getir veya denizaltını denizin dibine batır!</missionmessage0.pirate1separatists>
+<missionheader1.pirate1separatists>Koalisyon gemisi ortadan kaldırıldı</missionheader1.pirate1separatists>
+<missionmessage1.pirate1separatists>Ödülünü almak için denizaltıyla [location2] konumuna git.</missionmessage1.pirate1separatists>
+<missionname.tormsdalereport>Tormsdale Raporu</missionname.tormsdalereport>
+<missiondescription.tormsdalereport>Jovian Ayrılıkçıları seni, Ayrılıkçıların siyasi muhalefetlerini ortadan kaldırmak için Koalisyon tarafından düzenlendiğine inandıkları sözde "Tormsdale Olayı"nın gizli bir raporunu bulmanla görevlendirdi.</missiondescription.tormsdalereport>
+<missionsuccess.tormsdalereport>Belgeler başarıyla elde edildi.</missionsuccess.tormsdalereport>
+<missionfailure.tormsdalereport>Belgeler elde edilemedi.</missionfailure.tormsdalereport>
+<missionmessage0.tormsdalereport>Tormsdale olayıyla ilgili belgeleri buldun. Ayrılıkçı kontrolündeki bir üsse teslim edilmeleri gerekiyor.</missionmessage0.tormsdalereport>
+<entityname.tormsdalereport>Tormsdale Raporu</entityname.tormsdalereport>
+<entitydescription.tormsdalereport>Gizli bilgiler içeriyor gibi görünen mühürlü bir manila zarfı.</entitydescription.tormsdalereport>
+<missionname.jailbreak>Firar</missionname.jailbreak>
+<missiondescription.jailbreak_separatists>Jovian Ayrılıkçıları, Koalisyon tarafından esir tutulan birkaç ajanı serbest bırakman için seni görevlendirdi.</missiondescription.jailbreak_separatists>
+<missiondescription.jailbreak_coalition>Europa Koalisyonu, Jovian Ayrılıkçıları tarafından tutsak edilen birkaç ajanı serbest bırakman için seni görevlendirdi.</missiondescription.jailbreak_coalition>
+<missiondescription.jailbreak_sootman>Jovian Ayrılıkçıları, Koalisyon tarafından esir tutulan yüksek profilli bir ajanı serbest bırakman için seni görevlendirdi.</missiondescription.jailbreak_sootman>
+<missionsuccess.jailbreak>Mahkûmlar kurtarıldı.</missionsuccess.jailbreak>
+<missionfailure.jailbreak>Mahkûmlar kurtarılamadı.</missionfailure.jailbreak>
+<missionsuccess.jailbreak_singletarget>Mahkûm kurtarıldı.</missionsuccess.jailbreak_singletarget>
+<missionfailure.jailbreak_singletarget>Mahkûm kurtarılamadı.</missionfailure.jailbreak_singletarget>
+<missionheader0.prisonerrescue>Mahkûmlar kurtarıldı.</missionheader0.prisonerrescue>
+<missionmessage0.prisonerrescue>Mahkûmlar artık güvenli bir şekilde denizaltındalar. Görevi tamamlamak için üsten ayrıl.</missionmessage0.prisonerrescue>
+<missionheader0.prisonerrescue_singletarget>Mahkûm kurtarıldı.</missionheader0.prisonerrescue_singletarget>
+<missionmessage0.prisonerrescue_singletarget>Mahkûm artık güvenli bir şekilde denizaltında. Görevi tamamlamak için üsten ayrıl.</missionmessage0.prisonerrescue_singletarget>
+<prisonerkilled>Görev başarısız oldu; mahkûmlardan biri öldü.</prisonerkilled>
+<dialogundercoverannounce>Bu gemiye Europa Koalisyonu tarafından el konulmuştur!</dialogundercoverannounce>
+<dialogundercoverannounce>Koalisyona ihanetin bedeli ölümdür!</dialogundercoverannounce>
+<dialogundercoverannounce>Siz terörist pisliklerin buradan canlı çıkmasına izin vermeyeceğiz!</dialogundercoverannounce>
+<dialogundercoverannounce>Ayrılıkçılarla komplo kurduğunu biliyoruz! Yolun sonuna geldiniz.</dialogundercoverannounce>
+<dialogundercoverannounce>Yaşasın Koalisyon!</dialogundercoverannounce>
+<label.securespecimenenclosure>Güvenli Numune Muhafazası</label.securespecimenenclosure>
+<faction>Taraf</faction>
+<locationchange.none.changeto.outpost.separatists>Bir grup ‖color:faction.separatists‖Jovian Ayrılıkçıları‖, [previousname] bölgesini ele geçirdi ve yeni bir üs kurdu.</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>Bir ‖color:faction.coalition‖Koalisyon‖end‖ kuvveti [previousname] bölgesini ele geçirdi ve yeni bir üs kurdu.</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>Bir grup militan ‖color:faction.separatists‖Ayrılıkçılar‖end‖ [previousname] bölgesine yerleşip bölge içindeki askeri etkinliklerini güçlendirdi.</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>Bir ‖color:faction.coalition‖Koalisyon‖end‖ gücü [previousname] bölgesine yerleşip bölge içindeki askeri etkinliklerini güçlendirdi.</locationchange.outpost.changeto.military.coalition>
+<locationchange.military.changeto.city.separatists>[previousname] bölgesindeki komutan yönetici olarak seçilip [name] bölgesini resmi bir şehir hâline getirdi.</locationchange.military.changeto.city.separatists>
+<locationchange.military.changeto.city.coalition>[previousname] bölgesindeki sivil halk [name] bölgesini bir şehir hâline getirecek kadar büyüdü.</locationchange.military.changeto.city.coalition>
+<locationchange.outpost.changeto.mine.separatists>‖color:faction.separatists‖Jovian Ayrılıkçıları‖end‖ [previousname] bölgesinde kazı faaliyetlerine başladı.</locationchange.outpost.changeto.mine.separatists>
+<locationchange.outpost.changeto.mine.coalition>‖color:faction.coalition‖Koalisyon‖end‖ [previousname] bölgesinde kazı faaliyetlerine başladı.</locationchange.outpost.changeto.mine.coalition>
+<locationchange.outpost.changeto.research.separatists>Bir grup serbest araştırmacı, [previousname] bölgesini ‖color:faction.separatists‖Ayrılıkçılar‖end‖ tarafından desteklenen bağımsız bir araştırma istasyonuna dönüştürdü.</locationchange.outpost.changeto.research.separatists>
+<locationchange.outpost.changeto.research.coalition>Bir grup serbest araştırmacı, [previousname] bölgesini ‖color:faction.coalition‖Koalisyon‖end‖ tarafından desteklenen bağımsız bir araştırma istasyonuna dönüştürdü.</locationchange.outpost.changeto.research.coalition>
+<location.clownhaven>Palyaçı Cenneti</location.clownhaven>
+<breakingnews>FLAŞ HABER</breakingnews>
+<randomnews1>Bu haftaki Jovian radyasyon tahminleri acımasız olmaya devam ediyor</randomnews1>
+<randomnews2>Gemi palyaçoları, işyeri ortamındaki gerginliklerin ve kavgaların arttığını söylüyor.</randomnews2>
+<randomnews3>Koalisyon yetkilileri, yasalara saygılı tüm vatandaşlara, Ayrılıkçı bağlantılı üslere yasa dışı materyal satmanın suç teşkil ettiğini hatırlatır.</randomnews3>
+<randomnews4>Bilim insanları Europa'nın Merkezi üzerine yaptıkları araştırmaların devam edebilmesi için daha fazla kaynak talep ediyor</randomnews4>
+<randomnews5>Europa'nın Merkezine doğru yapılan dalış hızla devam ediyor</randomnews5>
+<randomnews6>Bitiren Solucan sayılarında artış tespit edildi</randomnews6>
+<randomnews7>Kabuk Kilisesi'nin Kaliksanit kıtlığında parmağı olduğundan şüpheleniliyor</randomnews7>
+<randomnews8>Dunsomin sektöründeki bir yerleşim yeriyle olan temasımızı kaybettik</randomnews8>
+<randomnews9>Konut fiyatları artıyor, yıl sonuna kadar rekor seviyeye ulaşacak</randomnews9>
+<randomnews10>Subra hâlâ serbest. Kendisinin garip, silahlı ve tehlikeli olduğu düşünülüyor</randomnews10>
+<randomnews11>Winterhalter denizaltısı yangın sebebiyle battı. Sekiz kişilik mürettebatın yası ailesi ve arkadaşları tarafından tutuluyor</randomnews11>
+<randomnews12>Honkecoin 0.0001 markın altına düştü</randomnews12>
+<randomnews13>Fireball Ford, Dunwice karşılaşmasında birinci sırayı aldı</randomnews13>
+<randomnews14>İnsanlar Europa'nın ilk sakinleri değil. Bilim insanları: "Hadi canım!"</randomnews14>
+<randomnews15>Kabuk yumurtaları: Görünen o ki sağlığa bir faydaları yok. Araştırmalar öyle diyor</randomnews15>
+<randomnews16>Haberciler Meltwater'da kayboldu. "The Europan" araştırıyor</randomnews16>
+<randomnews17>Koalisyon başkanı koltuğunda ezici seçim zaferi</randomnews17>
+<randomnews18>Halk arasında test konusunda kafa karışıklığı: Pozitif sonuç istenmiyor</randomnews18>
+<randomnews19>Stomburn'de tuhaf oymalı taşlar yüzeye çıkıyor. Araştırmacılar "ele sıcak geliyorlar" diyor</randomnews19>
+<randomnews20>Su haşhaşının içilmesinin sağlıklı olmadığı söyleniyor. Sağlık yetkilileri "Tadı yakın ama bir sigara değil" diyor</randomnews20>
+<randomnews21>Radyasyonlu böcek sosisleri konusunda EHO uyarıyor</randomnews21>
+<randomnews22>Mühendislik en popüler meslek olarak tamirciliği geride bıraktı, rahiplik en az arzu edilen meslek olmaya devam ediyor</randomnews22>
+<randomnews23>Başlık yazarı yalnızlıktan ölüyor</randomnews23>
+<randomnews24>Küresel ısınma artık Europalıların çoğu için endişe kaynağı değil</randomnews24>
+<randomnews25>Yerli çocuklar tarafından yapılan bir eşek şakası Dünya'dan gelen yeni bir iletişim şekli sanıldı</randomnews25>
+<randomnews26>Dünya'dan hâlâ ses yok</randomnews26>
+<randomnews27>"Doris Teyze ile Sağlıklı Yemekler"in 17. sezonu onaylandı</randomnews27>
+<randomnews28>"Doris Teyze" yiyecek kiosku gıda güvenliği ihlali ile suçlandı</randomnews28>
+<randomnews29>Koalisyon, "Sootman" olarak bilinen gizemli teröristin başına ödül koydu</randomnews29>
+<randomnews30>Koalisyon tersanesi bir yangında kül oldu. Güvenlik, maskeli terörist "Sootman"ı suçluyor</randomnews30>
+<randomnews31>Deepflix'te Bu Akşam: Sootman-Maskeli Hainin Efsanesi</randomnews31>
+<randomnews32>Kabul tarikatının lideri Jacov Subra hâlâ serbest</randomnews32>
+<randomnews33>Ignatius May'in İçişleri Kaptanı olarak yeniden seçilmesiyle adam kayırmacılık suçlamaları artıyor</randomnews33>
+<randomnews34>Jüpiter'e tapınma ve doğrusal olmayan uzay ve zaman kavramları: Kriptanaliz, eski uzaylıların kültürüne yeni bir ışık tutuyor</randomnews34>
+<npctitle.merchantclown>Palyaço Tüccarı</npctitle.merchantclown>
+<npctitle.merchanthusk>Tarikat Tüccarı</npctitle.merchanthusk>
+<npctitle.huskcultecclesiast>Din Adamı</npctitle.huskcultecclesiast>
+<npctitle.coalitionspy>Koalisyon Ajanı</npctitle.coalitionspy>
+<npctitle.separatistcaptain>Ayrılıkçı Kaptanı</npctitle.separatistcaptain>
+<npctitle.separatistcaptainlord>Ayrılıkçı Amirali</npctitle.separatistcaptainlord>
+<npctitle.separatistsecurityrecruit>Ayrılıkçı Çaylağı</npctitle.separatistsecurityrecruit>
+<npctitle.separatistsecuritygunner>Ayrılıkçı Topçusu</npctitle.separatistsecuritygunner>
+<npctitle.separatistsecuritybrute>Ayrılıkçı Zalimi</npctitle.separatistsecuritybrute>
+<npctitle.separatistsecurityelite>Elit Ayrılıkçı</npctitle.separatistsecurityelite>
+<npctitle.separatistmechanicrecruit>Ayrılıkçı Tamircisi</npctitle.separatistmechanicrecruit>
+<npctitle.separatistmechanicveteran>Kıdemli Ayrılıkçı Tamircisi</npctitle.separatistmechanicveteran>
+<npctitle.separatistengineerrecruit>Ayrılıkçı Mühendisi</npctitle.separatistengineerrecruit>
+<npctitle.separatistengineerveteran>Kıdemli Ayrılıkçı Mühendisi</npctitle.separatistengineerveteran>
+<npctitle.coalitioncaptain>Koalisyon Kaptanı</npctitle.coalitioncaptain>
+<npctitle.coalitioncaptainlord>Koalisyon Amirali</npctitle.coalitioncaptainlord>
+<npctitle.coalitionsecurityrecruit>Koalisyon Çaylağı</npctitle.coalitionsecurityrecruit>
+<npctitle.coalitionsecuritygunner>Koalisyon Topçusu</npctitle.coalitionsecuritygunner>
+<npctitle.coalitionsecuritybrute>Koalisyon Onbaşı Askeri</npctitle.coalitionsecuritybrute>
+<npctitle.coalitionsecurityelite>Koalisyon Teğmeni</npctitle.coalitionsecurityelite>
+<npctitle.coalitionmechanicrecruit>Koalisyon Tamircisi</npctitle.coalitionmechanicrecruit>
+<npctitle.coalitionmechanicveteran>Kıdemli Koalisyon Tamircisi</npctitle.coalitionmechanicveteran>
+<npctitle.coalitionengineerrecruit>Koalisyon Mühendisi</npctitle.coalitionengineerrecruit>
+<npctitle.coalitionengineerveteran>Kıdemli Koalisyon Mühendisi</npctitle.coalitionengineerveteran>
+<npctitle.hireablecoalitionsecurityofficer>Koalisyon Onbaşı Askeri</npctitle.hireablecoalitionsecurityofficer>
+<npctitle.hireablecoalitionsecurityofficerveteran>Koalisyon Teğmeni</npctitle.hireablecoalitionsecurityofficerveteran>
+<npctitle.hireablecoalitionmechanic>Koalisyon Tamircisi</npctitle.hireablecoalitionmechanic>
+<npctitle.hireablecoalitionmechanicveteran>Kıdemli Koalisyon Tamircisi</npctitle.hireablecoalitionmechanicveteran>
+<npctitle.hireablecoalitionengineer>Koalisyon Mühendisi</npctitle.hireablecoalitionengineer>
+<npctitle.hireablecoalitionengineerveteran>Kıdemli Koalisyon Mühendisi</npctitle.hireablecoalitionengineerveteran>
+<npctitle.hireablecoalitionmedic>Koalisyon Doktoru</npctitle.hireablecoalitionmedic>
+<npctitle.hireablecoalitionmedicveteran>Kıdemli Koalisyon Doktoru</npctitle.hireablecoalitionmedicveteran>
+<npctitle.hireableseparatistsecurityofficer>Ayrılıkçı Onbaşı Askeri</npctitle.hireableseparatistsecurityofficer>
+<npctitle.hireableseparatistsecurityofficerveteran>Ayrılıkçı Teğmeni</npctitle.hireableseparatistsecurityofficerveteran>
+<npctitle.hireableseparatistmechanic>Ayrılıkçı Tamircisi</npctitle.hireableseparatistmechanic>
+<npctitle.hireableseparatistmechanicveteran>Kıdemli Ayrılıkçı Tamircisi</npctitle.hireableseparatistmechanicveteran>
+<npctitle.hireableseparatistengineer>Ayrılıkçı Mühendisi</npctitle.hireableseparatistengineer>
+<npctitle.hireableseparatistengineerveteran>Kıdemli Ayrılıkçı Mühendisi</npctitle.hireableseparatistengineerveteran>
+<npctitle.hireableseparatistmedic>Ayrılıkçı Doktoru</npctitle.hireableseparatistmedic>
+<npctitle.hireableseparatistmedicveteran>Kıdemli Ayrılıkçı Doktoru</npctitle.hireableseparatistmedicveteran>
+<entityname.op_husktable>Otopsi Masası</entityname.op_husktable>
+<entityname.op_huskscribble>Okült saçmalıkları</entityname.op_huskscribble>
+<entityname.op_huskstatue1>Okült Heykeli</entityname.op_huskstatue1>
+<entityname.op_huskgraffiti>Okült Sembolü</entityname.op_huskgraffiti>
+<entityname.op_husklabel>Yazı Yok</entityname.op_husklabel>
+<entityname.op_husklabel1>Soluk İsim Künyesi</entityname.op_husklabel1>
+<entityname.op_huskbody>Bebek Cesedi</entityname.op_huskbody>
+<entityname.op_humantank>Deney Tankı</entityname.op_humantank>
+<entityname.op_huskincubator>Bebek Kuvözü</entityname.op_huskincubator>
+<entityname.op_huskphoto1>Belirsiz Resim</entityname.op_huskphoto1>
+<entityname.op_huskcloak>Tarikatçı Pelerini</entityname.op_huskcloak>
+<entityname.op_huskstroller1>Bebek Arabası</entityname.op_huskstroller1>
+<entityname.op_huskposter1>İlaç Posteri</entityname.op_huskposter1>
+<entityname.op_husksign>Karton İşaret</entityname.op_husksign>
+<entityname.op_sepsandbag>Ayrılıkçı Dekorasyonu</entityname.op_sepsandbag>
+<entityname.op_clowncurtain2>Dekoratif Perde</entityname.op_clowncurtain2>
+<entityname.op_clownmannequin1>Manken</entityname.op_clownmannequin1>
+<entityname.op_clownjukebox>Müzik Kutusu</entityname.op_clownjukebox>
+<entityname.op_clowninstrument1>Çello</entityname.op_clowninstrument1>
+<entityname.op_clownball1>Balon</entityname.op_clownball1>
+<entityname.op_clownmic>Sahne Mikrofonu</entityname.op_clownmic>
+<entityname.op_clownsign1>Tiyatro Tabelası</entityname.op_clownsign1>
+<entityname.op_clownmask2>Dekoratif Maske</entityname.op_clownmask2>
+<entityname.op_clownshow1>Gösteri Pankartı</entityname.op_clownshow1>
+<entityname.op_clownmarquee>Afiş</entityname.op_clownmarquee>
+<entityname.op_clowninstrument2>Davuk Seti</entityname.op_clowninstrument2>
+<entityname.op_clownfence>Tiyatro Çiti</entityname.op_clownfence>
+<entityname.op_clownball2>Dev Top</entityname.op_clownball2>
+<entityname.op_clownposter1>Reklam Afişi</entityname.op_clownposter1>
+<entityname.banana>Muz</entityname.banana>
+<entitydescription.banana>Dünya kökenli egzotik bir meyve. Oldukça lezzetli ve potasyum açısından zengin.</entitydescription.banana>
+<entityname.bananapeel>Muz Kabuğu</entityname.bananapeel>
+<entitydescription.bananapeel>Potasyum açısından zengin. Yerde bırakılırsa güvenlik tehlikesi oluşturabilir.</entitydescription.bananapeel>
+<entityname.cymbals>Dementonit Ziller</entityname.cymbals>
+<entitydescription.cymbals>Kornaanne meditasyon uygulamalarında kullanılan bir çift zil. Dementonit'in benzersiz akustik özellikleri, zillere çok belirgin ve müstehcen şekilde yüksek bir ses verir ve bu, deneyimsiz kişiler için son derece kafa karıştırıcı olabilir.</entitydescription.cymbals>
+<entityname.clowncrate>Palyaço Sandığı</entityname.clowncrate>
+<entitydescription.clowncrate>İçine bir şakacının sığabileceği kadar büyük bir sandık.</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] İçine gir</itemmsggoinside>
+<entityname.clownexosuit>Eğlence Getiren 3000</entityname.clownexosuit>
+<entitydescription.clownexosuit>Kornaanne teknolojisinin soytarı başarısı: kitlesel şaka silahlarıyla donatılmış, nükleer enerjiyle çalışan bir exokıyafet.</entitydescription.clownexosuit>
+<clownexosuitweapon>Honker Blast</clownexosuitweapon>
+<entityname.honkmotherianscriptures1>Kornaanne Kutsal Yazıları: Eğlencenin Dokuz Sütunu (I-III)</entityname.honkmotherianscriptures1>
+<pillarsoffun1>I. Dile getirilebilen korna, ebedi Korna değildir. İsimlendirilebilen bir kornaanne, ebedi Kornaanne değildir. İsimsizlik, sahneyi hazırlayan şeydir. Adlandırılmışlık; oyun, oyuncular, seyirci ve hepsi arasındaki duvardır. Ciddiyetten kurtulunca gizlenen gizemi görebilirsin. Ciddi gözler yalnızca görünürde gerçek olanı görür.\n\nII. Balonu hayvan şekline sokarız ama balonun şeklini almasını sağlayan içindeki boşluktur. Biz esas olanla çalışırız ama satır araları asıl kullandığımızdır.\n\nIII. En yüce Eğlence, Eğlence yaratmaya çalışmak değil, Eğlence'nin ta kendisi olmaktır. Ciddi kişi, Eğlenceli olanı devamlı olarak yapmaya çalışıp yapamayacağını anlayandır. Ciddi kişi, hayatın ona verdiği limon içindeki tüm eğlenceyi sıkmaya çalışıp; ekşilikten başka bir şey bulamayandır.</pillarsoffun1>
+<entityname.honkmotherianscriptures2>Kornaanne Kutsal Yazıları: Eğlencenin Dokuz Sütunu (IV-VI)</entityname.honkmotherianscriptures2>
+<pillarsoffun2>IV. Bir Soytarı, Evrenin Büyük Şakasını duyduğunda, bunun kendisine rehber olmasına izin verir. Sıradan bir insan Evrenin Büyük Şakasını duyduğunda yarısına inanır, diğer yarısından şüphe duyar. Aptal bir insan Evrenin Büyük Şakasını duyduğunda, bu fikre yüksek sesle güler. Gülmeseydi şaka olmazdı değil mi?\n\nV. En iyi Soytarılar, insanların varlığından neredeyse hiç haberdar olmadıkları kişilerdir. Bir sonraki en iyi, sevilen ve övülen bir Soytarıdır. Sonra korkulan Soytarı gelir. En kötüsü hor görülen Soytarı'dır. Harika bir Soytarı görevini yerine getirdiğinde, insanlar "Bu çok eğlenceliydi" derler, Eğlence Akışı'nın yukarı akışından habersiz, tıpkı Soytarıların En Görkemlisinden, Yukarı Akışların En Üstünden, Dünyanın En Boşundan habersiz olmaları gibi.\n\nVI. En Boş Zihin nasılsa, Soytarı'nın zihni de öyledir. Halkın aklını kendi akılları gibi görürler. İyi olanlara iyiymiş gibi davranırlar. İyi olmayanlara da iyiymiş gibi davranırlar. Güvenilir insanlara güvenirler. Güvenilir olmayan insanlara da güvenirler. Bok kafalı ciddi insanlar Eğlence akışını durdurmasın diye, böylece iyiliğe ve güvene kavuşurlar.</pillarsoffun2>
+<entityname.honkmotherianscriptures3>Kornaanne Kutsal Yazıları: Eğlencenin Dokuz Sütunu (VII-IX)</entityname.honkmotherianscriptures3>
+<pillarsoffun3>VII. Ölümden korkmuyorsan, nasıl korkabilirsin ki? Bunu gerçekten anlamak, Bisiklet Kornası Yolu boyunca büyük bir adım atmaktır. Doğal olmayan bir şekilde yaşamı uzatmaya çalışmak, ölümden korkmaktır. Yaşam nefesini değiştirmeye çalışmak, ölümden korkmaktır. Soytarı, bir şeyin zirveye ulaştığı zaman yakında düşüşe geçeceğini anlıyor. Doğal olanı değiştirmek Bisiklet Kornası Yolundan sapmaktır. Bunu yapanların sonunda hiç Eğlenemez.\n\nVIII. Şefkatle, cesur olabileceksin. Ölçülülükle, Eğlenceyi dünyaya getirebileceksin. Alçakgönüllülükle başkalarına rehberlik edebileceksin. Cesur olmaya çalışırken merhameti, eğlenirken ölçülü olmayı, yol göstermeye çalışırken alçakgönüllülüğü terk etmek, Eğlenceye götürmez.\n\nIX. Uçurtma yükselir ve Soytarı uçmasına izin verir; uçurtma ipi kopar ve Soytarı uçup gitmesine izin verir. Sahiptir ama sahip değildir, davranır ama beklemez. İş bitince unutur. En Görkemli Soytarı gibi bunun sonsuza dek sürmesinin nedeni budur. Yaşasın Kornaanne!</pillarsoffun3>
+<storename.merchantclown>Palyaço Malzemeleri</storename.merchantclown>
+<storename.merchanthusk>Sofu Malzemeleri</storename.merchanthusk>
+<entityname.cultistrobes>Tarikatçı Cüppeleri</entityname.cultistrobes>
+<entitydescription.cultistrobes>Kabuk Kilisesi'nin yardımcıları tarafından geleneksel olarak giyilen koyu renkli bir giysi. Yabani kabukları sakinleştiren feromonlarla dolu, yardımcıların yükselmeye hazır olana kadar güvende kalmalarına yardımcı oluyor.</entitydescription.cultistrobes>
+<entityname.zealotrobes>Bağnaz Cübbeleri</entityname.zealotrobes>
+<entitydescription.zealotrobes>Kabuk Kilisesi'nin en saygın üyeleri tarafından giyilen koyu renkli bir giysi. Kullanıcısına simbiyotu uysal vaziyette tutarken, simbiyotların yüksek rejeneratif yeteneklerini veren hormon enjektörleri gömülü genetik teknoloji giysisi.</entitydescription.zealotrobes>
+<entityname.rituallantern>Ritüel Feneri</entityname.rituallantern>
+<entitydescription.rituallantern>Kabuk Kilisesi'nin ayinlerinde yaygın olarak kullanılır. Yabani kabukları sakinleştiren feromonlar ve hafif iyileştirici özelliklere sahip kimyasallar içerir.</entitydescription.rituallantern>
+<entityname.huskcontainerspawner>Kabuklaştırılmış Depo Konteynerı</entityname.huskcontainerspawner>
+<entitydescription.huskcontainerspawner>Konteyner içinde bulunan bir Velonaceps Calyx örneği. Kabuk, inorganik bir dış kabuğun içinde nadiren uzun süre yaşadığı için, kısa ömürlü olsa da kullanışlı bir otonom konteyner görevi görür.</entitydescription.huskcontainerspawner>
+<entityname.bookofchalices1>Kadehler Kitabı: Üç Metamorfoz</entityname.bookofchalices1>
+<threemetamorphoses>Size ruhun üç başkalaşımını göstereyim: Ruh nasıl bir insan metaneti şeklinde bir kadeh olarak zuhur eder, kadehteki bayat şarap boşaltılır ve kadeh taze şarapla yeniden doldurulur.\n\nRuhun taşıyabileceği birçok şey vardır. Asıl saygı güçlü ruhta yatar.\n\n"Taşınacak ne var ki?" diye sorar ruh, ellerini uzatarak. "En ağır şey nedir ki? Üstüme alıp da güçleneyim."\n\nŞu değil midir: En derin derinliklere dalıp göğüs germek?\n\nYoksa bu mudur: Bilgi meyvesiyle beslenip ruhun bilgi açlığının yokluğu uğruna imtihan edilmek?\n\nYoksa şu mudur: Hak suyu olduğu halde pis sulara girmek ve içindeki haşerat ve asalakları inkâr etmemek?\n\nYoksa bu mudur: Bizi hor görenleri sevmek ve bizi korkutacak hayalete kucak açmak?\n\nRuh tüm bu ağır şeyleri üzerine alır ve bir insanın cesareti şeklindeki bir kadeh gibi, sahip olduğu güç içinde neşelenir.\n\nKadehten bir buğu yükselir, çünkü adamın metaneti eski, artık bayat ve iğrenç yükleri taşır hâle gelmiştir.\n\nMiazma ruha böyle seslenir; "Yapmalısın!"\ n\nHavada binlerce yıllık fikir ve değer yankılanıyor. "Beni oluşturan tüm değerler adına. Olası tüm değerler çoktan yaratıldı ve olabilecek tüm değerleri ben temsil ediyorum. Artık "Öyleyse var" değilsin." Dedi Miyazma.\n\nKardeşlerim, neden kadehi boşaltmaya gerek olsun ki? Vazgeçen ve saygılı olan insanın cesareti neden yeterli değil? Yeni değerler yaratmak ki bunu sadece bir insan başaramaz; ama kendine özgürlük yaratmak... işte insan cesareti bunu yapabilir.\n\nKendine özgürlük yaratmak, göreve ve insanlığa bile kutsal bir Ret vermek için; bunun için kardeşlerim, insana gerek yok. Yeni değerlere doğru yolculuğu üstlenmek, saygılı bir ruh için en zorlu varsayımdır.\n\nAma söyleyin kardeşlerim, boş bir kadehin değeri nedir? Çünkü ona amaç veren şarabın ta kendisi değil midir? Bu nedenle, taze ve bozulmamış, insanın dayanıklılığının ötesinde, ancak kavrayışında olan yeni bir şarap bulmalıyız.\n\nEvet, yaratma oyunu için kardeşlerim, yaşama kutsal bir Kabul verelim. Yaşam metaneti gerektirir. Sanki dünyanın bize verdiği bir Armağanmış gibi, uzanmaya cesaret edenlerin kolayca kavrayabileceği bir metanet.\n\nBöylece üçüncü ve son başkalaşım; Yükseliş gelir: İnsanın ruhu yeni hayatla dolar, insanın metaneti ve dünyanın dayanıklılığı birdir. Kendi iradesi, artık bir ruhu arzular; kendi dünyası dışlanmışları kazanır ki mükemmel form tam da budur.</threemetamorphoses>
+<entityname.bookofchalices2>Kadehler Kitabı: Gelgitin Habercisi Olmak Üzerine</entityname.bookofchalices2>
+<heraldofthetide>İnsan, hayvan ile mükemmel form arasında gerilmiş bir köprüdür; boşluğun üzerindeki bir köprü.\n\nTehlikeli bir geçiş, tehlikeli bir yolculuk, tehlikeli bir geriye bakış, tehlikeli bir titreme ve duraklama.\n\nİnsanda harika olan nedir ki bir hedef değil de bir köprüdür? Köprüyü geçmeyi başaran çok az kişi var ama gerçekten ki onlar büyük bir erdeme sahipler:\n\nOnlar hayatı yaşamayı bilmiyorlar, batıyorlar çünkü onlar aşırı gidenlerdir.\n\nYıldızlardan aşağı bir amaç uğruna yaşamayı hedefleyip kendilerini feda etmezler, onlar kendilerini dünya için feda ederler ki mükemmel form onlar sayesinde gelebilsin.\n\nBilmek için yaşarlar ve bilmek için araştırırlar ki mükemmel form böylece var olabilsin. Böylece batmaya devam ediyorlar\n\nÇaşılıyor ve icat ediyorlar ki mükemmel form için yaşanacak bir yer oluşturulsun. Okyanusu, hayvanı, bitkileri ve Tanrıya duydukları sevgiyi hazır ediyorlar. Böylece batmaya devam ediyorlar.\n\nTanrıyı yola getiriyorlar çünkü tanrıyı seviyorlar ki tanrılarının öfkesiyle yerle bir olsunlar.\n\nRuhları yaralansa bile derindedir, ufak parçalara dağılırlar ki iradeleriyle köprüden geçebilsinler.\n\nOnlar açık bir ruh ve açık bir kalptir: bu yüzden kafaları sadece kalplerinin bağırsaklarıdır; Ancak kalpleri onların batmasına neden olur.\n\nBöylece dalganın habercisi oldum, su üstündeki güçlü akıntı oldum: Dalga mükemmel formun ta kendisidir.</heraldofthetide>
+<character.huskcontainer>Kabuklaştırılmış Depo Konteynerı</character.huskcontainer>
+<entityname.40mmnuke>40mm Mini Nük</entityname.40mmnuke>
+<entitydescription.40mmnuke>Bir bomba fırlatıcı yardımıyla fırlatılması hedeflenen küçük bir nükleer cihaz.</entitydescription.40mmnuke>
+<entityname.molotovcoctail>Molotof Kokteyli</entityname.molotovcoctail>
+<entitydescription.molotovcoctail>Ucuz, doğaçlama bir yangın çıkarıcı silah.</entitydescription.molotovcoctail>
+<campaignstore.reputationrequired>[amount] [faction] itibarı gerekli</campaignstore.reputationrequired>
+<charactername.ignatiusmay>Ignatius May</charactername.ignatiusmay>
+<charactername.auntdoris>Doris Teyze</charactername.auntdoris>
+<charactername.victoriapetran>Victoria Petran</charactername.victoriapetran>
+<charactername.sootman>Sootman</charactername.sootman>
+<charactername.jestmaster>Şaka Ustası</charactername.jestmaster>
+<eventtext.separatistspecialhire1.c1>Sert görünüşlü bir kadın sana doğru yürüyor. Bu yüzü haberlerde birkaç kez gördüğünü fark edene kadar bir anlığına neden bu kadar tanıdık geldiğini merak ediyorsun.\n\nElini sıkmak için elini uzatıyor "Merhaba. Seninle tanışmayı bekliyordum. Jovian Ayrılıkçıları Üsteğmeni Victoria Petran.”</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>"Sizinle tanışmak bir onur. Size nasıl yardımcı olabilirim?”</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>"Buraya aslında senden yardım istemeye gelmedim. Tersine, bir süredir senin ve ekibinin çabalarını takip ediyorum ve davamız için yaptığınız çalışmalar hayret verici. Saflarımızda sizin gibi daha fazla insan olsaydı, Koalisyon çoktan Europa'nın yüzünden silinip gitmişti.</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>"Teşekkürler. Elimizden geleni yapıyoruz.”</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>"Gerçekten, yaptığınız işin o kadar olağanüstü olduğuna inanıyorum ki, ekibinin bir parçası olmanın ofisimde masabaşında olmamdan daha büyük bir fark yaratabileceğini düşünmeye başladım. Senin için de değerli olabileceğime inanıyorum; denizaltı yaşamından payımı aldım, silahlar ve ilaçlar hakkında biraz bilgiye de sahibim. Bir güvenlik görevlisi için daha yeriniz var mı?</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>"Nasıl hayır diyebilirim ki! Gemiye hoş geldiniz efendim!”</eventtext.separatistspecialhire1.o1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>"Harika! Bu durumda bana efendim demene gerek yok. Ben artık ekibinin bir parçasıyım, üstün değilim. İlk görevimize başlamak için sabırsızlanıyorum!”</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>"Onur duydum ama bunu biraz düşünmemiz gerekiyor."</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>"Anladım. Gelecekte beni de yanına almaya karar verirsen, Ayrılıkçıların kontrolündeki üslerden birinde tekrar karşılaşacağımıza eminim.”</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>"Tekrardan merhaba. Teklifimi düşündün mü? Beni aranıza almak ister misin?”</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>"Evet, ek bir güvenlik görevlisi için yerimiz var. Gemiye hoş geldiniz efendim!”</eventtext.separatistspecialhire1.o1.o1.repeat>
+<eventtext.separatistspecialhire1.o1.o2.repeat>"Korkarım daha fazla yerimiz yok ama durum değişirse size haber veririm!"</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>Dizel jeneratörünün egzoz borusundan sürünerek çıkmış gibi görünen biri sana doğru yürüyor.\n\n"Oi, ben de seni arıyordum."</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>"Tanıdık görünüyorsun. Daha önce tanışmış mıydık?"</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>"Beni o Koalisyon hücresinden çıkaran sizin ekibinizdi, değil mi? O zamanlar tanışmak için pek vaktim yoktu ama bana Sootman derler. Sen de öyle diyebilirsin. Söylesene, fazladan bir ekip arkadaşına ihtiyacınız var mı?”</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>"Sootman mi?" Koalisyon'un asırlardır izini sürmeye çalıştığı o maskeli Ayrılıkçı mı? Beni mi beceriyorsun?</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>“Aynen, o benim. Üsteki söylentilere göre Koalisyona karşı gerçekten iyi bir mücadele veriyorsunuz ve ben de bu duruma katkı sağlamak istiyorum. Ne dersin?</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>"Kesinlikle! Senin kalibrende birinin bize katılmasından onur duyarız.</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>"Güzel. Gemide görüşürüz.”</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>"Bunu biraz düşünmemiz gerekiyor."</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>"Tamam."</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>"Evet? Gemide benim için bir yer var mı?</eventtext.separatistspecialhire2.repeat>
+<eventtext.coalitionspecialhire2.c1>Tanıdık bir yüze sahip yaşlı bir kadın dikkatini çekiyor. Doris teyze! Yemek kioskları biraz yavan olsa da yemek programları her zaman mükemmel olmuştur.\n\nGariptir ki sana yaklaşıyor. “Merhaba! Senin ve bölüğünün yakınlarda olduğunu duydum, karşılaşma umuduyla buraya geldim."</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>"Tanıştığımıza memnun oldum hanımefendi! Sizin için ne yapabilirim?"</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>"Bu kulağa biraz saçma gelebilir ama sormamdan zarar gelmez ya! Görüyorsunuz, son zamanlarda... bunu… nasıl ifade etsem… yaşlılık krizi geçiriyorum. Biliyorsunuzdur, neredeyse kırk yıldır yemek programlarına ev sahipliği yapıyorum, restoranlarımı işletiyorum. Mürettebatınızın çılgın maceraları hakkındaki hikâyeleri duyduğumda ve hayatımızı güzelleştirmek için verdiğiniz uğraşları öğrendiğimde denizaltında yaşamak nasıl bir şeydir diye merak ettim."</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>"Herkese göre bir hayat değil."</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>“Evet, eminim ama bunu yine de deneyimlemek istiyorum! Bilirsin, göründüğüm kadar yumuşak biri değilim; aktivist olduğum genç kızlık zamanlarımda, tahmin edebileceğinden çok daha fazla ayrılıkçı kafası ezdim ve her saniyesinden zevk aldım! İlaçlar hakkında üç beş şey biliyorum ve Europa'da nasıl dilimleyeceğimi bilmediğim bir hayvan yok.\n\nSöyle bakalım, ekibinde bu yaşlıya bir şans verir misin? Daha iyi bir Europa için gereken her savaşa girerim!"</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>"Buna nasıl hayır nedir ki! Güverteye hoş geldiniz hanımefendi!"</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>"Ah, harika! Sadece yanıma birkaç şey alacağım, güvertede görüşürüz!</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>"Anlıyorum. Acele etmene gerek yok canım!"</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>"Ah, tekrar merhaba! Ekibe katılmam konusunu düşündünüz mü?"</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>"Size denk gelmek her zaman çok güzel millet! Aslına bakarsanız sizinle konuşmak istediğim çok eğlenceli bir fikrim var."</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>"Elbette, kulağım sende!"</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>"Anlarsın ya, bu üssün sınırları içinde hayat bazen çok sıkıcı olabiliyor. Buraya, yolculuklarına rehberlik edebileceğim ziyaretçiler pek sık uğramıyor ve ben de sizler gibi bir yolculuğa atılsam ne kadar katkı sağlayabilirdim diye düşünmekten kendimi alamıyorum. Daha önce hiç duymadığın bir şaka, binlerce kez duyduğun bir şakadan daha komik olmalı, öyle değil mi?"</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>"Ne demek istediğini anlıyorum. Bana şu fikrinden bahset!”</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>"Merak ediyordum da, mürettebatınızda fazladan bir asistan için yer var mı? Maceralarınızda size katılmak, bu yaşlı budalayı hayal edebileceğinizden daha çok mutlu ederdi. Daha önce hiçbir denizaltıda görev almadım ancak işe yarayacak pek çok numara biliyorum."</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>"Kornanne aşkına, tabii ki! Güverteye hoş geldin!"</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>"Harika! Aranıza katılmaktan onur duyuyorum.”</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>"Bunu biraz düşünmemiz gerekiyor."</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>"Anlıyorum. Tekrar karşılaşacağımıza eminim, kararınızı verdiğinizde bana bildirin lütfen!"</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>"İyi günler! Teklifimi düşündünüz mü? Size katılmama müsade edecek misiniz?</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>"Bana kalırsa fazladan bir asistan için yerimiz var. Güverteye hoş geldin!"</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>"Üzgünüm ama fazladan mürettebat için hiç yerimiz yok ama durum değişirse sana haber vereceğim."</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>Tanıdık gibi görünen bir adam yanına yaklaşıyor. "Hey, bu sensin! Aslında seninle tekrar karşılaşmayı umuyordum.</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>"Ben de sizinle tekrar karşılaştığıma memnun oldum Bay Subra!"</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>"Nezaketi bir kenara bırakıp sadede gelsek. Her gün senin kadar açık fikirli bir denizaltı mürettebatına rastlamıyoruz, yeteneklerinden bahsetmedim bile. Kilise ile aranızdaki bu işbirliğini daha da ileriye taşıyacak bir teklifim var. Aslında dürüst olmam gerekirse, bu kişisel olarak benim için zarif bir armağan olacak."</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>"Dinliyorum."</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>"Basitçe söylemek gerekirse, bir süredir ekibinize katılmak için can atıyorum, hatta ödül avcılarına karşı girişilen o zorlu mücadeleden önce bile. Kilise için yaptığınız iş olağanüstüydü ve size katılırsam birlikte bu dünyayı efendimizin lütfuyla kuşatabileceğimize inanıyorum. Ve yine dürüst olmam gerekirse, üssün dışındaki vahşi sularda hayatın tadını çıkarmak için can atıyorum. Ne dersiniz?</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>"Buna nasıl hayır denir! Mürettebata hoş geldin kardeşim!"</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>"Harika! Güvertede görüşürüz."</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>"Bunu biraz düşünmemiz gerekiyor."</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>"Kesinlikle, acele etmeye gerek yok."</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>"Tekrar karşılaştığımıza memnun oldum kardeşim. Pekâlâ, teklifimi düşündünüz mü? Mürettebatınızda bir dost için yer var mı?"</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>"Seni aramızda görmeyi çok isteriz."</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>"Korkarım daha fazla mürettebat için yerimiz yok ama bu durum değişirse seni haberdar ederiz!"</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>Bir duyuru duyuyorsun: "Az önce yanaşan geminin mürettatını arıyorum. Lütfen hemen idareye rapor verin."</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>Pahalı bir üniformalı giyen yaşlı bir adam yanına geliyor ve elini sıkıyor. "İşte buradasınız. Duyuru sisteminin çalışmadığını düşünmeye başlamıştım. Her neyse, sizinle tanışmak büyük bir zevk! Mürettebatının bu tarafa geldiğini duydum ve gelip sizinle şahsen tanışmak istedim. Bana bir dakika ayırabilirseniz, size bir teklifim olacak."</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>"Pardon, siz kimdiniz?"</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>"Ah, kusura bakma, senin gibi bir ulusal kahramanla her gün karşılaşmıyorum! Europa Koalisyonu İçişleri Başkanı Ignatius May. Bir süredir mürettebatınızın başarılarını izliyorum ve aslında üstlendiğiniz görevlerin birçoğu bizzat benden geldi. Europa Koalisyonu adına, size ve ekibinize hizmetleriniz için en derin şükranlarımızı sunmak istiyorum.”</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>"Teşekkürler beyefendi! Bahsettiğiniz şu teklifin ne olduğunu sorabilir miyim?"</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>"Hemen iş konuşmak istiyorsun, ha? Bunu beğendim. Uzun lafın kısası, ekibinize katılmak istiyorum. Gerçek bir mücadelenin ortasına atılmayalı uzun zaman oldu ve ekibinin gösterdiği çaba, sahalara dönmeye, ellerimi kirletmeye, Koalisyon için somut bir şeyler yapmaya can atmamı sağladı."</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>"Sizi aramızda görmekten onur duyarız, efendim!"</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>"Harika! Güvertede görüşürüz."</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>"Bunu biraz düşünmemiz gerekiyor."</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>"Ah, bunu bir talep olarak algılamanızı istemezdim. Fakat size ve ekibinize saygımdan dolayı ısrar etmeyeceğim. Tekrar karşılaşacağımıza eminim, kararınızı o zaman bana bildirirsiniz."</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>"Tekrar merhaba. Teklifimi düşündünüz mü?"</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>"Sizi aramızdan görmekten büyük mutluluk duyarız efendim."</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>"Korkarım daha fazla mürettebat için yerimiz yok ama bu durum değişirse sizi haberdar ederiz!"</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>Cübbeli birkaç kişi yerde yatan birinin önünde toplanmış. Bir tür nöbet geçiriyormuş gibi çırpınan kişiyi zapt etmeye mi canlandırmaya mı çalışıyorlar emin olamıyorsun. İçlerinden biri seni fark ediyor. ""Hey sen! Oradaki dolaptan bana bir kaliksanit şırıngası ver!”</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>Yanındaki dolaptan onlara bir şırınga ver.</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>Onlara üzerinde "kaliksanit" yazan şırıngayı atıyorsun. Şırınga kasılan adamın boynuna saplandığı anda adam sakinleşiyor. Cübbeli tiplerden biri kızgın görünüyor. "Mark, seni sabırsız aptal, sana kaç kez Hediye için henüz hazır olmadığını söyledik?!"</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>"Burada neler oluyor?"</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>Cübbelilerden biri sana bakmak için dönüyor. Yüzlerine bakınca çok genç olduklarını görüyorsun. "Az önce küçük bir acil durum yaşadık. Arkadaşımız küçük bir geziye çıkmanın eğlenceli olacağını düşündü, bilmem anlatabiliyor muyum? Yardım için teşekkürler! Sakıncası yoksa bu aramızda kalsın."</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>"Bu kulağa çok şüpheli geliyor. Bana o adama ne yaptığınız söyle yoksa seni yetkililere şikayet ederim.”</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>Grup gergin bir şekilde birbirine bakıyor. "Bak, sorun çıksın istemiyoruz. Buradaki kardeşimiz büyük kabukla tanışmak için çok hevesliydi ve bu onu ele geçirdi. Fakat şimdi durumu kontrol altına aldık ve herkes iyi. Bu tekrar olmayacak. Bu konuyu tüm üsse veya tarikatımıza duyurmaya gerek yok. Çizgiyi aşmaya çalıştığını öğrenirlerse, bizi mahvederler!</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>"Tarikatınız mı? Siz Husk Kilisesi'nden misiniz? Tüm olayınızın bir parazit tarafından ele geçirilmek olduğunu sanıyordum."</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>"Parazit mi? Bir parazit almaktan başka bir şey bilmez ama kabuk bir şeyler verir! Seni, bedenim dediğin o et torbasının sınırlarının ötesine taşır. Bu şekilde değil tabii ki, onu kabullenmeye hazır olursan bu şekilde olmaz. Yani en azından Din Adamları öyle söylüyor. "</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>Bu kadar tarikatçı saçmalığı yeter. Üs güvenliğine haber ver.</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>Bu modülde gerçekleşen şüpheli faaliyetleri telsizle üs güvenliğine bildiriyorsun.</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>"Ben bu et çuvalını çok seviyorum, teşekkürler. Çıkışı kendim bulurum."</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>"O sınırların ötesine geçmek isteseydim, bunu nasıl yapabilirdim?"</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>"Sakin olun kardeşlerim. Ben yalnızca neden bu adamın bir kabuğa dönüşmesini durdumak istediniz onu merak ediyorum."</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>İfadeleri biraz yumuşuyor. "Nasıl kasıldığını gördün, değil mi? Yükseliş bu şekilde olmaz. Simbiyot onu ele geçirmek için tüketmek üzereydi. Henüz bir simbiyota hazır olmadığı çok açık."</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>"Anlıyorum. Peki, biri 'bir simbiyotla bir bütün' olmak istiyorsa, bunu nasıl yapmalı?"</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>"Dürüst olmak gerekirse bizler daha yeni dönüştürüldük. Buna cevap vermesi gereken doğru kişiler miyiz bilmiyorum. Din Adamlarımız, Komünyonu kabul etmeden önce Armağana hazır olman, kalbini, zihnini ve tüm bedenini ona açman gerektiğini söyler. Kutsal simbiyotu sakinleştirmek, karşılamak ve başkalaşımın gerçekleşmesini sağlamak için bazı... ritüeller ve araçlar var. Fakat henüz bunlar hakkında çok şey bilmiyoruz. Bir Din Adamı bulabilirsen, seve seve daha fazlasını anlatacaktır."</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>Bu sevimli genç dostlara veda et, onlara güzel ve vakitli bir yükseliş dile.</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>Bu kadar tarikatçı saçmalığı yeter. Üs güvenliğine haber ver.</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>"Tüm olayınızın bir parazit tarafından ele geçirilmek olduğunu sanıyordum."</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>Durum oldukça şüpheli görünüyor. En iyisi hiç bulaşmamak.</EventText.youngcultists.o2>
+<EventText.waytoascension1.c2>Cüppeli iki kişinin koyu sohbetlerine kulak misafiri oluyorsun. "Açık konuşmam gerekirse, şu uyuşturuculu eşcinsel partilerinden pek hoşlanmıyorum. Gerçek bir Komünyon böyle bir sapkınlığa yer olmamalı." Daha özenle süslenmiş bir cübbe giyen kişi omuz silkiyor. "Bir Din Adamı olarak sana katılmam gerekiyor ancak aramızda kalsın, arada sırada yardımcılarımızın sınırlarını test etmenin faydalı olacağını düşünüyorum. Sınırları aşmaya çalışıyorsak onların nerede olduğunu bilmeliyiz."</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>"Affedersiniz, Husk Kilisesi'nin Din Adamı olduğunuzu mu söylediniz?"</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>Cüppeli adam sana doğru dönüyor ve ifadesine bakınca, duymaman gereken bir şey duyduğunu anlıyorsun. "Sen de kimsin ve burada ne işin var?" diye soruyor.</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>"Mürettebatımız Kilise hakkında daha fazla şey öğrenmenin bir yolunu arıyordu ve bir Din Adamının bana rehberlik edebileceğini duydum."</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>Adam dudak büküyor. "Burası bir devlet okulu gibi mi görünüyor? Gelip geçen her denizaltı mürettebatına rehberlik etmek istesem bile senin bir Koalisyon casusu veya bilgi koparmaya çalışan bir soytarı olmadığını nasıl bilebilirim?"</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>"Kiliseye herhangi bir şekilde yardım ederek iyi niyetimizi kanıtlayabilir miyiz?"</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>"Bu sizi, hangi grubu desteklediği belli olmayan kişiler adına işler yapan, ahlaken ve ruhen yoksun denizaltı mürettebatlarından ayırmaz. Kilisenin ilgilendiği sizin ne için çabaladığınız ve bu arzularınıza ulaşmak için ne kadar fedarkârlık yaptığınızdır."</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>"Dürüstlüğümüzü kanıtlamamızın başka bir yolu var mı?"</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>"Bunun için gitmen gereken uzun bir yol var evlat. Fakt hadi bir deneyelim bakalım. En azından öğretilerimizi biraz olsun anladığını kanıtlamak için bana şu soruların cevaplarını ver. Ruhun ikinci başkalaşımı nedir?"</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>"İnsanın kendi bedeninin kozasından ayrılmak."</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>Adam kıs kıs gülerek başını sallıyor. "Tam da düşündüğüm gibi. Kendi kendine öğrenmek gereken çok şey var ve bunu yapana kadar sana söyleyecek başka bir şeyim yok."</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>"Simbiyotla bir bütün olmak."</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>"Kadehteki eski şarabı boşaltmak."</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>"Bir denizaltı mürettebatının üç başkalaşım kavramına aşina olmasına şaşırdığımı söylemeliyim. Bunun yanı sıra, kendini kanıtlamak için hâlâ gitmen gereken uzun bir yol var. Fakat belki bir şeyler ayarlayabiliriz. Yakınlarda bir Kilise etkinliğimiz olacak ve bu etkinliğe katılan herkese yetecek kadar 'ayin ekmeğine' ihtiyacımız olacak. Ne demek istediğimi anlıyor musun?</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>"Size kabuk yumurtası getirmemi mi istiyorsunuz?"</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>"Başka bir deyişle, evet. Bu yalnızca sizin için bir bağlılık testi olmakla kalmayacak, aynı zamanda senin ve mürettebatının ilk başkalaşıma yaklaşmasına yardımcı olacak. Derinlere inmek, kirli sulara cesurca dalmak. Yani basitçe söylemek gerekirse, bana veya meslektaşlarımdan birine bir düzine kabuk yumurtası getirin, sonrasını o zaman konuşuruz."</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>"Korkarım henüz bilmiyorum."</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>"Sınırlarını bilge ve kabullenmek bilgelik gerektirir. Kendi başına öğrenmen gereken daha çok şey var ve bunu yapana kadar sana söyleyecek başka bir şeyim yok."</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>"Eğer yardımı olacaksa zahmetlerinizin karşılığını seve seve öderiz."</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>"Elbette. Bir denizaltı mürettebatı olarak, emirlerini yerine getirsinler diye insanlara para saçmanın normal olduğunu düşünüyor olmalısın ama teklifin, burada, Kilise'de ne için çabaladığımız hakkında çok az fikrin olduğunu gösteriyor."</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>"Üzgünüm, seni başka biriyle karıştırmış olmalıyım. Gidiyorum!”</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>Görünüşe göre bu adam Kabuk Tarikatı'nın önemli bir üyesi. En iyisi üs güvenliğine haber vermek.</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>Bu modülde gerçekleşen şüpheli faaliyetleri telsizle üs güvenliğine bildiriyorsun.</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>Durum oldukça şüpheli görünüyor. En iyisi hiç bulaşmamak.</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>"Sanırım Mürettebatınızın Kilisemiz hakkında daha fazla şey öğrenmekle ilgilendiğini söylemiştin. Devam etmeden önce, meslektaşımın daha önce sorduğu soruyu tekrar sormak istiyorum. Ruhun ikinci başkalaşımı nedir?"</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>"Sanırım kilise sana bir tür görev vermişti. 'Ayin ekmeklerini' aldın mı?</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>"12 şişe kabuk yumurtası, tıpkı istendiği gibi."</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>Şişeleri çıkarırken Din Adamının gözbebekleri büyüyor. Şişeleri hızla elinden alıyor ve cübbesinin içine koyuyor. "Mürettebatınızla ilgili şüphelerimiz yersizmiş gibi görünmeye başladı. Şüpheciliğimizi bağışlayabilirsiniz umarım. Denizaltıcıların bize bu şekilde davranmasına alışık değiliz. Fakat bu anlaşılabilir bir şey sanırım. Kabukların yalnızca vahşi olanlarıyla karşılaşmış kişilerin bize sempatiyle yaklaşmasını bekleyemeyiz."</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>"Haklısın. Artık bize Kilise hakkında daha fazla bilgi verecek misiniz?"</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>"Bilgiye karşı bu açlığınız umut verici bir işaret. Evet, konuyu Din Adamları ile görüştük ve sizin de arzunuz buysa, sizi Husk Kilisesi yardımcıları olarak görevlendirmeye hazırız."</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>"Bu ne anlama geliyor?"</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>"Bu, Yükselişe giden yolda size rehberlik edeceğimiz ve sizin de daha iyi bir insanlık, daha doğrusu daha iyi bir insanüstü tür olmak için giriştiğimiz kolektif arayışımızda Kilise'ye yardım edeceğiniz anlamına geliyor. Üyelerimizin pek bir şey yapmasına gerek yok, herkes kendi isteğine ve yeteneklerine göre hizmet ediyor ancak elbette mürettebatınızın ve sizin şimdiye kadar olduğu gibi amacımıza katkıda bulunmaya devam etmesini umuyoruz. Bu teklifi değerlendirmek için acele etmeyin. Kararınızı verdiğinizde bize bildirin."</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>"Lütfen onları bana getirin, sonrasına o zaman bakarız."</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>"Üzerinde çalışıyorum hâlâ."</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>"Kararını verdin mi, Kilise yardımcısı olmak istiyor musun?"</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>"Evet, size katılmak istiyorum."</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>"Öyleyse bunun olmasını sağlayacağız. Yükselişi, kendin ve insanlık için en büyük hedef olarak kabul ediyor musun?"</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>"Evet."</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>"Öyleyse bunun olmasını sağlayacağız. İnsanlığından vazgeçmeyi ve böylece mükemmel formunu ortaya çıkarmayı kabul ediyor musun?</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>"Öyleyse bunun olmasını sağlayacağız. Dünyanın metanetiyle bir olmayı ve böylece mükkemmel formunu ortaya çıkarmayı kabul ediyor musun?"</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>"Öyleyse bunun olmasını sağlayacağız. Ailemize hoş geldin. Baş Din Adamlarından tüm Kilise üyelerine, herkes bu haberi duyduğuna çok sevinecek."</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>"Peki, şimdi ne olacak?"</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>"Bu büyük ölçüde sana bağlı. Dediğim gibi, herkes Kilise'ye kendi isteklerine göre hizmet ediyor. Eğer bir ipucu arıyorsan, Kadehler Kitabı iyi bir başlangıç noktası olabilir." Din Adamı sana bir parşömen uzatıyor. "Buna kulak ver, bir sonraki görevin için vakit geldiğinde hazır olacaksın."</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>"Bunun hakkında hâlâ biraz düşünmem gerekiyor."</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>"Seninle tekrar karşılaşmak büyük bir keyif. Daha iyi bir zamanlama olamazdı, yardımına ihtiyacımız var. Bu, şimdiye kadar yaptığın işlerden çok daha hassas bir konu. Kilise'nin güvenebileceği yetenekli birilerine ihtiyacımız var ve mürettebatının gereken özellikleri karşıladığını düşünüyoruz."</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>"Dinliyorum."</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>"Muhbirlerimize göre, bir Koalisyon ajanı Kilise'yi araştırmak için tarikatlarımızdan birine sızmış. Bazı Baş Din Adamlarının kimlikleri ve nerede olduklarına dair çok hassas bilgileri ele geçirmiş olabilir. Şu anda yakınlardaki bir üste olduğuna inanıyoruz. Bu yüzden hemen harekete geçmeli ve kimseyle iletişim kurmadığından emin olmalıyız."</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>"Anlıyorum. Bununla ilgileneceğiz.”</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>"Benden birini öldürmemi mi istiyorsunuz?"</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>"Üç Başkalaşım'ı okumadın mı? Pis sular seni böyle konuşturuyor. Ahlakla ilgili sahte insani kavramları ardında bırakmalısın. Ayrıca yolculukların sırasında sayısız canlıyı öldürmedin mi? Bu neden farklı olsun, ayrıca bu davamız için son derece önemli bir konu."</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>"Sanırım haklısın."</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>"Konumu haritanda işaretleyeceğim. Bu konuyu gizlice hallettiğinden emin ol. Daha fazla meraklı gözün bizi izlemesini istemiyoruz."</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>"Görevini başarıyla tamamladığın konusunda bilgilendirildik. Sana güvenebileceğimizi biliyorduk! Ne yazık ki, görüşmemiz gereken çok daha acil bir konu daha var.”</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>"Can kulağıyla dinliyorum."</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>"Bildiğin gibi, Koalisyon Baş Rahiplerimizden Jacov Subra'nın başına bir ödül koydu."</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>"Bu isim çok tanıdık geliyor ama daha fazlasını bilmiyorum."</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>"Baş Din Adamlarımızdan biri, her ne kadar o kendisine 'Baş Organizatör' denmesini istese de. Yeni üyeler kazanmamıza büyük yardımı dokunan 'Molüsk Kilisesi' festivalinin arkasındaki kişi o. Şu anda terk edilmiş bir üste saklanıyor. Ödülü almak isteyen bir ekibin yerini bildiğine inanıyoruz. Ne de olsa 'karşılaştığın' o ajan birileriyle konuşmuş olabilir.</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>"Nasıl yardımcı olabilirim?"</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>"Ödül avcılarından önce ona ulaşman ve onu güvenli bir yere götürmen gerekiyor. Konumu haritanda işaretleyeceğim. Bunun ne kadar acil bir durum olduğunu daha fazla anlatmama gerek yok. Hemen yola koyul, o güvende olduğunda tekrar konuşuruz."</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>"Beni asla canlı yakalayamayacaksınız!"</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>"Sakin ol kardeşim! Bizi Kilise gönderdi."</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>"Ahh! Telsizde ödülle ilgili birtakım konuşmalar duydum ve birinin beni daha önce ele geçireceğini emindim."</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>"...Öyle mi? Biz değildik."</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>"Kahretsin. o hâlde silahlarımızı hazırda tutup buradan bir an önce gitsek iyi olacak. Yolu göster."</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>Öldürmekle görevlendirildiğin, Kabuk Kilisesi'ni araştıran ajan üste bir yerlerde olmalı.</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>Bu muhbir olmalı. Bununla nasıl ilgileneceğimizi sen düşün.</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>"Burnunu sokmaman gereken yerlere soktun et çuvalı..."</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>Adam hemen silahını çıkarıyor.</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>"Lütfen, bana yardım eder misin? Arkadaşım yaralandı ve onu tıp modülüne götürmek için yardıma ihtiyacım var. Lütfen beni takip et!"</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>"Elbette. Arkandayım!"</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>"Pekâlâ, bu da ne böyle? Vaktimi boşa harcamaya mı çalışıyorsun? İşe dönmem gerekiyor."</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>Onu görmezden gel ve yürümeye devam et.</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>"Hoş geldin. Seni bekliyorduk."</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>"Bu da ne?"</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>"Yollarımız kesiştiğinden beri Kilise adına inanılmaz işler başardın. Bir Baş Din Adamının hayatını kurtarmak bunların en büyüğü oldu. Sana sonsuza dek borçlu kalacağız. Bu nedenle, senin için bir Komünyon düzenlemeye karar verdik. Hazırsın. Lütfen mürettebatın geri kalanını burada topla ve başlayalım."</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>"Herkes burada mı? Başlayalım mı?"</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>"Başlayalım."</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>Cübbeli topluluk bir melodi mırıldanmaya başlıyor. Din adamı kollarını kaldırıyor. "Kardeşlerim, kadehlerimiz filvaki boş, şaraba susamış, temiz ve lekesiz." Yardımcılardan biri topluluğa kabuk yumurtası şişesi dağıtıyor.</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>Yumurtaları al.</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>"Ey hayatın ruhu, kadehlerimizi seni metanetinle doldurmamıza izin ver. Bir olmamıza ve dünyanın dışlanmışlarını yatıştırmamıza izin ver. Armağanı kabul etmemizi ve mükemmel formu ortaya çıkarmamızı sağla." Din Adamı şişeyi kaldırıyor, cübbeli topluluk onu takip ediyor.</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>Şişeyi kaldır.</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>"Dalgaların müjdecisi, suyun ortasındaki güçlü buharlar olmamızı sağla. İşte, yüce Kabuk!" Herkes şişelerinin içindekini yutuyor.</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>Yumurtaları yut.</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>Simbiyotun içinde kıvrandığını, büyüdüğünü hissediyorsun. Bu da nedir? Nasıl bu kadar hızlı olabilir? Sen kafandaki soruları sindiremeden, hepsi sanki hiçliğe doğru yol alıyor. Zihnin... Hayır, artık "sen" yoksun. Artık biz biriz ve artık korkmamıza, endişelenmemize gerek yok.</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>"Konuşabilir miyiz?"</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>Ağzından bir ovopositor sarkan bir Din Adamı sana bakmak için dönüyor. "Elbette, zihnimiz ve bedenimiz bu şekilde bizim için çok daha değerli." Din Adamı, yerde kasılmaya devam edenlere el sallıyor. "Bu zayıfların aksine. Bu nedenle, onları tüketeceğiz."</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>"Şimdi ne olacak?"</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>"Bunu sen bulacaksın. Fakat şimdi git, insanlar geliyor olmalı. Tekrar görüşeceğiz."</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>"Bekle biraz. Bir dakikaya ihtiyacımız var.”</EventText.waytoascension5.c1.o2>
+<EventText.waytoascensionsubraescort.c1>“Peh, bir an için endişelenmiştim! Şu ödül avcılarından biraz uzaklaşana dek burada takılsam sorun etmezsin sanırım?”</EventText.waytoascensionsubraescort.c1>
+<EventText.waytoascensionsubraescort.o1>"Hiç de bile. Keyfine bak."</EventText.waytoascensionsubraescort.o1>
+<EventText.waytoascensionsubraescort.c2>"Teşekkürler! Sonraki konumda inerim."</EventText.waytoascensionsubraescort.c2>
+<EventText.waytoascensionsubraescort.c3>"Şu bardağını boşaltmak nasıl bir his?"</EventText.waytoascensionsubraescort.c3>
+<EventText.waytoascensionsubraescort.c3.o1>"Emin değilim."</EventText.waytoascensionsubraescort.c3.o1>
+<EventText.waytoascensionsubraescort.c4>"Aramızda kalsın ama ortaklarım gayet emin oluyor."</EventText.waytoascensionsubraescort.c4>
+<EventText.waytoascensionsubraescort.c5>"Yani yerinde olsam son atlayışı yapma olasılığını düşünmeye başlardım. Karşına sandığından daha erken bir fırsat çıkabilir.”</EventText.waytoascensionsubraescort.c5>
+<EventText.waytoascensionsubraescort.c5.o1>"Sence yapmalı mıyım?"</EventText.waytoascensionsubraescort.c5.o1>
+<EventText.waytoascensionsubraescort.c6>“Açıkça görebileceğin üzere hâlâ daha etten kemikten aptal bir maymunum. Diğer maymunlarla muhatap olacağın zaman bu yararlı oluyor. Yani bu soruya cevap verecek kişi ben değilim. Kararı kendin vermelisin.”</EventText.waytoascensionsubraescort.c6>
+<EventText.pathofthebikehorn1.c1>Tuhaf görünümlü bir palyaço kıyafeti giymiş biri yanına geliyor ve seni kenara çekiyor. "Sizi daha önce burada hiç görmedim. Sizi buraya getiren nedir? Neşeli insanlar mısınızdır, beni anlıyor musun?"</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>"Yalnızca geçerken uğradık. Neşeli insanlar derken ne kastediyordun?"</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>"Bisiklet kornasının çağrısına yanıt verenleri elbette, şakacıları, soytarıları ve aptalları! Ben ve öğrencilerim kendimize burada kendimize güzel ve güvenli bir köşe bulduk. Umarım bu şekilde de kalır."</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>"Öğrencilerim mi? Bu senin bir çeşit lider olduğun anlamına mı geliyor?”</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>"Hayır, hayır, ben lider değilim! Ben bir Şaka Ustasıyım. Bazıları bana öğretmen diyor olabilir ama ben insanlara bisiklet kornası yolunda rehberlik ettiğimi söylemeyi tercih ediyorum."</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>"Bisiklet kornası yolunu bize de öğretebilir misin?"</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>"Bana kalırsa, siz işe yaramaz 'neşeli insanları' bir araya toplar ve bir çalışma kampına gönderirdik, ne demek istediğimi anlarsın."</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>"Bu beni üzgün bir palyaço yapar. Fakat seni yargılamıyorum. Onların yalanlarıyla kör alan bir tek sen değilsin. Ancak fikrini değiştirir ve gözlerini açmaya karar verirsen, Şaka Ustası sana yolu göstermek konusunda istekli olabilir."</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>"Bu saçmalıklarla ilgilenmiyorum. Güle güle."</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>"Bana şu 'yol' hakkında daha fazla bilgi verebilir misin, her ne anlama geliyorsa?"</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>"Hmm, o çalışma kampından bahsettikten sonra niyetlerinden biraz şüphelenmeye başladım! Yine de daha uygun bir kostüm giyersen, samimiyetinin konusunda sana biraz daha güvenebilirdim…”</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>"Pekâlâ, birazdan sana geri döneceğim."</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>"Palyaço kostümü yoksa, konuşma da yok."</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>"Bizim için endişelenmene gerek yok. Kornaanne sizi ve karakolunuzu kutsasın!”</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>"Kornaanneye şükürler olsun! İnsanlara bisiklet kornası yolunda rehberlik etmemden hoşlanmayan o ciddi tiplerden biri olduğunu düşünmüştüm."</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>"Bisiklet kornası yolunu bize öğretebilir misin?"</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>"İşte aradığım ruh! Kendime öğretmen demekten hoşlanmıyorum, bunun nedeni sana öğretecek hiçbir şeyim yok ve bu senin suçun. Yapabileceğim tek şey seni doğru yöne yönlendirmek ve gerçeği kendi gözlerinle görmeni sağlamak. Bu amaçla, sana ve ekibine, Kornaannenin kucağına atacağız ilk adım olacak küçük bir görev vermek istiyorum."</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>"Dinliyorum."</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>"Taktığım maskeyi görüyor musun? Bu uydunun üzerinde bunun gibi pek kalmadı ancak bu işe yüreğini koyarsan, yolculukların sırasında eninde sonunda bir tane bulabileceğine eminim. Bulduğunda, onu bana veya diğer Şaka Ustalarından birine getir ve neler olacağını hep birlikte görelim. Ah, lütfen bunu al, yolculukların sırasında okuyabileceğin ufak bir şey. Ta-ta!”</EventText.pathofthebikehorn1.o3.o1.o1.c1>
+<EventText.pathofthebikehorn2.c1>"Kornaanne aşkına, tekrar karşılaştık! Nasıl gidiyor?"</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>"İstediğin gibi maskeyi aldım."</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>"Bunu görebiliyorum. Tebrikler! Sende kalabilir, gördüğün gibi bende zaten bir tane var. Hatta istiyorsan at gitsin. Yalnızca bir maske ve bana soracak olursan, oldukça çirkin bir maske."</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>"O zaman onu bulmamı neden istedin?"</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>"Görev oldukça sıradandı, değil mi? Tıpkı çocukların hayal gücünden yoksun ebelemece oyunlarındaki gibi. Ancak onu ararken oldukça eğlendin, değil mi? Yol boyunca her türden belaya denk geldiğine, büyük bir macera yaşadığına ve zaman zaman bundan keyif bile aldığına eminim. Keyif almıyor olsan bir denizaltı mürettabatı olmazdın! Yani belki de, onu neden bulmak istediğini ben sormalıyım. Aslında bakarsan şunu sormalıyım; neden farklı insanlar için her türden görevi yapmak için Europa'da dolaşmak istiyorsun?"</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>"Sanırım maceradan keyif alıyorum ama bunun bisiklet kornası yoluyla ne ilgili var ki?"</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>"Oyun ve eğlence, oyun ve eğlence! Benzetme yapmak için çocuk oyunlarını seçmemin bir nedeni var. Durup biraz düşündüğünde, tüm sosyal kurumlar aslında birer oyundur. İşlerin gerçekten özüne indiğinde, tüm dünya aslında bir oyunlar sistemidir. İnsanların oyunu, böceklerin oyunu, ambar kapağını açma oyunu, geminin kıç tarafını istifleme oyunu ve denizaltıda yaptığınız diğer tüm işler..."</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>"Peki...?"</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>"Fakat 'oyun' kelimesini kullanırken dikkatli ol! Tüm bunların mânâsız olduğu anlamına gelmez. Tıpkı bir şarkı çalıyormuşuz gibi. O kadar ciddi değil ancak aynı zamanda oldukça içten. Her türlü güzel formu, tüm karmaşıklıklarıyla, yalnızca yapıyor olmaktan başka bir sebep aramadan kapsayabilir. Bunun gibi!" Şaka Ustası bisiklet kornasını suratına tutarak çalıyor.</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>"Sanırım ne demek istediğini anladım. Sırada ne var?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>"Vay canına, bu çok eğlenceli olacak! Öncelikle kendine bir oyuncak çekiç bulmanı istiyorum. Bilirsin, hani şu birine vurduğun zaman "korna" sesi çıkaran şu aptal plastik oyuncaklardan biri."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>"Sonra?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>"Eğlenceli kısım sonra geliyor. Derinlere dalmanı ve orada yaşayan o devasa şeylerden birini bulmanı istiyorum. Bir Latcher işe yarar ama bir Charybdis veya Solucan bulursan üç kat daha eğlenceli olur. Sonra çekiçle ona vurmanı istiyorum, sağlam bir şekilde vurmanı."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>"Kulağa pek akıllıca gelmiyor ama eminim bunun bir anlamı vardır."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>"İşte böyle! Hiç de akıllıca değil ama bazen zihninin mantıklı kısımlarını görmezden gelmek ve En Görkemli Soytarının senin için hazırladığı hız trenine atlamak çok daha iyidir. Her neyse, görevi tamamladığın zaman bana veya meslektaşlarımdan birine haber ver. Ve bunu yanına al, yolculukların sırasında okuyabileceğin ufak bir şey. İyi şanslar! Sana heyecan verici ve umarım fazla ölümcül olmayan bir yolculuk diliyorum!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>"Bu da ne? Beni öldürtmeye mi çalışıyorsun?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>"Sanırım sorduğun sorunun aptallığını ve derinliğini henüz kavrayamadın, işte tam da bu yüzden, bu yolda yürümek istiyorsan bunu yapman gerekiyor. Bu noktada sana söyleyebileceğim başka bir şey yok. Görevi tamamladığında bana veya meslektaşlarımdan birine haber ver. Ve bunu yanına al, yolculukların sırasında okuyabileceğin ufak bir şey. İyi şanslar ve eğlenmeyi sakın unutma!</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>"Bu uydurma felsefi saçmalıklar başımı ağrıtıyor. Bana yalnızca Kornaannenin ne olduğunu söyleyebilir misin?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>"Bazı şeyleri ciddiye almamak konusunda yetenekli olduğunu görebiliyorum. Keşke takmamak konusundaki bu yeteneğini daha verimli şeylere yönlendirebilseydin... Evet, sana Kornaannenin üç okkalık bir turta olduğunu söyleyebilirim ama bu senin için hiçbir şey ifade etmez, değil mi? Ben de öyle düşünmüştüm. Bu nedenle daha fazla eğitime ihtiyacın var, başka bir görev deneyelim."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>"Elbette."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>"Bu, o maskenin görünmez bir versiyonu olabilir mi? Öyle bir şeyi gerçekten görmek isterdim."</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>"Annenin Çehresi'ni hâlâ bulamadım. İpucu verebilir misin?"</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>"Bu maskelerin modası uzun zaman önce geçti ama yeterince eski bir harabe bulursan, şansın dönebilir. Ayrıca bu, Şaka Ustalarının geleneksel bir aksesuarıdır. Yani alışılmışın dışında düşünerek ilerlemek için kendine bir yol bulabilirsin." Göz kırpıyor.</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>"Sen az önce göz mü kırptın?"</EventText.pathofthebikehorn2.o2.o1>
+<EventText.toyhammeronabyssmonster.c1>Oyuncak çekiç, derinlerde yaşayan canavara çarpıyor ancak hiçbir şey olmuyor. Tüm bunların amacının ne olduğunu merak ediyorsun, ta ki bu düşünceleri şimdilik bir kenara koymanın ve buradan canlı çıkmaya odaklanmanın daha iyi olabileceğini anlayana kadar.</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>"Hey, bir konuda fikrini almak istiyorum. Varsayalım ki, biri Kornaanne dış iskeleti yapıyor, ona 'KORNA-Mech' ismini verirse, biraz abartmış mı olur?"</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>"Ahh, neden soruyorsun?"</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>"Aslına bakarsan boşver, önemli bir şey değil! Biz işimize bakalım. Küçük bir kuş göreve gittiğini söyledi. Derinlerdeki canavarlarla karşılaşman nasıl gitti?"</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>"Nasıl gitti sanıyorsun. Canımı zor kurtardım."</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>"Başaracağını biliyordum. Ancak sanırım sen kendine o kadar da güvenmiyorsun. Görünüşe göre o turtayı tatmadan önce geçmen gereken bazı yollar var. Bunun hakkında düşünmeni istiyorum. Olmasından korktuğun şey ne ve neden hâlâ korkuyorsun? O canavar tarafından yutulmuş olsaydın, bunun bisiklet kornanı sonsuza dek sustaracağı ve hikâyenin sonuna geleceğini mi düşünüyorsun? Kaybetmekten korktuğun bu 'sen' kim?</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>"Beni yutsaydın, bu kesinlikle hikâyenin sonu olurdu."</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>"Gerçekten mi? Bu bir bakış açısı meselesi. Şu anda oynadığın rolün, evrenin ya da adına her ne diyorsan, onu yansıtan gözlerin hikâyenin tamamını oluşturduğu konusunda ısrarcıysan o zaman evet, bu kesinlikle 'senin' hikâyenin hastalıklı bir şekilde sonu olurdu."</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>"Ne anlatmak istediğinden emin değilim."</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>"Neden bahsettiğin konusunda hiçbir fikrim yok."</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>"Ben eğlenceli olduğunu düşündüm ama sanırım canavar şakayı pek anlamadı."</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>"Haha! Kornanın sesi gün geçtikçe daha güçlü bir hâle geliyor. Fakat söyle bana, ölümle yüzleşmen, hatta ölüme doğru dalışa geçmen, kafanda yeni bir şeylerin uyanmasına neden oldu mu?"</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>"Ne anlatmak istediğinden emin değilim."</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>"Kelimeler artık kifayetsiz kalıyor ama yine de deneyeceğim. Sirk çadırında gösteriyi izlerken dışarıdaki dünya hakkında düşünmez veya konuşmayız, yalnızca kendimizi gösteriye kaptırırız.Ve bu iyi bir şeydir! Gecenin sonunda çadırdan çıkacağın gerçeği dikkatini dağıtmadan gösterinin tadını çıkar.”</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>"Bu, öteki dünya ile ilgili bir benzetme mi?"</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>"Pek değil, daha çok 'doğmadan öncesi' için bir benzetme, artık bu ne anlama geliyorsa. Şu şekilde açıklayayım; doğmadan önce yüzünün nasıl göründüğünü düşün ya da bu maskeyi takmadan önce. Çadırdan çıktıktan sonra başka bir gün geri gelmeyeceğinden emin olabilir misin? Çadıra bir kez girdini hatta birkaç kez, bunun bir daha asla olmayacağını kim söyleyebilir?</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>"Bir tür reenkarnasyondan falan mı bahsediyorsun?"</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>"Söylediğim gibi, bu dünyadaki kelime dağarcığımız yetersiz kalıyor ama sözün özü şu ki, ölüm bir şaka. Kaybetmekten korktuğun bu 'sen' kim ve onu gerçekten kaybedebilir misin? Bu, tekrar görüşene dek üzerinde düşünmen için güzel bir ev ödevi olabilir! Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>"Ne demek istediğini biliyorum ama şimdilik maskelerimizi takalım ve rollerimizi oynayalım!"</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>"Kornaanne aşkına! Sanırım şimdiden çadırın dışına bir iki kere göz attın. Belki de çadırın içine göz atıyorsun demeliyiz, ne dersin? Her hâlükârda, ilerlemenden etkilendim. Bir sonraki adımımızın ne olacağını anlamak için sanırım biraz zaman ihtiyacım olacak, o yüzden şimdi konuyu kapatalım. Tekrar görüşünceye dek!"</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>"Neden bahsettiğini biliyorum. Ölümden sonra hiçbir şey yok ama bu doğumdan önceki hiçlikten daha korkutucu değil.”</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>"Sanırım bu da bir bakış açısı ama korkarım olaya bu şekilde bakarken dev bir muz kabuğunun üzerine bastın! Anlatmaya çalıştığım şeyi tamamen yanlış anladın. Şu şekilde açıklayayım; doğmadan önce yüzünün nasıl göründüğünü düşün ya da bu maskeyi takmadan önce. Biliyor musun, bu tekrar görüşene dek üzerinde düşünmen için güzel bir ev ödevi olabilir. Ta-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>
+<EventText.pathofthebikehorn4.c1>“Seninle bir kez daha karşılaştığımıza çok mutlu oldum! Aslında daha iyi bir zamanlama olamazdı. Bir görev için gönüllü arıyorduk.”</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>"Dinliyoruz."</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>"Derinlerdeki o canavarla nasıl başa çıktığını gördükten sonra, bana kalırsa bu görev için gerekli cesarete veya sağlıklı miktarda aldırmazlığa sahip olduğunu kanıtladın. Daha önce bahsettiğim Kornaanne dış iskeletini hatırlıyor musun?"</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>"Evet. Ne olmuş ona?"</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>"Ona birazdan döneceğim. Yakınlarda bir üs var ve bu üs, kısa zaman önce bisiklet kornasının çağrısına kulak verenler için güvenli bir sığınaktı. Huzurlu ve sessiz bir hayat yaşayabileceğimiz bağımsız bir üs, mecazen söylüyorum tabii. Ancak durum uzun zaman bu şekilde değil, senin de iyi bildiğin üzere Europa'da artık böyle bir yer yok. Bir soytarının dövüldüğü ya da balastta ölü bulunduğu haberleri kulağımıza gelmeden geçen bir hafta yok.</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>"Biliyorum. Peki ne yapmayı planlıyorsun?"</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>"Kendimize yeniden güvenlik bir sığınak oluşturacağız. Şu anda, üssün sonsuza dek ciddi insanların malı hâline geldiği, neşeli insanların tüm çabalarımıza rağmen bu konuda hiçbir şey yapamadığı bir çıkmazdayız. Sanki bir üs ele geçirildikten sonra sahibi asla değişemezmiş gibi. Bu yüzden oyunun kurallarını biraz esnetmemiz gerekecek! Dış iskelet burada devreye giriyor."</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>"Gerçekten bir tane yapabildiniz mi?"</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>"Evet, yaptık! Oyunu onlar gibi kirli oynamak istemiyoruz ama bunu şiddete başvurmadan da başarabileceğimize inanıyorum. O üssü eğlence bombardımanına tutacağız. Gece, gündüz, ne kadar sürerse sürsün, o yeri bize verene kadar, nükleer enerjiyle çalışan bisiklet kornaları ve muz kabuğu toplarıyla o yeri bir engelli koşu parkura çevireceğiz. Gidip kendilerine daha 'ciddi' bir yer bulsunlar.</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>"Bizi güç kullanarak durdurmayacaklarını mı düşünüyorsun?"</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>"Bunu deneyebilirler elbette. Ancak Eğlence Getiren 3000'le yapılacak bir iki atış bu sorunu çözecektir. Belki bir düzine atış. Yani umarım! Bu da beni asıl konumuza getiriyor; senin ve mürettebatının savaş yetenekleri ve kendi güvenliğinizi sık sık hiçe saymanız, bana kalırsa bu iş için doğru insanlar olduğunuzu gösteriyor. Bu nedenle, dış iskeleti giyip üssün kontrolünü yeniden kazanmamıza yardım edersen sonsuza dek minnettar kalırız."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>"Yardımcı olmaktan mutluluk duyarız."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>"Beni yutsaydı, bu kesinlikle hikâyenin sonu olurdu."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>"Bunu biraz düşünmemiz gerekiyor."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>"Teklifimizi düşündün mü? Eğlence Getiren 3000'i giyip üssü kontrolünü yeniden ele geçirmemize yardımcı olacak mısın?</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>"Yardımcı olmaktan mutluluk duyarız."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>"Bunu biraz düşünmemiz gerekiyor."</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>"Şu anda bunun için vaktimiz yok."</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>Şaka Ustasının bahsettiği üsse ulaştın. Eğlence Getiren 3000'i kuşan ve üssün ciddi sakinlerini, üssün Kornaanenin Çocukları'na bırakılmasını konusunda ikna edene kadar üssü eğlence bombardımanına tut.</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>İnsanlar Eğlence Getiren'den oldukça rahatsız olmuş gibi görünüyor. Belki de bu işe yarayacak!</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>Üssün uzak köşelerinden bisiklet kornalarının sesi yankılanıyor ve ardından neşeli bir nara yükseliyor; "Kornaanneye şükürler olsun!"</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>Üs sakinlerinden biri sana bağırıyor. "O şeyi buradan çıkar yoksa güvenliği çağıracağım!"</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>Bir duyuru duyuyorsun. "Tüm güvenlik personeline, o lanet olası palyaço makinesini ne pahasına olursa olsun kapat. Ölümcül güç kullanımına izin verilmiştir... yani, kullanın.</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>Bir duyuru daha duyuyorsun. "Tamam, pes ediyoruz. Buna değmez. Lanet olası üs sizin olsun, lütfen o şeyi kapat."</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>"Ah, ah, bu sensin! Başardın! O kadar saçma bir plandı ki, nasıl bu şekilde başarılı oldu hâlâ şaşkınım! Sana nasıl teşekkür edebiliriz bilmiyorum ama en azından dış iskeletin sende kalmasına müsaade edebiliriz. Belki yolculukların sırasında işine yarar."</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>"Teşekkürler!"</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>"Bisiklet kornası yolunda bu kadar kısa sürede bu kadar çok yol kat etmenden çok etkilendiğimi söylemeliyim. Bazıları için yol çok daha uzun sürüyor, bazıları yolu bulamıyor bile."</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>"Pekâlâ, sırada ne var?"</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>"Seni en fazla bu kadar ileri taşıyabileceğimi söylemek dolayı hem mutlu hem de mutsuzum. Yolun geri kalanını kendi başına yürümek zorundasın. Ancak gideceğim yönü bildiğini görebiliyorum."</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>"Hepsi bu muydu? Bana Kornaannenin ne olduğunu söylemeyecek misin?"</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>"Ah seni aptal. Ne duymak istersin? Onun damarlarında akan eğlence olduğunu mu, yoksa yolculukların boyunca edindiğin arkadaşlar olduğunu mu? Belki de o üç okkalık bir turtadır. Belki de büyük bir kaplumbağaya binen maymun tanrıdır ya da etrafımızdaki dünyayı ayakta tutan çerçeve. Bunların hepsi minik eğlenceli kelimeler ama daha önce de söylediğim gibi, bu konuda kelimeler kifayetsiz kalıyor." </EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>“…”</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>"Bunu kelimelerle açıklamaya çalışmak, tıpkı bir şakayı açıklayamaya çalışmak gibidir ve elbette başarısızlıkla sonuçlanır. Evrenin Büyük Şakası da böyledir, sözcüklerin ötesinde. Bizim adlandırdığımız şeylerin dünyasıyla gerçek dünyayı karıştırmamak gerekir."</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>Şaka Ustası sorgular bir biçimde sana bakıyor.</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>"Bize verebileceğin başka bir tavsiyen yok mu gerçekten?"</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>"Yolun sonu seni nereye götürecek tahmin edebiliyorum. Oraya vardığında, hayat denen bu oyunun kurallarını daha net anlayacaksın. Her şey apaçık gözler önüne serildiğinde, bazıları oyun oynamayı bırakmayı seçebilir, bazıları sofuluğu, bazıları da çadırı tamamen terk etmeyi. Ve bunda bir sorun yok. Bir noktada jeneriğin akmasına izin vermen gerekecek. Ben ve diğer Şaka Ustaları kendi rolümüzü oynamaya devam etmeyi, eğlenceyi sürdürmeyi ve başkalarının da bu oyunun doğasını anlamasına yardımcı olmayı seçiyoruz. Bu da güzel bir seçim. Hangi yolu seçersen seç, yolculuklarında sana bol şans ve iyi eğlenceler diliyorum. Kornaanneye şükürler olsun!"</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>"Kornaanneye şükürler olsun!"</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>Üs müdürü göğüs cebinden bir belge çıkarıyor ve düşünceli bir ifadeyle sana bakıyor. "Hmm... Bu özel görev, bizzat Victoria Petran tarafından verilmiş ve oldukça hassas ama sanırım güvenebileceğimiz biri olduğunu kanıtladın."</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>"Kim o?"</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>"Bekle biraz. Bunca zamandır bizimle çalışıyorsun ve onun adını hiç duymadın mı? Kendisi Jüpiter Ayrılıkçılarının Üsteğmeni olur. Liderimizdir, tabii bizimki kadar kötü örgütlenmiş bir grubun lideri olabileceğini düşünürsen."</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>"Ah, anlıyorum. Peki görev nedir?"</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>"Dinliyoruz. Lütfen devam et."</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>"Tormsdale olayını duydun, değil mi?"</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>"Bir şeyler çağrıştırıyor ama lütfen daha detaylı anlat."</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>"Tamam, sanırım en baştan başlamam gerek. Koalisyon kendine Europa'da bir yer edinmeye başladığında, Tormsdale açık ara en büyük bağımsız koloniydi ve Jüpiter Halk Hareketi'nin orada güçlü bir desteği vardı. Sanırım bir bakıma bağımsız kolonilerin ve Hareketin karargâhı olarak görülüyordu. O zamanlar Europa hâlâ biraz demokratikti ve genel seçimler yaklaşıyordu.”</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>"Hı-hım."</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>"Seçimlerden yalnızca birkaç hafta önce Tormsdale'de nükleer bir felaket yaşandı. Yüzden fazla insan öldü. Bu Koalisyonun işine geliyordu çünkü ölenlerin neredeyse tamamı Jüpiter Halk Hareketi'nin destekçileriydi. Bu durum teraziyi onları lehine çevirdi ve Europa'nın yasal hükümeti oldular."</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>"Kulağa tesadüf olamayacak kadar tuhaf geliyor."</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>"Öyle. Resmi açıklama bunun bir kaza olduğuydu ancak buna inanmak oldukça güç. Ondan sonra işler hızla kötüye gitti. Hareket terör örgütü ilan edildi, kurucumuz Harlow Petran suikaste uğradı, bağımsız üslerin birçoğu ele geçirildi..."</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>"Doğru. Bunların görevle nasıl bir bağlantısı var?"</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>"Koalisyonun hâlâ Tormsdale'de gerçekte neler yaşandığına dair bazı gizli raporlara sahip olduğuna inanıyoruz. Muhbirlerimizin, rapor kopyalarının yakınlardaki bir üste saklandığına dair güçlü kanıtları var. Onları ele geçirirsek, bunun yalnızca bir komplo teorisi olmadığını, Koalisyonun kurulduğundan beri kirli işler çevirdiğini diğer insanlara kanıtlayabiliriz." </EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>"Yardımcı olmaktan memnuniyet duyarız."</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>"Harika. Üssün konumunu haritanda işaretleyeceğim. Aldığımız bilgilere göre, belgeler üs müdürünün odasındaki bir dolapta saklanıyor. Onları oradan almak zor olabilir. Üs müdürüne baskı yapmayı veya kimlik kartını çalmayı deneyebilirsiniz. Her iki durumda da, lütfen olayı gizli tutmaya çalışın. </EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>Bu üs müdürü olmalı. Güvenli dolaba erişmek için kimlik kartını almanın bir yolunu bulmalısın.</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>"Merhaba. Koalisyon tarafından zorunlu kılınan bir güvenlik denetimi gerçekleştiriyoruz ve ofisinizdeki güvenli dolabı incelememiz gerekiyor. Bizim için onu açar mısınız?”</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>"Ha... Ne? Siz beni aptal mı sanıyorsunuz? Güvenliği çağırmadan ofisimden defolun."</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>“Devrim yakındır. Bize kimlik kartını ver yoksa ölürsün.”</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>Adam hemen silahını çıkartıyor.</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>"Affedersiniz efendim. Birkaç güverte aşağıda bir tartışma çıktı ve gelip sizi almam gerektiği söylendi."</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>"Anlıyorum. Bana yolu göster!"</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>"Benimle dalga mı geçmeye çalışıyorsun bilmiyorum ama işe dönmem gerekiyor. Güle güle."</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>Onu görmezden gel ve yürümeye devam et.</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>"Merhaba! Bizim için bazı önemli belgeleri bulmakla görevlendirildiğini duydum. Durum nedir?</EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>"Belgeleri buldum."</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>Üs müdürü kağıtları alıyor ve gözlerini kocaman açarak onlara bakıyor. Ah, ah! Bu çok büyük bir olay! Bunlar gerçekse, Koalisyonun Tormsdale'deki herkesi topluca katlettiğine hiçbir şüphe yok. Bunlar dışarı sızdığında, büyük bir darbe alacaklar. Bunun için size ne kadar teşekkür etsem azdır. Teğmen Petran'a hakkınızda güzel şeyler söyleyeceğim ve bunu başaranın mürettebatınız olduğunu bilmesini sağlayacağım. Zahmetlerinin karşılığını da ödeyeceğim elbette."</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>"Pekâlâ, lütfen onları bana getir! Ne yazdığını görmek için sabırsızlanıyorum."</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>"Belgeler henüz bende değil."</EventText.tormsdalereport_complete.o2>
+<afflictionname.husksymbiosis>Kabuk simbiyotu</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>Bu, sıradan bir kabuk enfeksiyonu gibi görünmüyor. Hasta bir şekilde hâlâ konuşabiliyor ve zihinsel yetilerini korumuş gibi görünüyor.</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>Yol mühürlendi. Daha ileri gitmek için ‖color:faction.separatists‖Jüpiter Ayrılıkçıları‖end‖ ile [requiredreputation] itibarına sahip olmalı ve bir üs subayından izin almalısın. İtibarını bilgi sekmesinden takip edebilirsin. \n\nMevcut itibar: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>"Bildiğin gibi bu üs Europa Sırtı'ndan önceki son durak. Her denizaltının buradan geçmesine izin vermiyoruz ancak mürettebatın hakkında söylenenlerde bir gerçeklik payı varsa, Koalisyona karşı mücadelemizde bizim için değerli bir müttefik oldunuz. Bu yüzden geçmenize memnuniyetle müsaade edeceğiz."</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>"Karakoldan geçip daha derin bölgelere mi gitmek istiyorsunuz? Üzgünüm ama başka bir yol bulmanız gerekecek. Kim olduğunuzu veya kimin için çalıştığınızı bilmiyorum. Europa Sırtı'ndaki insanları taciz etmeye giden başka bir Koalisyon piyonu olabilirsiniz. Tabii benimle paylaşabileceğim birkaç markınız varsa işler değişir, beni iyi niyetli olduğunuza ikna edebilirsiniz..."</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>"Tekrar düşündüm de düzgün tiplere benziyorsunuz. Belki de geçmenize izin vermeliyim. Sizinle iş yapmak bir keyifti." </eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>"Seçim senin. Belki de çocuk havuzunda biraz daha oyalanıp kimin bayrağını taşıman gerektiğine karar vermelisin."</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>"Yeterince paran yok mu? Pekâlâ, şansına küs. Belki de çocuk havuzunda biraz daha oyalanıp bize düşmanın tarafında olmadığını kanıtlaman gerekiyordur.</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>"Burada, Koalisyona karşı Sırt'da verdiğimiz mücadeleye değerli katkılar sunduğunuz belirtiliyor. Bundan dolayı Işıksız Plato'ya geçmenize izin veriyoruz. İyi yolculuklar!"</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>"Seni tebrik etmeliyim. Pek çok kişi Plato'dan geçemez hem de bu kadar fayda sağlayıp. Büyük Deniz'e geçmene izin vermeleri için telsiz anonsu yapacağım."</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>"Eminim öyledir. Bu Jüpiter Ayrılıkçılarının verdiği resmi bir garanti veya onay değildir. Muhafıza, başının çaresine bakabileceğini söyleyeceğim."</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>"Demek Hidrotermal Hiçlik bölgesine girmek istiyorsunuz. Neden böyle bir şey yapmak istiyorsunuz ki? Sanırım bu beni ilgilendirmez. Ayrılıkçıların dostu benim de dostumdur. Devam edin."</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>Parayı al ve çeneni kapalı tutacağına söz ver.</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>"Senin pis paranı istemiyorum. Güle güle."</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>"Ah, tanrıya şükür. Buradan asla çıkamayacağımızı düşünüyorduk!”</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>Üs müdürü tereddütte kalmış gibi görünüyor. "Bu görev biraz daha zorlu olabilir ancak itibarına bakılırsa bunu başarabilirsin."</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>"Birkaç ajanımız Koalisyon tarafından ele geçirildi ve muhbirlerimize göre yakınlardaki bir üste tutuluyorlar. Onları güvenli bir şekilde oradan kurtarabilirsen emeklerinin karşılığını almanı sağlayacağız. Konumu haritanda işaretliyorum."</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>Üs müdürü tereddütte kalmış gibi görünüyor. "Bu görev biraz daha zorlu olabilir ancak itibarına bakılırsa bunu başarabilirsin."</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>"Birkaç ajanımız Ayrılıkçılar tarafından ele geçirildi ve muhbirlerimize göre yakınlardaki bir üste tutuluyorlar. Onları güvenli bir şekilde oradan kurtarabilirsen emeklerinin karşılığını almanı sağlayacağız. Konumu haritanda işaretliyorum."</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>Bir duyuru duyuyorsun. "Tüm güvenlik personeline; kırmızı alarm. Firar girişimi var."</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>"Hey. Buraya Teğmen Petran tarafından gönderildiniz, değil mi?</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>"Evet, seni buradan çıkarmakla görevlendirildik."</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>"Evet, bunu tahmin ettim. Teşekkürler. Bir geminiz var, değil mi?"</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>"Evet, beni takip et."</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>"Aslında buradan ayrılmadan önce çözmem gereken bir iki sorun var. Beş dakika sonra geminizde buluşalım." Adam sen bir şey söyleyemeden fırlayıp gidiyor.</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>Üs müdürü göğüs cebinden bir belge çıkarıyor. "Bu, şu aşırı hassas dediğimiz görevlerden biri. Doğrudan Teğmen Petran'dan geliyor. Aslında bu işi özellikle senin ekibinin üstlenmesini istiyor."</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>"Koalisyon geçenlerde ajanlarımızdan birini yakalamayı başardı. Çok yüksek profilli biri, neyse ki kimliğinin farkında değiller gibi görünüyor, yoksa çoktan idam edilmiş olurdu."</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>"Kim?"</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>"Belki de şu anda adını anmasak daha iyi olur ama ardında yanmış Koalisyon üsleri ve gemileri bırakmış biri. Yakınlardaki bir üste tutuluyor. Onu güvenli bir şekilde oradan çıkar ve seni bekleyen büyük ödülü al."</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
+
+</infotexts>

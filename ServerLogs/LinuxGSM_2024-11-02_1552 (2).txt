@@ -1,0 +1,120 @@
+﻿[11/02/2024 15:32:50]
+  Starting the server...
+[11/02/2024 15:32:50]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/02/2024 15:32:50]
+  Server started
+[11/02/2024 15:46:48]
+  Cryonite has joined the server.
+[11/02/2024 15:46:48]
+  Saving client permissions
+[11/02/2024 15:47:02]
+  Gamemode changed to Campaign
+[11/02/2024 15:49:03]
+  LaywithMind has joined the server.
+[11/02/2024 15:49:03]
+  Saving client permissions
+[11/02/2024 15:50:54]
+  Liberator762 has joined the server.
+[11/02/2024 15:50:54]
+  Saving client permissions
+[11/02/2024 15:51:11]
+  Liberator762 is ready to start the game.
+[11/02/2024 15:51:20]
+  LaywithMind is ready to start the game.
+[11/02/2024 15:51:25]
+  Cryonite changed SelectedOutpostName to Random
+[11/02/2024 15:51:25]
+  Cryonite changed BotCount to 2
+[11/02/2024 15:51:36]
+  Starting a new round...
+[11/02/2024 15:51:38]
+  Cryonite changed SelectedOutpostName to Random
+[11/02/2024 15:51:38]
+  LaywithMind is not ready to start the game.
+[11/02/2024 15:51:38]
+  Liberator762 is not ready to start the game.
+[11/02/2024 15:51:45]
+  Game mode: Campaign
+[11/02/2024 15:51:45]
+  Submarine: HiveSub
+[11/02/2024 15:51:45]
+  Level seed: LocationName.alien.2791
+[11/02/2024 15:51:46]
+  Elliana Mooney equipped Wrench
+[11/02/2024 15:51:46]
+  Elliana Mooney unequipped Wrench
+[11/02/2024 15:51:46]
+  Elliana Mooney equipped Screwdriver
+[11/02/2024 15:51:46]
+  Andres Phillips equipped Wrench
+[11/02/2024 15:51:46]
+  Andres Phillips unequipped Wrench
+[11/02/2024 15:51:46]
+  Andres Phillips equipped Screwdriver
+[11/02/2024 15:51:46]
+  Zoe Swanson equipped Wrench
+[11/02/2024 15:51:46]
+  Zoe Swanson unequipped Wrench
+[11/02/2024 15:51:46]
+  Zoe Swanson equipped Screwdriver
+[11/02/2024 15:51:46]
+  Aldo Escobar equipped Wrench
+[11/02/2024 15:51:46]
+  Aldo Escobar unequipped Wrench
+[11/02/2024 15:51:46]
+  Aldo Escobar equipped Screwdriver
+[11/02/2024 15:51:46]
+  Aldo Escobar unequipped Screwdriver
+[11/02/2024 15:51:46]
+  Aldo Escobar equipped Crowbar
+[11/02/2024 15:51:46]
+  Son Sunderland equipped Wrench
+[11/02/2024 15:51:46]
+  Son Sunderland unequipped Wrench
+[11/02/2024 15:51:46]
+  Son Sunderland equipped Screwdriver
+[11/02/2024 15:51:46]
+  Randi Buckley equipped Screwdriver
+[11/02/2024 15:51:46]
+  Carlton Bonham equipped Wrench
+[11/02/2024 15:51:46]
+  Round started.
+[11/02/2024 15:51:47]
+  Joy Atterbury equipped Crowbar
+[11/02/2024 15:51:47]
+  Joy Atterbury: Nice to see a friendly face! We don't get too many visitors around these parts.
+[11/02/2024 15:51:47]
+  Jerrell Hajek equipped Crowbar
+[11/02/2024 15:51:47]
+  Yahaira Dyer equipped Crowbar
+[11/02/2024 15:51:47]
+  Aldo Escobar unequipped Crowbar
+[11/02/2024 15:51:47]
+  Yahaira Dyer unequipped Crowbar
+[11/02/2024 15:51:47]
+  Jerrell Hajek unequipped Crowbar
+[11/02/2024 15:51:47]
+  Randi Buckley unequipped Screwdriver
+[11/02/2024 15:51:47]
+  Joy Atterbury unequipped Crowbar
+[11/02/2024 15:51:48]
+  Carlton Bonham unequipped Wrench
+[11/02/2024 15:51:52]
+  Yahaira Dyer: What do I have to do to get transferred out of here?
+[11/02/2024 15:52:06]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:52:10]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:52:38]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:52:39]
+  Client "Cryonite" ended the round.
+[11/02/2024 15:52:39]
+  Ending the round...
+[11/02/2024 15:52:39]
+  Round ended.
+[11/02/2024 15:52:47]
+  Saving banlist
+[11/02/2024 15:52:47]
+  Shutting down the server...

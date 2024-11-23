@@ -1,0 +1,1317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+
+<!-- Generic -->
+<editor.saveall>Сохранить все</editor.saveall>
+
+<!-- Submarine editor -->
+<items>Предметы</items>
+<structures>Структуры</structures>
+<totalhullvolume>Общее водоизмещение</totalhullvolume>
+<selectedhullvolume>Выбранное водоизмещение</selectedhullvolume>
+<optimalballastlevel>оптимальный нейтральный уровень балласта: [value]</optimalballastlevel>
+<saveitemassembly>Сохранить сборку предмета</saveitemassembly>
+<insufficientballast>недостаточный объем для управления плавучестью</insufficientballast>
+<physicsbodies>Физические тела</physicsbodies>
+<opensubbutton>Открыть…</opensubbutton>
+<savesubbutton>Сохранить</savesubbutton>
+<addsubbutton>Добавить подлодку</addsubbutton>
+<addsubtooltip>Размещение другой подлодки в файл используемой подлодки. Можно использовать для добавления в основную подлодку мелких плавсредств, спасательных капсул или отделяемых секций.</addsubtooltip>
+<holdtolink>Удерживая ПРОБЕЛ, щелкните мышью, чтобы связать с другим предметом.</holdtolink>
+<allowedlinks>Допустимые связи</allowedlinks>
+<filtermapentities>Фильтр</filtermapentities>
+<charactermodebutton>Режим персонажа</charactermodebutton>
+<charactermodetooltip>Позволяет вам подбирать и использовать предметы. Полезно для размещения предметов в шкафах, включения/выключения устройств и ремонта проводки.</charactermodetooltip>
+<wiringmodebutton>Режим проводки</wiringmodebutton>
+<wiringmodetooltip>Позволяет соединять предметы проводами.</wiringmodetooltip>
+<generatewaypointsbutton>Генерировать точки маршрута</generatewaypointsbutton>
+<generatewaypointstooltip>ИИ-членам команды нужны точки маршрута для перемещения по подлодке.</generatewaypointstooltip>
+<showentitieslabel>Показать</showentitieslabel>
+<showwalls>Стены</showwalls>
+<showstructures>Структуры</showstructures>
+<showitems>Предметы</showitems>
+<showlighting>Свет</showlighting>
+<showwaypoints>Точки маршрута</showwaypoints>
+<showspawnpoints>Точки появления</showspawnpoints>
+<showlinks>Связи</showlinks>
+<showhulls>Отсеки</showhulls>
+<showgaps>Проемы</showgaps>
+<previouslyusedlabel>Ранее использованное</previouslyusedlabel>
+<subnamemissingwarning>Перед сохранением подлодки дайте ей название.</subnamemissingwarning>
+<subnameillegalcharswarning>Недопустимый символ в названии файла: ([illegalchar])</subnameillegalcharswarning>
+<subsavednotification>Подлодка сохранена: [filepath].</subsavednotification>
+<savesubdialogheader>Сохранить подлодку</savesubdialogheader>
+<savesubdialogname>Название</savesubdialogname>
+<savesubdialogdescription>Описание</savesubdialogdescription>
+<savesubdialogsettings>Настройки</savesubdialogsettings>
+<saveitemassemblydialogheader>Сохранить сборку</saveitemassemblydialogheader>
+<saveitemassemblyhideinmenus>Скрыть в меню</saveitemassemblyhideinmenus>
+<saveitemassemblydialogname>Название</saveitemassemblydialogname>
+<saveitemassemblydialogdescription>Описание</saveitemassemblydialogdescription>
+<itemassemblynamemissingwarning>Перед сохранением сборки предмета дайте ей название.</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>Уже есть сборка предмета с таким названием. Хотите заменить?</itemassemblyfileexistswarning>
+<itemassemblynameillegalcharswarning>Недопустимый символ в названии файла: ([illegalchar])</itemassemblynameillegalcharswarning>
+<nohullswarning>Не обнаружены отсеки подлодки. Отсек определяет "границы" отдельных комнат и необходим для правильной работы систем распределения воды и воздуха.</nohullswarning>
+<disconnectedventswarning>На подлодке есть вентиляционные ходы, не соединенные с генератором кислорода. Выберите вентиляционный ход и, удерживая ПРОБЕЛ, щелкните по генератору кислорода, чтобы связать их.</disconnectedventswarning>
+<disconnectedturretswarning>На подлодке есть [itemname] без соединения с зарядником. Выберите предмет и, удерживая ПРОБЕЛ, щелкните по заряднику, чтобы связать их.</disconnectedturretswarning>
+<nowaypointswarning>На подлодке не обнаружены точки маршрута. ИИ-члены команды не смогут перемещаться по подлодке без точек маршрута.</nowaypointswarning>
+<nocargospawnpointwarning>На подлодке нет точки появления для груза (они нужны для размещения купленных предметов). Чтобы решить эту проблему, создайте новую точку появления и присвойте параметру "тип появления" значение "груз".</nocargospawnpointwarning>
+<farawayentitieswarning>Одна или более структура/предмет расположены слишком далеко от подлодки. Переместить к ним камеру?</farawayentitieswarning>
+<adjustlightsprompt>Подлодка сохранена в старой версии Barotrauma, где используется другая формула расчета освещения. Сейчас освещение подлодки может казаться слишком ярким. Хотите автоматически пересчитать освещение по новой формуле?</adjustlightsprompt>
+<adjustedlightsnotification>Яркость освещения отрегулирована. Области с несколькими источниками света все еще могут быть освещены слишком ярко – если нужно, отрегулируйте свет вручную. Используя на консоли команду "multiplylights", можно отрегулировать яркость сразу всех источников света. Например, команда "multiplylights 1,1,1,0.5" уменьшит яркость на 50%.</adjustedlightsnotification>
+<noballasttagswarning>Добавьте балластным насосам метку "ballast", чтобы ИИ-персонажи знали, какие насосы используются для управления плавучестью подлодки.</noballasttagswarning>
+<insufficientfreeconnectionswarning>Модуль содержит кабельную коробку, связанную с [doorcount] дверями, но в ней только [freeconnectioncount] свободных контактов для подключения кабелей. Это может нарушить энергоснабжение аванпоста.</insufficientfreeconnectionswarning>
+<nohullnameswarning>Не заданы названия отсеков, они будут созданы автоматически. Персонажи используют названия отсеков, чтобы сообщать о происшествиях, например о пробоинах в корпусе.</nohullnameswarning>
+<deletingcontainerwithitems>Удален контейнер с предметами – удалить и предметы тоже?\n\nПредметы в контейнере:\n\n</deletingcontainerwithitems>
+<hideinmenus>Скрыть в меню</hideinmenus>
+<manuallyoutfitted>Оснащение вручную</manuallyoutfitted>
+<manuallyoutfittedtooltip>Будет ли на подлодке в начале игры достаточно вручную загруженных припасов, или только автоматически размещенные предметы и/или предметы, перемещенные вместе с игроком?</manuallyoutfittedtooltip>
+<unspecifiedsubfilename>Нет названия</unspecifiedsubfilename>
+<reloadsprite>Перезагрузить спрайт</reloadsprite>
+<resettoprefab>Сбросить значения</resettoprefab>
+<mirrorentityx>Отразить по X</mirrorentityx>
+<mirrorentityxtooltip>Повернуть зеркально по горизонтальной оси. Также можно использовать команду Ctrl + N.</mirrorentityxtooltip>
+<mirrorentityy>Отразить по Y</mirrorentityy>
+<mirrorentityytooltip>Повернуть зеркально по вертикальной оси. Также можно использовать команду Ctrl + М.</mirrorentityytooltip>
+<nonlinkedgapswarning>На подлодке есть проемы, не связанные с отсеками. Проемы должны соединяться хотя бы с одним отсеком (ведущие наружу) или двумя (проемы между комнатами).</nonlinkedgapswarning>
+<cannoteditvanillasubs>Нельзя редактировать подлодки из набора контента базовой игры!</cannoteditvanillasubs>
+<subeditor.structurecountwarning>На подлодке очень много структур, это может вызвать проблемы с производительностью. Попробуйте уменьшить количество структур.</subeditor.structurecountwarning>
+<subeditor.structurecounterror>На подлодке слишком много структур (>[max]), это приведет к проблемам с производительностью. Уменьшите количество структур.</subeditor.structurecounterror>
+<subeditor.wallcountwarning>На подлодке очень много элементов стены с коллизиями, это может вызвать проблемы с производительностью. Попробуйте уменьшить количество стен.</subeditor.wallcountwarning>
+<subeditor.wallcounterror>На подлодке слишком много элементов стены с коллизиями (>[max]), это приведет к проблемам с производительностью. Уменьшите количество элементов стены.</subeditor.wallcounterror>
+<subeditor.itemcountwarning>На подлодке очень много предметов, это может вызвать проблемы с производительностью. Попробуйте уменьшить количество предметов.</subeditor.itemcountwarning>
+<subeditor.itemcounterror>На подлодке слишком много предметов (>[max]), это приведет к проблемам с производительностью. Уменьшите количество предметов.</subeditor.itemcounterror>
+<subeditor.lightcountwarning>На подлодке очень много источников света, это может вызвать проблемы с производительностью. Попробуйте уменьшить количество ламп.</subeditor.lightcountwarning>
+<subeditor.lightcounterror>На подлодке слишком много ламп (>[max]), это приведет к проблемам с производительностью. Уменьшите количество ламп.</subeditor.lightcounterror>
+<subeditor.shadowcastinglightcounterror>На подлодке слишком много ламп, дающих тени (>[max]), это приведет к проблемам с производительностью. Уменьшите количество ламп, дающих тени, или отключите для некоторых ламп отбрасывание теней.</subeditor.shadowcastinglightcounterror>
+<canattachtoprevious>Можно прикрепить к предыдущему</canattachtoprevious>
+<canattachtoprevious.tooltip>Какие стороны этого модуля можно прикрепить к предыдущему модулю. То есть, если вы хотите, чтобы этот модуль присоединялся только к левой части стыковочного модуля, установите значение "Вправо".</canattachtoprevious.tooltip>
+<subeditor.packagealreadyexists>Набор контента с названием "[name]" уже существует. Придумайте другое название или выберите в меню существующий набор, если хотите его изменить.</subeditor.packagealreadyexists>
+<subeditor.duplicatesubinpackage>В наборе контента уже есть подлодка с таким названием. Хотите заменить файл уже существующей подлодки?</subeditor.duplicatesubinpackage>
+<stringpropertytranslate>Этот текст будет переведен на [translation] язык.</stringpropertytranslate>
+<stringpropertycannottranslate>Этот текст не будет переведен – в языковых файлах не найден текст с меткой "[tag]".</stringpropertycannottranslate>
+<subeditorlights>Лампы</subeditorlights>
+<subeditorshadowcastinglights>Тенеобразующие лампы</subeditorshadowcastinglights>
+
+<!-- Character editor -->
+<charactereditor.creatingnewjoint>Создать новый сустав</charactereditor.creatingnewjoint>
+<charactereditor.selectanchor1pos>Выберите точку крепления сустава</charactereditor.selectanchor1pos>
+<charactereditor.selectlimbtoconnect>Выберите другую конечность для присоединения к суставу</charactereditor.selectlimbtoconnect>
+<charactereditor.frozen>Заморожено</charactereditor.frozen>
+<charactereditor.spriteorientation>Ориентация спрайта</charactereditor.spriteorientation>
+<charactereditor.spritesheetorientation>Ориентация спрайт-листа</charactereditor.spritesheetorientation>
+<charactereditor.cantaddjointsnolimbelements>Нельзя добавить суставы – не найдены конечности!</charactereditor.cantaddjointsnolimbelements>
+<charactereditor.humanoidlimbdeletiondisabled>Удаление конечностей у гуманоидов временно отключено для предотвращения сбоев.</charactereditor.humanoidlimbdeletiondisabled>
+<charactereditor.tryingtospawncharacter>Попытка появления: [config]</charactereditor.tryingtospawncharacter>
+<charactereditor.nocontentpackageselected>Не выбран набор контента!</charactereditor.nocontentpackageselected>
+<charactereditor.contentpackagesaved>Набор контента сохранен: [path]</charactereditor.contentpackagesaved>
+<charactereditor.backgroundcolor>Фон \nЦвет</charactereditor.backgroundcolor>
+<charactereditor.spritesheetzoom>Масштаб спрайт-листа</charactereditor.spritesheetzoom>
+<charactereditor.reset>Сброс</charactereditor.reset>
+<charactereditor.hidebodysprites>Скрыть спрайты тела</charactereditor.hidebodysprites>
+<charactereditor.showwearables>Показать носимые предметы</charactereditor.showwearables>
+<charactereditor.lockspriteorigin>Закрепить источник спрайтов</charactereditor.lockspriteorigin>
+<charactereditor.lockspriteposition>Закрепить позицию спрайтов</charactereditor.lockspriteposition>
+<charactereditor.lockspritesize>Закрепить размер спрайтов</charactereditor.lockspritesize>
+<charactereditor.adjustcollider>Настроить коллизии</charactereditor.adjustcollider>
+<charactereditor.uniformscale>Унифицировать масштаб</charactereditor.uniformscale>
+<charactereditor.copyjointsettings>Копировать параметры сустава</charactereditor.copyjointsettings>
+<charactereditor.copyjointsettingstooltip>Настроенные параметры копируются для всех выбранных суставов.</charactereditor.copyjointsettingstooltip>
+<charactereditor.jointscale>Масштаб сустава</charactereditor.jointscale>
+<charactereditor.limbscale>Масштаб конечности</charactereditor.limbscale>
+<charactereditor.selectedanimation>Выбранная анимация</charactereditor.selectedanimation>
+<charactereditor.previouscharacter>Назад</charactereditor.previouscharacter>
+<charactereditor.nextcharacter>Далее</charactereditor.nextcharacter>
+<charactereditor.showparameters>Параметры [F1]</charactereditor.showparameters>
+<charactereditor.showspritesheet>Спрайт-лист [T]</charactereditor.showspritesheet>
+<charactereditor.drawskeleton>Скелет [N]</charactereditor.drawskeleton>
+<charactereditor.enablelights>Свет [L]</charactereditor.enablelights>
+<charactereditor.drawdamagemodifiers>Модификаторы урона [M]</charactereditor.drawdamagemodifiers>
+<charactereditor.editcharacter>ПЕРСОНАЖ [1]</charactereditor.editcharacter>
+<charactereditor.editragdoll>КУКЛА [2]</charactereditor.editragdoll>
+<charactereditor.editlimbs>КОНЕЧНОСТИ [3]</charactereditor.editlimbs>
+<charactereditor.editjoints>СУСТАВЫ [4]</charactereditor.editjoints>
+<charactereditor.editanimations>АНИМАЦИИ [5]</charactereditor.editanimations>
+<charactereditor.editiktargets>ИК-цели [I]</charactereditor.editiktargets>
+<charactereditor.freeze>Заморозка</charactereditor.freeze>
+<charactereditor.autofreeze>Автозаморозка</charactereditor.autofreeze>
+<charactereditor.limbpairediting>Изменение пары конечностей</charactereditor.limbpairediting>
+<charactereditor.animationtestpose>Проверка позы [X]</charactereditor.animationtestpose>
+<charactereditor.animationtestposeenabled>Проверка позы включена</charactereditor.animationtestposeenabled>
+<charactereditor.automove>Автоматическое передвижение</charactereditor.automove>
+<charactereditor.followcursor>Следование за курсором</charactereditor.followcursor>
+<charactereditor.showcolliders>Коллизии [C]</charactereditor.showcolliders>
+<charactereditor.editbackgroundcolor>Изменение цвета фона</charactereditor.editbackgroundcolor>
+<charactereditor.savebutton>Сохранить все</charactereditor.savebutton>
+<charactereditor.allanimationssaved>Все анимации сохранены</charactereditor.allanimationssaved>
+<charactereditor.ragdollsavedto>Кукла сохранена: [path]</charactereditor.ragdollsavedto>
+<charactereditor.charactersavedto>Файл конфигурации персонажа сохранен: [path]</charactereditor.charactersavedto>
+<charactereditor.resetbutton>Сброс</charactereditor.resetbutton>
+<charactereditor.saveragdoll>Сохранить куклу</charactereditor.saveragdoll>
+<charactereditor.providefilename>Введите название файла</charactereditor.providefilename>
+<charactereditor.loadragdoll>Загрузить куклу</charactereditor.loadragdoll>
+<charactereditor.couldntopendirectory>Не удается открыть папку [folder]!</charactereditor.couldntopendirectory>
+<charactereditor.ragdolldeletedfrom>Удалена кукла из файла [file]</charactereditor.ragdolldeletedfrom>
+<charactereditor.ragdollloadedfrom>Загружена кукла из файла [file]</charactereditor.ragdollloadedfrom>
+<charactereditor.saveanimation>Сохранить анимацию</charactereditor.saveanimation>
+<charactereditor.selectanimationtype>Выбрать тип анимации</charactereditor.selectanimationtype>
+<charactereditor.animationoftypesavedto>Анимация ([type]) сохранена: [path]</charactereditor.animationoftypesavedto>
+<charactereditor.loadanimation>Загрузить анимацию</charactereditor.loadanimation>
+<charactereditor.animationoftypedeleted>Анимация ([type]) в файле [file] удалена</charactereditor.animationoftypedeleted>
+<charactereditor.animationtypenotimplemented>Анимация ([type]) не применена!</charactereditor.animationtypenotimplemented>
+<charactereditor.animationoftypeloaded>Анимация ([type]) загружена из файла [file]</charactereditor.animationoftypeloaded>
+<charactereditor.reloadtextures>Перезагрузить текстуры</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>Создать куклу заново [F5]</charactereditor.recreateragdoll>
+<charactereditor.recreateragdolltooltip>Многие параметры требуют переделки куклы. Если настройка параметров не дает результата, щелкните по этой кнопке.</charactereditor.recreateragdolltooltip>
+<charactereditor.createnewcharacter>Создать нового персонажа</charactereditor.createnewcharacter>
+<charactereditor.copycharacter>Копировать персонажа</charactereditor.copycharacter>
+<charactereditor.copycharactertooltip>Создать копию существующего персонажа.</charactereditor.copycharactertooltip>
+<charactereditor.nofieldforparameterfound>Не найдено поле параметра [parameter]!</charactereditor.nofieldforparameterfound>
+<charactereditor.holdleftalttoadjustcyclespeed>Удерживайте Left Alt для настройки скорости цикла.</charactereditor.holdleftalttoadjustcyclespeed>
+<charactereditor.cyclespeed>Скорость цикла</charactereditor.cyclespeed>
+<charactereditor.movementspeed>Скорость передвижения</charactereditor.movementspeed>
+<charactereditor.headangle>Угол головы</charactereditor.headangle>
+<charactereditor.head>Голова</charactereditor.head>
+<charactereditor.headposition>Положение головы</charactereditor.headposition>
+<charactereditor.torsoangle>Угол торса</charactereditor.torsoangle>
+<charactereditor.torso>Торс</charactereditor.torso>
+<charactereditor.torsoposition>Положение торса</charactereditor.torsoposition>
+<charactereditor.tailangle>Угол хвоста</charactereditor.tailangle>
+<charactereditor.footangle>Угол ноги</charactereditor.footangle>
+<charactereditor.stepsize>Длина шага</charactereditor.stepsize>
+<charactereditor.handmoveamount>Объем движения руки</charactereditor.handmoveamount>
+<charactereditor.tailmovementspeed>Скорость движения хвоста</charactereditor.tailmovementspeed>
+<charactereditor.tailmovementamount>Объем движения хвоста</charactereditor.tailmovementamount>
+<charactereditor.legmovementspeed>Скорость движения ноги</charactereditor.legmovementspeed>
+<charactereditor.legmovementamount>Объем движения ноги</charactereditor.legmovementamount>
+<charactereditor.handmovementamount>Объем движения руки</charactereditor.handmovementamount>
+<charactereditor.holdleftalttomanipulatejoint>Удерживайте Left Alt для управления другой стороной сустава.</charactereditor.holdleftalttomanipulatejoint>
+<charactereditor.origin>Происхождение</charactereditor.origin>
+<charactereditor.position>Местоположение: [coordinates]</charactereditor.position>
+<charactereditor.size>Размер</charactereditor.size>
+<charactereditor.upperlimit>Верхний лимит</charactereditor.upperlimit>
+<charactereditor.lowerlimit>Нижний лимит</charactereditor.lowerlimit>
+<charactereditor.defaultname>Персонаж X</charactereditor.defaultname>
+<charactereditor.ishumanoid>Гуманоид?</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>Может проникать в подлодки?</charactereditor.canentersubmarines>
+<charactereditor.canwalk>Может ходить?</charactereditor.canwalk>
+<charactereditor.configfileoutput>Файл конфигурации</charactereditor.configfileoutput>
+<charactereditor.texturepath>Путь к тексту</charactereditor.texturepath>
+<charactereditor.selecttexture>Выбрать текстуру</charactereditor.selecttexture>
+<charactereditor.contentpackagename>Название набора контента</charactereditor.contentpackagename>
+<charactereditor.texturedoesnotexist>Нет файла с текстурой!</charactereditor.texturedoesnotexist>
+<charactereditor.defineragdoll>Настроить куклу</charactereditor.defineragdoll>
+<charactereditor.limbs>Конечности</charactereditor.limbs>
+<charactereditor.limb>Конечность</charactereditor.limb>
+<charactereditor.joints>Суставы</charactereditor.joints>
+<charactereditor.joint>Сустав</charactereditor.joint>
+<charactereditor.selectfile>Выбрать файл</charactereditor.selectfile>
+<charactereditor.missingtorsoorhead>Назначьте хотя бы одну конечность торсом или головой!</charactereditor.missingtorsoorhead>
+<charactereditor.missinglimbtype>[limbtype] – это может быть только одна конечность!</charactereditor.missinglimbtype>
+<charactereditor.charactercreated>Создан персонаж [name]</charactereditor.charactercreated>
+<charactereditor.limbtype>Тип конечности</charactereditor.limbtype>
+<charactereditor.sourcerectangle>Исходный прямоугольник</charactereditor.sourcerectangle>
+<charactereditor.id>Идентификатор</charactereditor.id>
+<charactereditor.limbwithindex>Конечность [index]</charactereditor.limbwithindex>
+<charactereditor.limbwithindexanchor>Точка крепления конечности [index]</charactereditor.limbwithindexanchor>
+<charactereditor.failedtoreadhtml>Экран редактора персонажа: Не удалось прочитать файл HTML здесь: [path]</charactereditor.failedtoreadhtml>
+<charactereditor.multipleitemswithsamehierarchy>Найдено несколько предметов одного уровня: [hierarchy] ([name]). Продолжить невозможно.</charactereditor.multipleitemswithsamehierarchy>
+<charactereditor.cannoteditvanillacharacters>Нельзя редактировать персонажей из набора контента базовой игры! Чтобы редактировать персонажа, можно создать его копию (в другом наборе контента).</charactereditor.cannoteditvanillacharacters>
+<charactereditor.existingcharacterfoundreplaceverification>В этом наборе контента уже есть персонаж с таким именем. Хотите заменить (оригинальные файлы будут утрачены)?</charactereditor.existingcharacterfoundreplaceverification>
+<charactereditor.existingcharacterfoundoverrideverification>В другом наборе контента уже есть персонаж с таким именем. Хотите создать новую версию (оригинальные файлы не будут утрачены)?</charactereditor.existingcharacterfoundoverrideverification>
+<charactereditor.existingcharacterfound>Уже есть персонаж с таким именем.</charactereditor.existingcharacterfound>
+<charactereditor.modespanel>Изменить</charactereditor.modespanel>
+<charactereditor.fileeditpanel>Файлы</charactereditor.fileeditpanel>
+<charactereditor.optionspanel>Параметры</charactereditor.optionspanel>
+<charactereditor.characterpanel>Персонаж</charactereditor.characterpanel>
+<charactereditor.toolspanel>Инструменты</charactereditor.toolspanel>
+<charactereditor.minormodestitle>Показать</charactereditor.minormodestitle>
+<charactereditor.addmultiplelimbsbutton>Добавить неск.</charactereditor.addmultiplelimbsbutton>
+<charactereditor.addaitarget>Добавить цель</charactereditor.addaitarget>
+<charactereditor.addbloodemitter>Доб. источник крови</charactereditor.addbloodemitter>
+<charactereditor.addgibemitter>Доб. источник частей</charactereditor.addgibemitter>
+<charactereditor.adddamageemitter>Доб. источник урона</charactereditor.adddamageemitter>
+<charactereditor.addsound>Добавить звук</charactereditor.addsound>
+<charactereditor.addlightsource>Добавить свет</charactereditor.addlightsource>
+<charactereditor.addattack>Добавить атаку</charactereditor.addattack>
+<charactereditor.addaffliction>Добавить недуг</charactereditor.addaffliction>
+<charactereditor.adddamagemodifier>Доб. модиф. урона</charactereditor.adddamagemodifier>
+<charactereditor.addinventory>Добавить инвентарь</charactereditor.addinventory>
+<charactereditor.addinventoryitem>Доб. предм. инвентаря</charactereditor.addinventoryitem>
+<charactereditor.selected>Выбрано</charactereditor.selected>
+<charactereditor.duplicatelimb>Удвоить конечность</charactereditor.duplicatelimb>
+<charactereditor.deleteselected>Удалить выбранное</charactereditor.deleteselected>
+<charactereditor.createjoint>Создать сустав</charactereditor.createjoint>
+<charactereditor.createlimb>Создать конечность</charactereditor.createlimb>
+<charactereditor.drawlimbonspritesheet>Нарисуйте конечность на спрайт-листе</charactereditor.drawlimbonspritesheet>
+<charactereditor.onlyshowselectedlimbs>Показывать только выбранные конечности</charactereditor.onlyshowselectedlimbs>
+<charactereditor.newcontentpackage>Новый набор контента</charactereditor.newcontentpackage>
+<charactereditor.existingjointfound>Сустав между конечностями [limbid1] и [limbid2] уже найден!</charactereditor.existingjointfound>
+<charactereditor.unrestrict>Снять ограничения</charactereditor.unrestrict>
+<charactereditor.addmultiplelimbsbutton>Добавить неск.</charactereditor.addmultiplelimbsbutton>
+<charactereditor.contentpackagenameinuse>Набор контента с таким названием уже существует. Придумайте другое название или выберите существующий набор из выпадающего меню, если хотите добавить персонажа в него.</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>Добавить неск.</charactereditor.addmultiplelimbsbutton>
+
+<!-- Entity properties -->
+<sp.scale.name>Масштаб</sp.scale.name>
+<sp.spritedepth.name>Глубина спрайта</sp.spritedepth.name>
+<sp.disallowedupgrades.name>Недопустимые улучшения</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>Скрыто в игре</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>Скрыто в игре</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>Взаимодействие недоступно</sp.item.noninteractable.name>
+<sp.item.spritecolor.name>Цвет спрайта</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>Цвет значка инвентаря</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>Цвет контейнера</sp.item.containercolor.name>
+<sp.item.containercolor.description>Изменяет цвет контейнера с этим предметом. Действует только если включены параметры контейнера UseContainedSpriteColor или UseContainedInventoryIconColor.</sp.item.containercolor.description>
+<sp.item.condition.name>Исправность</sp.item.condition.name>
+<sp.item.tags.name>Метки</sp.item.tags.name>
+<sp.item.displaysidebysidewhenlinked.name>Показывать связанные рядом</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>Включите, чтобы показывать интерфейс предмета рядом с интерфейсом другого предмета, когда предметы связаны. Внимание! Если интерфейсы для этого не предназначены, они могут отображаться неправильно!</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Глубина спрайта</sp.item.spritedepth.name>
+<sp.item.nonplayerteaminteractable.name>Взаимодействие доступно НИП</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>Если включено, с предметом могут взаимодействовать только неигровые персонажи.</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>Разрешить замену</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>Можно ли заменить этот предмет другими на аванпостах? Действует только для заменяемых предметов, например турелей.</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>Без урона</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>Если включено, предмет не получает урона от любых источников.</sp.item.invulnerabletodamage.description>
+<sp.structure.indestructible.name>Неразрушимо</sp.structure.indestructible.name>
+<sp.structure.castshadows.name>Отбрасываемые тени</sp.structure.castshadows.name>
+<sp.structure.specialtag.name>Особая метка</sp.structure.specialtag.name>
+<sp.structure.spritecolor.name>Глубина спрайта</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>Использовать отбрасывание тени</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>Отступ при отбрасывании тени</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>Положение отбрасываемой тени по отношении к структуре. При значении "0" тень размещается автоматически и направлена к центру массы подлодки.</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>Масштабирование текста</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>Отступ текста</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>Убрать при использовании связанной двери аванпоста</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>Если структура связана с дверью на краю модуля аванпоста, включение этого параметра структура убирается, когда используется дверь. Если параметр выключен, структура убирается, когда дверь НЕ используется.</sp.structure.removeiflinkedoutpostdoorinuse.description>
+<sp.structure.noaitarget.name>Не цель для ИИ</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>Если включено, монстры не нападают на эту структуру.</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>Макс. здоровье</sp.structure.maxhealth.name>
+<sp.hull.ambientlight.name>Фоновое освещение</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>Название отсека</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>Мокрый отсек</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>Этот отсек должен быть затоплен водой? Если в названии отсека есть слова "балласт", "днище" или "шлюз", вы не сможете отключить этот параметр.</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>Не оставаться</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Боты не остаются здесь, но могут проникать в отсек при необходимости и проходить через него. В мокрых отсеках обязательно включено.</sp.hull.avoidstaying.description>
+<sp.door.openingspeed.name>Скорость открывания</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>Как быстро открываются двери.</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>Скорость закрывания</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>Как быстро закрываются двери.</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>Вкл/откл задержку</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>Дверь нельзя открыть/закрыть, пока не пройдет время задержки после того, как ее открыл/закрыл другой персонаж.</sp.door.togglecooldown.description>
+<sp.door.isopen.name>Открыто</sp.door.isopen.name>
+<sp.door.isopen.description>Дверь открыта.</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>Использовать между модулями аванпоста</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>Эта дверь должна вести в другой модуль аванпоста? Применимо только к модулям аванпоста.</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Боты не закрывают</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>Если включено, боты не будут пытаться закрыть за собой эту дверь.</sp.door.botsshouldkeepopen.description>
+<sp.door.ToggleWhenClicked>Вкл./Откл. по щелчку</sp.door.ToggleWhenClicked>
+<sp.door.ToggleWhenClicked.description>Должно ли по щелчку по интегрированным в дверь кнопкам выполняться стандартное действие – открытие двери? Можно использовать с командой «активировать_сигнал» для передачи сигнала в цепь без переключения двери, когда ее пытаются открыть/закрыть.</sp.door.ToggleWhenClicked.description>
+<sp.itemcomponent.pickingtime.name>Время подбора</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>Сколько времени занимает подбор предмета (в секундах).</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>Можно подобрать</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>Можно ли подобрать предмет (или взаимодействовать с ним, если доступно другое действие, кроме подбора).</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>Разрешить изменять в игре</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>Можно ли изменять свойства компонента во время игры (применимо только если у компонента есть изменяемые в игре свойства).</sp.itemcomponent.allowingameediting.description>
+<sp.itemcomponent.msg.name>Подсказка</sp.itemcomponent.msg.name>
+<sp.itemcomponent.msg.description>Текст, который отображается при выборе предмета (как правило, подсказывает, что с ним делать, т. е. "[Mouse1] Взять").</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>Насколько далеко распространяется разряд от предмета.</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>Множитель расстояния в стенах</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>Насколько далеко пойдет разряд вдоль стен.</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>Длительность</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>Длительность одного разряда (в секундах).</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>Только снаружи</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>Если включено, разряд не будет распространяться внутри подлодки или поражать током кого-либо внутри.</sp.electricaldischarger.outdoorsonly.description>
+<sp.electricaldischarger.reload.name>Перезарядка</sp.electricaldischarger.reload.name>
+<sp.electricaldischarger.reload.description>Время в секундах, необходимое предмету для "перезарядки", прежде чем он снова станет активен.</sp.electricaldischarger.reload.description>
+<sp.powered.minvoltage.name>Мин. напряжение</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>Минимальное напряжение, необходимое для работы устройства. Напряжение = энергия/потребление энергии, то есть устройству с потреблением энергии 1000 кВт требует не менее 500 кВт энергии для работы при минимальном напряжении 0,5 В.</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>Потребление энергии</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>Сколько энергии потребляет (или пытается потребить) из электросети работающее устройство.</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>Уязвимо к ЭМИ</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>Получит ли предмет повреждения от электромагнитных импульсов?</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>Идентификатор предмета</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>Идентификатор появляющегося предмета; ничего не делает, если выбрано "Название существа". Для появления нескольких предметов в случайном порядке разделите индикаторы запятой.</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>Название существа</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>Название существа, которое появится; приоритетно, если задан "Идентификатор предмета". Для появления нескольких существ в случайном порядке разделите индикаторы запятой.</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Появляется только если команда рядом</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Появляется только если члены команды находятся в радиусе действия.</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>Форма области команды</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>Форма области, в которой должны находиться члены команды.</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>Границы области команды</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>Размер прямоугольника, в котором должны находиться члены команды. Не действует, если для "Формы области команды" выбрано значение "Круг".</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>Радиус области команды</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>Радиус круга, в котором что-то появляется. Не действует, если для "Формы области команды" выбрано значение "Прямоугольник".</sp.entityspawnercomponent.crewarearadius.description>
+<sp.entityspawnercomponent.crewareaoffset.name>Отступ области команды</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>Отступ области команды от центра предмета.</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>Форма области появления</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>Форма области, в которой появляются враги или предметы.</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>Границы области появления</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>Размер прямоугольника, в котором появляются предметы или существа. Не действует, если для "Формы области появления" выбрано значение "Круг".</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>Радиус области появления</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>Радиус круга, в котором появляются предметы или существа. Не действует, если для "Формы области появления" выбрано значение "Прямоугольник".</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>Отступ области появления</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>Отступ области появления от центра предмета.</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>Диапазон таймера появления</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>Время между попытками появления (в секундах). Установите для обоих параметров отрицательные значения, чтобы отключить автоматическое появление.</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>Диапазон количества появления</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>Минимальное и максимальное количество предметов или существ, появляющихся одновременно.</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>Макс. количество</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>Максимальное количество появляющихся предметов или существ. 0 = без ограничений.</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>Макс. количество в области</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>Количество предметов или существ в области появления, при котором не будут появляться новые предметы или существа. 0 = без ограничений.</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>Макс. количество в расширенной области</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>Это значение расширяет до круга прямоугольную область появления, в которой учитывается максимальное количество появившихся предметов или врагов.</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.entityspawnercomponent.preloadcharacter.name>Предзагрузка персонажа</sp.entityspawnercomponent.preloadcharacter.name>
+<sp.entityspawnercomponent.preloadcharacter.description>Персонажи могут "предварительно загружаться" в начале раунда, чтобы при появлении не вызывать "торможения" игры.</sp.entityspawnercomponent.preloadcharacter.description>
+<sp.holdable.holdpos.name>Положение удержания</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>Положение, в котором персонаж держит предмет (отступ от плеча персонажа в пикселях). Например, при значении "10,-100" персонаж будет держать предмет на 100 пикселей ниже плеча и на 10 пикселей впереди.</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>Угол удержания</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>Наклон удерживаемого предмета (в градусах, относительно поворота руки персонажа).</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>Расстояние отклонения</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>Насколько предмет отклоняется при нацеливании/удержании (отступ от AimPos/HoldPos в пикселях).</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>Скорость отклонения</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>Насколько быстро предмет отклонятся при нацеливании/удержании (действует только если задано SwingAmount).</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>Отклонение при удержании</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>Будет ли предмет отклоняться вокруг оси, когда его держат.</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>Отклонение при прицеливании</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>Будет ли предмет отклоняться вокруг оси, когда его нацеливают.</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>Отклонение при использовании</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>Будет ли предмет отклоняться вокруг оси, когда его используют (например, при выстреле из оружия или применении сварочного аппарата).</sp.holdable.swingwhenusing.description>
+<sp.holdable.disableheadrotation.name>Отключить вращение головы</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>Глубина лежащего спрайта</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>Глубина спрайта, когда предмет НЕ прикреплен к стене.</sp.holdable.spritedepthwhendropped.description>
+<sp.holdable.aimangle.name>Угол прицеливания</sp.holdable.aimangle.name>
+<sp.holdable.aimangle.description>Угол в градусах, под которым персонаж держит предмет во время прицеливания (относительно вращения руки персонажа).</sp.holdable.aimangle.description>
+<sp.rangedweapon.penetration.name>Пробивная способность</sp.rangedweapon.penetration.name>
+<sp.rangedweapon.penetration.description>Процент смягчения урона, игнорируемый при попадании в бронированные части тела (сгибающиеся конечности). Учитывается используемое оружие и снаряд.</sp.rangedweapon.penetration.description>
+<sp.itemcontainer.containablerestrictions.name>Ограничения контейнера</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>Определяет предметы (идентификаторами или метками), которые боты будут складывать в этот контейнер. Если значение не задано, то ограничений нет.</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>Автозаполнение</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>Будет ли этот контейнер автоматически заполняться предметами?</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>Текст</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>Текст на наклейке.</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>Без локализации</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>Игнорировать ли локализацию, показывая исходный текст.</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>Цвет текста на наклейке (RGBA).</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>Размер текста на наклейке.</sp.itemlabel.textscale.description>
+<sp.lightcomponent.range.description>Дальность освещения. Чем выше значение, тем дальше светит лампа.</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>Отбрасываемые тени</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>Будут ли структуры отбрасывать тени, когда на них попадает свет ламп. Отключение отбрасываемых теней повышает производительность игры и рекомендуется для ламп с малой дальностью освещения. Источники света, расположенные позади подлодок, никогда не отбрасывают тени.</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>Расположить позади подлодок</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>Источники света позади подлодок никогда не отбрасывают тени и прорисовываются гораздо быстрее ламп, отбрасывающих тени. Рекомендуется включать этот параметр для декоративного внешнего освещения корпуса подлодки.</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.ison.description>Включена ли лампа.</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>Мерцание</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>Насколько сильно мерцает свет. 0 = нет мерцания, 1 = свет то ярко горит, то полностью гаснет.</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>Скорость мерцания</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>Насколько быстро мерцает свет.</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>Частота пульсации</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>Насколько быстро пульсирует свет (в Гц). 0 = нет пульсации.</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>Сила пульсации</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>Насколько сильно пульсирует свет (в Гц). 0 = нет пульсации, 1 = то светит максимально ярко, то отключается.</sp.lightcomponent.pulseamount.description>
+<sp.lightcomponent.blinkfrequency.name>Частота мигания</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>Насколько часто свет мигает, т. е. включается/выключается (в Гц). 0 = нет мигания.</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.lightcolor.description>Цвет освещения (R,G,B,A).</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>Переключение</sp.controller.istoggle.name>
+
+<sp.controller.state.name>Состояние</sp.controller.state.name>
+<sp.controller.state.description>Включен или выключен предмет. Действует только если включен параметр IsToggle.</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>Скорость деконструкции</sp.deconstructor.deconstructionspeed.name>
+<sp.Deconstructor.DeconstructionSpeed.name>Скорость деконструкции</sp.Deconstructor.DeconstructionSpeed.name>
+<sp.Deconstructor.DeconstructionSpeed.description>Множитель скорости деконструкции.</sp.Deconstructor.DeconstructionSpeed.description>
+<sp.engine.maxforce.name>Макс. сила</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>Количество силы, действующее на подлодку, когда двигатель работает на полную мощность.</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>Положение винта</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>Положение винта как отступ от центра предмета (в пикселях). Определяет, где появляются частицы и в каком положении персонажи получают урон от двигателя, если задан параметр PropellerDamage.</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>Отключить повреждение винта</sp.engine.disablepropellerdamage.name>
+<sp.minimap.requirewaterdetectors.name>Требуются детекторы воды</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>Требуются ли машине детекторы воды, чтобы показывать уровень воды в отсеках.</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>Требуются детекторы кислорода</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>Требуются ли машине детекторы кислорода, чтобы показывать уровень кислорода в отсеках.</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>Показывать целостность корпуса</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>Отображение поврежденных стен.</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>Включить состояние корпуса</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>Включить режим состояния корпуса.</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>Показать электрику</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>Включить отображение электрики.</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>Включить поиск предмета</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>Включить режим поиска предмета.</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>Макс. поток</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>Насколько быстро предмет качает воду на полной мощности.</sp.pump.maxflow.description>
+<sp.reactor.maxpoweroutput.name>Макс. выработка энергии</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>Сколько энергии (кВт) реактор вырабатывает на полной мощности.</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>Задержка плавления</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>Сколько времени температура будет критической до плавления.</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>Задержка возгорания</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>Сколько времени температура будет критической до возгорания реактора.</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>Скорость расхода топлива</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>Насколько быстро расходуются топливные стержни (в секунду).</sp.reactor.fuelconsumptionrate.description>
+<sp.reactor.explosiondamagesothersubs.name>Урон от взрыва другим подлодкам</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>Использовать преобразователи</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>Требуется ли сонару подключение к внешним преобразователям.</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>Центрировать на преобразователях</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>Центрирование сонара на преобразователях или на центре массы подлодки. Действует только если включен параметр UseTransducers.</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>Есть сканер минералов</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>Есть ли у сонара режим сканирования минералов.</sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>Нейтральный уровень балласта</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>Насколько должны быть наполнены балластные баки, чтобы подлодка не опускалась и не всплывала. Используйте этот параметр, когда балластные баки слишком большие/маленькие по сравнению с размером подлодки.</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>Макс. мощность</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>Максимальная мощность полностью заряженного устройства (кВт).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>Емкость</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>Максимальная емкость устройства (кВт/мин). Например, значение 1000 показывает, что устройство выдает 100 кВт энергии в течение 10 минут, или 1000 кВт в течение 1 минуты.</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.description>Уровень заряда устройства.</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>Макс. скорость зарядки</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>Насколько быстро подзаряжается устройство. Например, скорость зарядки 100 кВт и емкость 1000 кВт/мин означают, что устройство полностью зарядится за 10 минут.</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>Скорость зарядки</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>Скорость зарядки устройства.</sp.powercontainer.rechargespeed.description>
+<sp.powercontainer.efficiency.name>Эффективность</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>Количество энергии, которое дает предмет, по сравнению с количеством энергии, которое он потребляет.</sp.powercontainer.efficiency.description>
+<sp.PowerContainer.FlipIndicator.name>Перевернуть индикатор</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>Нужно ли перевернуть индикатор зарядки, чтобы он заполнялся с другой стороны.</sp.PowerContainer.FlipIndicator.description>
+<sp.powertransfer.canbeoverloaded.name>Возможна перегрузка</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>Может ли предмет повредиться при избыточной мощности энергосети.</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>Напряжение перегрузки</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>Сколько энергии можно подать в энергосеть по сравнению с обычной нагрузкой перед тем, как предмет начнет повреждаться. Т. е., при значении 2 сеть получает вдвое больше энергии, чем потребляют подключенные к ней устройства.</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>Вероятность возгорания</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>Вероятность возгорания при поломке предмета.</sp.powertransfer.fireprobability.description>
+<sp.quality.qualitylevel.name>Уровень качества</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>Скорость порчи</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>Насколько быстро портится предмет (в секунду).</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>Мин. задержка порчи</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>Минимальная начальная задержка перед тем как предмет начнет портиться.</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>Макс. задержка порчи</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>Максимальная начальная задержка перед тем как предмет начнет портиться.</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>Мин. условие порчи</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>Предмет на начнет спонтанно портиться, если его исправность ниже этого значения. Например, при значении 10 исправность спонтанно ухудшится до 10, а потом перестанет ухудшаться (если только на предмет не подействуют внешние факторы). В процентах от максимальной исправности.</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>Порог ремонта</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>Предмет можно отремонтировать, если его исправность ниже этого значения. В процентах от максимальной исправности.</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>Время ремонта – низкий навык</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>Время ремонта предмета при недостаточных навыках.</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>Время ремонта – высокий навык</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>Время ремонта предмета при достаточных навыках.</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>Вращение ствола</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>Вращение ствола в градусах.</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>Сигналы</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>При нажатии кнопки передается соответствующий сигнал.</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>Активация предметов</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>Если у предмета есть идентификаторы или метки, можно использовать кнопки на терминале. Несколько меток иди идентификаторов разделяются запятыми.</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>Заблокировано</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>В заблокированных панелях нельзя менять проводку во время игры.</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>Макс. значение – длина</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>Максимальное сохраняемое значение – длина. Внимание! Большие значения могут занять много памяти или вызвать проблемы с сетевым соединением.</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>Записываемое</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>Можно ли сохранить значение в памяти, изменяется сигналами.</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>Игнорировать трупы</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>Должен ли датчик игнорировать тела мертвых персонажей?</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>Горизонтальный диапазон обнаружения.</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>Вертикальный диапазон обнаружения движения.</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>Отступ обнаружения</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>Положение обнаружения движения относительно предмета. Например: 0,100 определит движение в 100 ед. над предметом.</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>Интервал проверки</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>Насколько часто датчик проверяет наличие движущихся объектов вокруг. Чем больше значение, тем лучше производительность.</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>Сигнал, испускаемый предметом при обнаружении движения.</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>Сигнал, испускаемый предметом, когда движение не обнаружено.</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>Минимальная скорость</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>Насколько быстро (м/с) должны двигаться предметы в зоне действия датчика, чтобы он их обнаружил.</sp.motionsensor.minimumvelocity.description>
+<sp.terminal.welcomemessage.name>Приветственное сообщение</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>Сообщение на экране при первом включении терминала.</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>Моноширинный шрифт</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>Если поставить здесь отметку, на терминале будет использоваться моноширинный шрифт.</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>Цвет текста</sp.textcolor.name>
+<sp.terminal.textcolor.description>Цвет текста на терминале.</sp.terminal.textcolor.description>
+<sp.terminal.linestartsymbol.name>Символ начала строки</sp.terminal.linestartsymbol.name>
+<sp.terminal.readonly.name>Только чтение</sp.terminal.readonly.name>
+<sp.range.name>Диапазон</sp.range.name>
+<sp.wificomponent.range.description>На каком расстоянии приемник получит беспроводной сигнал от этого компонента.</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>Разрешить общение между командами</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>Может ли компонент устанавливать связь с беспроводными компонентами на подлодке другой команды (т. е. на вражеской подлодке в боевых заданиях, на челноке возрождения). Этот параметр должен быть включен на обоих компонентах – и на передатчике сигнала, и на приемнике.</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>Связь с чатом</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>Если этот параметр включен, все сигналы от другого связанного с чатом беспроводного компонента отображаются как сообщения в окне чата игрока, использующего предмет.</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>Мин. интервал сообщений чата</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>Сколько секунд должно пройти между сигналами для отображения сообщения в окне чата. Не рекомендуется задавать очень маленькое значение – сообщений может быть слишком много, если есть связанные с чатом беспроводные компоненты, постоянно передающие сигналы.</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>Не показывать дубликаты сообщений чата</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>Если включено, сообщения чата будут создаваться только при изменении принятых сигналов.</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>Без автоблокировки</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>Если включено, на этот провод не подействует настройка "Блокировать все стандартные линии".</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>Использовать глубину спрайта</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>Если включить, этот провод будет использовать глубину спрайта вместо постоянной глубины.</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>Максимальная сила, прилагаемая к активирующим объектам.</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>Сила зависит от расстояния</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>Будет ли сила тем больше, чем ближе активирующий объект к центру активируемого предмета.</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>Изменение силы</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>Будет ли сила меняться со временем или останется постоянной.</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>Оттенок интерфейса</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>Оттенок цвета интерфейса при использовании предмета (R,G,B,A).</sp.turret.hudtint.description>
+<sp.turret.reload.name>Перезарядка</sp.turret.reload.name>
+<sp.turret.reload.description>Время задержки между выстрелами.</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>Выстрелов в залпе</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>Сколько снарядов будет выпущено перед более долгой задержкой. (Подумайте о двойной магнитной пушке).</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>Задержка между залпами</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>Более долгая задержка между залпами. Добавляется ко времени перезарядки.</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>Множитель времени возвращения ствола</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>Определяет время возвращения ствола в исходное положение после выстрела. Также связано со временем перезарядки.</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>Время отдачи</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>Насколько быстро отдача сдвигает ствол назад после выстрела.</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>Задержка возвращения</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>Насколько долго ствол остается на месте после отдачи и перед возвращением в исходное положение.</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>Лимит вращения</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>Диапазон поворота ствола.</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>Сопротивление – низкий навык</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>Какое усилие требуется для поворота ствола персонажем с недостаточным уровнем навыков. Чем выше значение, тем быстрее поворачивается ствол.</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>Сопротивление – высокий навык</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>Какое усилие требуется для поворота ствола персонажем с достаточным уровнем навыков. Чем выше значение, тем быстрее поворачивается ствол.</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>Удержание ствола – низкий навык</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>Какое усилие требуется для удержания ствола на месте персонажем с недостаточным уровнем навыков. При высоких значениях прицеливание будет более быстрым – ствол не будет отклоняться от направления прицеливания.</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>Удержание ствола – высокий навык</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>Какое усилие требуется для удержания ствола на месте персонажем с достаточным уровнем навыков. При высоких значениях прицеливание будет более быстрым – ствол не будет отклоняться от направления прицеливания.</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>Скорость поворота – низкий навык</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>Максимальная угловая скорость ствола при использовании предмета персонажем с недостаточным уровнем навыков.</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>Скорость поворота – высокий навык</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>Максимальная угловая скорость ствола при использовании предмета персонажем с достаточным уровнем навыков.</sp.turret.rotationspeedhighskill.description>
+<sp.turret.AutoOperate.name>Автоуправление</sp.turret.AutoOperate.name>
+<sp.turret.RandomAimAmount.name>Величина произвольного прицеливания</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimMinTime.name>Мин. длительность произв. прицеливания</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMaxTime.name>Макс. длительность произв. прицеливания</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomMovement.name>Произвольное движение</sp.turret.RandomMovement.name>
+<sp.turret.AimDelay.name>Задержка прицеливания</sp.turret.AimDelay.name>
+<sp.turret.TargetCharacters.name>Наведение на персонажей</sp.turret.TargetCharacters.name>
+<sp.turret.TargetMonsters.name>Наведение на монстров</sp.turret.TargetMonsters.name>
+<sp.turret.TargetHumans.name>Наведение на людей</sp.turret.TargetHumans.name>
+<sp.turret.TargetSubmarines.name>Наведение на подлодки</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetItems.name>Наведение на предметы</sp.turret.TargetItems.name>
+<sp.turret.FriendlyTag.name>Дружеская метка</sp.turret.FriendlyTag.name>
+<sp.dockingport.maindockingport.name>Главный стыковочный порт</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>Если включено, этот стыковочный порт используется при появлении подлодки, пристыкованной к аванпосту (если это возможно).</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>Применить эффекты при стыковке</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>Срабатывание эффектов OnUse StatusEffects при стыковке (эффекты в стандартных стыковочных портах – излучение и звук).</sp.dockingport.applyeffectsondocking.description>
+<sp.dockingport.forcedockingdirection.name>Направление стыковки</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>Направление, в котором разрешена стыковка к этому порту. Например, "Верх" означает, что этот порт можно пристыковать к другому порту, находящемуся сверху, над этим. Обычно нет необходимости изменять этот параметр, но если вы заметили неправильное стыковочное положение (например из-за необычного стыковочного порта без отсеков или дверей), вы можете задать нужное направление.</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>Взмах</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>Направление взмаха</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>Сила взмаха</sp.meleeweapon.swingforce.name>
+<sp.force.name>Сила</sp.force.name>
+<sp.propulsion.force.description>Сила, действующая на тело пользователя.</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>Объем производства</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>Сколько кислорода вырабатывает машина на полной мощности.</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>Сигнал отправляется при достижении условия.</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>Сигнал отправляется при достижении условия (если нет условия, не будет и сигнала).</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>Максимальная длина сообщения. Внимание! Большие значения могут занять много памяти или вызвать проблемы с сетевым соединением.</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>Насколько долго предмет задерживает сигналы (в секундах).</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>Сбросит ли компонент полученные ранее сигналы при получении нового сигнала.</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>Сбросит ли компонент полученные ранее сигналы при получении другого сигнала.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>Тип сигнала</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>Тип передаваемого предметом сигнала. Импульс: периодический сигнал 1. Пила: периодическая волна сигналов, линейно увеличивающихся от 0 до 1. Синусоида: волна сигналов, изменяющихся по синусоиде от -1 до 1. Квадрат: чередующийся сигнал – то 0, то 1. Треугольник: волна сигналов, линейно увеличивающихся от -1 до 1 и уменьшающихся от 1 до -1, а затем наоборот.</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>Частота</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>Насколько быстро меняется сигнал или насколько быстро отправляется импульс (в Гц).</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>Максимальная длина сообщения. Внимание! Большие значения могут занять много памяти или вызвать проблемы с сетевым соединением.</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>Макс. энергия</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>Максимальное количество энергии, которое может пропустить предмет.</sp.relaycomponent.maxpower.description>
+<sp.greatercomponent.output.description>Сигнал отправляется, если первый сигнал сильнее второго (если пусто, сигнал не отправляется).</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>Сигнал отправляется, если первый сигнал слабее или идентичен второму (если пусто, сигнал не отправляется).</sp.greatercomponent.falseoutput.description>
+<sp.ison.name>Включено</sp.ison.name>
+<sp.relaycomponent.ison.description>Может ли реле сейчас передавать энергию и сигналы.</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>Сигнал, который выдает этот предмет, когда полученный сигнал соответствует целевому сигналу.</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>Сигнал, который выдает этот предмет, когда полученный сигнал не соответствует целевому сигналу.</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>Значение для сравнения с полученными сигналами.</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>Макс. длина исходящих</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>Максимальная длина исходящих сообщений. Внимание! Большие значения могут занять много памяти или вызвать проблемы с сетевым соединением.</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>Сигнал, испускаемый предметом под водой.</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>Сигнал, испускаемый предметом над водой.</sp.waterdetector.falseoutput.description>
+
+<!-- Entity names -->
+<entityname.hull>Отсек</entityname.hull>
+<entitydescription.hull>Отсеки являются границами "внутреннего" пространства лодки. Все комнаты лодки должны находиться внутри отсеков.</entitydescription.hull>
+<entityname.gap>Проем</entityname.gap>
+<entitydescription.gap>Через проемы вода и воздух проходят между двумя отсеками.</entitydescription.gap>
+<entityname.waypoint>Точка маршрута</entityname.waypoint>
+<entitydescription.waypoint>ИИ-члены команды используют точки маршрута для перемещения по подлодке.</entitydescription.waypoint>
+<entityname.spawnpoint>Точка появления</entityname.spawnpoint>
+<entitydescription.spawnpoint>Определяет, в каких комнатах появляются члены команды.</entitydescription.spawnpoint>
+
+<!-- Structure names -->
+<entityname.horizontalresizablewindow>Окно, изменяемое по горизонтали</entityname.horizontalresizablewindow>
+<entityname.verticalresizablewindow>Окно, изменяемое по вертикали</entityname.verticalresizablewindow>
+<entityname.ff_x_wall>Большая горизонтальная внутренняя стена</entityname.ff_x_wall>
+<entityname.ff_x_wall_cables>Большая горизонтальная внутренняя стена с проводкой</entityname.ff_x_wall_cables>
+<entityname.ff_y_wall>Большая вертикальная внутренняя стена</entityname.ff_y_wall>
+<entityname.inwalll90cables>Большая вертикальная внутренняя стена с проводкой</entityname.inwalll90cables>
+<entitydescription.resizeablewallwithcollisiondetection>Масштабируемая стена с детектором коллизий.</entitydescription.resizeablewallwithcollisiondetection>
+<entityname.inwalllcaph1>Большая внутренняя стена – крышка H1</entityname.inwalllcaph1>
+<entityname.inwalllcaph2>Большая внутренняя стена – крышка H2</entityname.inwalllcaph2>
+<entityname.inwalllcaph3>Большая внутренняя стена – крышка H3</entityname.inwalllcaph3>
+<entityname.inwalllcapy1>Большая внутренняя стена – крышка V1</entityname.inwalllcapy1>
+<entityname.inwalllcapy2>Большая внутренняя стена – крышка V2</entityname.inwalllcapy2>
+<entityname.inwalllcapy4>Большая внутренняя стена – крышка V4</entityname.inwalllcapy4>
+<entityname.inwallltieh1>Большая внутренняя стена – анкер H1</entityname.inwallltieh1>
+<entityname.inwallltieh2>Большая внутренняя стена – анкер H2</entityname.inwallltieh2>
+<entityname.inwallltieh3>Большая внутренняя стена – анкер H3</entityname.inwallltieh3>
+<entityname.inwallltiev1>Большая внутренняя стена – анкер V1</entityname.inwallltiev1>
+<entityname.inwallltiev2>Большая внутренняя стена – анкер V2</entityname.inwallltiev2>
+<entityname.inwallltiev3>Большая внутренняя стена – анкер V3</entityname.inwallltiev3>
+<entitydescription.wallcap>Декоративный элемент для установки на концах или пересечениях труб на стенах.</entitydescription.wallcap>
+<entityname.ff_wall_b>Задняя стена – балласт А1</entityname.ff_wall_b>
+<entityname.ff_wall_bp>Задняя стена – балласт А2</entityname.ff_wall_bp>
+<entityname.bwbc>Задняя стена – балласт С</entityname.bwbc>
+<entityname.ff_wall_c1>Задняя стена С1</entityname.ff_wall_c1>
+<entityname.ff_wall_c2>Задняя стена С2</entityname.ff_wall_c2>
+<entityname.ff_wall_c3>Задняя стена С3</entityname.ff_wall_c3>
+<entityname.ff_wall_d1>Задняя стена D1</entityname.ff_wall_d1>
+<entityname.ff_wall_d2>Задняя стена D2</entityname.ff_wall_d2>
+<entityname.ff_wall_d3>Задняя стена D3</entityname.ff_wall_d3>
+<entityname.ff_wall_e>Задняя стена E</entityname.ff_wall_e>
+<entityname.ff_wall_e2>Задняя стена E2</entityname.ff_wall_e2>
+<entityname.ff_wall_g1>Задняя стена G1</entityname.ff_wall_g1>
+<entityname.ff_wall_g2>Задняя стена G2</entityname.ff_wall_g2>
+<entityname.ff_wall_g3>Задняя стена G3</entityname.ff_wall_g3>
+<entityname.ff_wall_h1>Задняя стена H1</entityname.ff_wall_h1>
+<entityname.bgorangepanels>Задняя стена – оранжевые панели</entityname.bgorangepanels>
+<entityname.bgorangepanelwindow>Задняя стена – оранжевые панели с окном</entityname.bgorangepanelwindow>
+<entityname.bgpanels>Задняя стена – панели</entityname.bgpanels>
+<entityname.bgpanelswindow>Задняя стена – окно</entityname.bgpanelswindow>
+<entityname.PipesBackground>Задняя стена – трубы</entityname.PipesBackground>
+<entityname.roughbgwall>Задняя стена – потертая</entityname.roughbgwall>
+<entityname.cleanbgwall>Задняя стена – чистая</entityname.cleanbgwall>
+<entitydescription.backgroundwall>Декоративная фоновая стена.</entitydescription.backgroundwall>
+<entityname.exta_tail>Старый хвостовой стабилизатор A</entityname.exta_tail>
+<entitydescription.tailwithcollision>Хвостовая часть подлодки с детектором коллизий.</entitydescription.tailwithcollision>
+<entityname.tailfina>Хвостовой стабилизатор A</entityname.tailfina>
+<entityname.tailfinb>Хвостовой стабилизатор B</entityname.tailfinb>
+<entityname.tailfinc>Хвостовой стабилизатор C</entityname.tailfinc>
+<entityname.tailfind>Хвостовой стабилизатор D</entityname.tailfind>
+<entityname.tailfind2p1>Хвостовой стабилизатор D2 P1</entityname.tailfind2p1>
+<entityname.tailfind2p2>Хвостовой стабилизатор D2 P2</entityname.tailfind2p2>
+<entityname.tailfind2p3>Хвостовой стабилизатор D2 P3</entityname.tailfind2p3>
+<entityname.tailfind3p1>Хвостовой стабилизатор D3 P1</entityname.tailfind3p1>
+<entityname.tailfind3p2>Хвостовой стабилизатор D3 P2</entityname.tailfind3p2>
+<entityname.tailfind3p3>Хвостовой стабилизатор D3 P3</entityname.tailfind3p3>
+<entityname.tailfinep1>Хвостовой стабилизатор E P1</entityname.tailfinep1>
+<entityname.tailfinep2>Хвостовой стабилизатор E P2</entityname.tailfinep2>
+<entityname.tailfinfp3>Хвостовой стабилизатор E P3</entityname.tailfinfp3>
+<entityname.tailfinf1>Хвостовой стабилизатор F1</entityname.tailfinf1>
+<entityname.tailfinf2>Хвостовой стабилизатор F2</entityname.tailfinf2>
+<entityname.tailfinf3>Хвостовой стабилизатор F3</entityname.tailfinf3>
+<entityname.tailfinf4>Хвостовой стабилизатор F4</entityname.tailfinf4>
+<entitydescription.tailnocollision>Декоративная хвостовая часть подлодки без детектора коллизий.</entitydescription.tailnocollision>
+<entityname.exta_front>Нос подлодки A</entityname.exta_front>
+<entityname.subfrontb>Нос подлодки B</entityname.subfrontb>
+<entityname.subfrontc>Нос подлодки C</entityname.subfrontc>
+<entityname.subfrontd>Нос подлодки D</entityname.subfrontd>
+<entityname.subfronte>Нос подлодки E</entityname.subfronte>
+<entityname.subfrontg1p1>Нос подлодки F – верх</entityname.subfrontg1p1>
+<entityname.subfrontg1p2>Нос подлодки F – центр</entityname.subfrontg1p2>
+<entityname.subfrontg1p3>Нос подлодки F – низ</entityname.subfrontg1p3>
+<entityname.subfrontg2p1>Нос подлодки G – верх</entityname.subfrontg2p1>
+<entityname.subfrontg2p2>Нос подлодки G – центр</entityname.subfrontg2p2>
+<entityname.subfrontg2p3>Нос подлодки G – низ</entityname.subfrontg2p3>
+<entitydescription.frontwithcollision>Носовая часть подлодки с детектором коллизий.</entitydescription.frontwithcollision>
+<entityname.frontfchaina1>Передняя цепь 1</entityname.frontfchaina1>
+<entityname.frontfchaina2>Передняя цепь 2</entityname.frontfchaina2>
+<entityname.frontpulley>Передний блок</entityname.frontpulley>
+<entityname.shellaboard0dega>Полоса металла горизонтальная малая</entityname.shellaboard0dega>
+<entityname.shellaboard0degb>Полоса металла горизонтальная большая</entityname.shellaboard0degb>
+<entityname.shellaboard90dega>Полоса металла вертикальная малая</entityname.shellaboard90dega>
+<entityname.shellaboard90degb>Полоса металла вертикальная большая</entityname.shellaboard90degb>
+<entityname.leftwall>Базовая стена – левая</entityname.leftwall>
+<entityname.LeftWallHeavy>Тяжелая стена – левая</entityname.LeftWallHeavy>
+<entityname.rightwall>Базовая стена – правая</entityname.rightwall>
+<entityname.RightWallHeavy>Тяжелая стена – правая</entityname.RightWallHeavy>
+<entityname.topwall>Базовая стена – верх</entityname.topwall>
+<entityname.TopWallHeavy>Тяжелая стена – верх</entityname.TopWallHeavy>
+<entityname.shella90deg>Обшивка A 90 градусов</entityname.shella90deg>
+<entityname.shella16deg>Обшивка A 16 градусов</entityname.shella16deg>
+<entityname.shella34deg>Обшивка A 34 градуса</entityname.shella34deg>
+<entityname.shella0deg>Обшивка A 0 градусов</entityname.shella0deg>
+<entityname.shella04deg>Обшивка A 4 градуса</entityname.shella04deg>
+<entityname.shella14adeg>Обшивка A 14 градусов</entityname.shella14adeg>
+<entityname.shella52deg>Обшивка A 52 градуса</entityname.shella52deg>
+<entityname.shella16degb>Обшивка A 16 градусов B</entityname.shella16degb>
+<entityname.shella25deg>Обшивка A 25 градусов</entityname.shella25deg>
+<entityname.shella45deg>Обшивка A 45 градусов</entityname.shella45deg>
+<entityname.shella32deg>Обшивка A 32 градуса</entityname.shella32deg>
+<entityname.shella14degb>Обшивка A 14 градусов B</entityname.shella14degb>
+<entityname.shella43deg>Обшивка A 43 градуса</entityname.shella43deg>
+<entityname.shella51deg>Обшивка A 51 градус</entityname.shella51deg>
+<entityname.shella47deg>Обшивка A 47 градусов</entityname.shella47deg>
+<entityname.shella60deg>Обшивка A 60 градусов</entityname.shella60deg>
+<entityname.shella18deg>Обшивка A 18 градусов</entityname.shella18deg>
+<entityname.shella70deg>Обшивка A 70 градусов</entityname.shella70deg>
+<entityname.shella90degcurve>Обшивка A 90 градусов изгиб</entityname.shella90degcurve>
+<entityname.shella45degb>Обшивка A 45 градусов B</entityname.shella45degb>
+<entityname.shella45degc>Обшивка A 45 градусов А</entityname.shella45degc>
+<entityname.shella45degd>Обшивка A 45 градусов B</entityname.shella45degd>
+<entityname.shella57deg>Обшивка A 57 градусов</entityname.shella57deg>
+<entityname.shella40deg>Обшивка A 40 градусов</entityname.shella40deg>
+<entityname.shella61deg>Обшивка A 61 градус</entityname.shella61deg>
+<entityname.shella17deg>Обшивка A 17 градусов</entityname.shella17deg>
+<entityname.shella34degb>Обшивка A 34 градуса B</entityname.shella34degb>
+<entityname.shella26deg>Обшивка A 26 градусов</entityname.shella26deg>
+<entityname.shella54deg>Обшивка A 54 градуса</entityname.shella54deg>
+<entityname.shella38deg>Обшивка A 38 градусов</entityname.shella38deg>
+<entityname.shella42deg>Обшивка A 42</entityname.shella42deg>
+<entityname.shellacombo11>Обшивка A комбо 1 1</entityname.shellacombo11>
+<entityname.shellacombo12>Обшивка A комбо 1 2</entityname.shellacombo12>
+<entitydescription.exteriorshell>Внешняя стена подлодки.</entitydescription.exteriorshell>
+<entityname.shellacap0dega>Обшивка A – крышка горизонтальная круглая</entityname.shellacap0dega>
+<entityname.shellacap0degb>Обшивка A – крышка горизонтальная квадратная</entityname.shellacap0degb>
+<entityname.shellacap90dega>Обшивка A – крышка вертикальная круглая</entityname.shellacap90dega>
+<entityname.shellacap90degb>Обшивка A – крышка вертикальная квадратная</entityname.shellacap90degb>
+<entityname.sshella01>Обшивка челнока A01</entityname.sshella01>
+<entityname.sshella02>Обшивка челнока A02</entityname.sshella02>
+<entityname.sshella04>Обшивка челнока A04</entityname.sshella04>
+<entityname.sshella05>Обшивка челнока A05</entityname.sshella05>
+<entityname.sshellaa06>Обшивка челнока A06</entityname.sshellaa06>
+<entityname.sshella07>Обшивка челнока A07</entityname.sshella07>
+<entityname.sshella08>Обшивка челнока A08</entityname.sshella08>
+<entityname.sshella09>Обшивка челнока A09</entityname.sshella09>
+<entityname.sshella10>Обшивка челнока A10</entityname.sshella10>
+<entityname.sshella11>Обшивка челнока A11</entityname.sshella11>
+<entityname.sshella14>Обшивка челнока A14</entityname.sshella14>
+<entityname.sshella15a>Обшивка челнока A15a</entityname.sshella15a>
+<entityname.sshella15b>Обшивка челнока A15b</entityname.sshella15b>
+<entityname.sshella15c>Обшивка челнока A15c</entityname.sshella15c>
+<entityname.sshella17a>Обшивка челнока A17a</entityname.sshella17a>
+<entityname.sshella17b>Обшивка челнока A17b</entityname.sshella17b>
+<entityname.sshella17c>Обшивка челнока A17c</entityname.sshella17c>
+<entityname.sshella18>Обшивка челнока A18</entityname.sshella18>
+<entityname.sshella19>Обшивка челнока A19</entityname.sshella19>
+<entityname.sshella20>Обшивка челнока A20</entityname.sshella20>
+<entityname.sshella21>Обшивка челнока A21</entityname.sshella21>
+<entityname.sshella22>Обшивка челнока A22</entityname.sshella22>
+<entityname.sshella23>Обшивка челнока A23</entityname.sshella23>
+<entityname.sshella24>Обшивка челнока A24</entityname.sshella24>
+<entityname.sshella25>Обшивка челнока A25</entityname.sshella25>
+<entityname.sshella26>Обшивка челнока A26</entityname.sshella26>
+<entityname.sshella27>Обшивка челнока A27</entityname.sshella27>
+<entityname.sshella28>Обшивка челнока A28</entityname.sshella28>
+<entityname.sshella30>Обшивка челнока A30</entityname.sshella30>
+<entityname.sshella32b>Обшивка челнока A32b</entityname.sshella32b>
+<entityname.sshella32c>Обшивка челнока A32c</entityname.sshella32c>
+<entityname.sshella32d>Обшивка челнока A32d</entityname.sshella32d>
+<entityname.sshella36>Обшивка челнока A36</entityname.sshella36>
+<entityname.sshella37>Обшивка челнока A37</entityname.sshella37>
+<entityname.sshella38>Обшивка челнока A38</entityname.sshella38>
+<entityname.sshella39>Обшивка челнока A39</entityname.sshella39>
+<entityname.sshella40>Обшивка челнока A40</entityname.sshella40>
+<entityname.sshella41>Обшивка челнока A41</entityname.sshella41>
+<entityname.sshellaglassa>Обшивка челнока A – стекло A</entityname.sshellaglassa>
+<entityname.sshellaglassb>Обшивка челнока A – стекло B</entityname.sshellaglassb>
+<entityname.sshellaglassc>Обшивка челнока A – стекло C</entityname.sshellaglassc>
+<entityname.sshellaglassd>Обшивка челнока A – стекло D</entityname.sshellaglassd>
+<entityname.sshellaglasse>Обшивка челнока A – стекло E</entityname.sshellaglasse>
+<entityname.sshellaglassf>Обшивка челнока A – стекло F</entityname.sshellaglassf>
+<entitydescription.exteriorshuttleshell>Внешняя стена челнока.</entitydescription.exteriorshuttleshell>
+<entityname.ventbendducta1>Вент. канал – изгиб A1</entityname.ventbendducta1>
+<entityname.ventbendducta2>Вент. канал – изгиб A2</entityname.ventbendducta2>
+<entityname.ventconnectora1>Вент. канал – соединитель A1</entityname.ventconnectora1>
+<entityname.ventconnectora2>Вент. канал – соединитель A2</entityname.ventconnectora2>
+<entityname.ventconnectora3>Вент. канал – соединитель A3</entityname.ventconnectora3>
+<entityname.ventconnectora4>Вент. канал – соединитель A4</entityname.ventconnectora4>
+<entityname.ventconnectora5>Вент. канал – соединитель A5</entityname.ventconnectora5>
+<entityname.ventconnectora6>Вент. канал – соединитель A6</entityname.ventconnectora6>
+<entityname.ventconnectora7>Вент. канал – соединитель A7</entityname.ventconnectora7>
+<entityname.ventconnectorcapa1>Вент. канал – крышка соединителя A1</entityname.ventconnectorcapa1>
+<entityname.ventconnectorcapa2>Вент. канал – крышка соединителя A2</entityname.ventconnectorcapa2>
+<entityname.ventducta1>Вент. канал A1</entityname.ventducta1>
+<entityname.ventducta190deg>Вент. канал A1 вертикальный</entityname.ventducta190deg>
+<entityname.ventducta2>Вент. канал A2</entityname.ventducta2>
+<entityname.ventducta290deg>Вент. канал A2 вертикальный</entityname.ventducta290deg>
+<entityname.ventductb1>Вент. канал B1</entityname.ventductb1>
+<entityname.ventductb190deg>Вент. канал B1 вертикальный</entityname.ventductb190deg>
+<entityname.ventductb290deg>Вент. канал B2 вертикальный</entityname.ventductb290deg>
+<entityname.ventductbendb1>Вент. канал – изгиб B1</entityname.ventductbendb1>
+<entityname.ventductbendb2>Вент. канал – изгиб B2</entityname.ventductbendb2>
+<entityname.ventductfana>Вент. канал – вентилятор A</entityname.ventductfana>
+<entityname.ventductlongb2>Вент. канал B2</entityname.ventductlongb2>
+<entityname.ventductreducerb>Вент. канал – переходник B</entityname.ventductreducerb>
+<entityname.ventductreducerb90deg>Вент. канал – переходник B вертикальный</entityname.ventductreducerb90deg>
+<entityname.ventlargeductreducera>Вент. канал – большой переходник A</entityname.ventlargeductreducera>
+<entityname.ventlargeductreducera1>Вент. канал – средний переходник A1</entityname.ventlargeductreducera1>
+<entityname.ventlargeductreducera2>Вент. канал – средний переходник A2</entityname.ventlargeductreducera2>
+<entityname.ventlargepipebenda1>Вент. труба большая – изгиб A1</entityname.ventlargepipebenda1>
+<entityname.ventmediumpipebenda1>Вент. труба средняя – изгиб A1</entityname.ventmediumpipebenda1>
+<entityname.ventpipea1>Вент. труба A1</entityname.ventpipea1>
+<entityname.ventpipea190deg>Вент. труба A1 вертикальная</entityname.ventpipea190deg>
+<entityname.ventpipea2>Вент. труба A2</entityname.ventpipea2>
+<entityname.ventpipea290deg>Вент. труба A2 вертикальная</entityname.ventpipea290deg>
+<entityname.ventpipea3>Вент. труба A3</entityname.ventpipea3>
+<entityname.ventpipea390deg>Вент. труба A3 вертикальная</entityname.ventpipea390deg>
+<entityname.ventpipea4>Вент. труба A4</entityname.ventpipea4>
+<entityname.ventpipea490deg>Вент. труба A4 вертикальная</entityname.ventpipea490deg>
+<entityname.ventpipea5>Вент. труба A5</entityname.ventpipea5>
+<entityname.ventpipea590deg>Вент. труба A5 вертикальная</entityname.ventpipea590deg>
+<entityname.ventpipea6>Вент. труба A6</entityname.ventpipea6>
+<entityname.ventpipea690deg>Вент. труба A6 вертикальная</entityname.ventpipea690deg>
+<entityname.ventpipea7>Вент. труба A7</entityname.ventpipea7>
+<entityname.ventpipea790deg>Вент. труба A7 вертикальная</entityname.ventpipea790deg>
+<entityname.ventpipea8>Вент. труба A8</entityname.ventpipea8>
+<entityname.ventpipea890deg>Вент. труба A8 вертикальная</entityname.ventpipea890deg>
+<entityname.ventpipea9>Вент. труба A9</entityname.ventpipea9>
+<entityname.ventpipea990deg>Вент. труба A9 вертикальная</entityname.ventpipea990deg>
+<entityname.ventpipecapa1>Вент. труба – крышка A1</entityname.ventpipecapa1>
+<entityname.ventpipecapa190deg>Вент. труба – крышка A1 вертикальная</entityname.ventpipecapa190deg>
+<entityname.ventsmallductreducera>Вент. канал – малый переходник A</entityname.ventsmallductreducera>
+<entityname.sshellalightsa>Лампы челнока A</entityname.sshellalightsa>
+<entityname.sshellaplatea>Панель челнока A</entityname.sshellaplatea>
+<entityname.sshellaplateb>Панель челнока A</entityname.sshellaplateb>
+<entityname.sshellaplatexl>Панель челнока XL</entityname.sshellaplatexl>
+<entityname.sshellabumpera>Бампер челнока A</entityname.sshellabumpera>
+<entityname.sshellabumperb>Бампер челнока B</entityname.sshellabumperb>
+<entityname.sshellafina>Стабилизатор челнока A</entityname.sshellafina>
+<entityname.sshellafinb>Стабилизатор челнока B</entityname.sshellafinb>
+<entityname.sshellafinc>Стабилизатор челнока C</entityname.sshellafinc>
+<entityname.sshellafind>Стабилизатор челнока D</entityname.sshellafind>
+<entityname.sshellagromita>Кренгельс челнока A</entityname.sshellagromita>
+<entityname.sshellagromitb>Кренгельс челнока B</entityname.sshellagromitb>
+<entityname.sshellagromitc>Кренгельс челнока C</entityname.sshellagromitc>
+<entityname.sshellagromitd>Кренгельс челнока D</entityname.sshellagromitd>
+<entitydescription.decorativeshuttlepiece>Декоративная деталь челнока.</entitydescription.decorativeshuttlepiece>
+<entityname.finabelt01>Пояс крыла стабилизатора 1</entityname.finabelt01>
+<entityname.finabelt02>Пояс крыла стабилизатора 2</entityname.finabelt02>
+<entityname.finabelt03>Пояс крыла стабилизатора 3</entityname.finabelt03>
+<entityname.finabelt04>Пояс крыла стабилизатора 4</entityname.finabelt04>
+<entityname.finabelt05>Пояс крыла стабилизатора 5</entityname.finabelt05>
+<entityname.finabelt06>Пояс крыла стабилизатора 6</entityname.finabelt06>
+<entityname.finabodyedge01>Край крыла стабилизатора 1</entityname.finabodyedge01>
+<entityname.finabodyedge02>Край крыла стабилизатора 2</entityname.finabodyedge02>
+<entityname.finabodyedge03>Край крыла стабилизатора 3</entityname.finabodyedge03>
+<entityname.finabodyedge04>Край крыла стабилизатора 4</entityname.finabodyedge04>
+<entityname.finabodyedge05>Край крыла стабилизатора 5</entityname.finabodyedge05>
+<entityname.finabodyedge06>Край крыла стабилизатора 6</entityname.finabodyedge06>
+<entityname.finabodyedge07>Край крыла стабилизатора 7</entityname.finabodyedge07>
+<entityname.finabodyedge08>Край крыла стабилизатора 8</entityname.finabodyedge08>
+<entityname.finabodyinside01>Полотно крыла стабилизатора 1</entityname.finabodyinside01>
+<entityname.finabodyinside02>Полотно крыла стабилизатора 2</entityname.finabodyinside02>
+<entityname.finabodyinside03>Полотно крыла стабилизатора 3</entityname.finabodyinside03>
+<entityname.finabodyinside04>Полотно крыла стабилизатора 4</entityname.finabodyinside04>
+<entityname.finabodyinside05>Полотно крыла стабилизатора 5</entityname.finabodyinside05>
+<entityname.finabodyinside06>Полотно крыла стабилизатора 6</entityname.finabodyinside06>
+<entityname.finbodyinside07>Полотно крыла стабилизатора 7</entityname.finbodyinside07>
+<entityname.finabodyinside08>Полотно крыла стабилизатора 8</entityname.finabodyinside08>
+<entityname.finabodyinside11>Полотно крыла стабилизатора 9</entityname.finabodyinside11>
+<entityname.finabodyinside12>Полотно крыла стабилизатора 10</entityname.finabodyinside12>
+<entityname.finabodyinside13>Полотно крыла стабилизатора 11</entityname.finabodyinside13>
+<entityname.finabodyinside14>Полотно крыла стабилизатора 12</entityname.finabodyinside14>
+<entityname.finabodyinside15>Полотно крыла стабилизатора 13</entityname.finabodyinside15>
+<entityname.finabodyinside16>Полотно крыла стабилизатора 14</entityname.finabodyinside16>
+<entityname.finacorner01>Угол крыла стабилизатора 1</entityname.finacorner01>
+<entityname.finacorner02>Угол крыла стабилизатора 2</entityname.finacorner02>
+<entityname.finacorner03>Угол крыла стабилизатора 3</entityname.finacorner03>
+<entityname.finacorner04>Угол крыла стабилизатора 4</entityname.finacorner04>
+<entityname.finacorner05>Угол крыла стабилизатора 5</entityname.finacorner05>
+<entityname.finacorner06>Угол крыла стабилизатора 6</entityname.finacorner06>
+<entityname.finacorner07>Угол крыла стабилизатора 7</entityname.finacorner07>
+<entityname.finacorner08>Угол крыла стабилизатора 8</entityname.finacorner08>
+<entityname.finacorner09>Угол крыла стабилизатора 9</entityname.finacorner09>
+<entityname.finacorner11>Угол крыла стабилизатора 10</entityname.finacorner11>
+<entityname.finacorner12>Угол крыла стабилизатора 11</entityname.finacorner12>
+<entityname.finacorner13>Угол крыла стабилизатора 12</entityname.finacorner13>
+<entityname.finacorner14>Угол крыла стабилизатора 13</entityname.finacorner14>
+<entityname.finacorner15>Угол крыла стабилизатора 14</entityname.finacorner15>
+<entityname.finadeco01>Декор стабилизатора 1</entityname.finadeco01>
+<entityname.finadeco02>Декор стабилизатора 2</entityname.finadeco02>
+<entityname.finadeco03>Декор стабилизатора 3</entityname.finadeco03>
+<entityname.finadeco04>Декор стабилизатора 4</entityname.finadeco04>
+<entityname.finadeco05>Декор стабилизатора 5</entityname.finadeco05>
+<entityname.finadeco06>Декор стабилизатора 6</entityname.finadeco06>
+<entityname.finadeco07>Декор стабилизатора 7</entityname.finadeco07>
+<entityname.finadeco08>Декор стабилизатора 8</entityname.finadeco08>
+<entityname.finadeco09>Декор стабилизатора 9</entityname.finadeco09>
+<entityname.finadeco10>Декор стабилизатора 10</entityname.finadeco10>
+<entityname.finawingpart72>Декор стабилизатора 11</entityname.finawingpart72>
+<entityname.finapatch01>Заплатка стабилизатора 1</entityname.finapatch01>
+<entityname.finapatch02>Заплатка стабилизатора 2</entityname.finapatch02>
+<entityname.finapatch03>Заплатка стабилизатора 3</entityname.finapatch03>
+<entityname.finapatch04>Заплатка стабилизатора 4</entityname.finapatch04>
+<entityname.finapatch05>Заплатка стабилизатора 5</entityname.finapatch05>
+<entityname.finawingpart01>Крыло стабилизатора G 2</entityname.finawingpart01>
+<entityname.finawingpart02>Крыло стабилизатора G 1</entityname.finawingpart02>
+<entityname.finawingpart03>Крыло стабилизатора E 2</entityname.finawingpart03>
+<entityname.finawingpart04>Крыло стабилизатора E 1</entityname.finawingpart04>
+<entityname.finawingpart05>Крыло стабилизатора D 2</entityname.finawingpart05>
+<entityname.finawingpart06>Крыло стабилизатора D 1</entityname.finawingpart06>
+<entityname.finawingpart07>Крыло стабилизатора F 2</entityname.finawingpart07>
+<entityname.finawingpart08>Крыло стабилизатора F 1</entityname.finawingpart08>
+<entityname.finawingpart09>Изгиб крыла стабилизатора A 1</entityname.finawingpart09>
+<entityname.finawingpart10>Изгиб крыла стабилизатора A 2</entityname.finawingpart10>
+<entityname.finawingpart11>Крыло стабилизатора E 4</entityname.finawingpart11>
+<entityname.finawingpart12>Крыло стабилизатора E 3</entityname.finawingpart12>
+<entityname.finawingpart13>Крыло стабилизатора D 5</entityname.finawingpart13>
+<entityname.finawingpart14>Крыло стабилизатора D 6</entityname.finawingpart14>
+<entityname.finawingpart15>Крыло стабилизатора D 3</entityname.finawingpart15>
+<entityname.finawingpart16>Крыло стабилизатора D 4</entityname.finawingpart16>
+<entityname.finawingpart19>Стабилизатор 2</entityname.finawingpart19>
+<entityname.finawingpart20>Стабилизатор 1</entityname.finawingpart20>
+<entityname.finawingpart22>Спец. часть стабилизатора 1</entityname.finawingpart22>
+<entityname.finawingpart23>Спец. часть стабилизатора 2</entityname.finawingpart23>
+<entityname.finawingpart24>Спец. часть стабилизатора 3</entityname.finawingpart24>
+<entityname.finawingpart25>Спец. часть стабилизатора 4</entityname.finawingpart25>
+<entityname.finawingpart26>Спец. часть стабилизатора 5</entityname.finawingpart26>
+<entityname.finawingpart27>Спец. часть стабилизатора 6</entityname.finawingpart27>
+<entityname.finawingpart28>Стенка стабилизатора 1</entityname.finawingpart28>
+<entityname.finawingpart29>Стенка стабилизатора 2</entityname.finawingpart29>
+<entityname.finawingpart30>Стенка стабилизатора 3</entityname.finawingpart30>
+<entityname.finawingpart31>Стенка стабилизатора 4</entityname.finawingpart31>
+<entityname.finawingpart32>Стенка стабилизатора 5</entityname.finawingpart32>
+<entityname.finawingpart33>Стенка стабилизатора 6</entityname.finawingpart33>
+<entityname.finawingpart34>Крыло стабилизатора A 1</entityname.finawingpart34>
+<entityname.finawingpart35>Крыло стабилизатора A 2</entityname.finawingpart35>
+<entityname.finawingpart36>Крыло стабилизатора B 3</entityname.finawingpart36>
+<entityname.finawingpart38>Крыло стабилизатора B 2</entityname.finawingpart38>
+<entityname.finawingpart39>Крыло стабилизатора B 1</entityname.finawingpart39>
+<entityname.finawingpart40>Крыло стабилизатора A 4</entityname.finawingpart40>
+<entityname.finawingpart41>Крыло стабилизатора A 3</entityname.finawingpart41>
+<entityname.finawingpart42>Крыло стабилизатора A 5</entityname.finawingpart42>
+<entityname.finawingpart43>Крыло стабилизатора C 3</entityname.finawingpart43>
+<entityname.finawingpart44>Крыло стабилизатора C 4</entityname.finawingpart44>
+<entityname.finawingpart45>Крыло стабилизатора C 2</entityname.finawingpart45>
+<entityname.finawingpart46>Крыло стабилизатора C 1</entityname.finawingpart46>
+<entityname.finawingpart67>Крыло стабилизатора C 5</entityname.finawingpart67>
+<entityname.finawingpart68>Крыло стабилизатора C 6</entityname.finawingpart68>
+<entityname.finawingpart53>Изгиб крыла стабилизатора B 1</entityname.finawingpart53>
+<entityname.finawingpart54>Изгиб крыла стабилизатора B 2</entityname.finawingpart54>
+<entityname.finawingpart55>Изгиб крыла стабилизатора C 1</entityname.finawingpart55>
+<entityname.finawingpart56>Изгиб крыла стабилизатора C 2</entityname.finawingpart56>
+<entityname.finawingpart17>Часть крыла стабилизатора 1</entityname.finawingpart17>
+<entityname.finawingpart18>Часть крыла стабилизатора 2</entityname.finawingpart18>
+<entityname.finawingpart21>Часть крыла стабилизатора 3</entityname.finawingpart21>
+<entityname.finawingpart37>Часть крыла стабилизатора 4</entityname.finawingpart37>
+<entityname.finawingpart47>Часть крыла стабилизатора 5</entityname.finawingpart47>
+<entityname.finawingpart48>Часть крыла стабилизатора 6</entityname.finawingpart48>
+<entityname.finawingpart49>Часть крыла стабилизатора 7</entityname.finawingpart49>
+<entityname.finawingpart50>Часть крыла стабилизатора 8</entityname.finawingpart50>
+<entityname.finawingpart52>Часть крыла стабилизатора 9</entityname.finawingpart52>
+<entityname.finawingpart57>Часть крыла стабилизатора 10</entityname.finawingpart57>
+<entityname.finawingpart58>Часть крыла стабилизатора 11</entityname.finawingpart58>
+<entityname.finawingpart59>Часть крыла стабилизатора 12</entityname.finawingpart59>
+<entityname.finawingpart60>Часть крыла стабилизатора 13</entityname.finawingpart60>
+<entityname.finawingpart61>Часть крыла стабилизатора 14</entityname.finawingpart61>
+<entityname.finawingpart62>Часть крыла стабилизатора 15</entityname.finawingpart62>
+<entityname.finawingpart63>Часть крыла стабилизатора 16</entityname.finawingpart63>
+<entityname.finawingpart64>Часть крыла стабилизатора 17</entityname.finawingpart64>
+<entityname.finawingpart65>Часть крыла стабилизатора 18</entityname.finawingpart65>
+<entityname.finawingpart66>Часть крыла стабилизатора 19</entityname.finawingpart66>
+<entityname.finawingpart69>Часть крыла стабилизатора 20</entityname.finawingpart69>
+<entityname.finawingpart70>Часть крыла стабилизатора 21</entityname.finawingpart70>
+<entityname.finawingpart71>Часть крыла стабилизатора 22</entityname.finawingpart71>
+<entityname.finawingpart73>Часть крыла стабилизатора 23</entityname.finawingpart73>
+<entityname.largehorizontalback>Большая горизонтальная задняя стенка</entityname.largehorizontalback>
+<entityname.smallhorizontalback>Малая горизонтальная задняя стенка</entityname.smallhorizontalback>
+<entityname.largeverticalback>Большая вертикальная задняя стенка</entityname.largeverticalback>
+<entityname.largeverticalback2>Большая вертикальная задняя стенка 2</entityname.largeverticalback2>
+<entityname.smallverticalback>Малая вертикальная задняя стенка</entityname.smallverticalback>
+<entityname.smallverticalback2>Малая вертикальная задняя стенка 2</entityname.smallverticalback2>
+<entitydescription.decorativestructure>Декоративный объект без детектора коллизий.</entitydescription.decorativestructure>
+<entityname.doorlabel>Знак: дверь</entityname.doorlabel>
+<entityname.engineeringlabel>Знак: инженерная</entityname.engineeringlabel>
+<entityname.commandlabel>Знак: пункт управления</entityname.commandlabel>
+<entityname.airlocklabel>Знак: шлюз</entityname.airlocklabel>
+<entityname.cabinslabel>Знак: каюты</entityname.cabinslabel>
+<entityname.medicallabel>Знак: медотсек</entityname.medicallabel>
+<entityname.arrowup>Стрелка вверх</entityname.arrowup>
+<entityname.arrowdown>Стрелка вниз</entityname.arrowdown>
+<entityname.arrowleft>Стрелка влево</entityname.arrowleft>
+<entityname.arrowright>Стрелка вправо</entityname.arrowright>
+<entityname.labelslettera>Знак: буква A</entityname.labelslettera>
+<entityname.labelsletterb>Знак: буква B</entityname.labelsletterb>
+<entityname.labelsletterc>Знак: буква C</entityname.labelsletterc>
+<entityname.labelsletterd>Знак: буква D</entityname.labelsletterd>
+<entityname.labelslettere>Знак: буква E</entityname.labelslettere>
+<entityname.labelsletterf>Знак: буква F</entityname.labelsletterf>
+<entityname.labelsletterg>Знак: буква G</entityname.labelsletterg>
+<entityname.labelsletterh>Знак: буква H</entityname.labelsletterh>
+<entityname.labelsletteri>Знак: буква I</entityname.labelsletteri>
+<entityname.labelsletterj>Знак: буква J</entityname.labelsletterj>
+<entityname.labelsletterk>Знак: буква K</entityname.labelsletterk>
+<entityname.labelsletterl>Знак: буква L</entityname.labelsletterl>
+<entityname.labelsletterm>Знак: буква M</entityname.labelsletterm>
+<entityname.labelslettern>Знак: буква N</entityname.labelslettern>
+<entityname.labelslettero>Знак: буква O</entityname.labelslettero>
+<entityname.labelsletterp>Знак: буква P</entityname.labelsletterp>
+<entityname.labelsletterq>Знак: буква Q</entityname.labelsletterq>
+<entityname.labelsletterr>Знак: буква R</entityname.labelsletterr>
+<entityname.labelsletters>Знак: буква S</entityname.labelsletters>
+<entityname.labelslettert>Знак: буква T</entityname.labelslettert>
+<entityname.labelsletteru>Знак: буква U</entityname.labelsletteru>
+<entityname.labelsletterv>Знак: буква V</entityname.labelsletterv>
+<entityname.labelsletterw>Знак: буква W</entityname.labelsletterw>
+<entityname.labelsletterx>Знак: буква X</entityname.labelsletterx>
+<entityname.labelslettery>Знак: буква Y</entityname.labelslettery>
+<entityname.labelsletterz>Знак: буква Z</entityname.labelsletterz>
+<entityname.labelsnumber0>Знак: цифра 0</entityname.labelsnumber0>
+<entityname.labelsnumber1>Знак: цифра 1</entityname.labelsnumber1>
+<entityname.labelsnumber2>Знак: цифра 2</entityname.labelsnumber2>
+<entityname.labelsnumber3>Знак: цифра 3</entityname.labelsnumber3>
+<entityname.labelsnumber4>Знак: цифра 4</entityname.labelsnumber4>
+<entityname.labelsnumber5>Знак: цифра 5</entityname.labelsnumber5>
+<entityname.labelsnumber6>Знак: цифра 6</entityname.labelsnumber6>
+<entityname.labelsnumber7>Знак: цифра 7</entityname.labelsnumber7>
+<entityname.labelsnumber8>Знак: цифра 8</entityname.labelsnumber8>
+<entityname.labelsnumber9>Знак: цифра 9</entityname.labelsnumber9>
+<entityname.labelscaptureitlettera>Знак: потертая буква A</entityname.labelscaptureitlettera>
+<entityname.labelscaptureitletterb>Знак: потертая буква B</entityname.labelscaptureitletterb>
+<entityname.labelscaptureitletterc>Знак: потертая буква C</entityname.labelscaptureitletterc>
+<entityname.labelscaptureitletterd>Знак: потертая буква D</entityname.labelscaptureitletterd>
+<entityname.labelscaptureitlettere>Знак: потертая буква E</entityname.labelscaptureitlettere>
+<entityname.labelscaptureitletterf>Знак: потертая буква F</entityname.labelscaptureitletterf>
+<entityname.labelscaptureitletterg>Знак: потертая буква G</entityname.labelscaptureitletterg>
+<entityname.labelscaptureitletterh>Знак: потертая буква H</entityname.labelscaptureitletterh>
+<entityname.labelscaptureitletteri>Знак: потертая буква I</entityname.labelscaptureitletteri>
+<entityname.labelscaptureitletterj>Знак: потертая буква J</entityname.labelscaptureitletterj>
+<entityname.labelscaptureitletterk>Знак: потертая буква K</entityname.labelscaptureitletterk>
+<entityname.labelscaptureitletterl>Знак: потертая буква L</entityname.labelscaptureitletterl>
+<entityname.labelscaptureitletterm>Знак: потертая буква M</entityname.labelscaptureitletterm>
+<entityname.labelscaptureitlettern>Знак: потертая буква N</entityname.labelscaptureitlettern>
+<entityname.labelscaptureitlettero>Знак: потертая буква O</entityname.labelscaptureitlettero>
+<entityname.labelscaptureitletterp>Знак: потертая буква P</entityname.labelscaptureitletterp>
+<entityname.labelscaptureitletterq>Знак: потертая буква Q</entityname.labelscaptureitletterq>
+<entityname.labelscaptureitletterr>Знак: потертая буква R</entityname.labelscaptureitletterr>
+<entityname.labelscaptureitletters>Знак: потертая буква S</entityname.labelscaptureitletters>
+<entityname.labelscaptureitlettert>Знак: потертая буква T</entityname.labelscaptureitlettert>
+<entityname.labelscaptureitletteru>Знак: потертая буква U</entityname.labelscaptureitletteru>
+<entityname.labelscaptureitletterv>Знак: потертая буква V</entityname.labelscaptureitletterv>
+<entityname.labelscaptureitletterw>Знак: потертая буква W</entityname.labelscaptureitletterw>
+<entityname.labelscaptureitletterx>Знак: потертая буква X</entityname.labelscaptureitletterx>
+<entityname.labelscaptureitlettery>Знак: потертая буква Y</entityname.labelscaptureitlettery>
+<entityname.labelscaptureitletterz>Знак: потертая буква Z</entityname.labelscaptureitletterz>
+<entityname.labelscaptureitnumber0>Знак: потертая цифра 0</entityname.labelscaptureitnumber0>
+<entityname.labelscaptureitnumber1>Знак: потертая цифра 1</entityname.labelscaptureitnumber1>
+<entityname.labelscaptureitnumber2>Знак: потертая цифра 2</entityname.labelscaptureitnumber2>
+<entityname.labelscaptureitnumber3>Знак: потертая цифра 3</entityname.labelscaptureitnumber3>
+<entityname.labelscaptureitnumber4>Знак: потертая цифра 4</entityname.labelscaptureitnumber4>
+<entityname.labelscaptureitnumber5>Знак: потертая цифра 5</entityname.labelscaptureitnumber5>
+<entityname.labelscaptureitnumber6>Знак: потертая цифра 6</entityname.labelscaptureitnumber6>
+<entityname.labelscaptureitnumber7>Знак: потертая цифра 7</entityname.labelscaptureitnumber7>
+<entityname.labelscaptureitnumber8>Знак: потертая цифра 8</entityname.labelscaptureitnumber8>
+<entityname.labelscaptureitnumber9>Знак: потертая цифра 9</entityname.labelscaptureitnumber9>
+<entityname.labelsiconairlock>Знак: символ шлюза</entityname.labelsiconairlock>
+<entityname.labelsiconballast>Знак: символ балласта</entityname.labelsiconballast>
+<entityname.labelsiconcargo>Знак: символ груза</entityname.labelsiconcargo>
+<entityname.labelsicondiving>Знак: символ погружения</entityname.labelsicondiving>
+<entityname.labelsicondocking>Знак: символ стыковки</entityname.labelsicondocking>
+<entityname.labelsiconelectricity>Знак: символ электричества</entityname.labelsiconelectricity>
+<entityname.labelsiconengine>Знак: символ двигателя</entityname.labelsiconengine>
+<entityname.labelsiconengineering>Знак: символ инженерной</entityname.labelsiconengineering>
+<entityname.labelsiconexit>Знак: символ выхода</entityname.labelsiconexit>
+<entityname.labelsiconmedical>Знак: символ медотсека</entityname.labelsiconmedical>
+<entityname.labelsiconreactor>Знак: символ реактора</entityname.labelsiconreactor>
+<entityname.labelsiconsecurity>Знак: символ охраны</entityname.labelsiconsecurity>
+<entityname.labelsiconsteering>Знак: символ руля</entityname.labelsiconsteering>
+<entityname.labelsiconweapons>Знак: символ оружейной</entityname.labelsiconweapons>
+<entityname.labelsarroverticala>Знак: вертикальная стрелка A</entityname.labelsarroverticala>
+<entityname.labelsarroverticalb>Знак: вертикальная стрелка В</entityname.labelsarroverticalb>
+<entityname.labelsarrowdiagonala>Знак: косая стрелка A</entityname.labelsarrowdiagonala>
+<entityname.labelsarrowdiagonalb>Знак: косая стрелка В</entityname.labelsarrowdiagonalb>
+<entityname.labelsarrowhorizontala>Знак: горизонтальная стрелка A</entityname.labelsarrowhorizontala>
+<entityname.labelsarrowhorizontalb>Знак: горизонтальная стрелка В</entityname.labelsarrowhorizontalb>
+<entityname.decorativelabel>Декоративная наклейка.</entityname.decorativelabel>
+<entityname.cableholderhorizontal>Горизонтальный кабель-канал</entityname.cableholderhorizontal>
+<entityname.cableholdervertical>Вертикальный кабель-канал</entityname.cableholdervertical>
+<entitydescription.cableholder>Декоративная накладка для скрытия проводки.</entitydescription.cableholder>
+<entityname.topwindow>Верхнее окно</entityname.topwindow>
+<entityname.verticalwindow>Вертикальное окно</entityname.verticalwindow>
+<entityname.largeplatform>Большая платформа</entityname.largeplatform>
+<entityname.platform>Базовая платформа</entityname.platform>
+<entitydescription.platform>Платформа, по которой персонаж может ходить, также на нее можно забраться или спрыгнуть с нее.</entitydescription.platform>
+<entityname.slopeforward>Уклон вперед</entityname.slopeforward>
+<entityname.slopeback>Уклон назад</entityname.slopeback>
+<entitydescription.decorativepiece>Декоративная деталь.</entitydescription.decorativepiece>
+<entityname.stairs>Трап</entityname.stairs>
+<entityname.stairsshort>Трап короткий</entityname.stairsshort>
+<entityname.stairslong>Трап длинный</entityname.stairslong>
+<entityname.ruinwallhorizontal>Горизонтальная стена руин</entityname.ruinwallhorizontal>
+<entityname.ruinwallvertical>Вертикальная стена руин</entityname.ruinwallvertical>
+<entityname.ruinwallheavyhorizontal>Тяжелая горизонтальная стена руин</entityname.ruinwallheavyhorizontal>
+<entityname.ruinwallheavyvertical>Тяжелая вертикальная стена руин</entityname.ruinwallheavyvertical>
+<entityname.ruinwallhorizontalsmall>Малая горизонтальная стена руин</entityname.ruinwallhorizontalsmall>
+<entityname.ruinwallverticalsmall>Малая вертикальная стена руин</entityname.ruinwallverticalsmall>
+<entityname.ruinback>Базовая задняя стена руин</entityname.ruinback>
+<entityname.ruinprop>Декор руин</entityname.ruinprop>
+<entityname.bunk>Койка</entityname.bunk>
+<entityname.opdeco_weaponstoragesuit1>Витрина для одежды</entityname.opdeco_weaponstoragesuit1>
+<entityname.op_weaponstoragesmall>Малая витрина для оружия</entityname.op_weaponstoragesmall>
+<entityname.op_weaponstoragemedium>Средняя витрина для оружия</entityname.op_weaponstoragemedium>
+<entityname.op_weaponstoragelarge>Большая витрина для оружия</entityname.op_weaponstoragelarge>
+<entityname.opdeco_storageitemshelf>Полка-витрина для предметов</entityname.opdeco_storageitemshelf>
+<entityname.opdeco_storagemineralshelf>Полка-витрина для минералов</entityname.opdeco_storagemineralshelf>
+<entityname.opdeco_storageweaponshelf>Полка-витрина для оружия</entityname.opdeco_storageweaponshelf>
+<entityname.opdeco_storageseedshelf>Полка-витрина для семян</entityname.opdeco_storageseedshelf>
+<entityname.opdeco_storagefrozenseedshelf>Полка-витрина для замороженных семян</entityname.opdeco_storagefrozenseedshelf>
+<entityname.opdeco_diningtable>Обеденный стол</entityname.opdeco_diningtable>
+<entityname.opdeco_boxes1>Ящики</entityname.opdeco_boxes1>
+<entityname.opdeco_bunks1>Койки</entityname.opdeco_bunks1>
+<entityname.opdeco_researchdecal1>Лаборатория</entityname.opdeco_researchdecal1>
+<entityname.opdeco_hrwindow1>Окно офиса</entityname.opdeco_hrwindow1>
+<entityname.opdeco_hrwindow2>Высокое окно офиса</entityname.opdeco_hrwindow2>
+<entityname.opdeco_hrwindowblinds>Жалюзи на окно офиса</entityname.opdeco_hrwindowblinds>
+<entityname.opdeco_hrblinds>Жалюзи на высокое окно офиса</entityname.opdeco_hrblinds>
+<entityname.opdeco_hrglassoffice>Дверь офиса</entityname.opdeco_hrglassoffice>
+<entityname.opdeco_hrticketdispenser>Билетный автомат</entityname.opdeco_hrticketdispenser>
+<entityname.opdeco_hrnewspaperrack>Стойка с газетами</entityname.opdeco_hrnewspaperrack>
+<entityname.opdeco_hrcalendar>Календарь</entityname.opdeco_hrcalendar>
+<entityname.opdeco_hrsign>Фон – знак</entityname.opdeco_hrsign>
+<entityname.opdeco_hrheater>Радиатор</entityname.opdeco_hrheater>
+<entityname.opdeco_hrelectricpanel>Доска объявлений</entityname.opdeco_hrelectricpanel>
+<entityname.opdeco_hrbench>Скамейка</entityname.opdeco_hrbench>
+<entityname.opdeco_hrflyers>Листовки</entityname.opdeco_hrflyers>
+<entityname.opdeco_officeshelf1>Офисные полки</entityname.opdeco_officeshelf1>
+<entityname.opdeco_officedesk1>Офисный стол</entityname.opdeco_officedesk1>
+<entityname.opdeco_officedisplay1>Декоративная награда</entityname.opdeco_officedisplay1>
+<entityname.opdeco_computer>Компьютерный терминал</entityname.opdeco_computer>
+<entityname.opdeco_shelfsmall>Маленькая полка</entityname.opdeco_shelfsmall>
+<entityname.opdeco_shelfmedium>Средняя полка</entityname.opdeco_shelfmedium>
+<entityname.opdeco_shelflarge>Большая полка</entityname.opdeco_shelflarge>
+<entityname.opdeco_rollupdoor>Рулонная дверь</entityname.opdeco_rollupdoor>
+<entityname.opdeco_rollupdoorframe>Рама рулонной двери</entityname.opdeco_rollupdoorframe>
+<entityname.opdeco_subblueprint1>Чертеж подлодки</entityname.opdeco_subblueprint1>
+<entityname.opdeco_toolrack1>Стойка с инструментами</entityname.opdeco_toolrack1>
+<entityname.opdeco_ladder>Стремянка</entityname.opdeco_ladder>
+<entityname.opdeco_shelf>Полка-витрина</entityname.opdeco_shelf>
+<entityname.opdeco_desk>Касса</entityname.opdeco_desk>
+<entityname.opdeco_oxygentanks>Кислородные баллоны</entityname.opdeco_oxygentanks>
+<entityname.opdeco_crane>Шахтный подъемник</entityname.opdeco_crane>
+<entityname.opdeco_trolley1>Вагонетка 1</entityname.opdeco_trolley1>
+<entityname.opdeco_trolley2>Вагонетка 2</entityname.opdeco_trolley2>
+<entityname.opdeco_debris1>Шахтный отвал 1</entityname.opdeco_debris1>
+<entityname.opdeco_debris2>Шахтный отвал 2</entityname.opdeco_debris2>
+<entityname.opdeco_debris3>Шахтный отвал 3</entityname.opdeco_debris3>
+<entityname.opdeco_construction_sign>Знак "Стройка"</entityname.opdeco_construction_sign>
+<entityname.opdeco_box1>Ящик 1</entityname.opdeco_box1>
+<entityname.opdeco_box2>Ящик 2</entityname.opdeco_box2>
+<entityname.opdeco_box3>Ящик 3</entityname.opdeco_box3>
+<entityname.opdeco_box4>Ящик 4</entityname.opdeco_box4>
+<entityname.opdeco_box5>Ящик 5</entityname.opdeco_box5>
+<entityname.heavydoor>Тяжелая дверь</entityname.heavydoor>
+<entityname.opdeco_door>Фоновая дверь</entityname.opdeco_door>
+<entitydescription.decodoor>Декоративная дверь.</entitydescription.decodoor>
+<entityname.opdeco_door>Закрытая дверь</entityname.opdeco_door>
+<entityname.opdeco_towelrack>Стойка для полотенец</entityname.opdeco_towelrack>
+<entityname.concretewall>Бетонная стена</entityname.concretewall>
+<entityname.opdeco_wheelchair1>Кресло-каталка</entityname.opdeco_wheelchair1>
+<entityname.opdeco_adposter>Реклама</entityname.opdeco_adposter>
+<entityname.windowglass>Оконное стекло</entityname.windowglass>
+<entityname.windowframe>Оконная рама</entityname.windowframe>
+<entityname.op_cafeteriawindow>Барная стойка</entityname.op_cafeteriawindow>
+<entityname.op_gardendistiller>Перегонный аппарат</entityname.op_gardendistiller>
+<entityname.op_cafeteriabench>Скамья для кафе</entityname.op_cafeteriabench>
+<entityname.op_cafeteriatable>Столик для кафе</entityname.op_cafeteriatable>
+<entityname.op_cafeteriachair>Стул для кафе</entityname.op_cafeteriachair>
+<entityname.op_cafeteriaposter>Плакат для кафе</entityname.op_cafeteriaposter>
+<entityname.op_cafeteriacart>Тележка для кафе</entityname.op_cafeteriacart>
+<entityname.op_gardenproducebox>Ящики с продукцией</entityname.op_gardenproducebox>
+<entityname.op_gardenbags>Мешки с землей</entityname.op_gardenbags>
+<entityname.op_gardenposter>Плакат садовода</entityname.op_gardenposter>
+<entityname.table>Стол</entityname.table>
+<entityname.Target>Цель</entityname.Target>
+<entityname.sign>Знак</entityname.sign>
+<entityname.op_freezer>Морозильник</entityname.op_freezer>
+<entityname.op_clothesrack>Вешалка для одежды</entityname.op_clothesrack>
+<entityname.op_metalchair>Металлические стулья</entityname.op_metalchair>
+<entityname.op_washingmachine>Стиральная машина</entityname.op_washingmachine>
+<entityname.op_smallcouch>Кресло</entityname.op_smallcouch>
+<entityname.op_janitorcart>Тележка для уборки</entityname.op_janitorcart>
+<entityname.op_towellocker>Шкафчик для полотенец</entityname.op_towellocker>
+<entityname.op_inkpainting>Рисунок тушью</entityname.op_inkpainting>
+<entityname.op_banner>Висящий плакат</entityname.op_banner>
+<entityname.op_boxcart>Металлическая тележка</entityname.op_boxcart>
+<entityname.op_sworddisplay>Стойка для мечей</entityname.op_sworddisplay>
+<entityname.op_statue>Статуя</entityname.op_statue>
+<entityname.op_raptorhead>Чучело головы раптора</entityname.op_raptorhead>
+<entityname.op_shower>Душ</entityname.op_shower>
+<entityname.op_painting1>Картина в раме</entityname.op_painting1>
+<entityname.op_wetsign>Знак "Уборка"</entityname.op_wetsign>
+<entityname.FF_Wall_I1>Стена аванпоста 1</entityname.FF_Wall_I1>
+<entityname.FF_Wall_I2>Стена аванпоста 2</entityname.FF_Wall_I2>
+<entityname.FF_Wall_I3>Стена аванпоста 3</entityname.FF_Wall_I3>
+<entityname.opbg_generic1>Обычная стена аванпоста 1</entityname.opbg_generic1>
+<entityname.opbg_generic2>Обычная стена аванпоста 2</entityname.opbg_generic2>
+<entityname.opbg_generic3>Обычная стена аванпоста 3</entityname.opbg_generic3>
+<entityname.opbg_generic4>Обычная стена аванпоста 4</entityname.opbg_generic4>
+<entityname.opbg_generic5>Обычная стена аванпоста 5</entityname.opbg_generic5>
+<entityname.opbg_generic6>Обычная стена аванпоста 6</entityname.opbg_generic6>
+<entityname.opbg_generic7>Обычная стена аванпоста 7</entityname.opbg_generic7>
+<entityname.opbg_airlock1>Стена аванпоста со шлюзом</entityname.opbg_airlock1>
+<entityname.opbgshopa1>Стена аванпоста – магазин 1</entityname.opbgshopa1>
+<entityname.opbg_shop2>Стена аванпоста – магазин 2</entityname.opbg_shop2>
+<entityname.opbg_shop3>Стена аванпоста – магазин 3</entityname.opbg_shop3>
+<entityname.opbg_shop4>Стена аванпоста – магазин 4</entityname.opbg_shop4>
+<entityname.opbgsocialcentera1>Стена аванпоста – общественный центр</entityname.opbgsocialcentera1>
+<entityname.opbg_barracks1>Казармы аванпоста – фон 1</entityname.opbg_barracks1>
+<entityname.opbg_barracks2>Казармы аванпоста – фон 2</entityname.opbg_barracks2>
+<entityname.opbg_barracks3>Казармы аванпоста – фон 3</entityname.opbg_barracks3>
+<entityname.opbg_services1>Службы аванпоста – фон 1</entityname.opbg_services1>
+<entityname.opbg_services2>Службы аванпоста – фон 2</entityname.opbg_services2>
+<entityname.opbgmaintenancebaya1>Ремонтный отсек аванпоста – фон 1</entityname.opbgmaintenancebaya1>
+<entityname.opbgmaintenancebaya2>Ремонтный отсек аванпоста – фон 2</entityname.opbgmaintenancebaya2>
+<entityname.opbgmaintenancebaya3>Ремонтный отсек аванпоста – фон 3</entityname.opbgmaintenancebaya3>
+<entityname.opbg_researchlab1>Исследовательская лаборатория аванпоста – фон 1</entityname.opbg_researchlab1>
+<entityname.opbg_researchlab2>Исследовательская лаборатория аванпоста – фон 2</entityname.opbg_researchlab2>
+<entityname.opbg_tunnel1>Туннель аванпоста – фон 1</entityname.opbg_tunnel1>
+<entityname.opbg_tunnel2>Туннель аванпоста – фон 2</entityname.opbg_tunnel2>
+<entityname.opbg_tunnel4>Туннель аванпоста – фон 4</entityname.opbg_tunnel4>
+<entityname.opbg_tunnel5>Туннель аванпоста – фон 5</entityname.opbg_tunnel5>
+<entityname.opbg_tunnel6>Туннель аванпоста – фон 6</entityname.opbg_tunnel6>
+<entityname.opbg_manageroffice1>Офис управляющего аванпоста – фон 1</entityname.opbg_manageroffice1>
+<entityname.opbg_manageroffice2>Офис управляющего аванпоста – фон 2</entityname.opbg_manageroffice2>
+<entityname.opbg_manageroffice3>Офис управляющего аванпоста – фон 3</entityname.opbg_manageroffice3>
+<entityname.opbg_dorm1>Жилое помещение аванпоста – фон</entityname.opbg_dorm1>
+<entityname.opbg_messhall1>Столовая аванпоста – фон</entityname.opbg_messhall1>
+<entityname.opdeco_nuclearsign>Знак "Радиация"</entityname.opdeco_nuclearsign>
+<entityname.opdeco_instructionsign>Знак "Инструкция"</entityname.opdeco_instructionsign>
+<entityname.opdeco_propagandaposter>Пропагандистский плакат</entityname.opdeco_propagandaposter>
+<entityname.crackedwall1>Стена с трещинами</entityname.crackedwall1>
+<entityname.graffiti1>Граффити</entityname.graffiti1>
+<entityname.icewall>Ледяная стена тоннеля</entityname.icewall>
+<entityname.icewallcracked>Ледяная стена тоннеля с трещинами</entityname.icewallcracked>
+<entityname.icewall90>Ледяная стена тоннеля 90</entityname.icewall90>
+<entityname.icewallcracked90>Ледяная стена тоннеля с трещинами 90</entityname.icewallcracked90>
+<entityname.icerock01>Ледяной тоннель с камнем 1</entityname.icerock01>
+<entityname.icerock02>Ледяной тоннель с камнем 2</entityname.icerock02>
+<entityname.icerock03>Ледяной тоннель с камнем 3</entityname.icerock03>
+<entityname.icerock04>Ледяной тоннель с камнем 4</entityname.icerock04>
+<entityname.thalamus_background_2>Таламус – фон 2</entityname.thalamus_background_2>
+<entityname.thalamus_background_3>Таламус – фон 3</entityname.thalamus_background_3>
+<entityname.thalamus_background_4>Таламус – фон 4</entityname.thalamus_background_4>
+<entityname.medbaywall1>Стена медотсека 1</entityname.medbaywall1>
+<entityname.opdeco_medrack>Медицинская стойка</entityname.opdeco_medrack>
+<entityname.opdeco_hospitalbed>Больничная койка</entityname.opdeco_hospitalbed>
+<entityname.opdeco_diningtablesmall>Маленький обеденный стол</entityname.opdeco_diningtablesmall>
+<entityname.opdeco_liftingequpiment>Снаряжение для подъема</entityname.opdeco_liftingequpiment>
+<entityname.opdeco_construction_barrier>Ограждение стройки</entityname.opdeco_construction_barrier>
+<entityname.opdeco_supportbeam>Опорная балка</entityname.opdeco_supportbeam>
+<entityname.opdeco_icecube>Ледяной куб</entityname.opdeco_icecube>
+<entityname.opdeco_icepillar>Ледяная колонна</entityname.opdeco_icepillar>
+<entityname.opdeco_monitor>Монитор</entityname.opdeco_monitor>
+<entityname.decowire1>Декоративная проводка</entityname.decowire1>
+<entityname.decopanel1>Декоративная панель</entityname.decopanel1>
+<entityname.decocolumn1>Декоративная колонна</entityname.decocolumn1>
+<entityname.decobarrier1>Защитное ограждение</entityname.decobarrier1>
+<entityname.opbg_jail>Белая тюрьма</entityname.opbg_jail>
+<entityname.opbg_rock>Каменный фон</entityname.opbg_rock>
+<entityname.opdeco_prisonbed>Тюремная койка</entityname.opdeco_prisonbed>
+<entityname.shop_decoration>Украшение магазина</entityname.shop_decoration>
+<entityname.op_circusposter.png>Плакат</entityname.op_circusposter.png>
+<entityname.op_plaque.png>Табличка</entityname.op_plaque.png>
+<entityname.wreckdecal>Обломки</entityname.wreckdecal>
+<entityname.engineerequipment>Снаряжение инженера</entityname.engineerequipment>
+<entityname.Jaildoor>Тюремная дверь</entityname.Jaildoor>
+<entityname.shelf>Полка</entityname.shelf>
+
+<!-- Modified values May 27th, 2024 -->
+<sp.turret.AutoOperate.description>Будет ли орудие работать автоматически с ИИ-прицеливанием? Включает дополнительные настройки случайного передвижения, которые можно задать позже. Также значения можно задать через подключения (проводку), но только если в редакторе включено «Автоуправление».</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.description>Насколько орудие отклоняется при случайном нацеливании вместо точного отслеживания цели, в градусах.</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.description>Насколько часто требуется править отклонение орудия при случайном нацеливании вместо точного отслеживания цели. Минимальное время ожидания, в секундах.</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.description>Насколько часто требуется править отклонение орудия при случайном нацеливании вместо точного отслеживания цели. Максимальное время ожидания, в секундах.</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.description>Будет ли орудие случайно двигаться при бездействии?</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.description>Будет ли у орудия задержка при получении цели, или оно должно срабатывать сразу?</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.description>Должно ли орудие целиться в персонажей в целом?</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.description>Должно ли орудие целиться во всех монстров?</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.description>Должно ли орудие целиться во всех людей (или существ в той же группе, например питомцев)?</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.description>Должно ли орудие целиться в другие подлодки?</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.description>Должно ли орудие целиться в предметы?</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.description>Название группы или вида существ, которых ИИ игнорирует при автоуправлении орудием.</sp.turret.FriendlyTag.description>
+<!-- New values May 27th, 2024 -->
+<sp.turret.AutoOperate.propertyheader>Автоуправление</sp.turret.AutoOperate.propertyheader>
+<sp.powered.propertyheader>Силовой компонент</sp.powered.propertyheader>
+
+</infotexts>

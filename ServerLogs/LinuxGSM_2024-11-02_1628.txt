@@ -1,0 +1,1210 @@
+﻿[11/02/2024 15:53:55]
+  Starting the server...
+[11/02/2024 15:53:56]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/02/2024 15:53:56]
+  Server started
+[11/02/2024 15:54:03]
+  Cryonite has joined the server.
+[11/02/2024 15:54:03]
+  Saving client permissions
+[11/02/2024 15:54:19]
+  Liberator762 has joined the server.
+[11/02/2024 15:54:19]
+  Saving client permissions
+[11/02/2024 15:54:25]
+  LaywithMind has joined the server.
+[11/02/2024 15:54:25]
+  Saving client permissions
+[11/02/2024 15:54:38]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:38]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:39]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:40]
+  Gamemode changed to Campaign
+[11/02/2024 15:55:08]
+  Starting a new round...
+[11/02/2024 15:55:17]
+  Game mode: Campaign
+[11/02/2024 15:55:17]
+  Submarine: HiveSub
+[11/02/2024 15:55:17]
+  Level seed: LocationName.generic.2159
+[11/02/2024 15:55:18]
+  Lorrie Hocker equipped Wrench
+[11/02/2024 15:55:18]
+  Lorrie Hocker unequipped Wrench
+[11/02/2024 15:55:18]
+  Lorrie Hocker equipped Screwdriver
+[11/02/2024 15:55:18]
+  Lora Hampton equipped Wrench
+[11/02/2024 15:55:18]
+  Lora Hampton unequipped Wrench
+[11/02/2024 15:55:18]
+  Lora Hampton equipped Screwdriver
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro equipped Wrench
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro unequipped Wrench
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro equipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Wrench
+[11/02/2024 15:55:18]
+  Kathy Gay unequipped Wrench
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay unequipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Crowbar
+[11/02/2024 15:55:18]
+  Timur Lavey equipped Wrench
+[11/02/2024 15:55:18]
+  Timur Lavey unequipped Wrench
+[11/02/2024 15:55:18]
+  Timur Lavey equipped Screwdriver
+[11/02/2024 15:55:18]
+  Jarvis Meisner equipped Screwdriver
+[11/02/2024 15:55:18]
+  Coleman Meals equipped Wrench
+[11/02/2024 15:55:18]
+  Round started.
+[11/02/2024 15:55:19]
+  Coleman Meals unequipped Wrench
+[11/02/2024 15:55:19]
+  Kathy Gay unequipped Crowbar
+[11/02/2024 15:55:19]
+  Jarvis Meisner unequipped Screwdriver
+[11/02/2024 15:55:22]
+  Rosina Gonzales: I hope you people aren't planning on staying for long. Got enough problems down here as it is.
+[11/02/2024 15:55:24]
+  Mitchel Hardy: I don't get why the separatists follow that Petran girl. What is she, 30 or something?
+[11/02/2024 15:55:29]
+  Leo Lavey: I suppose being the great-great-something-granddaughter of Harlow Petran gives her gravitas of some sort.
+[11/02/2024 15:55:31]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:34]
+  Mitchel Hardy: And who the hell is that?
+[11/02/2024 15:55:34]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:36]
+  Leo Lavey: The guy who founded the Jovian People's Movement?
+[11/02/2024 15:55:37]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:41]
+  Mitchel Hardy: What's that? Don't they call themselves Jovian Separatists?
+[11/02/2024 15:55:46]
+  Leo Lavey: I take it you haven't read a single history book in your life?
+[11/02/2024 15:59:11]
+  LaywithMind equipped Revolver
+[11/02/2024 15:59:54]
+  Cryonite picked up Diving Mask
+[11/02/2024 15:59:56]
+  Cryonite placed Diving Mask in the inventory of Medium Steel Cabinet (ID: 18)
+[11/02/2024 15:59:58]
+  LaywithMind picked up Diving Mask
+[11/02/2024 16:00:02]
+  Cryonite picked up Welding Tool
+[11/02/2024 16:00:22]
+  Cryonite: Dorsey Case, take care of any leaks!
+[11/02/2024 16:00:23]
+  Dorsey Case: Sure thing!
+[11/02/2024 16:00:25]
+  Cryonite: Dorsey Case, take care of broken devices!
+[11/02/2024 16:00:26]
+  Dorsey Case: Got it!
+[11/02/2024 16:00:29]
+  Cryonite: Dorsey Case, make sure the submarine weapons don't run out of ammo!
+[11/02/2024 16:00:30]
+  Dorsey Case: No way!
+[11/02/2024 16:00:31]
+  Cryonite: Dorsey Case, start fixing leaks!
+[11/02/2024 16:00:32]
+  Dorsey Case: Yes, sir!
+[11/02/2024 16:00:32]
+  Cryonite: Dorsey Case, repair damaged systems!
+[11/02/2024 16:00:33]
+  Dorsey Case: Yes, sir!
+[11/02/2024 16:01:53]
+  LaywithMind set the recharge speed of Battery to 10 %
+[11/02/2024 16:01:54]
+  LaywithMind set the recharge speed of Battery to 20 %
+[11/02/2024 16:01:55]
+  LaywithMind set the recharge speed of Battery to 30 %
+[11/02/2024 16:01:55]
+  LaywithMind set the recharge speed of Battery to 40 %
+[11/02/2024 16:02:52]
+  Client "Cryonite" ended the round.
+[11/02/2024 16:02:53]
+  Ending the round...
+[11/02/2024 16:02:54]
+  Round ended.
+[11/02/2024 16:02:56]
+  Starting a new round...
+[11/02/2024 16:02:59]
+  Mission: Handle with care
+[11/02/2024 16:02:59]
+  Local researchers are offering 3,500 marks for delivering a large amount of nitroglycerin to Chandelle Crevasse Prospecting Outpost.
+[11/02/2024 16:02:59]
+  Mission: Killing a large crawler
+[11/02/2024 16:02:59]
+  An especially large crawler has been terrorizing vessels traveling between Beenalaght Fossa Habitation Outpost and Chandelle Crevasse Prospecting Outpost. A reward of 1,500 marks has been promised to any crew that can neutralize it.
+[11/02/2024 16:03:00]
+  Game mode: Campaign
+[11/02/2024 16:03:00]
+  Submarine: HiveSub
+[11/02/2024 16:03:00]
+  Level seed: LocationName.generic.2159LocationName.city.1282
+[11/02/2024 16:03:00]
+  Mission: Handle with care
+[11/02/2024 16:03:00]
+  Mission: Killing a large crawler
+[11/02/2024 16:03:00]
+  Round started.
+[11/02/2024 16:03:05]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:03:12]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:03:14]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:03:33]
+  Cryonite: Valerie Moses, make sure the submarine weapons don't run out of ammo!
+[11/02/2024 16:03:34]
+  Valerie Moses: Aye aye!
+[11/02/2024 16:03:36]
+  Cryonite: Valerie Moses, take care of broken devices!
+[11/02/2024 16:03:37]
+  Valerie Moses: Aye aye!
+[11/02/2024 16:03:38]
+  Cryonite: Valerie Moses, take care of any leaks!
+[11/02/2024 16:03:39]
+  Valerie Moses: Sure thing!
+[11/02/2024 16:03:57]
+  Dorsey Case: Ever seen one of those things that guard the ruins?
+[11/02/2024 16:04:08]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:04:08]
+  Valerie Moses: I don't have the tools for the repairs!
+[11/02/2024 16:04:10]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:04:14]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:04:14]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:04:15]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:04:19]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:04:31]
+  Cryonite equipped Wrench
+[11/02/2024 16:05:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:00]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:03]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:03]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:05:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:03]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:03]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:05]
+  Crawler has died (Cause of death: Bite wounds)
+[11/02/2024 16:05:05]
+  Valerie Moses: Where's all the welding equipment? I can't find any!
+[11/02/2024 16:05:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:08]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:08]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/02/2024 16:05:09]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[11/02/2024 16:05:09]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:09]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:10]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:10]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:10]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:11]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:11]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:11]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:11]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:12]
+  Dorsey Case: A torch, a welding torch... Where are you when I need you the most?
+[11/02/2024 16:05:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:12]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:13]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:13]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:13]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:13]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:15]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:15]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:15]
+  Crawler_large attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:15]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:15]
+  Crawler_large attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:05:16]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:16]
+  Outer wall breached by LaywithMind
+[11/02/2024 16:05:16]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:05:17]
+  Valerie Moses: A torch, a welding torch... Where are you when I need you the most?
+[11/02/2024 16:05:20]
+  Cryonite equipped Welding Tool
+[11/02/2024 16:05:23]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:24]
+  Outer wall repaired by Cryonite
+[11/02/2024 16:05:25]
+  Liberator762 equipped Welding Tool
+[11/02/2024 16:05:26]
+  Dorsey Case: A torch, a welding torch... Where are you when I need you the most?
+[11/02/2024 16:05:30]
+  Valerie Moses: Where's all the welding equipment? I can't find any!
+[11/02/2024 16:05:36]
+  Outer wall repaired by Cryonite
+[11/02/2024 16:05:37]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:40]
+  Outer wall repaired by Cryonite
+[11/02/2024 16:05:45]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:50]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:05:50]
+  Valerie Moses: A torch, a welding torch... Where are you when I need you the most?
+[11/02/2024 16:05:50]
+  Outer wall breached by Crawler_large
+[11/02/2024 16:05:52]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:05:56]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:05:59]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:06:01]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:06:02]
+  Valerie Moses: No more leaks in Diving!
+[11/02/2024 16:06:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:04]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:04]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:05]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:05]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:06]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:06]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:06]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:07]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:07]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:07]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:08]
+  Crawler_large has died (Cause of death: Lacerations)
+[11/02/2024 16:06:08]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:09]
+  Outer wall breached by Crawler
+[11/02/2024 16:06:09]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:06:11]
+  Outer wall breached by Crawler
+[11/02/2024 16:06:11]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:06:13]
+  Outer wall repaired by Liberator762
+[11/02/2024 16:06:13]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:06:14]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:06:14]
+  Valerie Moses: All leaks repaired in Prison!
+[11/02/2024 16:06:14]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:06:14]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:06:15]
+  Outer wall breached by Crawler
+[11/02/2024 16:06:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:17]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:20]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:06:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:20]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:06:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:21]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:21]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:21]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:06:23]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:06:25]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:25]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:25]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:25]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:26]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:26]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:26]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:26]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:26]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:27]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:27]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:27]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:27]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:28]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:28]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:28]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:28]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:28]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:29]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:31]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:32]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:45]
+  Liberator762 equipped Wrench
+[11/02/2024 16:06:47]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:06:49]
+  Valerie Moses: I don't have the tools for the repairs!
+[11/02/2024 16:06:49]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:06:53]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:06:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:56]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:56]
+  Outer wall breached by Crawler
+[11/02/2024 16:06:56]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:06:57]
+  Valerie Moses: I need diving gear!
+[11/02/2024 16:06:58]
+  Dorsey Case: I need diving gear!
+[11/02/2024 16:06:58]
+  Liberator762 started repairing Junction Box
+[11/02/2024 16:06:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:06:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:01]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:07:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:01]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:02]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:02]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:02]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:07:02]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:07:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:02]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:07:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:03]
+  Dorsey Case: No more leaks in Ballast!
+[11/02/2024 16:07:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:03]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:03]
+  Liberator762 started repairing Junction Box
+[11/02/2024 16:07:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:03]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:07:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:04]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:04]
+  Crawler has died (Cause of death: Lacerations)
+[11/02/2024 16:07:04]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:05]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:05]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:07:05]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:07:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:06]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:11]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:07:11]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:07:11]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:07:11]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:07:11]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:07:11]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:07:18]
+  Liberator762 failed to repair Junction Box
+[11/02/2024 16:07:21]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:07:30]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:07:34]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:34]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:34]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:35]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:35]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:07:35]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:36]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:37]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:37]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:38]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:38]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:38]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:38]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:38]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:38]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:38]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:38]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:39]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:39]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:40]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:40]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:40]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:41]
+  Crawler_large attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:41]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:41]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:41]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:44]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:44]
+  Crawler has died (Cause of death: Lacerations)
+[11/02/2024 16:07:44]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:44]
+  Mission info: Target terminated - The crawler is terminated. Reach the next station to claim the reward.
+[11/02/2024 16:07:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:07:44]
+  Crawler attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:07:45]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:08:05]
+  Valerie Moses: Can't find the tools to do the repairs!
+[11/02/2024 16:08:05]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:08:06]
+  Dorsey Case started repairing Battery
+[11/02/2024 16:08:10]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:08:47]
+  LaywithMind docked HiveSub to Chandelle Crevasse Prospecting Outpost
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:08:47]
+  Cryonite has gained 315 experience (0 -> 315)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:08:47]
+  Liberator762 has gained 315 experience (0 -> 315)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:08:47]
+  LaywithMind has gained 315 experience (0 -> 315)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:08:47]
+  Valerie Moses has gained 315 experience (0 -> 315)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:08:47]
+  Dorsey Case has gained 315 experience (0 -> 315)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:08:47]
+  Cryonite has gained 135 experience (315 -> 450)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:08:47]
+  Liberator762 has gained 135 experience (315 -> 450)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:08:47]
+  LaywithMind has gained 135 experience (315 -> 450)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:08:47]
+  Valerie Moses has gained 135 experience (315 -> 450)
+[11/02/2024 16:08:47]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:08:47]
+  Dorsey Case has gained 135 experience (315 -> 450)
+[11/02/2024 16:08:47]
+  Ending the round...
+[11/02/2024 16:08:48]
+  Round ended.
+[11/02/2024 16:08:50]
+  Starting a new round...
+[11/02/2024 16:08:53]
+  Game mode: Campaign
+[11/02/2024 16:08:53]
+  Submarine: HiveSub
+[11/02/2024 16:08:53]
+  Level seed: LocationName.city.1282
+[11/02/2024 16:08:53]
+  Mathew Vazquez equipped Wrench
+[11/02/2024 16:08:53]
+  Mathew Vazquez unequipped Wrench
+[11/02/2024 16:08:53]
+  Mathew Vazquez equipped Screwdriver
+[11/02/2024 16:08:53]
+  Donn Combs equipped Wrench
+[11/02/2024 16:08:53]
+  Donn Combs unequipped Wrench
+[11/02/2024 16:08:53]
+  Donn Combs equipped Screwdriver
+[11/02/2024 16:08:53]
+  Sammie Rosewood equipped Wrench
+[11/02/2024 16:08:53]
+  Sammie Rosewood unequipped Wrench
+[11/02/2024 16:08:53]
+  Sammie Rosewood equipped Screwdriver
+[11/02/2024 16:08:53]
+  Kristie Bonham equipped Wrench
+[11/02/2024 16:08:53]
+  Kristie Bonham unequipped Wrench
+[11/02/2024 16:08:53]
+  Kristie Bonham equipped Screwdriver
+[11/02/2024 16:08:53]
+  Kristie Bonham unequipped Screwdriver
+[11/02/2024 16:08:53]
+  Kristie Bonham equipped Crowbar
+[11/02/2024 16:08:53]
+  Lanny Green equipped Wrench
+[11/02/2024 16:08:53]
+  Lanny Green unequipped Wrench
+[11/02/2024 16:08:53]
+  Lanny Green equipped Screwdriver
+[11/02/2024 16:08:53]
+  Marylee Freeman equipped Crowbar
+[11/02/2024 16:08:53]
+  Jackie Vazquez equipped Screwdriver
+[11/02/2024 16:08:53]
+  Trista Box equipped Wrench
+[11/02/2024 16:08:53]
+  Liberator762 equipped Welding Tool
+[11/02/2024 16:08:54]
+  Round started.
+[11/02/2024 16:08:54]
+  Gloria Lyons equipped Crowbar
+[11/02/2024 16:08:54]
+  Severo Ruiz equipped Ethanol
+[11/02/2024 16:08:54]
+  Randall Ouellette equipped Crowbar
+[11/02/2024 16:08:54]
+  Kristie Bonham unequipped Crowbar
+[11/02/2024 16:08:54]
+  Marylee Freeman unequipped Crowbar
+[11/02/2024 16:08:54]
+  Jackie Vazquez unequipped Screwdriver
+[11/02/2024 16:08:55]
+  Trista Box unequipped Wrench
+[11/02/2024 16:09:01]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:09:07]
+  Trista Box: Nice to see a friendly face! We don't get too many visitors around these parts.
+[11/02/2024 16:09:09]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:09:09]
+  Liberator762 equipped Wrench
+[11/02/2024 16:09:09]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:09:13]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:09:40]
+  Mathew Vazquez: Did a thresher eat your crew? Looking for fresh hires? Look no further!
+[11/02/2024 16:10:01]
+  Liberator762 set the value "GuiFrameOffset" of the item "Fabricator" to "0,-1".
+[11/02/2024 16:10:06]
+  Lanny Green unequipped Screwdriver
+[11/02/2024 16:10:09]
+  Cryonite has gained the talent 'Skedaddle'
+[11/02/2024 16:11:00]
+  Liberator762 picked up Battery Cell
+[11/02/2024 16:11:12]
+  Liberator762 picked up Opium
+[11/02/2024 16:11:42]
+  LaywithMind picked up Screwdriver
+[11/02/2024 16:13:53]
+  Randall Ouellette unequipped Crowbar
+[11/02/2024 16:14:05]
+  Gloria Lyons unequipped Crowbar
+[11/02/2024 16:15:00]
+  LaywithMind has gained the talent 'Traveling Tradesman'
+[11/02/2024 16:16:33]
+  Client "Cryonite" ended the round.
+[11/02/2024 16:16:33]
+  Ending the round...
+[11/02/2024 16:16:34]
+  Round ended.
+[11/02/2024 16:16:36]
+  Starting a new round...
+[11/02/2024 16:16:40]
+  Severo Ruiz equipped Ethanol
+[11/02/2024 16:16:40]
+  Mission: Mining Pyromorphite
+[11/02/2024 16:16:40]
+  There's been talk of deposits of Pyromorphite along the way from Chandelle Crevasse Prospecting Outpost to Guthlaug Outpost. Bring back 8 samples of Pyromorphite to verify these claims. You are expected to hand over 25%.
+[11/02/2024 16:16:40]
+  Mission: Arms Delivery
+[11/02/2024 16:16:40]
+  The Coalition has sent some undercover operatives to investigate Separatist activity in Guthlaug Outpost. They are in urgent need of weapons and ammunition—deliver them and you will receive a reward of 2,400 marks.
+[11/02/2024 16:16:40]
+  Mission: Civilian transport
+[11/02/2024 16:16:40]
+  Transport a passenger and their companion to a nearby station.
+[11/02/2024 16:16:40]
+  Mission: Cultist Transport
+[11/02/2024 16:16:40]
+  The Church of Husk has offered a reward of 1,500 marks for transporting a group of acolytes to Guthlaug Outpost. There is reason to believe some of them might be planning a premature "communion" of their own, and a subsequent escape into the cold sea, but the Church has asked you to keep an eye on them and bring them to Guthlaug Outpost in human form.
+[11/02/2024 16:16:40]
+  Game mode: Campaign
+[11/02/2024 16:16:40]
+  Submarine: HiveSub
+[11/02/2024 16:16:40]
+  Level seed: LocationName.city.1282LocationName.generic.45110
+[11/02/2024 16:16:40]
+  Mission: Mining [resourcename1]
+[11/02/2024 16:16:40]
+  Mission: Arms Delivery
+[11/02/2024 16:16:40]
+  Mission: Civilian transport
+[11/02/2024 16:16:40]
+  Mission: Cultist Transport
+[11/02/2024 16:16:41]
+  Round started.
+[11/02/2024 16:16:44]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:16:50]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:16:53]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:17:33]
+  Tracy Sykes: Awfully quiet in here.
+[11/02/2024 16:18:02]
+  Cryonite: Valerie Moses, thanks for taking care of broken devices!
+[11/02/2024 16:18:05]
+  Cryonite: Valerie Moses, defend the crew!
+[11/02/2024 16:18:06]
+  Valerie Moses: Copy that.
+[11/02/2024 16:18:09]
+  Liberator762 placed Battery Cell in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:18:10]
+  Liberator762 placed Opium in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:18:15]
+  Liberator762 equipped Wrench
+[11/02/2024 16:18:15]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:18:56]
+  Cryonite picked up Diving Suit
+[11/02/2024 16:19:08]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:19:09]
+  Cryonite picked up Underwater Scooter
+[11/02/2024 16:19:11]
+  Cryonite picked up Handheld Sonar
+[11/02/2024 16:19:13]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:19:20]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:19:26]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:19:36]
+  Liberator762 placed Plasma Cutter in the inventory of Human
+[11/02/2024 16:19:41]
+  Cryonite equipped Welding Tool
+[11/02/2024 16:19:43]
+  Cryonite equipped Underwater Scooter
+[11/02/2024 16:19:49]
+  Cryonite equipped Plasma Cutter
+[11/02/2024 16:20:35]
+  Mission info: Minerals mined - You have mined enough Pyromorphite. Bring it to an outpost to claim the reward.
+[11/02/2024 16:20:47]
+  Cryonite placed Plasma Cutter in the inventory of Medium Windowed Steel Cabinet (ID: 84)
+[11/02/2024 16:20:49]
+  Cryonite placed x8 Pyromorphite in the inventory of Medium Windowed Steel Cabinet (ID: 84)
+[11/02/2024 16:20:58]
+  Cryonite placed Diving Suit in the inventory of Diving Suit Locker (ID: 173)
+[11/02/2024 16:22:02]
+  LaywithMind docked HiveSub to Guthlaug Outpost
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:22:02]
+  Cryonite has gained 114 experience (450 -> 564)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:22:02]
+  Liberator762 has gained 114 experience (450 -> 564)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:22:02]
+  LaywithMind has gained 114 experience (450 -> 564)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:22:02]
+  Valerie Moses has gained 114 experience (450 -> 564)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:22:02]
+  Dorsey Case has gained 114 experience (450 -> 564)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:22:02]
+  Cryonite has gained 228 experience (564 -> 792)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:22:02]
+  Liberator762 has gained 228 experience (564 -> 792)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:22:02]
+  LaywithMind has gained 228 experience (564 -> 792)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:22:02]
+  Valerie Moses has gained 228 experience (564 -> 792)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:22:02]
+  Dorsey Case has gained 228 experience (564 -> 792)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:22:02]
+  Cryonite has gained 142 experience (792 -> 934)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:22:02]
+  Liberator762 has gained 142 experience (792 -> 934)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:22:02]
+  LaywithMind has gained 142 experience (792 -> 934)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:22:02]
+  Valerie Moses has gained 142 experience (792 -> 934)
+[11/02/2024 16:22:02]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:22:02]
+  Dorsey Case has gained 142 experience (792 -> 934)
+[11/02/2024 16:22:03]
+  Ending the round...
+[11/02/2024 16:22:03]
+  Round ended.
+[11/02/2024 16:22:05]
+  Starting a new round...
+[11/02/2024 16:22:08]
+  Game mode: Campaign
+[11/02/2024 16:22:08]
+  Submarine: HiveSub
+[11/02/2024 16:22:08]
+  Level seed: LocationName.generic.45110
+[11/02/2024 16:22:08]
+  Nolan Poole equipped Wrench
+[11/02/2024 16:22:08]
+  Nolan Poole unequipped Wrench
+[11/02/2024 16:22:08]
+  Nolan Poole equipped Screwdriver
+[11/02/2024 16:22:08]
+  Page Ouellette equipped Wrench
+[11/02/2024 16:22:08]
+  Page Ouellette unequipped Wrench
+[11/02/2024 16:22:08]
+  Page Ouellette equipped Screwdriver
+[11/02/2024 16:22:08]
+  Travis Ordway equipped Wrench
+[11/02/2024 16:22:08]
+  Travis Ordway unequipped Wrench
+[11/02/2024 16:22:08]
+  Travis Ordway equipped Screwdriver
+[11/02/2024 16:22:08]
+  Mariela Castillo equipped Wrench
+[11/02/2024 16:22:08]
+  Mariela Castillo unequipped Wrench
+[11/02/2024 16:22:08]
+  Mariela Castillo equipped Screwdriver
+[11/02/2024 16:22:08]
+  Mariela Castillo unequipped Screwdriver
+[11/02/2024 16:22:08]
+  Mariela Castillo equipped Crowbar
+[11/02/2024 16:22:08]
+  Willy Velazquez equipped Wrench
+[11/02/2024 16:22:08]
+  Willy Velazquez unequipped Wrench
+[11/02/2024 16:22:08]
+  Willy Velazquez equipped Screwdriver
+[11/02/2024 16:22:08]
+  Cleopatra Parker equipped Crowbar
+[11/02/2024 16:22:08]
+  Laurinda Mason equipped Wrench
+[11/02/2024 16:22:08]
+  Austin Breeki equipped Screwdriver
+[11/02/2024 16:22:08]
+  Round started.
+[11/02/2024 16:22:09]
+  Cleopatra Parker unequipped Crowbar
+[11/02/2024 16:22:09]
+  Mariela Castillo unequipped Crowbar
+[11/02/2024 16:22:09]
+  Laurinda Mason unequipped Wrench
+[11/02/2024 16:22:09]
+  Austin Breeki unequipped Screwdriver
+[11/02/2024 16:22:14]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:22:21]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:22:25]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:22:51]
+  LaywithMind picked up Opium
+[11/02/2024 16:22:59]
+  Cleopatra Parker: The vending machines here have the best food. Those algae protein cakes are so good!
+[11/02/2024 16:23:04]
+  Laurinda Mason: They taste as much like dirt as the algae protein cakes from any other vending machine I've ever received a ration from.
+[11/02/2024 16:23:09]
+  Cleopatra Parker: You don't know anything about fine dining.
+[11/02/2024 16:23:11]
+  Cryonite picked up Toolbelt
+[11/02/2024 16:23:14]
+  LaywithMind picked up Morphine
+[11/02/2024 16:23:14]
+  LaywithMind picked up Fentanyl
+[11/02/2024 16:23:55]
+  Cryonite purchased 1 item(s) for 262 mk
+ - Plasma Cutter x2
+[11/02/2024 16:24:25]
+  Willy Velazquez unequipped Screwdriver
+[11/02/2024 16:24:45]
+  Cryonite purchased 1 item(s) for 82 mk
+ - Diving Knife x2
+[11/02/2024 16:25:11]
+  Travis Ordway unequipped Screwdriver
+[11/02/2024 16:25:26]
+  Page Ouellette unequipped Screwdriver
+[11/02/2024 16:25:51]
+  LaywithMind picked up Plasma Cutter
+[11/02/2024 16:25:53]
+  LaywithMind equipped Plasma Cutter
+[11/02/2024 16:26:43]
+  Saving client permissions
+[11/02/2024 16:27:08]
+  Saving client permissions
+[11/02/2024 16:27:13]
+  Console command "enablecheats" executed by Cryonite.
+[11/02/2024 16:27:25]
+  Console command "teleportcharacter LaywithMind curso" executed by Cryonite.
+[11/02/2024 16:27:27]
+  Console command "teleportcharacter LaywithMind cursor" executed by Cryonite.
+[11/02/2024 16:27:33]
+  Cryonite equipped Bike Horn
+[11/02/2024 16:28:38]
+  Client "Cryonite" ended the round.
+[11/02/2024 16:28:38]
+  Ending the round...

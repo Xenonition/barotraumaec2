@@ -1,0 +1,294 @@
+﻿[11/16/2024 15:49:30]
+  Starting the server...
+[11/16/2024 15:49:30]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/16/2024 15:49:30]
+  Server started
+[11/16/2024 15:49:53]
+  Cryonite has joined the server.
+[11/16/2024 15:49:53]
+  Saving client permissions
+[11/16/2024 15:49:59]
+  Gamemode changed to Mission
+[11/16/2024 15:50:41]
+  LaywithMind has joined the server.
+[11/16/2024 15:50:41]
+  Saving client permissions
+[11/16/2024 15:50:54]
+  Cryonite is causing the server to slow down.
+[11/16/2024 15:50:58]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:50:58]
+  Cryonite changed SelectedLevelDifficulty to 50
+[11/16/2024 15:50:59]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:50:59]
+  Cryonite changed BotCount to 3
+[11/16/2024 15:51:00]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:00]
+  Cryonite changed BotCount to 4
+[11/16/2024 15:51:00]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:00]
+  Cryonite changed BotCount to 5
+[11/16/2024 15:51:02]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 15:51:02]
+  Cryonite changed BotCount to 4
+[11/16/2024 15:54:29]
+  widjajajames has joined the server.
+[11/16/2024 15:54:29]
+  Saving client permissions
+[11/16/2024 15:54:59]
+  widjajajames is ready to start the game.
+[11/16/2024 15:55:12]
+  Client "Cryonite" started the round.
+[11/16/2024 15:55:12]
+  Starting a new round...
+[11/16/2024 15:55:23]
+  Eleanor Heuer equipped Wrench
+[11/16/2024 15:55:23]
+  Eleanor Heuer unequipped Wrench
+[11/16/2024 15:55:23]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Wrench
+[11/16/2024 15:55:23]
+  Sara Monroe unequipped Wrench
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 15:55:23]
+  Sara Monroe equipped Crowbar
+[11/16/2024 15:55:23]
+  Mission: Coalition Vessel
+[11/16/2024 15:55:23]
+  Seek out the Coalition vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[11/16/2024 15:55:23]
+  Game mode: Mission
+[11/16/2024 15:55:23]
+  Submarine: Carrier
+[11/16/2024 15:55:23]
+  Level seed: 84FUzhe5
+[11/16/2024 15:55:23]
+  Mission: Coalition Vessel
+[11/16/2024 15:55:23]
+  Keri Jack equipped Welding Tool
+[11/16/2024 15:55:23]
+  Sherry Cluck equipped Welding Tool
+[11/16/2024 15:55:25]
+  Round started.
+[11/16/2024 15:55:26]
+  Fractalguardian2 equipped Guardian Steam Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:26]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/16/2024 15:55:28]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 15:55:28]
+  Sara Monroe unequipped Crowbar
+[11/16/2024 15:55:32]
+  Mathew Flowers: They that go down to the sea in ships;
+[11/16/2024 15:55:33]
+  Mathew Flowers: Dorsey Celina Ryder, man the weapons!
+[11/16/2024 15:55:33]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:34]
+  Dorsey Celina Ryder: Aye!
+[11/16/2024 15:55:36]
+  Mathew Flowers: That do business in great waters;
+[11/16/2024 15:55:39]
+  Carie Williams: Copy that.
+[11/16/2024 15:55:39]
+  Mathew Flowers: These see the works of the Lord, and His wonders in the deep.
+[11/16/2024 15:55:40]
+  widjajajames equipped Wrench
+[11/16/2024 15:55:41]
+  widjajajames equipped Screwdriver
+[11/16/2024 15:55:42]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:43]
+  widjajajames: I'll power up the reactor!
+[11/16/2024 15:55:44]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:55:44]
+  Mathew Flowers: Off we go! Good luck, crew!
+[11/16/2024 15:55:48]
+  Mathew Flowers: Dorsey Celina Ryder, man the weapons!
+[11/16/2024 15:55:49]
+  Dorsey Celina Ryder: Yes, sir!
+[11/16/2024 15:56:18]
+  Liza Swanger: I need diving gear!
+[11/16/2024 15:57:07]
+  Liberator762 has joined the server.
+[11/16/2024 15:57:07]
+  Saving client permissions
+[11/16/2024 15:57:13]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:28]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:38]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 15:57:38]
+  Respawning Liberator762 (76.65.29.83:53662) as Mechanic.
+[11/16/2024 15:57:38]
+  Dispatching the respawn shuttle.
+[11/16/2024 15:57:39]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 15:57:56]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:57:57]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:57:57]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:58:01]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:03]
+  LaywithMind set the recharge speed of Supercapacitor to 10 %
+[11/16/2024 15:58:03]
+  LaywithMind set the recharge speed of Supercapacitor to 20 %
+[11/16/2024 15:58:04]
+  LaywithMind set the recharge speed of Supercapacitor to 30 %
+[11/16/2024 15:58:51]
+  Console command "enablecheats" executed by Cryonite.
+[11/16/2024 15:59:02]
+  Console command "giveitem "Boarding Pod"" executed by Cryonite.
+[11/16/2024 15:59:02]
+  Cryonite equipped Boarding Pod
+[11/16/2024 15:59:06]
+  Cryonite placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 15:59:10]
+  Cryonite picked up Diving Suit
+[11/16/2024 16:00:09]
+  Liberator762 docked Hemulen to Carrier
+[11/16/2024 16:00:11]
+  Liberator762 undocked Hemulen from Carrier
+[11/16/2024 16:00:12]
+  Liberator762 docked Hemulen to Carrier
+[11/16/2024 16:00:17]
+  widjajajames undocked CarrierBot from Carrier
+[11/16/2024 16:00:27]
+  The respawn shuttle is leaving.
+[11/16/2024 16:00:58]
+  The respawn shuttle has left.
+[11/16/2024 16:01:10]
+  Mathew Flowers: Eleanor Heuer, take care of broken devices!
+[11/16/2024 16:01:11]
+  Eleanor Heuer: Copy that.
+[11/16/2024 16:01:12]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:01:15]
+  Liberator762 attacked by widjajajames. Lacerations: 2.5 Bleeding: 1.5
+[11/16/2024 16:01:15]
+  widjajajames used Screwdriver on Liberator762.
+[11/16/2024 16:01:16]
+  Mathew Flowers: Sara Monroe, take care of broken devices!
+[11/16/2024 16:01:17]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:01:17]
+  Sara Monroe: Sure thing!
+[11/16/2024 16:02:16]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:02:17]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:02:22]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:02:22]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:02:42]
+  Eleanor Heuer equipped Wrench
+[11/16/2024 16:02:43]
+  Sara Monroe equipped Wrench
+[11/16/2024 16:02:51]
+  Eleanor Heuer unequipped Wrench
+[11/16/2024 16:02:52]
+  Sara Monroe unequipped Wrench
+[11/16/2024 16:03:24]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:03:25]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:03:25]
+  Eleanor Heuer failed to repair Junction Box
+[11/16/2024 16:03:39]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:03:41]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:03:51]
+  widjajajames docked CarrierBot to Carrier
+[11/16/2024 16:04:00]
+  Cryonite dropped Diving Suit
+[11/16/2024 16:04:02]
+  Liberator762 picked up Diving Suit
+[11/16/2024 16:04:08]
+  Liberator762 equipped Boarding Pod
+[11/16/2024 16:04:12]
+  Liberator762 placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:04:23]
+  widjajajames picked up Diving Suit
+[11/16/2024 16:04:27]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:04:27]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:04:28]
+  Eleanor Heuer failed to repair Junction Box
+[11/16/2024 16:04:32]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:04:33]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:04:42]
+  Cryonite undocked CarrierBot from Carrier
+[11/16/2024 16:04:54]
+  Filiberto Eastman: I need diving gear!
+[11/16/2024 16:04:58]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:04:59]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:05:02]
+  Liza Swanger: Need to find a diving suit!
+[11/16/2024 16:05:07]
+  Sara Monroe unequipped Screwdriver
+[11/16/2024 16:05:07]
+  Eleanor Heuer unequipped Screwdriver
+[11/16/2024 16:05:14]
+  Liza Swanger equipped Welding Tool
+[11/16/2024 16:05:14]
+  Outer wall repaired by Liza Swanger
+[11/16/2024 16:05:15]
+  Liza Swanger unequipped Welding Tool
+[11/16/2024 16:05:25]
+  LaywithMind picked up Diving Suit
+[11/16/2024 16:05:32]
+  Glenn Saunders: I need diving gear!
+[11/16/2024 16:05:32]
+  Mechelle Santistevan: I need diving gear!
+[11/16/2024 16:05:41]
+  Mechelle Santistevan: Pressure level dangerously high in Reactor Engine!
+[11/16/2024 16:05:41]
+  Filiberto Eastman: Pressure level dangerously high in Reactor Engine!
+[11/16/2024 16:05:42]
+  Sara Monroe equipped Screwdriver
+[11/16/2024 16:05:42]
+  Eleanor Heuer equipped Screwdriver
+[11/16/2024 16:05:43]
+  Glenn Saunders: Pressure rising in Electrical!
+[11/16/2024 16:05:47]
+  Filiberto Eastman equipped Diving Suit
+[11/16/2024 16:05:48]
+  Sara Monroe failed to repair Junction Box
+[11/16/2024 16:05:49]
+  Mechelle Santistevan: gasping
+[11/16/2024 16:05:51]
+  Client "Cryonite" ended the round.
+[11/16/2024 16:05:51]
+  Ending the round...

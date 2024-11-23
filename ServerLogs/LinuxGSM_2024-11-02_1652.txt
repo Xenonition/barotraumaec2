@@ -1,0 +1,1600 @@
+﻿[11/02/2024 16:31:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:46]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:46]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:47]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:47]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:31:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:47]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:31:47]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:31:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:48]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:50]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:50]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:31:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:50]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:31:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:50]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:51]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:51]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:31:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:52]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:53]
+  Outer wall repaired by Liberator762
+[11/02/2024 16:31:53]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:53]
+  Hammerhead_m has died (Cause of death: Lacerations)
+[11/02/2024 16:31:53]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:53]
+  Dorsey Case: No more leaks in Top Airlock!
+[11/02/2024 16:31:53]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:54]
+  Outer wall repaired by Valerie Moses
+[11/02/2024 16:31:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:54]
+  Valerie Moses: Repairing Reactor Engine. A few more holes to go!
+[11/02/2024 16:31:54]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:31:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:54]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:55]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:55]
+  Valerie Moses: No more leaks in Reactor Engine!
+[11/02/2024 16:31:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:55]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:55]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:55]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:31:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:56]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:56]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:31:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:56]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:56]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:57]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:31:57]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:31:57]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:57]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:57]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:57]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:31:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:58]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:58]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:31:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:58]
+  Dorsey Case started repairing Door with Buttons
+[11/02/2024 16:31:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:31:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:01]
+  Outer wall breached by Hammerhead_m
+[11/02/2024 16:32:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:03]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:04]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:32:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:04]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:32:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:04]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:32:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:05]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:32:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:06]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:32:06]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:32:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:07]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:32:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:08]
+  Hammerhead_m has died (Cause of death: Lacerations)
+[11/02/2024 16:32:08]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:08]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:32:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:13]
+  Inner wall breached by Hammerhead_m
+[11/02/2024 16:32:13]
+  Outer wall breached by Hammerhead_m
+[11/02/2024 16:32:13]
+  Inner wall breached by Hammerhead_m
+[11/02/2024 16:32:13]
+  Outer wall breached by Hammerhead_m
+[11/02/2024 16:32:13]
+  Dorsey Case: No more leaks in Diving!
+[11/02/2024 16:32:13]
+  Inner wall repaired by Dorsey Case
+[11/02/2024 16:32:16]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:32:18]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:32:20]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:32:20]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:32:23]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:32:23]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:32:27]
+  Outer wall breached by Hammerhead_m
+[11/02/2024 16:32:27]
+  Outer wall breached by Hammerhead_m
+[11/02/2024 16:32:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:28]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:29]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:32:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:31]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:32]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:32:32]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:32:32]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:32:32]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:33]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:33]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:38]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:32:39]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:32:39]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:32:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:41]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:41]
+  Hammerhead_m has died (Cause of death: Lacerations)
+[11/02/2024 16:32:41]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:41]
+  Mission info: Targets terminated - The Hammerheads are dead. Navigate the submarine out of the cavern to claim the reward.
+[11/02/2024 16:32:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:41]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:41]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:32:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:32:41]
+  Hammerhead_m attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:32:51]
+  Liberator762 picked up Diving Suit
+[11/02/2024 16:32:55]
+  Liberator762 equipped Wrench
+[11/02/2024 16:32:55]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:33:02]
+  Liberator762 picked up Underwater Scooter
+[11/02/2024 16:33:03]
+  Liberator762 equipped Underwater Scooter
+[11/02/2024 16:33:15]
+  Liberator762 picked up Alien Blood
+[11/02/2024 16:33:16]
+  Liberator762 picked up Swim Bladder
+[11/02/2024 16:33:28]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 74)
+[11/02/2024 16:33:42]
+  Liberator762 placed Swim Bladder in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:33:43]
+  Liberator762 placed Alien Blood in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:33:51]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:33:51]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:33:51]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:33:51]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:33:51]
+  Dorsey Case started repairing Status Monitor
+[11/02/2024 16:34:00]
+  Dorsey Case started repairing Battery
+[11/02/2024 16:34:08]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:34:12]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:34:12]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:34:16]
+  Dorsey Case started repairing Pump
+[11/02/2024 16:34:29]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:34:29]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:34:29]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:34:29]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:34:32]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:34:32]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:34:38]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:34:38]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:34:45]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:34:57]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:35:04]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:35:16]
+  Outer wall breached by Hammerhead
+[11/02/2024 16:35:16]
+  Outer wall breached by Hammerhead
+[11/02/2024 16:35:18]
+  Valerie Moses: Need to find a diving suit!
+[11/02/2024 16:35:20]
+  Liberator762 unequipped Welding Tool
+[11/02/2024 16:35:20]
+  Liberator762 equipped Metal Crate
+[11/02/2024 16:35:20]
+  Dorsey Case: I need diving gear!
+[11/02/2024 16:35:23]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:35:23]
+  Dorsey Case: Dangerous pressure in Ballast!
+[11/02/2024 16:35:25]
+  Liberator762 picked up Plasma Cutter
+[11/02/2024 16:35:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:27]
+  Hammerhead attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:35:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:27]
+  Hammerhead attacked by LaywithMind. Lacerations: 2.9 Bleeding: 0.2
+[11/02/2024 16:35:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:28]
+  Liberator762 placed Metal Crate in the inventory of Crate Shelf (ID: 686)
+[11/02/2024 16:35:28]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:28]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:29]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:35:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:29]
+  Hammerhead attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:35:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:30]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:31]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:32]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:32]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:34]
+  Valerie Moses equipped Welding Tool
+[11/02/2024 16:35:37]
+  Outer wall breached by Hammerhead
+[11/02/2024 16:35:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:38]
+  Hammerhead attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:35:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:38]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:38]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:39]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:39]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:39]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:39]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:40]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:40]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:40]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:41]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:41]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:41]
+  Liberator762 picked up Diving Suit
+[11/02/2024 16:35:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:41]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:41]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:42]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:42]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:42]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:43]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:43]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:43]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:43]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:44]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:44]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:44]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:44]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:45]
+  Hammerhead attacked by LaywithMind. Lacerations: 8.3
+[11/02/2024 16:35:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:45]
+  Hammerhead attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/02/2024 16:35:45]
+  Hammerhead has died (Cause of death: Lacerations)
+[11/02/2024 16:35:45]
+  Hammerhead attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:35:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:35:46]
+  Liberator762 equipped Welding Tool
+[11/02/2024 16:35:56]
+  Outer wall repaired by Liberator762
+[11/02/2024 16:35:57]
+  Cryonite picked up Diving Suit
+[11/02/2024 16:35:57]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:35:58]
+  Valerie Moses unequipped Welding Tool
+[11/02/2024 16:36:01]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:36:01]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:36:01]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:36:01]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:36:01]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:36:01]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:36:02]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:36:02]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:36:03]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:36:06]
+  Cryonite picked up Underwater Scooter
+[11/02/2024 16:36:10]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:36:10]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:36:11]
+  Dorsey Case started repairing Engine
+[11/02/2024 16:36:13]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 173)
+[11/02/2024 16:36:18]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:36:18]
+  Dorsey Case equipped Opium
+[11/02/2024 16:36:21]
+  Cryonite equipped Underwater Scooter
+[11/02/2024 16:36:26]
+  Liberator762 picked up Diving Suit
+[11/02/2024 16:36:29]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 176)
+[11/02/2024 16:36:51]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:37:00]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:37:05]
+  Cryonite opened Custom Hatch
+[11/02/2024 16:37:05]
+  Cryonite closed Custom Door
+[11/02/2024 16:37:07]
+  Liberator762 picked up Diving Suit
+[11/02/2024 16:37:10]
+  Liberator762 picked up Oxygen Tank
+[11/02/2024 16:37:10]
+  Cryonite closed Custom Hatch
+[11/02/2024 16:37:10]
+  Cryonite opened Custom Door
+[11/02/2024 16:37:13]
+  Liberator762 placed Oxygen Tank in the inventory of Plasma Cutter (ID: 3794)
+[11/02/2024 16:37:15]
+  Liberator762 picked up Oxygen Tank
+[11/02/2024 16:37:17]
+  Cryonite equipped Wrench
+[11/02/2024 16:37:17]
+  Cryonite equipped Screwdriver
+[11/02/2024 16:37:22]
+  Liberator762 placed Oxygen Tank in the inventory of Oxygen Tank Shelf (ID: 77)
+[11/02/2024 16:37:30]
+  Liberator762 picked up Underwater Scooter
+[11/02/2024 16:37:56]
+  Cryonite turned on Small Pump
+[11/02/2024 16:37:56]
+  Cryonite set the pumping speed of Small Pump to -10 %
+[11/02/2024 16:37:56]
+  Cryonite set the pumping speed of Small Pump to -30 %
+[11/02/2024 16:37:57]
+  Cryonite set the pumping speed of Small Pump to -70 %
+[11/02/2024 16:37:57]
+  Cryonite set the pumping speed of Small Pump to -100 %
+[11/02/2024 16:38:03]
+  Liberator762 opened Custom Hatch
+[11/02/2024 16:38:03]
+  Liberator762 closed Custom Door
+[11/02/2024 16:38:08]
+  Cryonite adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[11/02/2024 16:38:09]
+  Cryonite adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp ON
+[11/02/2024 16:38:10]
+  Liberator762 closed Custom Hatch
+[11/02/2024 16:38:10]
+  Liberator762 opened Custom Door
+[11/02/2024 16:38:12]
+  Cryonite picked up Fuel Rod
+[11/02/2024 16:38:14]
+  Cryonite placed Fuel Rod in the inventory of Nuclear Reactor (ID: 2695)
+[11/02/2024 16:38:17]
+  Cryonite picked up Welding Fuel Tank
+[11/02/2024 16:38:41]
+  Mission info:  - The beacon station is back online.
+[11/02/2024 16:38:46]
+  Cryonite opened Custom Hatch
+[11/02/2024 16:38:46]
+  Cryonite closed Custom Door
+[11/02/2024 16:38:48]
+  Liberator762 attacked by Cryonite. Lacerations: 3.8 Bleeding: 6.8 Stun: 0.2
+[11/02/2024 16:38:48]
+  Cryonite used Diving Knife on Liberator762.
+[11/02/2024 16:38:50]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:38:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:52]
+  Outer wall breached by LaywithMind
+[11/02/2024 16:38:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:38:53]
+  Valerie Moses equipped Stun Baton
+[11/02/2024 16:38:53]
+  Valerie Moses: I need diving gear!
+[11/02/2024 16:38:59]
+  Dorsey Case started repairing Battery
+[11/02/2024 16:39:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:00]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:03]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:39:04]
+  Outer wall breached by Mudraptor_unarmored
+[11/02/2024 16:39:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:08]
+  Valerie Moses used Stun Baton(Battery Cell) on Shell A 0 Degrees.
+[11/02/2024 16:39:08]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:08]
+  Valerie Moses used Stun Baton(Battery Cell) on Mudraptor_unarmored.
+[11/02/2024 16:39:08]
+  Valerie Moses: I'm bleeding out!
+[11/02/2024 16:39:09]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:39:10]
+  Valerie Moses used Stun Baton(Battery Cell) on Mudraptor_unarmored.
+[11/02/2024 16:39:10]
+  Valerie Moses used Stun Baton(Battery Cell) on Large Horizontal Inside Wall.
+[11/02/2024 16:39:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:11]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:11]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:11]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:11]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:12]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:12]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:13]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:13]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:13]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:13]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[11/02/2024 16:39:13]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:13]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:13]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:14]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:39:14]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:39:17]
+  Valerie Moses used Stun Baton(Battery Cell) on Mudraptor_unarmored.
+[11/02/2024 16:39:17]
+  Valerie Moses used Stun Baton(Battery Cell) on Door with Buttons.
+[11/02/2024 16:39:17]
+  Valerie Moses used Stun Baton(Battery Cell) on Large Horizontal Inside Wall.
+[11/02/2024 16:39:21]
+  Liberator762 equipped Plasma Cutter
+[11/02/2024 16:39:21]
+  LaywithMind picked up SMG
+[11/02/2024 16:39:22]
+  LaywithMind placed SMG Magazine in the inventory of SMG (ID: 450)
+[11/02/2024 16:39:26]
+  LaywithMind equipped SMG
+[11/02/2024 16:39:35]
+  Cryonite equipped Fuel Rod
+[11/02/2024 16:39:35]
+  Cryonite picked up Fuel Rod
+[11/02/2024 16:39:37]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:37]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:37]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3 Stun: 0.3
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored has died (Cause of death: Gunshot wound)
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 24.4 Bleeding: 24.4
+[11/02/2024 16:39:38]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 24.4 Bleeding: 24.4
+[11/02/2024 16:39:38]
+  Cryonite placed Fuel Rod in the inventory of Nuclear Reactor (ID: 3)
+[11/02/2024 16:39:38]
+  Cryonite removed Fuel Rod from the inventory of Nuclear Reactor (ID: 3)
+[11/02/2024 16:39:38]
+  Cryonite equipped Fuel Rod
+[11/02/2024 16:39:38]
+  Cryonite picked up Fuel Rod
+[11/02/2024 16:39:39]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 24.4 Bleeding: 24.4
+[11/02/2024 16:39:39]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/02/2024 16:39:40]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:39:40]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:39:40]
+  Mudraptor_unarmored attacked by Liberator762. Blunt force trauma: 4.0 Stun: 0.2
+[11/02/2024 16:39:40]
+  Liberator762 used Wrench on Mudraptor_unarmored.
+[11/02/2024 16:39:40]
+  Mudraptor_unarmored attacked by Liberator762. Lacerations: 5.0 Bleeding: 2.0
+[11/02/2024 16:39:40]
+  Liberator762 used Screwdriver on Mudraptor_unarmored.
+[11/02/2024 16:39:40]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:39:41]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:39:46]
+  Valerie Moses has died (Cause of death: Bite wounds)
+[11/02/2024 16:39:52]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:39:53]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:39:53]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:39:53]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:39:53]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:39:53]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:39:53]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:39:53]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:39:53]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:39:54]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 74)
+[11/02/2024 16:39:54]
+  Cryonite placed Diving Suit in the inventory of Diving Suit Locker (ID: 173)
+[11/02/2024 16:39:55]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:39:55]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:39:57]
+  Dorsey Case started repairing Door with Buttons
+[11/02/2024 16:39:59]
+  Liberator762 picked up x8 Bandage
+[11/02/2024 16:40:06]
+  Liberator762 used item Bandage
+[11/02/2024 16:40:08]
+  Liberator762 used item Bandage
+[11/02/2024 16:40:12]
+  Liberator762 used item Bandage
+[11/02/2024 16:40:14]
+  Liberator762 used item Bandage
+[11/02/2024 16:40:17]
+  Liberator762 used item Bandage
+[11/02/2024 16:40:20]
+  Liberator762 picked up x8 Saline
+[11/02/2024 16:40:23]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:40:23]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:40:23]
+  Liberator762 used item Saline
+[11/02/2024 16:40:29]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:40:34]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:40:34]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:40:36]
+  Dorsey Case started repairing Oxygen Generator
+[11/02/2024 16:40:40]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:40:40]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:40:41]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:40:41]
+  Liberator762 placed x3 Bandage in the inventory of Supplies Cabinet (ID: 530)
+[11/02/2024 16:40:44]
+  Liberator762 placed x7 Saline in the inventory of Supplies Cabinet (ID: 530)
+[11/02/2024 16:40:48]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:41:18]
+  Dorsey Case equipped Coilgun Ammunition Box
+[11/02/2024 16:41:19]
+  Liberator762 picked up Bandage
+[11/02/2024 16:41:22]
+  Dorsey Case unequipped Stun Baton
+[11/02/2024 16:41:22]
+  Dorsey Case equipped Stun Baton
+[11/02/2024 16:41:24]
+  Liberator762 used item Bandage
+[11/02/2024 16:41:33]
+  Dorsey Case unequipped Stun Baton
+[11/02/2024 16:41:33]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:41:33]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:41:33]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:41:33]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:41:33]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:41:34]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:41:44]
+  Liberator762 placed Oxygen Tank in the inventory of Oxygen Tank Shelf (ID: 70)
+[11/02/2024 16:42:03]
+  LaywithMind equipped Screwdriver
+[11/02/2024 16:42:05]
+  LaywithMind started repairing Navigation Terminal
+[11/02/2024 16:42:33]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:42:39]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:42:39]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:42:42]
+  Dorsey Case started repairing Pump
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:42:44]
+  Cryonite has gained 194 experience (934 -> 1128)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:42:44]
+  Liberator762 has gained 194 experience (934 -> 1128)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:42:44]
+  LaywithMind has gained 194 experience (934 -> 1128)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:42:44]
+  Dorsey Case has gained 194 experience (934 -> 1128)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:42:44]
+  Valerie Moses has gained 194 experience (934 -> 1128)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:42:44]
+  Cryonite has gained 145 experience (1128 -> 1273)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:42:44]
+  Liberator762 has gained 145 experience (1128 -> 1273)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:42:44]
+  LaywithMind has gained 145 experience (1128 -> 1273)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:42:44]
+  Dorsey Case has gained 145 experience (1128 -> 1273)
+[11/02/2024 16:42:44]
+  0 (0%) was stolen from Valerie Moses.
+[11/02/2024 16:42:44]
+  Valerie Moses has gained 145 experience (1128 -> 1273)
+[11/02/2024 16:42:44]
+  Ending the round...
+[11/02/2024 16:42:44]
+  Round ended.
+[11/02/2024 16:42:47]
+  Starting a new round...
+[11/02/2024 16:42:50]
+  Mission: Activate beacon
+[11/02/2024 16:42:50]
+  According to the onboard navigation system, there should be a run-down beacon station nearby. Getting it back online will make the passage easier for other vessels to traverse, and help colonies to spread further.
+[11/02/2024 16:42:50]
+  Game mode: Campaign
+[11/02/2024 16:42:50]
+  Submarine: HiveSub
+[11/02/2024 16:42:50]
+  Level seed: LocationName.city.1929LocationName.alien.4770
+[11/02/2024 16:42:50]
+  Mission: Activate beacon
+[11/02/2024 16:42:50]
+  Cryonite equipped Wrench
+[11/02/2024 16:42:50]
+  Cryonite equipped Diving Knife
+[11/02/2024 16:42:50]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:42:50]
+  Liberator762 equipped Wrench
+[11/02/2024 16:42:50]
+  LaywithMind equipped Screwdriver
+[11/02/2024 16:42:50]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:42:50]
+  Round started.
+[11/02/2024 16:42:52]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:42:52]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:42:54]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:43:00]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:43:01]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:43:01]
+  Dorsey Case equipped Stun Baton
+[11/02/2024 16:43:02]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:43:08]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:43:08]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:43:08]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:43:08]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:43:23]
+  Dorsey Case equipped Diving Suit
+[11/02/2024 16:43:29]
+  Cryonite unequipped Diving Knife
+[11/02/2024 16:43:29]
+  Cryonite equipped Coilgun Ammunition Box
+[11/02/2024 16:43:32]
+  Cryonite placed Coilgun Ammunition Box in the inventory of Ammunition Shelf (ID: 51)
+[11/02/2024 16:43:48]
+  Cryonite equipped Screwdriver
+[11/02/2024 16:43:49]
+  Dorsey Case: Do you ever feel...flat?
+[11/02/2024 16:44:00]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:44:02]
+  Liberator762 picked up Swim Bladder
+[11/02/2024 16:44:03]
+  Cryonite equipped Welding Tool
+[11/02/2024 16:44:06]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:44:06]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:44:06]
+  Liberator762 equipped Welding Tool
+[11/02/2024 16:44:09]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:44:11]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:44:13]
+  Dorsey Case: One leak fixed in Prison!
+[11/02/2024 16:44:14]
+  Dorsey Case: All leaks repaired in Prison!
+[11/02/2024 16:44:16]
+  Liberator762 started repairing Junction Box
+[11/02/2024 16:44:16]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:44:17]
+  Inner wall repaired by Dorsey Case
+[11/02/2024 16:44:19]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:44:19]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:44:23]
+  Outer wall breached by Crawler
+[11/02/2024 16:44:24]
+  Outer wall breached by Crawler
+[11/02/2024 16:44:25]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:26]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:26]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:26]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:26]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:26]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:26]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:26]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:44:26]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:44:26]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:27]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:27]
+  Liberator762 started repairing Junction Box
+[11/02/2024 16:44:27]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:27]
+  Dorsey Case: One leak fixed in Upper fore side!
+[11/02/2024 16:44:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:27]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:28]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:44:28]
+  Dorsey Case: All leaks repaired in Upper fore side!
+[11/02/2024 16:44:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:29]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:44:29]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:44:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:29]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:30]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:33]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:34]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:37]
+  Dorsey Case started repairing Junction Box
+[11/02/2024 16:44:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:38]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:40]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:41]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:41]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:42]
+  Crawler has died (Cause of death: Lacerations)
+[11/02/2024 16:44:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:44]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:44:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:46]
+  Crawler has died (Cause of death: Lacerations)
+[11/02/2024 16:44:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:50]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:50]
+  Crawler has died (Cause of death: Lacerations)
+[11/02/2024 16:44:50]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:50]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:51]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:44:51]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:44:53]
+  Liberator762 unequipped Screwdriver
+[11/02/2024 16:44:53]
+  Liberator762 unequipped Wrench
+[11/02/2024 16:44:53]
+  Liberator762 equipped Duffel Bag
+[11/02/2024 16:45:12]
+  Liberator762 placed Diving Knife in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:45:12]
+  Liberator762 placed Gunner's Uniform in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:45:13]
+  Liberator762 placed Headset in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:45:16]
+  Liberator762 placed Handcuffs in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:45:17]
+  Liberator762 dropped Duffel Bag
+[11/02/2024 16:45:21]
+  Liberator762 picked up Diving Knife
+[11/02/2024 16:45:21]
+  Cryonite equipped Duffel Bag
+[11/02/2024 16:45:27]
+  Cryonite placed Duffel Bag in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:45:35]
+  Outer wall breached by Crawler
+[11/02/2024 16:45:35]
+  Liberator762 picked up Gunner's Uniform
+[11/02/2024 16:45:38]
+  Dorsey Case equipped Welding Tool
+[11/02/2024 16:45:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:40]
+  Outer wall repaired by Dorsey Case
+[11/02/2024 16:45:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:40]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:40]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:41]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:41]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:42]
+  Dorsey Case unequipped Welding Tool
+[11/02/2024 16:45:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:45]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:45:49]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:49]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:45:51]
+  Liberator762 placed Headset in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:45:52]
+  Liberator762 placed Gunner's Uniform in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:45:55]
+  Liberator762 placed Welding Tool in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:45:57]
+  Liberator762 placed Swim Bladder in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:46:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:05]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:46:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:06]
+  Outer wall breached by LaywithMind
+[11/02/2024 16:46:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:07]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:46:12]
+  Liberator762 placed Diving Knife in the inventory of Medium Windowed Steel Cabinet (ID: 82)
+[11/02/2024 16:46:24]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:46:57]
+  Liberator762 picked up Diving Suit
+[11/02/2024 16:46:59]
+  Cryonite picked up Diving Suit
+[11/02/2024 16:47:00]
+  Cryonite equipped Underwater Scooter
+[11/02/2024 16:47:05]
+  Cryonite dropped Welding Fuel Tank
+[11/02/2024 16:47:06]
+  Cryonite dropped Welding Fuel Tank
+[11/02/2024 16:47:17]
+  Liberator762 picked up Underwater Scooter
+[11/02/2024 16:47:21]
+  Cryonite opened Custom Hatch
+[11/02/2024 16:47:22]
+  Cryonite closed Custom Hatch
+[11/02/2024 16:47:22]
+  Cryonite opened Custom Hatch
+[11/02/2024 16:47:35]
+  Liberator762 equipped Underwater Scooter
+[11/02/2024 16:47:51]
+  Liberator762 closed Custom Hatch
+[11/02/2024 16:48:20]
+  Cryonite started repairing Sonar Monitor
+[11/02/2024 16:48:29]
+  Cryonite adjusted reactor settings: Temperature: 0, Fission rate: 0, Turbine output: 0, Autotemp OFF
+[11/02/2024 16:49:00]
+  Liberator762 opened Custom Hatch
+[11/02/2024 16:49:04]
+  Cryonite adjusted reactor settings: Temperature: 0, Fission rate: 9, Turbine output: 0, Autotemp OFF
+[11/02/2024 16:49:05]
+  Cryonite adjusted reactor settings: Temperature: 0, Fission rate: 100, Turbine output: 0, Autotemp OFF
+[11/02/2024 16:49:24]
+  Liberator762 picked up Fuel Rod
+[11/02/2024 16:49:49]
+  Liberator762 closed Custom Hatch
+[11/02/2024 16:50:04]
+  Liberator762 placed Fuel Rod in the inventory of Nuclear Reactor (ID: 1905)
+[11/02/2024 16:50:08]
+  Cryonite adjusted reactor settings: Temperature: 3133, Fission rate: 80, Turbine output: 0, Autotemp ON
+[11/02/2024 16:50:09]
+  Liberator762 adjusted reactor settings: Temperature: 4566, Fission rate: 82, Turbine output: 1, Autotemp ON
+[11/02/2024 16:50:15]
+  Cryonite failed to repair Nuclear Reactor
+[11/02/2024 16:50:27]
+  Liberator762 picked up Signal Check Component
+[11/02/2024 16:50:56]
+  Mission info:  - The beacon station is back online.
+[11/02/2024 16:51:19]
+  Liberator762 opened Custom Hatch
+[11/02/2024 16:51:36]
+  Cryonite placed Diving Suit in the inventory of Diving Suit Locker (ID: 170)
+[11/02/2024 16:51:37]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 167)
+[11/02/2024 16:51:39]
+  Cryonite started repairing Battery
+[11/02/2024 16:51:48]
+  Cryonite started repairing Battery
+[11/02/2024 16:51:51]
+  Cryonite started repairing Junction Box
+[11/02/2024 16:51:52]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:51:52]
+  Dorsey Case equipped Wrench
+[11/02/2024 16:51:53]
+  Dorsey Case started repairing Pump
+[11/02/2024 16:51:54]
+  LaywithMind started repairing Navigation Terminal
+[11/02/2024 16:51:59]
+  Dorsey Case unequipped Wrench
+[11/02/2024 16:51:59]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:51:59]
+  Liberator762 placed Signal Check Component in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:52:03]
+  Dorsey Case unequipped Screwdriver
+[11/02/2024 16:52:28]
+  Liberator762 equipped Wrench
+[11/02/2024 16:52:28]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:52:30]
+  Outer wall breached by Mudraptor
+[11/02/2024 16:52:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:30]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:31]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:32]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:52:32]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:32]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:32]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:33]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)

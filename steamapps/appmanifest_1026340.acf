@@ -1,0 +1,42 @@
+"AppState"
+{
+	"appid"		"1026340"
+	"Universe"		"1"
+	"name"		"Barotrauma Dedicated Server"
+	"StateFlags"		"4"
+	"installdir"		"Barotrauma Dedicated Server"
+	"LastUpdated"		"1730469826"
+	"LastPlayed"		"0"
+	"SizeOnDisk"		"229720014"
+	"StagingSize"		"0"
+	"buildid"		"16248476"
+	"LastOwner"		"76561199594655955"
+	"UpdateResult"		"0"
+	"BytesToDownload"		"72305712"
+	"BytesDownloaded"		"72305712"
+	"BytesToStage"		"229720014"
+	"BytesStaged"		"229720014"
+	"TargetBuildID"		"16248476"
+	"AutoUpdateBehavior"		"0"
+	"AllowOtherDownloadsWhileRunning"		"0"
+	"ScheduledAutoUpdate"		"0"
+	"InstalledDepots"
+	{
+		"1006"
+		{
+			"manifest"		"7138471031118904166"
+			"size"		"78382436"
+		}
+		"1026342"
+		{
+			"manifest"		"428817888475400299"
+			"size"		"151337578"
+		}
+	}
+	"UserConfig"
+	{
+	}
+	"MountedConfig"
+	{
+	}
+}

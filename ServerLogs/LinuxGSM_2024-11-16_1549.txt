@@ -1,0 +1,16 @@
+﻿[11/16/2024 15:47:11]
+  Starting the server...
+[11/16/2024 15:47:11]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/16/2024 15:47:12]
+  Server started
+[11/16/2024 15:48:22]
+  Cryonite has joined the server.
+[11/16/2024 15:48:22]
+  Saving client permissions
+[11/16/2024 15:48:39]
+  Gamemode changed to Sandbox
+[11/16/2024 15:49:17]
+  Saving banlist
+[11/16/2024 15:49:17]
+  Shutting down the server...

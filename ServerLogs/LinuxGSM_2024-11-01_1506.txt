@@ -1,0 +1,20 @@
+﻿[11/01/2024 15:02:32]
+  Starting the server...
+[11/01/2024 15:02:32]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/01/2024 15:02:32]
+  Server started
+[11/01/2024 15:02:40]
+  Cryonite has joined the server.
+[11/01/2024 15:02:40]
+  Saving client permissions
+[11/01/2024 15:06:19]
+  Cryonite has left the server.
+[11/01/2024 15:06:44]
+  Cryonite has joined the server.
+[11/01/2024 15:06:44]
+  Saving client permissions
+[11/01/2024 15:06:56]
+  Saving banlist
+[11/01/2024 15:06:56]
+  Shutting down the server...

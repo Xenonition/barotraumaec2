@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Polish" nowhitespace="false" translatedname="Polski">
+
+
+<!-- Modified values -->
+<entityname.piratehelmet>Hełm separatysty</entityname.piratehelmet>
+<entitydescription.piratehelmet>Hełm balistyczny. Pomimo prymitywnych ulepszeń wygląda zaskakująco solidnie.</entitydescription.piratehelmet>
+<entityname.piratebodyarmor>Pancerz separatysty</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>Pancerz wykonany przez Jowiszańskich Separatystów z częściowo improwizowanych materiałów. Cięższy niż na to wygląda.</entitydescription.piratebodyarmor>
+<entityname.piratecaptainhat>Kapitańska czapka separatysty</entityname.piratecaptainhat>
+<entityname.piratebandana>Bandana separatysty</entityname.piratebandana>
+<entityname.pirateclothes>Strój separatysty</entityname.pirateclothes>
+<entitydescription.pirateclothes>Poszarpany strój ręcznie wykonany przez Jowiszańskich Separatystów. Zaprojektowany, by wytrzymać trudne warunki morskiego życia na Europie. Ten specyficzny ubiór ulepszono lekkim pancerzem.</entitydescription.pirateclothes>
+<entityname.piratesubexterior>Część zewnętrzna okrętu separatystów</entityname.piratesubexterior>
+<entityname.piratesubdeco>Dekoracja okrętu separatystów</entityname.piratesubdeco>
+<missionname.escort1>Transport personelu Koalicji</missionname.escort1>
+<missiondescription.escort1>Przewieź personel Koalicji. Zabierz ich z punktu [location1]. Ich celem jest [location2]. Zadbaj o ich bezpieczeństwo, ponieważ nagrodę w wysokości [reward] kred. otrzymasz tylko, jeśli wszyscy przeżyją.</missiondescription.escort1>
+<missiondescription.escort3>Przewieź schwytanych Separatystów. Twoim celem jest [location2]. Dopilnuj, by więźniowie byli dobrze pilnowani, ponieważ mogą próbować uciec. Nie pozwól, by któryś z nich zginął. Jeśli ci się uda, otrzymasz nagrodę w wysokości [reward] kred.</missiondescription.escort3>
+<missionname.escort2>Transport oficjela Koalicji</missionname.escort2>
+<missiondescription.escort2>Przewieź oficjela Koalicji z uzbrojoną eskortą. Jego celem jest [location2]. Nie narażaj go na niebezpieczeństwo, ponieważ nagrodę w wysokości [reward] kred. otrzymasz tylko, jeśli przeżyje.</missiondescription.escort2>
+<missionname.pirate1>Okręt separatystów</missionname.pirate1>
+<missiondescription.pirate1>Poszukaj okrętu Jowiszańskich Separatystów terroryzującego okolicę i wyeliminuj jego załogę. Okręt widziano ostatnio w oznaczonych miejscach.</missiondescription.pirate1>
+<missionsuccess.pirate1>Wyeliminowano załogę okrętu separatystów.</missionsuccess.pirate1>
+<missionfailure.pirate1>Nie wyeliminowano załogi okrętu separatystów.</missionfailure.pirate1>
+<missionsonarlabel.pirate1>Separatyści na horyzoncie</missionsonarlabel.pirate1>
+<missionheader0.pirate1>Wykryto Separatystów</missionheader0.pirate1>
+<missionheader1.pirate1>Wyeliminowano Separatystów</missionheader1.pirate1>
+<eventtext.missionevent_escort1.c1>„Szukasz roboty? Koalicja najęła trochę świeżaków z naszej placówki i przydzieliła im pracę w pobliskiej placówce. Odeskortuj ich i zadbaj o ich bezpieczeństwo, a dostaniesz zapłatę.”</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort2.c1>„Jeśli chcesz zaistnieć wśród wyższych sfer Koalicji, to mam dla ciebie niezłą okazję… Wysoki rangą urzędnik Koalicji i jego uzbrojona eskorta odwiedzili naszą placówkę i szukają teraz transportu do pobliskiej placówki. Dostarcz ich tam bezpiecznie, a znajdzie się dla ciebie jakaś nagroda.”</eventtext.missionevent_escort2.c1>
+<eventtext.missionevent_escort3.c1>„Niedawno schwytaliśmy kilku Separatystów i szukamy kogoś, kto przetransportuje ich do pobliskiej placówki. Gdyby to zależało ode mnie, wyrzuciłbym ich przez śluzę, ale wyżsi rangą przedstawiciele Koalicji najwyraźniej chcą ich przesłuchać. Dostaniesz dobrą zapłatę za przetransportowanie ich, ale pamiętaj, że trzeba ich pilnie strzec.”</eventtext.missionevent_escort3.c1>
+<eventtext.missionevent_escort4.c1>„Przypuszczamy, że separatyści zakradli się pomiędzy niewinnych cywili, którzy chcą wyruszyć następnym transportem. Jeśli zechcesz w tym celu użyczyć swojego okrętu, może uda ci się ujawnić terrorystów i ich zatrzymać. Pamiętaj tylko, że cywile muszą przeżyć”.</eventtext.missionevent_escort4.c1>
+<missiondescription.cargocompoundn>Jowiszańscy Separatyści oferują [reward] kred. za dostarczenie silnych materiałów wybuchowych do ich tajniaków w: [location2].</missiondescription.cargocompoundn>
+<lockedpathtooltipcoalitionreputation>Szlak jest zamknięty. Potrzebujesz reputacji: [requiredreputation] w ‖color:faction.coalition‖Koalicji Europejskiej‖end‖ i pozwolenia od oficera z placówki, aby przedostać się dalej. Możesz sprawdzić swoją reputację w zakładce informacji.\n\nObecna reputacja: [currentreputation]</lockedpathtooltipcoalitionreputation>
+
+<!-- New values -->
+<missionname.separatistattack1>Zasadzka separatystów</missionname.separatistattack1>
+<missionheader0.separatistattack1>Transmisja przychodząca</missionheader0.separatistattack1>
+<missionmessage0.separatistattack1>„Ten szlak został odbity przez Jowiszańskich Separatystów. Natychmiast zawróćcie albo upewnimy się, że żaden z was faszystów nie wydostanie się stąd żywy.”</missionmessage0.separatistattack1>
+<missionname.coalitionattack1>Zasadzka Koalicji</missionname.coalitionattack1>
+<missionheader0.coalitionattack1>Transmisja przychodząca</missionheader0.coalitionattack1>
+<missionmessage0.coalitionattack1>„Koniec wycieczki, sprzedawczyki! Ceną za zdradę Koalicji jest śmierć!”</missionmessage0.coalitionattack1>
+<missionname.escort1separatists>Transport separatystów</missionname.escort1separatists>
+<missiondescription.escort1separatists>Przewieź grupę Jowiszańskich Separatystów. Ich celem jest [location2]. Są w trakcie niezwykle ważnej misji. Zadbaj o ich bezpieczeństwo, ponieważ nagrodę w wysokości [reward] kred. otrzymasz tylko, jeśli wszyscy przeżyją.</missiondescription.escort1separatists>
+<missionname.escort2separatists>Transport aktywisty separatystów</missionname.escort2separatists>
+<missiondescription.escort2separatists>Przewieź wpływowego aktywistę Jowiszańskich Separatystów z uzbrojoną eskortą. Jego celem jest [location2]. Nie narażaj go na niebezpieczeństwo, ponieważ nagrodę w wysokości [reward] kred. otrzymasz tylko, jeśli przeżyje.</missiondescription.escort2separatists>
+<missionname.escort3separatists>Transport jeńców</missionname.escort3separatists>
+<missiondescription.escort3separatists>Jowiszańscy Separatyści zapłacą ci [reward] kred. za przewiezienie pojmanego personelu Koalicji. Twoim celem jest [location2]. Dopilnuj, by więźniowie byli dobrze pilnowani, ponieważ mogą próbować uciec. Nie pozwól, by któryś z nich zginął.</missiondescription.escort3separatists>
+<missionname.escort4separatists>Kontrzasadzka</missionname.escort4separatists>
+<missiondescription.escort4separatists>Istnieją doniesienia o tajnych agentach Koalicji obserwujących działalność separatystów w tym rejonie. Mogą próbować zakraść się na twój statek wraz z innymi pasażerami. Dopilnuj, by niewinni cywile dotarli żywi do celu ([location2]) i rozpraw się z agentami, którzy się ujawnią, a otrzymasz nagrodę w wysokości [reward] kred.</missiondescription.escort4separatists>
+<missionsuccess.escort4separatists>Transport pasażerów udany, a problem tajniaków Koalicji rozwiązany.</missionsuccess.escort4separatists>
+<missionfailure.escort4separatists>Eskortowani pasażerowie nie dotarli do celu lub tajniacy Koalicji nie zostali zdemaskowani i zneutralizowani.</missionfailure.escort4separatists>
+<missionheader1.escort4separatists>Pokonano tajniaków Koalicji</missionheader1.escort4separatists>
+<missionmessage1.escort4separatists>Zdaje się, że to była ich ostatnia misja. Popłyń do: [location2], aby odebrać nagrodę.</missionmessage1.escort4separatists>
+<eventtext.missionevent_escort1separatists.c1>„Mamy grupę jowiszańskich aktywistów, którzy szukają transportu do pobliskiej placówki. Lepiej nie zdradzać wszystkich szczegółów, ale mają ważną misję i jeśli chcesz zrobić coś dobrego, na pewno zapłacimy ci za kłopot, jeśli uda ci się ich tam bezpiecznie odeskortować.”</eventtext.missionevent_escort1separatists.c1>
+<eventtext.missionevent_escort2separatists.c1>„Jeśli chcesz przyczynić się do walki z faszystami z Koalicji, mamy dla ciebie zadanie… Pewien bardzo ważny dla naszej sprawy aktywista wraz z uzbrojoną eskortą szuka transportu do pobliskiej placówki. Dostarcz ich tam bezpiecznie, a my sprawimy, że na pewno ci się to opłaci.”</eventtext.missionevent_escort2separatists.c1>
+<eventtext.missionevent_escort3separatists.c1>„Mieliśmy ostatnio trochę kłopotów z okrętem Koalicji i krótko mówiąc, mamy ocalałą załogę zamkniętą w naszym brygu. Po negocjacjach zgodziliśmy się na przeniesienie ich do następnej placówki. Jeśli zechcesz ich tam przewieźć, możesz liczyć na wynagrodzenie pieniężne, ale pamiętaj, że trzeba ich pilnie strzec.”</eventtext.missionevent_escort3separatists.c1>
+<eventtext.missionevent_escort4separatists.c1>„Według naszych źródeł Koalicja wysłała tajnych agentów, którzy mają przyjrzeć się aktywności separatystów w tym rejonie. Przypuszczamy, że mogą się zakraść pomiędzy niewinnych cywili, którzy chcą wyruszyć następnym transportem. Jeśli zechcesz w tym celu użyczyć swojego okrętu, może uda ci się ujawnić tajniaków i ich zatrzymać. Pamiętaj tylko, że cywile muszą przeżyć”.</eventtext.missionevent_escort4separatists.c1>
+<missionname.escort1huskcult>Transport kultystów</missionname.escort1huskcult>
+<missiondescription.escort1huskcult>Kościół Skorupnika zaoferował nagrodę w wysokości [reward] kred. za przewiezienie grupy akolitów. Ich celem jest [location2]. Istnieje podejrzenie, że niektórzy z nich planują przedwczesną „komunię”, a następnie ucieczkę do zimnego morza, ale przedstawiciele Kościoła poprosili cię o przypilnowanie ich i przywiezienie do [location2] w ludzkiej postaci.</missiondescription.escort1huskcult>
+<EventText.missionevent_escort1huskcult.c1>„Psst! Szukasz pracy? Kilku naszych akolitów szuka transportu do najbliższej placówki. Muszę cię jednak ostrzec – mimo że daliśmy im jasno do zrozumienia, że nie są jeszcze na to gotowi, podejrzewam, że mogą planować własną komunię. Dlatego musisz mieć ich na oku i przypilnować, żeby nie zrobili nic głupiego na pokładzie.”</EventText.missionevent_escort1huskcult.c1>
+<eventtext.missionevent_cargohuskcult>„Szukasz pracy? Mamy pewne… powiedzmy, materiały badawcze, które są bardzo potrzebne w sąsiedniej placówce. Dostarcz je tam, nie zadawaj pytań, a zapłacimy ci.”</eventtext.missionevent_cargohuskcult>
+<missionname.huskcultspecialassassinate>Strażnik milczenia</missionname.huskcultspecialassassinate>
+<missiondescription.huskcultspecialassassinate>Kościół dowiedział się o agencie Koalicji badającym jego działalność. Ten człowiek wsadził nos już tak głęboko w tajemnice Kościoła, że nie pozostaje nic innego, jak uciszyć go na dobre. Udaj się do [location1] i zabij agenta jak najdyskretniej.</missiondescription.huskcultspecialassassinate>
+<missionsuccess.huskcultspecialassassinate>Cel nie żyje, a sekrety Kościoła pozostają bezpieczne.</missionsuccess.huskcultspecialassassinate>
+<missionfailure.huskcultspecialassassinate>Cel wciąż żyje. Należy się go pozbyć najszybciej, jak to możliwe.</missionfailure.huskcultspecialassassinate>
+<missionname.huskcultrescuesubra>Na ratunek Subrze</missionname.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Jacov Subra, „główny organizator” Kościoła Skorupnika, chowa się przed władzami w [location1]. Kościół ma powody przypuszczać, że jego miejsce pobytu zostało odkryte przez grupę chcącą zdobyć nagrodę za jego głowę. Udaj się do [location1] i zabierz go na pokład, zanim ktoś inny go dopadnie.</missiondescription.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Jacov Subra znalazł się bezpiecznie na pokładzie. Eskortuj go do następnej lokacji i poinformuj kaznodzieję, że misja ratunkowa zakończyła się sukcesem.</missionsuccess.huskcultrescuesubra>
+<missionfailure.huskcultrescuesubra>Jacov Subra wciąż znajduje się w [location1]. Zabierz go stamtąd jak najszybciej.</missionfailure.huskcultrescuesubra>
+<missionname.escort1clowns>Transport klaunów</missionname.escort1clowns>
+<missiondescription.escort1clowns>Grupa klaunów oferuje ci [reward] kred. za transport do [location2]. Ostrzeżono cię, że mogą być nieco niesforni, a przynajmniej nieprzyzwyczajeni do przebywania na pokładzie okrętu podwodnego.</missiondescription.escort1clowns>
+<EventText.missionevent_escort1clowns.c1>„Hej! Czy macie może miejsce na pokładzie dla kilku dodatkowych pasażerów? Moi przyjaciele szukają transportu do pobliskiej placówki i są skłonni zapłacić.” Klaun obniża głos. „Możesz chcieć mieć na nich oko. Trochę z nich głuptaki, jeśli rozumiesz, co mam na myśli. I nigdy nie byli na pokładzie okrętu podwodnego, więc nie wiem jak sobie poradzą.”</EventText.missionevent_escort1clowns.c1>
+<missionname.gotoclownhaven>Żart nad żartami</missionname.gotoclownhaven>
+<missiondescription.gotoclownhaven>Dzieci Tańczącego Klauna zleciły ci odbicie placówki, która niegdyś do nich należała. Ich plan zakłada denerwowanie jej mieszkańców tak długo, aż się wyprowadzą. Otrzymujesz też specjalny egzokombinezon, który ma ci pomóc w osiągnięciu celu.</missiondescription.gotoclownhaven>
+<missionsuccess.gotoclownhaven>Plan zadziałał: mieszkańcy placówki najwyraźniej poddali się i postanowili oddać ją klaunom.</missionsuccess.gotoclownhaven>
+<eventtext.missionevent_pirate1separatists.c1>„Statek Koalicji od jakiegoś czasu patroluje wody wokół naszej placówki, przejmując przypływające towary i nękając nasze okręty. Jak na razie uniknęliśmy dalszej eskalacji sytuacji, ale zapasy zaczynają się kończyć. Jeśli zechcesz nam pomóc i zdejmiesz ten okręt, byłaby to wielka przysługa dla naszej placówki i sprawy separatystów. I oczywiście z przyjemnością ci za to zapłacimy.”</eventtext.missionevent_pirate1separatists.c1>
+<EventText.missionevent_cargocompoundn.c1>„Jeśli chcesz nam pomóc w walce z Koalicją, mam dla ciebie ofertę… Mamy kilku agentów w pobliskiej placówce, którzy potrzebują trochę materiałów wybuchowych do swojej misji. Dostarcz je tam w stanie nienaruszonym, a my sprawimy, że na pewno ci się to opłaci.”</EventText.missionevent_cargocompoundn.c1>
+<missionname.cargoweaponscoalition>Dostawa broni</missionname.cargoweaponscoalition>
+<missiondescription.cargoweaponscoalition>Koalicja wysłała kilku agentów, aby przyjrzeli się aktywności separatystów w [location2]. Pilnie potrzebują broni i amunicji – jeśli im je dostarczysz, otrzymasz w nagrodę [reward] kred.</missiondescription.cargoweaponscoalition>
+<missionsuccess.cargoweaponscoalition>Dostarczono broń.</missionsuccess.cargoweaponscoalition>
+<EventText.missionevent_cargoweaponscoalition.c1>„Mam do zaoferowania ważne zadanie. Koalicja ma kilku tajniaków, którzy śledzą działalność separatystów w sąsiedniej placówce. Lepiej nie wdawać się w szczegóły, ale trzeba dostarczyć im trochę broni i amunicji. Wykonując to zadanie, wyświadczysz wielką przysługę Koalicji, a i tobie oczywiście się to opłaci.”</EventText.missionevent_cargoweaponscoalition.c1>
+<missionname.pirate1separatists>Okręt Koalicji</missionname.pirate1separatists>
+<missiondescription.pirate1separatists>Poszukaj okrętu Koalicji terroryzującego okolicę i wyeliminuj jego załogę. Widziano go ostatnio w oznaczonych miejscach.</missiondescription.pirate1separatists>
+<missionsuccess.pirate1separatists>Wyeliminowano załogę okrętu Koalicji.</missionsuccess.pirate1separatists>
+<missionfailure.pirate1separatists>Nie wyeliminowano załogi okrętu Koalicji.</missionfailure.pirate1separatists>
+<missionsonarlabel.pirate1separatists>Okręt Koalicji na horyzoncie</missionsonarlabel.pirate1separatists>
+<missionheader0.pirate1separatists>Wykryto okręt Koalicji</missionheader0.pirate1separatists>
+<missionmessage0.pirate1separatists>Wyeliminuj załogę lub wyślij okręt podwodny na dno morza!</missionmessage0.pirate1separatists>
+<missionheader1.pirate1separatists>Wyeliminowano okręt Koalicji</missionheader1.pirate1separatists>
+<missionmessage1.pirate1separatists>Popłyń do: [location2], aby odebrać nagrodę.</missionmessage1.pirate1separatists>
+<missionname.tormsdalereport>Raport z Tormsdale</missionname.tormsdalereport>
+<missiondescription.tormsdalereport>Jowiszańscy Separatyści zlecili ci zdobycie tajnego raportu o tak zwanym „Incydencie w Tormsdale”, który według Separatystów został zaaranżowany przez Koalicję w celu wyeliminowania politycznej opozycji.</missiondescription.tormsdalereport>
+<missionsuccess.tormsdalereport>Zdobyto dokumenty.</missionsuccess.tormsdalereport>
+<missionfailure.tormsdalereport>Nie udało się zdobyć dokumentów.</missionfailure.tormsdalereport>
+<missionmessage0.tormsdalereport>Udało ci się znaleźć dokumenty dotyczące incydentu w Tormsdale. Musisz je dostarczyć do placówki kontrolowanej przez Separatystów.</missionmessage0.tormsdalereport>
+<entityname.tormsdalereport>Raport z Tormsdale</entityname.tormsdalereport>
+<entitydescription.tormsdalereport>Zapieczętowana koperta, która wydaje się zawierać tajne informacje.</entitydescription.tormsdalereport>
+<missionname.jailbreak>Ucieczka z więzienia</missionname.jailbreak>
+<missiondescription.jailbreak_separatists>Jowiszańscy Separatyści zlecili ci uwolnienie kilku ich agentów, którzy są przetrzymywani przez Koalicję.</missiondescription.jailbreak_separatists>
+<missiondescription.jailbreak_coalition>Koalicja Europejska zleciła ci uwolnienie kilku ich agentów, którzy są przetrzymywani przez Jowiszańskich Separatystów.</missiondescription.jailbreak_coalition>
+<missiondescription.jailbreak_sootman>Jowiszańscy Separatyści zlecili ci uwolnienie ważnego dla nich agenta, który jest przetrzymywany przez Koalicję.</missiondescription.jailbreak_sootman>
+<missionsuccess.jailbreak>Uwolniono więźniów.</missionsuccess.jailbreak>
+<missionfailure.jailbreak>Nie udało się uwolnić więźniów.</missionfailure.jailbreak>
+<missionsuccess.jailbreak_singletarget>Uwolniono więźnia.</missionsuccess.jailbreak_singletarget>
+<missionfailure.jailbreak_singletarget>Nie udało się uwolnić więźnia.</missionfailure.jailbreak_singletarget>
+<missionheader0.prisonerrescue>Więźniowie uwolnieni</missionheader0.prisonerrescue>
+<missionmessage0.prisonerrescue>Wszyscy więźniowie dotarli bezpiecznie na pokład. Odcumuj, aby zakończyć misję.</missionmessage0.prisonerrescue>
+<missionheader0.prisonerrescue_singletarget>Więzień uwolniony</missionheader0.prisonerrescue_singletarget>
+<missionmessage0.prisonerrescue_singletarget>Więzień dotarł bezpiecznie na pokład. Odcumuj, aby zakończyć misję.</missionmessage0.prisonerrescue_singletarget>
+<prisonerkilled>Misja się nie powiodła. Jeden z więźniów zginął.</prisonerkilled>
+<dialogundercoverannounce>Ten statek zostaje niniejszym skonfiskowany przez Koalicję Europejską!</dialogundercoverannounce>
+<dialogundercoverannounce>Ceną za zdradę Koalicji jest śmierć!</dialogundercoverannounce>
+<dialogundercoverannounce>Nie wypuścimy was żywych, wy terrorystyczne szumowiny!</dialogundercoverannounce>
+<dialogundercoverannounce>Wiemy, że spiskujecie z Separatystami! Położymy temu kres.</dialogundercoverannounce>
+<dialogundercoverannounce>Niech żyje Koalicja!</dialogundercoverannounce>
+<label.securespecimenenclosure>Bezpieczny wybieg</label.securespecimenenclosure>
+<faction>Frakcja</faction>
+<locationchange.none.changeto.outpost.separatists>[previousname] – rejon zajęli ‖color:faction.separatists‖Jowiszańscy Separatyści‖end‖ i założyli nową placówkę.</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>[previousname] – rejon zajęli ‖color:faction.coalition‖Jowiszańscy Separatyści‖end‖ i założyli nową placówkę.</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>[previousname] – na obszar wkroczyły siły ‖color:faction.separatists‖Separatystów‖end‖ i umieściły tam swoje wojska.</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>[previousname] – na obszar wkroczyły siły ‖color:faction.coalition‖Koalicji‖end‖ i umieściły tam swoje wojska.</locationchange.outpost.changeto.military.coalition>
+<locationchange.military.changeto.city.separatists>Dowódca [previousname] obejmuje stanowisko burmistrza, co oficjalnie czyni [name] miastem.</locationchange.military.changeto.city.separatists>
+<locationchange.military.changeto.city.coalition>[previousname] – populacja zwiększyła się na tyle, że [name] zostaje oficjalnie miastem.</locationchange.military.changeto.city.coalition>
+<locationchange.outpost.changeto.mine.separatists>‖color:faction.separatists‖Jowiszańscy Separatyści‖end‖ rozpoczęli wydobycie w [previousname].</locationchange.outpost.changeto.mine.separatists>
+<locationchange.outpost.changeto.mine.coalition>‖color:faction.coalition‖Koalicja‖end‖ rozpoczęła wydobycie w [previousname].</locationchange.outpost.changeto.mine.coalition>
+<locationchange.outpost.changeto.research.separatists>Zespół niezrzeszonych badaczy przekształcił lokalizację [previousname] w niezależną stację badawczą, wspieraną przez ‖color:faction.separatists‖Separatystów‖end‖.</locationchange.outpost.changeto.research.separatists>
+<locationchange.outpost.changeto.research.coalition>‖color:faction.coalition‖Koalicja‖end‖przekształciła lokalizację [previousname] w stację badawczą w celu studiowania okolicznej fauny.</locationchange.outpost.changeto.research.coalition>
+<location.clownhaven>Clownhaven</location.clownhaven>
+<breakingnews>NAJNOWSZE DONIESIENIA</breakingnews>
+<randomnews1>Ponure prognozy promieniowania na Jowiszu w tym tygodniu</randomnews1>
+<randomnews2>Wzrost wrogości w miejscu pracy i negatywnego nastawienia, mówią klauni okrętowi</randomnews2>
+<randomnews3>Urzędnicy Koalicji przypominają wszystkim praworządnym obywatelom, że sprzedaż niesankcjonowanych materiałów placówkom związanym z Separatystami jest przestępstwem</randomnews3>
+<randomnews4>Środowisko naukowe prosi o zwiększenie funduszy na badania nad Okiem Europy</randomnews4>
+<randomnews5>Kontynuacja badań nad Okiem Europy</randomnews5>
+<randomnews6>Rośnie liczba przypadków pojawienia się końcowijów</randomnews6>
+<randomnews7>Kościół Skorupnika podejrzewany o spowodowanie niedoborów calyxanidum</randomnews7>
+<randomnews8>Utracono łączność z kolonią w sektorze Dunsomin</randomnews8>
+<randomnews9>Ceny mieszkań rosną, do końca roku mają osiągnąć rekordowy poziom</randomnews9>
+<randomnews10>Subra wciąż na wolności; dziwak może być uzbrojony i niebezpieczny</randomnews10>
+<randomnews11>Ogień pochłonął okręt Winterhalter; ośmioosobowa załoga opłakiwana przez rodzinę i przyjaciół</randomnews11>
+<randomnews12>Honkecoin spada poniżej 0,0001 kd.</randomnews12>
+<randomnews13>Fireball Ford rozbija się o pierwsze miejsce w starciu w Dunwice</randomnews13>
+<randomnews14>Ludzie nie są pierwszymi mieszkańcami Europy; naukowcy: „Bez kitu”</randomnews14>
+<randomnews15>Jaja skorupnika: badania pokazują brak zauważalnych korzyści zdrowotnych</randomnews15>
+<randomnews16>Zaginięcie dziennikarzy w Roztopach; „Głos Europy” bada sprawę</randomnews16>
+<randomnews17>Miażdżące zwycięstwo w wyborach obecnego prezydenta Koalicji</randomnews17>
+<randomnews18>Zamieszanie wśród ludności w związku z testem: pozytywny wynik nie jest pożądany</randomnews18>
+<randomnews19>W Stomburn pojawiły się dziwne rzeźbione kamienie; „Ciepłe w dotyku” mówi znalazca</randomnews19>
+<randomnews20>Mak wodny uznany za niebezpieczny do palenia; „Blisko, ale to nie cygaro”, mówią urzędnicy służby zdrowia</randomnews20>
+<randomnews21>EHO wycofuje ze sprzedaży napromieniowaną kiełbasę z pełzacza</randomnews21>
+<randomnews22>Inżynier wyprzedza mechanika jako najpopularniejszy zawód; ksiądz pozostaje najmniej pożądany</randomnews22>
+<randomnews23>Twórcy nagłówków cierpią z powodu samotności</randomnews23>
+<randomnews24>Globalne ocieplenie nie jest już problemem dla większości Europejczyków</randomnews24>
+<randomnews25>Żart dzieci pomylony z próbą komunikacji z Ziemi</randomnews25>
+<randomnews26>Ziemia wciąż milczy</randomnews26>
+<randomnews27>17. sezon „Smakołyków ciotki Doris” potwierdzony</randomnews27>
+<randomnews28>Franczyza sklepów spożywczych „Ciotka Doris” oskarżona o naruszenia bezpieczeństwa żywności</randomnews28>
+<randomnews29>Koalicja wyznaczyła nagrodę za tajemniczego terrorystę zwanego „Sadzownikiem”</randomnews29>
+<randomnews30>Pożar niszczy stocznię Koalicji – ochrona oskarża zamaskowanego terrorystę, „Sadzownika”</randomnews30>
+<randomnews31>Dzisiaj na Deepfliksie: „Sadzownik – mit zamaskowanego renegata”</randomnews31>
+<randomnews32>Przywódca kultu skorupnika, Jacov Subra, wciąż na wolności</randomnews32>
+<randomnews33>Oskarżenia o nepotyzm po tym, jak Ignatius May ponownie został wybrany kapitanem spraw wewnętrznych</randomnews33>
+<randomnews34>Kult Jowisza i nieliniowe pojęcia przestrzeni i czasu: kryptoanaliza rzuca nowe światło na kulturę starożytnych kosmitów</randomnews34>
+<npctitle.merchantclown>Klaun handlarz</npctitle.merchantclown>
+<npctitle.merchanthusk>Kultysta handlarz</npctitle.merchanthusk>
+<npctitle.huskcultecclesiast>Kaznodzieja</npctitle.huskcultecclesiast>
+<npctitle.coalitionspy>Agent Koalicji</npctitle.coalitionspy>
+<npctitle.separatistcaptain>Kapitan Separatystów</npctitle.separatistcaptain>
+<npctitle.separatistcaptainlord>Admirał Separatystów</npctitle.separatistcaptainlord>
+<npctitle.separatistsecurityrecruit>Rekrut Separatystów</npctitle.separatistsecurityrecruit>
+<npctitle.separatistsecuritygunner>Działonowy Separatystów</npctitle.separatistsecuritygunner>
+<npctitle.separatistsecuritybrute>Zwykły Separatysta</npctitle.separatistsecuritybrute>
+<npctitle.separatistsecurityelite>Elitarny Separatysta</npctitle.separatistsecurityelite>
+<npctitle.separatistmechanicrecruit>Mechanik Separatystów</npctitle.separatistmechanicrecruit>
+<npctitle.separatistmechanicveteran>Mechanik Separatystów – weteran</npctitle.separatistmechanicveteran>
+<npctitle.separatistengineerrecruit>Inżynier Separatystów</npctitle.separatistengineerrecruit>
+<npctitle.separatistengineerveteran>Inżynier Separatystów – weteran</npctitle.separatistengineerveteran>
+<npctitle.coalitioncaptain>Kapitan Koalicji</npctitle.coalitioncaptain>
+<npctitle.coalitioncaptainlord>Admirał Koalicji</npctitle.coalitioncaptainlord>
+<npctitle.coalitionsecurityrecruit>Rekrut Koalicji</npctitle.coalitionsecurityrecruit>
+<npctitle.coalitionsecuritygunner>Działonowy Koalicji</npctitle.coalitionsecuritygunner>
+<npctitle.coalitionsecuritybrute>Kapral Koalicji</npctitle.coalitionsecuritybrute>
+<npctitle.coalitionsecurityelite>Porucznik Koalicji</npctitle.coalitionsecurityelite>
+<npctitle.coalitionmechanicrecruit>Mechanik Koalicji</npctitle.coalitionmechanicrecruit>
+<npctitle.coalitionmechanicveteran>Mechanik Koalicji – weteran</npctitle.coalitionmechanicveteran>
+<npctitle.coalitionengineerrecruit>Inżynier Koalicji</npctitle.coalitionengineerrecruit>
+<npctitle.coalitionengineerveteran>Inżynier Koalicji – weteran</npctitle.coalitionengineerveteran>
+<npctitle.hireablecoalitionsecurityofficer>Kapral Koalicji</npctitle.hireablecoalitionsecurityofficer>
+<npctitle.hireablecoalitionsecurityofficerveteran>Porucznik Koalicji</npctitle.hireablecoalitionsecurityofficerveteran>
+<npctitle.hireablecoalitionmechanic>Mechanik Koalicji</npctitle.hireablecoalitionmechanic>
+<npctitle.hireablecoalitionmechanicveteran>Mechanik Koalicji – weteran</npctitle.hireablecoalitionmechanicveteran>
+<npctitle.hireablecoalitionengineer>Inżynier Koalicji</npctitle.hireablecoalitionengineer>
+<npctitle.hireablecoalitionengineerveteran>Inżynier Koalicji – weteran</npctitle.hireablecoalitionengineerveteran>
+<npctitle.hireablecoalitionmedic>Medyk Koalicji</npctitle.hireablecoalitionmedic>
+<npctitle.hireablecoalitionmedicveteran>Medyk Koalicji – weteran</npctitle.hireablecoalitionmedicveteran>
+<npctitle.hireableseparatistsecurityofficer>Kapral Separatystów</npctitle.hireableseparatistsecurityofficer>
+<npctitle.hireableseparatistsecurityofficerveteran>Porucznik Separatystów</npctitle.hireableseparatistsecurityofficerveteran>
+<npctitle.hireableseparatistmechanic>Mechanik Separatystów</npctitle.hireableseparatistmechanic>
+<npctitle.hireableseparatistmechanicveteran>Mechanik Separatystów – weteran</npctitle.hireableseparatistmechanicveteran>
+<npctitle.hireableseparatistengineer>Inżynier Separatystów</npctitle.hireableseparatistengineer>
+<npctitle.hireableseparatistengineerveteran>Inżynier Separatystów – weteran</npctitle.hireableseparatistengineerveteran>
+<npctitle.hireableseparatistmedic>Medyk Separatystów</npctitle.hireableseparatistmedic>
+<npctitle.hireableseparatistmedicveteran>Medyk Separatystów – weteran</npctitle.hireableseparatistmedicveteran>
+<entityname.op_husktable>Stół do autopsji</entityname.op_husktable>
+<entityname.op_huskscribble>Okultystyczne brednie</entityname.op_huskscribble>
+<entityname.op_huskstatue1>Okultystyczny posąg</entityname.op_huskstatue1>
+<entityname.op_huskgraffiti>Okultystyczny symbol</entityname.op_huskgraffiti>
+<entityname.op_husklabel>Znak „Zakaz wstępu”</entityname.op_husklabel>
+<entityname.op_husklabel1>Wyblakły identyfikator</entityname.op_husklabel1>
+<entityname.op_huskbody>Ciało młodego</entityname.op_huskbody>
+<entityname.op_humantank>Zbiornik doświadczalny</entityname.op_humantank>
+<entityname.op_huskincubator>Inkubator młodych</entityname.op_huskincubator>
+<entityname.op_huskphoto1>Niewyraźne zdjęcie</entityname.op_huskphoto1>
+<entityname.op_huskcloak>Płaszcz kultysty</entityname.op_huskcloak>
+<entityname.op_huskstroller1>Wózek</entityname.op_huskstroller1>
+<entityname.op_huskposter1>Plakat farmaceutyczny</entityname.op_huskposter1>
+<entityname.op_husksign>Tekturowy znak</entityname.op_husksign>
+<entityname.op_sepsandbag>Dekoracja Separatystów</entityname.op_sepsandbag>
+<entityname.op_clowncurtain2>Ozdobna zasłona</entityname.op_clowncurtain2>
+<entityname.op_clownmannequin1>Manekin</entityname.op_clownmannequin1>
+<entityname.op_clownjukebox>Szafa grająca</entityname.op_clownjukebox>
+<entityname.op_clowninstrument1>Wiolonczela</entityname.op_clowninstrument1>
+<entityname.op_clownball1>Balon</entityname.op_clownball1>
+<entityname.op_clownmic>Mikrofon sceniczny</entityname.op_clownmic>
+<entityname.op_clownsign1>Szyld</entityname.op_clownsign1>
+<entityname.op_clownmask2>Ozdobna maska</entityname.op_clownmask2>
+<entityname.op_clownshow1>Plakat występu</entityname.op_clownshow1>
+<entityname.op_clownmarquee>Markiza</entityname.op_clownmarquee>
+<entityname.op_clowninstrument2>Perkusja</entityname.op_clowninstrument2>
+<entityname.op_clownfence>Barierka</entityname.op_clownfence>
+<entityname.op_clownball2>Wielka piłka</entityname.op_clownball2>
+<entityname.op_clownposter1>Plakat reklamowy</entityname.op_clownposter1>
+<entityname.banana>Banan</entityname.banana>
+<entitydescription.banana>Egzotyczny owoc pochodzący z Ziemi. Bardzo smaczny i bogaty w potas.</entitydescription.banana>
+<entityname.bananapeel>Skórka od banana</entityname.bananapeel>
+<entitydescription.bananapeel>Bogata w potas. Zostawiona na podłodze może stanowić zagrożenie dla bezpieczeństwa.</entitydescription.bananapeel>
+<entityname.cymbals>Czynele z dementonitu</entityname.cymbals>
+<entitydescription.cymbals>Para czyneli używana podczas medytacji wyznawców Tańczącego Klauna. Unikalne właściwości akustyczne dementonitu nadają talerzom bardzo charakterystyczne i nieprzyzwoicie głośne brzmienie, które może być niezwykle dezorientujące dla niewtajemniczonych.</entitydescription.cymbals>
+<entityname.clowncrate>Skrzynia klauna</entityname.clowncrate>
+<entitydescription.clowncrate>Skrzynia wystarczająco duża, by pomieścić żartownisia.</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] Wejdź</itemmsggoinside>
+<entityname.clownexosuit>Zabawiacz 3000</entityname.clownexosuit>
+<entitydescription.clownexosuit>Kulminacyjne osiągnięcie klauniej technologii: egzokombinezon o napędzie atomowym wyposażony w broń masowego zabawiania.</entitydescription.clownexosuit>
+<clownexosuitweapon>Salwa śmiechu</clownexosuitweapon>
+<entityname.honkmotherianscriptures1>Księga Tańczącego Klauna: Dziewięć przykazań Zabawy (I-III)</entityname.honkmotherianscriptures1>
+<pillarsoffun1>I. Ti-ta, które można wypowiedzieć, nie jest wiecznym TI-TA. Tańczący klaun, którego można nazwać, nie jest wiecznym Tańczącym Klaunem. To, co nienazwane, jest tym, co wyznacza scenę. Nazwane to sztuka, aktorzy, publiczność i ściana między nimi. Uwolnieni od powagi mogą ujrzeć ukrytą tajemnicę. Poważne oczy widzą tylko to, co jest widocznie rzeczywiste.\n\nII. Kształtujemy balon w zwierzę, ale to pustka w środku pozwala balonowi przybrać swój kształt. Pracujemy z tym, co materialne, ale to, co jest między wierszami, jest tym, czego używamy.\n\nIII. Najwyższa Zabawa nie polega na dążeniu do organizacji Zabawy, ale na pozwoleniu sobie na stanie się nią. Poważna osoba stara się brać udział w Zabawie i stwierdza, że nie może tego robić bez przerwy. Poważna osoba próbuje wycisnąć całą frajdę z cytryn, które dostała, ale okazuje się, że sok jest kwaśny.</pillarsoffun1>
+<entityname.honkmotherianscriptures2>Księga Tańczącego Klauna: Dziewięć przykazań Zabawy (IV-VI)</entityname.honkmotherianscriptures2>
+<pillarsoffun2>IV. Kiedy Błazen słyszy o Wielkim Żarcie Wszechświata, pozwala, by był mu on przewodnikiem. Kiedy przeciętna osoba słyszy o Wielkim Żarcie Wszechświata, wierzy w jedną połowę, a w drugą połowę wątpi. Kiedy głupia osoba słyszy o Wielkim Żarcie Wszechświata, śmieje się głośno na samą myśl o nim. Gdyby się nie śmiała, to nie byłby to żart, prawda?\n\nV. Najlepsze Błazny to te, o których istnieniu ludzie niemalże nie wiedzą. Następny jest Błazen, którego kochają i wielbią. Następny jest ten, którego się lękają. Najgorszy jest Błazen, którym się pogardza. Gdy wielki Błazen wykona swoje zadanie, ludzie mówią: „To była świetna zabawa”, nie wiedząc, co jest w górnym biegu Strumienia Zabawy, tak jak nie wiedzą o Największym Błaźnie, Najbardziej Górnym z Górnych Biegów Strumienia, Najbardziej Pustą z Tabliczek\n\nVI. Tak jak jest Najbardziej Pusta z Tabliczek, takiż jest umysł Błazna. Widzi on umysł ludzi jako swój własny umysł. Tych, którzy są dobrzy, traktuje jako dobrych. Tych, którzy nie są dobrzy, również traktuje jako dobrych. Ufa ludziom, którzy są godni zaufania. Ufa też ludziom, którzy nie są godni zaufania. W ten sposób osiąga dobroć i zaufanie, by nie dopuścić do tego, by poważni ludzie o umysłach wypełnionych obornikiem zatrzymali strumień Zabawy.</pillarsoffun2>
+<entityname.honkmotherianscriptures3>Księga Tańczącego Klauna: Dziewięć przykazań Zabawy (VII-IX)</entityname.honkmotherianscriptures3>
+<pillarsoffun3>VII. Jeśli nie boisz się śmierci, jak może cię ona zastraszyć? Prawdziwe zrozumienie tego jest zrobieniem wielkiego kroku na Ścieżce Klaksonu. Próbować nienaturalnie przedłużyć życie to bać się śmierci. Próbować zmienić tchnienie życia to bać się śmierci. Błazen rozumie, że kiedy coś osiągnie swój szczyt, wkrótce zacznie się chylić ku upadkowi. Zmienianie tego, co naturalne, to zbaczanie ze Ścieżki Klaksonu. Tych, którzy to robią, nie czeka Zabawa na końcu.\n\nVIII. Dzięki współczuciu zyskasz odwagę. Dzięki umiarkowaniu możesz dać światu Zabawę. Dzięki pokorze możesz przewodzić innym. Porzucenie współczucia przy dążeniu do odwagi, lub porzucenie umiaru przy dążeniu do bycia zabawnym, lub porzucenie pokory przy dążeniu do przewodzenia nie doprowadzi do Zabawy.\n\nIX. Latawiec wznosi się wysoko, a Błazen pozwala mu się unieść; sznurek latawca pęka, a Błazen pozwala mu odlecieć. Ma, lecz nie posiada; działa, lecz nie oczekuje. Kiedy jego praca jest skończona, zapomina o niej. Dlatego trwa wiecznie, tak jak Największy z Błaznów. Chwała Tańczącemu Klaunowi!</pillarsoffun3>
+<storename.merchantclown>Zaopatrzenie dla klaunów</storename.merchantclown>
+<storename.merchanthusk>Dewocjonalia</storename.merchanthusk>
+<entityname.cultistrobes>Szaty kultysty</entityname.cultistrobes>
+<entitydescription.cultistrobes>Mroczna szata tradycyjnie noszona przez akolitów Kościoła Skorupnika. Nasączona feromonami, które uspokajają zdziczałe skorupniki, pomagając akolitom zachować bezpieczeństwo, dopóki nie będą gotowi do wyniesienia.</entitydescription.cultistrobes>
+<entityname.zealotrobes>Szaty fanatyka</entityname.zealotrobes>
+<entitydescription.zealotrobes>Mroczna szata noszona przez cenionych członków Kościoła Skorupnika. Wyposażona w technologię genetyczną i wstrzykiwacze hormonów, które dają użytkownikowi zwiększone możliwości regeneracji symbionta przy jednoczesnym zachowaniu jego potulności.</entitydescription.zealotrobes>
+<entityname.rituallantern>Rytualna latarnia</entityname.rituallantern>
+<entitydescription.rituallantern>Powszechnie używana w rytuałach Kościoła Skorupnika. Zawiera feromony pacyfikujące zdziczałe skorupniki oraz chemikalia o niewielkich właściwościach leczniczych.</entitydescription.rituallantern>
+<entityname.huskcontainerspawner>Zeskorupiała skrzynka</entityname.huskcontainerspawner>
+<entitydescription.huskcontainerspawner>Okaz Velonaceps Calyx zamieszkujący skrzynkę. Stanowi poręczny autonomiczny pojemnik, chociaż niezbyt trwały, ponieważ skorupnik rzadko żyje długo w nieorganicznej skorupie.</entitydescription.huskcontainerspawner>
+<entityname.bookofchalices1>Księga Kielichów: Trzy przemiany</entityname.bookofchalices1>
+<threemetamorphoses>Trzy przemiany ducha ci przedstawiam: jak duch staje się kielichem w kształcie męstwa człowieka, kielich opróżnia się ze stęchłego wina, i jak kielich ponownie napełnia się świeżym winem.\n\nWiele rzeczy ma do niesienia duch, duch mocny, w którym mieszka cześć.\n\n Co jest do niesienia? pyta więc duch, wyciągając ręce. Co jest najcięższe? pyta duch, abym to wziął na siebie i radował się w swojej sile.\n\nCzyż nie jest to zejść do najgłębszych głębin, by mącić myśli?\n\nCzyż nie jest to karmić się owocami wiedzy, a dla prawdy cierpieć głód duszy?\n\nCzyż nie jest to wchodzić do nieczystej wody, gdy jest to woda prawdy, i nie odrzucać znajdujących się w niej szkodników i pasożytów?\n\nCzyż nie jest to kochać tych, którzy nami pogardzają, i podawać rękę upiorowi, gdy chce nas przerazić?\n\nWszystkie te najcięższe rzeczy duch bierze na siebie i jako kielich w kształcie męstwa człowieka, raduje się swoją siłą.\n\nAle z kielicha unosi się miazma, bo męstwo człowieka dźwiga ciężary dawne, teraz już stęchłe i obmierzłe.\n\nTakoż rzecze miazma do ducha: „Będziesz!”\n\nIdee i wartości tysięcy lat w powietrzu cuchną. „Wszystkie wartości rzeczy balsamują mnie. Wszystkie wartości zostały już stworzone, i wszystkie stworzone wartości – ja reprezentuję. Zaprawdę, nie będzie już żadnego „ja” – takoż rzecze miazma.\n\nBracia moi, skąd potrzeba opróżnienia kielicha? Czemuż nie wystarcza męstwo człowieka, który się wyrzeka i jest czcigodny? Stworzyć nowe wartości – tego zwykły człowiek nie może dokonać, ale stworzyć sobie wolność do nowego tworzenia – to może uczynić męstwo człowieka.\n\nStworzyć sobie wolność i dać święte Nie nawet obowiązkowi i człowieczeństwu – do tego, bracia moi, nie potrzeba człowieka. Założenie drogi do nowych wartości – to jest najtrudniejsze założenie dla czcigodnego ducha.\n\nAle powiedzcie mi, bracia, jaką wartość ma pusty kielich? Bo czyż to nie wino nadaje mu cel? Tak więc musimy znaleźć nowe wino, świeże i nieskażone, ponad męstwo człowieka, ale w zasięgu jego ręki.\n\nTak, do gry w tworzenie, bracia moi, potrzebne jest święte Tak dla życia, męstwo samego życia. Ten hart ducha jest łatwo dostępny dla tych, którzy odważą się po niego sięgnąć, jak dar, który przekazał nam świat.\n\nA zatem nadchodzi trzecia i ostatnia przemiana, Wyniesienie: duch człowieka wypełniony nowym życiem, męstwo ducha człowieka i hart ducha świata jako jedno. Duch wyraża teraz swą wolę, gdyż jego własny świat przezwyciężył wyrzutka świata. Taka jest najczystsza forma.</threemetamorphoses>
+<entityname.bookofchalices2>Księga Kielichów: o stawaniu się zwiastunem przypływu</entityname.bookofchalices2>
+<heraldofthetide>Człowiek jest mostem rozpiętym między zwierzęciem a najczystszą formą – mostem nad Otchłanią.\n\nNiebezpiecznym przejściem, niebezpieczną wędrówką, niebezpiecznym spojrzeniem za siebie, niebezpiecznym drżeniem i zatrzymaniem.\n\nTo, co jest w człowieku wielkie, to fakt, że jest on mostem, a nie celem: to, co jest w nim miłe, to fakt, że jest on nad i pod. Niewielu jest tych, którzy przejdą przez most, ale są to ludzie o wielkiej cnocie:\n\nNie wiedzą, jak żyć jako idący w dół, bo są idącymi w górę.\n\nNie szukają najpierw poza gwiazdami powodu, by schodzić w dół i być ofiarami, lecz składają siebie w ofierze światu, by potem nadszedł świat najczystszej formy.\n\nŻyją, aby wiedzieć, i poszukują wiedzy, aby najczystsza forma mogła odtąd żyć. W ten sposób poszukają swego odejścia w dół.\n\nPracują i wymyślają, aby zbudować dom dla najczystszej formy i przygotować dla niej ocean, zwierzę, roślinę i swoje ciało, gdyż w ten sposób szukają swego odejścia w dół.\n\nKarzą swojego Boga, bo kochają swojego Boga; bo muszą ulec przez gniew swojego Boga.\n\nIch dusza jest głęboka nawet w zranieniu i może ulec przez drobiazg: dlatego chętnie przechodzą przez most.\n\nSą otwartego ducha i otwartego serca: dlatego ich głowa jest jedynie wnętrzem ich serca; ich serce jednak powoduje ich odejście w dół.\n\nStaję się zwiastunem fali i silnym strumieniem pośród wód: przypływ jest najczystszą formą.</heraldofthetide>
+<character.huskcontainer>Zeskorupiała skrzynka</character.huskcontainer>
+<entityname.40mmnuke>Mini atomówka 40mm</entityname.40mmnuke>
+<entitydescription.40mmnuke>Amunicja jądrowa do granatnika.</entitydescription.40mmnuke>
+<entityname.molotovcoctail>Koktajl Mołotowa</entityname.molotovcoctail>
+<entitydescription.molotovcoctail>Tania improwizowana broń zapalająca.</entitydescription.molotovcoctail>
+<campaignstore.reputationrequired>wymagana reputacja: [amount] [faction]</campaignstore.reputationrequired>
+<charactername.ignatiusmay>Ignatius May</charactername.ignatiusmay>
+<charactername.auntdoris>Ciotka Doris</charactername.auntdoris>
+<charactername.victoriapetran>Victoria Petran</charactername.victoriapetran>
+<charactername.sootman>Sadzownik</charactername.sootman>
+<charactername.jestmaster>Błazen</charactername.jestmaster>
+<eventtext.separatistspecialhire1.c1>Podchodzi do ciebie surowo wyglądająca kobieta. Przez chwilę zastanawiasz się, dlaczego wygląda tak znajomo, aż w końcu uświadamiasz sobie, że jej twarz wielokrotnie pojawiała się w wiadomościach.\n\nWyciąga do ciebie rękę. „Witaj. Czekałam na spotkanie z tobą. Victoria Petran, pierwsza porucznik Jowiszańskich Separatystów.”</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>„To zaszczyt panią poznać. W czym mogę pomóc?”</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>„Właściwie to nie przyszłam prosić o pomoc, lecz by zaoferować swoje usługi. Od jakiegoś czasu śledzę poczynania twoje i twojej załogi, a wasze zaangażowanie dla naszej sprawy jest zdumiewające. Gdybyśmy mieli więcej takich ludzi jak ty w naszych szeregach, Koalicja już dawno zostałaby zmieciona z powierzchni Europy.”</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>„Dziękuję. Robimy, co możemy.”</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>„Uważam, że to co robicie, jest tak wyjątkowe, że doszłam do wniosku, że więcej zrobię jako członek waszej załogi, niż siedząc za biurkiem w moim biurze. I wierzę, że mogę wam się przydać – znam życie na okręcie podwodnym i wiem co nieco o broni i medycynie. Co ty na to – masz wolne miejsce dla jeszcze jednego oficera ochrony?”</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>„Nie mogę odmówić takiej propozycji! Witamy na pokładzie, madam!”</eventtext.separatistspecialhire1.o1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>„Świetnie! W takim razie mów mi po imieniu – jestem od teraz częścią twojej załogi, a nie twoją załogą. Nie mogę się doczekać, aż popłyniemy na pierwszą misję!”</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>„To dla nas zaszczyt, ale musimy przemyśleć sprawę.”</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>„Rozumiem. Cóż, jeśli w przyszłości zdecydujecie się wziąć mnie na pokład, to jestem pewna, że znów wpadniemy na siebie w jednej z placówek kontrolowanych przez Separatystów.”</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>„Witam ponownie. Czy zastanowiliście się nad moją propozycją? Jesteście zainteresowani wzięciem mnie na pokład?”</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>„Tak, mamy miejsce na dodatkowego oficera ochrony. Witamy na pokładzie, madam!”</eventtext.separatistspecialhire1.o1.o1.repeat>
+<eventtext.separatistspecialhire1.o1.o2.repeat>„Obawiam się, że nie mamy miejsca na kolejnych członków załogi, ale dam znać, jeśli coś się zmieni!”</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>Podchodzi do ciebie ktoś, kto wygląda jakby właśnie wypełzł z rury wydechowej diesla.\n\n„Ej, szukałem cię.”</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>„Wyglądasz znajomo. Znamy się?”</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>„To twoja załoga wyciągnęła mnie z celi Koalicji, prawda? Nie miałem wtedy czasu na przedstawienie się, ale zwą mnie Sadzownikiem. Powiedzmy, że tak się nazywam. Nie potrzebujecie przypadkiem dodatkowego członka załogi?”</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>„Sadzownik? Jak ten zamaskowany Separatysta, którego Koalicja od lat próbuje dorwać? Jaja sobie ze mnie robisz?”</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>„Ta, to ja. W placówkach mówi się, że dajecie Koalicji popalić, a ja chcę mieć w tym swój udział. Więc co ty na to?”</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>„Oczywiście! Będziemy zaszczyceni, jeśli dołączy do nas sława takiego kalibru.”</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>„Świetnie. Do zobaczenia na pokładzie.”</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>„Musimy przemyśleć sprawę.”</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>„Dobra.”</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>„No i? Macie dla mnie miejsce na pokładzie?”</eventtext.separatistspecialhire2.repeat>
+<eventtext.coalitionspecialhire2.c1>Zauważasz starszą panią o znajomo wyglądającej twarzy. Ciotka Doris! Jej franczyza sklepów spożywczych może pozostawiać wiele do życzenia, ale jej pokazy kulinarne zawsze były doskonałe.\n\nKu twojemu zaskoczeniu, podchodzi do ciebie. „Witaj, złotko! Słyszałam, że ty i twój oddział jesteście w okolicy, więc przyszłam tu z nadzieją, że na was wpadnę.”</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>„Miło panią poznać! Czym możemy służyć?”</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>„To może trochę głupie, ale przypuszczam, że nie zaszkodzi zapytać! Widzisz, mam… jak by to ująć… kryzys wieku zaawansowanego. Jak pewnie wiesz, od prawie czterech dekad prowadzę programy kulinarne, restauracje i inne takie. Kiedy tak słucham opowieści o niesamowitych przygodach twojej załogi, o tym wszystkim, co zrobiliście, aby uczynić nasz mały księżyc czymś lepszym, nie mogę przestać odczuwać ciekawości, jak wyglądałoby życie członka załogi.”</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>„To nie jest styl życia dla każdego.”</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>„Oczywiście! Ale na pewno chętnie bym tego spróbowała. Wiesz, nie jestem taka miękka, na jaką wyglądam – jako młoda dziewczyna, za czasów, które spędziłam jako aktywistka, rozwaliłam więcej brudnych separatystycznych głów, niż by ci się mogło wydawać. I sprawiało mi to dużo przyjemności! Znam się też na medycynie i nie ma na Europie zwierzęcia, którego nie potrafiłabym pokroić.\n\nWięc jak, dasz staruszce szansę? Niczego bardziej nie pragnę niż wziąć udział w walce o lepszą Europę!”</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>„Nie mogę odmówić takiej propozycji! Witamy na pokładzie, madam!”</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>„Och, cudownie! Wezmę tylko parę rzeczy i widzimy się na pokładzie!”</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>„Rozumiem. Nie spiesz się, serdeńko!”</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>„O, witam ponownie! I jak, weźmiecie mnie na swój pokład?”</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>„Zawsze się cieszę na wasz widok! Wiesz, mam pewien fajny pomysł, o którym chcę z tobą porozmawiać.”</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>„Oczywiście, zamieniam się w słuch!”</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>„Widzisz, życie w tej placówce bywa czasami nudne. Nieczęsto trafiają do nas goście, którym mógłbym przewodzić, i nie mogę przestać się zastanawiać, o ile więcej mógłbym zrobić, gdybym wyruszył w taką podróż jak ty. Dowcip, którego nigdy wcześniej się nie znało, jest zwykle zabawniejszy niż ten, który słyszało się tysiąc razy, prawda?”</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>„Rozumiem, co masz na myśli. Opowiedz mi o tym swoim pomyśle!”</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>„Zastanawiam się, czy w twojej załodze jest miejsce dla dodatkowego asystenta? Przyłączenie się do was i przeżycie razem przygód uszczęśliwiłoby tego starego głupca bardziej, niż możesz sobie wyobrazić. Mimo że nigdy nie byłem marynarzem, mam w rękawie kilka sztuczek, które mogą się przydać.”</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>„Na Tańczącego Klauna, oczywiście! Witaj na pokładzie!”</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>„Cudownie! To zaszczyt do was dołączyć!”</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>„Musimy przemyśleć sprawę.”</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>„Rozumiem. Na pewno jeszcze się spotkamy – daj mi znać, gdy podejmiecie decyzję!”</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>„Wesołego dnia! Czy zastanowiliście się nad moją propozycją? Zechcecie wziąć mnie na pokład?”</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>„Tak, mamy miejsce na dodatkowego asystenta. Witamy na pokładzie!”</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>„Obawiam się, że nie mamy miejsca na kolejnych członków załogi, ale dam znać, jeśli coś się zmieni!”</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>Podchodzi do ciebie znajomo wyglądający mężczyzna. „Ej, to ty! Miałem nadzieję, że się jeszcze spotkamy.”</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>„Mi również miło pana widzieć, panie Subra.”</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>„Może odłóżmy na bok uprzejmości i przejdźmy do rzeczy. Nie co dzień spotykamy się z załogą tak otwartą jak wasza, a tym bardziej z tak kompetentną. Mam więc dla was propozycję, która zacieśniłaby tę współpracę między wami a Kościołem jeszcze bardziej. I, cóż, jeśli mam być całkiem szczery, byłby to również prezent dla mnie.”</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>„Mów dalej.”</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>„Mówiąc wprost już od jakiegoś czasu, jeszcze przed tą gehenną z łowcami nagród, chciałem dołączyć do twojej załogi. To, co robisz dla Kościoła jest fenomenalne i jeśli mógłbym połączyć z tobą siły, wierzę, że razem moglibyśmy utopić ten świat w łasce naszego pana. A poza tym, jeśli mam być zupełnie szczery, bardzo chciałem posmakować życia na nieokiełznanych wodach poza placówkami. Więc, co ty na to?”</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>„Nie mogę odmówić takiej propozycji! Witaj na pokładzie, bracie!”</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>„Fantastycznie! Do zobaczenia na pokładzie.”</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>„Musimy przemyśleć sprawę.”</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>„Oczywiście. Nie ma pośpiechu.”</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>„Miło znów cię spotkać. Więc jak, przemyśleliście moją propozycję? Macie miejsce dla jeszcze jednego załoganta?”</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>„Z przyjemnością cię przyjmiemy.”</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>„Obawiam się, że nie mamy miejsca na kolejnych członków załogi, ale dam znać, jeśli coś się zmieni!”</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>Z systemu głośników rozlega się obwieszczenie: „Do załogi zadokowanej przed chwilą jednostki. Prosimy o natychmiastowe stawienie się w administracji”.</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>Starszy mężczyzna w drogo wyglądającym mundurze podchodzi do ciebie i podaje ci rękę. „Ach, tu jesteś. Zacząłem się zastanawiać, czy rozgłośnia działa. Tak czy inaczej, miło mi cię poznać! Słyszałem, że twoja załoga zmierza w tę stronę i chciałem spotkać się z tobą osobiście. Jeśli możesz poświęcić chwilę, pragnę ci coś zaproponować.”</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>„Przepraszam, kim pan jest?”</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>„Ach, wybacz moje maniery – nieczęsto mam okazję spotkać takiego bohatera narodowego jak ty! Ignatius May, kapitan spraw wewnętrznych Koalicji Europejskiej. Już od jakiegoś czasu obserwuję dokonania twojej załogi, a tak po prawdzie, to wiele z misji, których się podjęliście, zostało zleconych przeze mnie. W imieniu Koalicji Europejskiej pragnę wyrazić naszą najwyższą wdzięczność wobec ciebie i twojej załogi za waszą służbę.”</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>„Dziękuję, sir! Czy mogę spytać, co to za propozycja, o której pan wspominał?”</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>„Od razu do rzeczy, co? Podoba mi się to! Przechodząc do sedna – chcę dołączyć do waszej załogi. Dawno nie brałem udziału w prawdziwej akcji, a wysiłki waszej ekipy sprawiły, że mam ochotę znów ubrudzić sobie ręce i zrobić coś konkretnego dla Koalicji.”</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>„To będzie dla nas zaszczyt, sir!”</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>„Fantastycznie! Do zobaczenia na pokładzie.”</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>„Musimy przemyśleć sprawę.”</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>„Nie zamierzałem robić z tego polecenia. Ale z szacunku dla ciebie i twojej załogi, nie będę nalegał. Na pewno jeszcze na siebie wpadniemy – daj wtedy znać, jaką podejmiecie decyzję.”</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>„Witaj ponownie. Przemyśleliście moją propozycję?”</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>„Z przyjemnością pana przyjmiemy, sir.”</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>„Obawiam się, że nie mamy miejsca na kolejnych członków załogi, ale dam znać, jeśli coś się zmieni!”</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>Kilka odzianych w szaty postaci skuliło się wokół kogoś leżącego na podłodze. Nie masz pewności, czy próbują uspokoić, czy reanimować osobę, która ma gwałtowne drgawki, jakby miała jakiegoś rodzaj ataku. Jedna z ubranych postaci zauważa cię. „Ej, ty! Rzuć mi strzykawkę z calyxanidum z tamtej szafki!”</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>Rzuć strzykawkę z szafki.</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>Rzucasz strzykawkę podpisaną „calyxanidum”. Rzucający się mężczyzna od razu uspokaja się po otrzymaniu zastrzyku w szyję. Jedna z zakapturzonych postaci jest wyraźnie rozzłoszczona. „Mark, ty niecierpliwy idioto, ile razy ci mówiliśmy, że jeszcze nie jesteś gotowy na Dar?”</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>„Co tu się dzieje?”</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>Zakapturzone postacie odwracają się, by spojrzeć na ciebie. Gdy dokładniej przyglądasz się ich twarzom, widzisz, że są bardzo młode. „Mieliśmy właśnie mały nagły wypadek. Nasz przyjaciel pomyślał, że fajnie byłoby… wybrać się na małą wycieczkę, jeśli wiesz, co mam na myśli. Dzięki za pomoc! Jeśli nie masz nic przeciwko, zachowajmy to między nami.”</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>„To bardzo podejrzane. Powiedzcie mi, co z nim zrobiliście, albo zgłoszę was odpowiednim władzom.”</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>Grupa zerka na siebie nerwowo. „Słuchaj, nie chcemy żadnych kłopotów. Nasz brat był zbyt chętny do spotkania z wielkim skorupnikiem i ten zaczął go przejmować. Ale udało nam się opanować sytuację i wszyscy mają się dobrze. To się już nie powtórzy. Nie trzeba o tym mówić całej placówce ani naszej sekcie. Gdyby dowiedzieli się, że próbował przejść poza kolejnością, zrujnowałoby to nasze kariery!”</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>„Waszej sekcie? Należycie do Kościoła Skorupnika? Wydawało mi się, że cały myk polegał na tym, żeby dać się przejąć pasożytowi.”</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>„Pasożytowi? Pasożyt tylko bierze, ale skorupnik daje! Może cię zabrać poza granice tego worka mięsa, który nazywasz swoim ciałem! Ale nie w ten sposób, nie jeśli człowiek nie jest gotowy, by go przyjąć. Ekhem, w każdym razie tak mówią kaznodzieje.”</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>Dość tych sekciarskich bredni. Powiadom ochronę placówki.</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>Kontaktujesz się z ochroną placówki poprzez radio i informujesz o podejrzanej aktywności w tej części.</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>„Całkiem lubię ten swój worek mięsa. Znajdę drogę do wyjścia.”</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>„A jeśli chcę przekroczyć te granice, to jak mam się do tego zabrać?”</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>„Spokojnie, drodzy bracia. Po prostu chcę wiedzieć, czemu przerwaliście przemianę tego człowieka w skorupnika.”</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>Ich surowe miny łagodnieją. „Na pewno nie umknęły twojej uwadze jego spazmy, prawda? Nie tak wygląda wyniesienie. Symbiont by go pochłonął, przejął. Najwyraźniej nie jest jeszcze gotowy na bycie jednością z symbiontem.”</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>„Rozumiem. W jaki sposób można stać się jednym z symbiontem?”</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>„Cóż, szczerze mówiąc, jesteśmy świeżo nawróceni. Nie wiem, czy do nas należy kierować takie pytania. Nasi kaznodzieje mówią, że trzeba być gotowym na przyjęcie Daru, naprawdę otworzyć swoje serce, umysł i wszystkie części ciała, zanim będzie można przyjąć Komunię. Istnieją… rytuały i narzędzia, aby udobruchać i przyjąć świętego symbionta i doprowadzić do przemiany. Ale nie wiemy jeszcze o nich zbyt wiele. Jestem pewien, że kaznodzieja chętnie powie ci więcej, jeśli tylko go znajdziesz!”</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>Pożegnaj uroczych młodzieńców i życz im przyjemnego i terminowego wyniesienia.</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>Dość tych sekciarskich bredni. Powiadom ochronę placówki.</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>„Wydawało mi się, że cały myk polegał na tym, żeby dać się przejąć pasożytowi.”</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>To podejrzane. Lepiej się w to nie mieszać.</EventText.youngcultists.o2>
+<EventText.waytoascension1.c2>Podsłuchujesz dwie zakapturzone postacie pogrążone w głębokiej dyskusji. „Szczerze mówiąc, uważam, że tego typu sodomickie imprezy pod wpływem narkotyków są niesmaczne i są wypaczeniem tego, czym powinna być prawdziwa komunia”. Człowiek noszący bardziej misternie zdobioną szatę wzrusza ramionami. „Jako kaznodzieja muszę się z tym zgodzić, choć tak między nami, uważam, że dla akolitów dobre jest sprawdzanie swoich granic od czasu do czasu – musisz wiedzieć, gdzie są twoje granice, jeśli dążysz do ich przekroczenia!”</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>„Przepraszam, czy powiedział pan, że jest kaznodzieją Kościoła Skorupnika?”</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>Mężczyzna odwraca się, by spojrzeć na ciebie, a sądząc po jego wyrazie twarzy, podejrzewasz, że te słowa nie były przeznaczone dla twoich uszu. „Kim jesteś i czego tu szukasz?” pyta.</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>„Moja załoga szuka sposobów, by dowiedzieć się więcej o Kościele, i powiedziano nam, że kaznodzieja mógłby nami pokierować.”</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>Mężczyzna kpi. „Czy to ci wygląda na szkółkę niedzielną? Nawet gdybym miał interes w nauczaniu każdego przypadkowego marynarza, który się tu zaplącze, to skąd miałbym wiedzieć, że nie jesteś jakimś szpiegiem Koalicji albo klaunem szukającym informacji?”</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>„Czy możemy udowodnić czystość naszych intencji, pomagając w jakiś sposób Kościołowi?”</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>„To w żaden sposób nie odróżni was od mnóstwa pozbawionych moralności i ducha załóg okrętów podwodnych, które wykonują zadania dla kogokolwiek, nie zwracając uwagi na to, kogo wspierają. Kościół interesuje się tym, do czego dążysz i jak wiele jesteś w stanie poświęcić, aby osiągnąć ten cel.”</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>„Czy jest jakiś inny sposób, by udowodnić szczerość naszych zamiarów?”</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>„Jeszcze długa droga przed tobą, dzieciaku. Ale co mi tam, spróbujmy. Aby udowodnić, że przynajmniej w jakimś stopniu rozumiesz naszą doktrynę, odpowiedz na pytanie. Jak brzmi druga przemiana ducha?”</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>„Wyjście z kokona ludzkiej powłoki.”</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>Mężczyzna parska śmiechem i kręci głową. „Tak jak myślałem. Musisz się jeszcze trochę nauczyć i dopóki tego nie zrobisz, nie mam ci nic więcej do powiedzenia.”</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>„Stanie się jednym z symbiontem.”</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>„Opróżnienie kielicha ze stęchłego wina.”</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>„Przyznam, że jestem zaskoczony, że marynarz zna koncepcję trzech przemian. Masz jednak jeszcze długą drogę do przebycia, aby naprawdę się wykazać. Ale może uda nam się coś wymyślić. Niedługo odbędzie się pewna uroczystość religijna, na którą potrzebujemy ogromnych ilości „opłatków”, aby nakarmić wszystkich uczestników. Jestem pewien, że rozumiesz, do czego zmierzam.”</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>„Mam zdobyć jaja skorupnika?”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>„Można to tak ująć, tak. Nie tylko będzie to test twojego oddania, ale wierzę, że może pomóc ci i twojej załodze w osiągnięciu pierwszej przemiany. Zejście na największe głębokości, odważne zanurzenie się w najbrudniejszych wodach. Mówiąc wprost: przynieś mi lub jednemu z moich kolegów tuzin fiolek z jajami skorupnika, a wtedy porozmawiamy.”</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>„Obawiam się, że nie wiem. Jeszcze.”</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>„Jest pewna mądrość w uświadomieniu sobie i przyznaniu się do swoich ograniczeń. Musisz się jeszcze trochę nauczyć i dopóki tego nie zrobisz, nie mam ci nic więcej do powiedzenia.”</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>„Jeśli będą coś warte, z przyjemnością wynagrodzimy ci twój trud.”</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>„Oczywiście. Jako marynarz pewnie myślisz, że obsypywanie ludzi pieniędzmi jest sposobem na to, by wykonywali twoje polecenia, ale sama propozycja sugeruje, że masz niewielkie pojęcie o tym, do czego dążymy w Kościele.”</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>„Przepraszam, chyba mylę cię z kimś innym. Muszę już iść!”</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>Ten facet jest chyba jakąś wielką szychą w Kulcie Skorupnika. Lepiej powiadomić ochronę placówki.</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>Kontaktujesz się z ochroną placówki poprzez radio i informujesz o podejrzanej aktywności w tej części.</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>To podejrzane. Lepiej się w to nie mieszać.</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>„Wierzę, że twoja załoga wyraziła zainteresowanie poznaniem naszego Kościoła. Zanim przejdziemy dalej, chcę zadać ci to samo pytanie, które zadał już mój kolega: jak brzmi druga przemiana ducha?”</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>„Kościół zlecił ci pewne zadanie. Udało ci się zdobyć opłatki?”</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>„Mam dwanaście flakonów z jajami skorupnika, zgodnie z umową.”</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>„Oczy kaznodziei rozszerzają się, gdy wyjmujesz fiolki. Szybko wyrywa je z twoich rąk i chowa w swoich szatach. „Nasze wątpliwości co do twojej załogi chyba były bezpodstawne. Mam nadzieję, że wybaczysz nam naszą nieufność – nie co dzień marynarze mają wobec nas takie nastawienie. Ale przypuszczam, że to zrozumiałe. Nie powinniśmy oczekiwać współczucia od ludzi, których rozumienie skorupników opiera się wyłącznie na spotkaniach ze zdziczałymi osobnikami.”</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>„W porządku. Czy teraz opowiesz nam więcej o Kościele?”</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>„Ten głód wiedzy to obiecujący znak. Tak, omówiliśmy tę sprawę z Eklezjarchatem i jesteśmy gotowi mianować was akolitami Kościoła Skorupnika, jeśli takie jest wasze pragnienie.”</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>„A co to oznacza w praktyce?”</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>„Oznacza to, że pomożemy wam w waszym osobistym dążeniu do wyniesienia, a wy pomożecie Kościołowi w naszym wspólnym dążeniu do lepszej ludzkości, czy też raczej takiej, która przekroczy swoje człowieczeństwo. Nasi członkowie nie mają wielu zobowiązań – każdy służy zgodnie z własną wolą i możliwościami – ale oczywiście mamy nadzieję, że wasza załoga będzie nadal pomagać naszej sprawy, tak jak do tej pory. Nie krępujcie się i rozważcie tę propozycję. Dajcie mi znać, gdy podejmiecie decyzję.”</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>„Przynieś mi je i wtedy będziemy kontynuować.”</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>„Wciąż nad tym pracuję.”</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>„I jaka jest twoja decyzja? Chcesz zostać akolitą Kościoła?”</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>„Tak, chcę do was dołączyć.”</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>„Tak więc się stanie. Czy przyjmujesz wstąpienie jako swój najwyższy cel, a także najwyższy cel dla ludzkości?”</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>„Tak.”</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>„Tak więc się stanie. Czy wyrzekniesz się swojej ludzkości, by przyjąć najczystszą formę?”</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>„Tak więc się stanie. Czy pragniesz stać się jednym z męstwem ludzkości, by przyjąć najczystszą formę?”</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>„Tak więc się stanie. Witamy w rodzinie. Cieszę się, że do nas dołączasz! Co więcej, wierzę, że cały nasz Kościół, aż po arcykapłanów, ucieszy się z tego powodu.”</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>„I co teraz?</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>„To w dużej mierze zależy od ciebie, gdyż każdy w Kościele służy według własnej woli. Jeśli szukasz wskazówek, Księga Kielichów może być dobrym punktem wyjścia.” Kaznodzieja wręcza ci papierowy zwój. „Weź go sobie do serca, a lepiej się przygotujesz, gdy przyjdzie czas na twoje kolejne zadanie.”</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>„Muszę to jeszcze przemyśleć.”</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>„Miło znów na ciebie wpaść. W samą porę, przydałaby się nam twoja pomoc. To znacznie delikatniejsza sprawa niż zlecenia, które wykonywaliście do tej pory. Potrzebujemy kogoś kompetentnego, kogoś, komu Kościół może zaufać, i wydaje nam się, że twoja załoga może się do tego nadawać.”</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>„Brzmi ciekawie.”</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>„Według naszych informatorów, agent Koalicji przeniknął do jednej z naszych sekt, aby zbadać Kościół. Istnieje prawdopodobieństwo, że uzyskał dostęp do bardzo wrażliwych informacji, w tym tożsamości i miejsca pobytu niektórych z naszych arcykapłanów. Mamy powody sądzić, że przebywa on obecnie w pobliskiej placówce, więc teraz jest najlepszy czas, aby działać i upewnić się, że nie będzie z nikim rozmawiał.”</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>„Rozumiem. Zajmiemy się tym.”</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>„Zaraz, czyli mamy kogoś zamordować?!”</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>„Nie znasz „Trzech przemian”? To miazma przez ciebie przemawia. Musisz porzucić te fikcyjne ludzkie pojęcia moralności. Poza tym, czy podczas swoich podróży nie zamordowaliście niezliczonych istot? Czym to się różni, poza tym, że jest niezwykle ważne dla naszej sprawy?”</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>„Chyba masz rację.”</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>„Zaznaczę miejsce na twojej mapie. Tylko działaj dyskretnie: nie chcemy ściągać na siebie ciekawskiego wzroku.”</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>„Poinformowano nas, że twoja misja zakończyła się sukcesem. Wiedziałem, że można na ciebie liczyć! Niestety musimy przedyskutować kolejną, jeszcze pilniejszą sprawę.”</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>„Zamieniam się w słuch.”</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>„Jak zapewne wiesz, Koalicja wyznaczyła nagrodę za Jacova Subrę, jednego z naszych arcykapłanów.”</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>„Brzmi znajomo, ale orientuję się w temacie.”</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>„To jeden z naszych arcykapłanów, choć lubi używać tytułu „główny organizator”. To on stoi za festiwalem Kościoła Mięczaka, wydarzeniem, które było doskonałym narzędziem do rekrutacji nowych członków. Obecnie ukrywa się przed władzami w pewnej opuszczonej placówce i mamy powody sądzić, że grupa chcąca zdobyć nagrodę odkryła jego miejsce pobytu. Możliwe, że temu agentowi, z którym się „spotkaliście”, udało się z kimś porozmawiać.”</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>„Jak możemy pomóc?”</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>„Musisz dotrzeć do niego przed łowcami nagród i przetransportować go w bezpieczne miejsce. Zaznaczę ci miejsce na mapie. Słowa nie wyrażą, jak bardzo to istotne, więc nie traćmy już czasu. Ruszaj, porozmawiamy dalej, jak będzie bezpieczny.”</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>„Nie dostaniesz mnie żywcem!”</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>„Spokojnie, bracie! Przysyła nas Kościół.”</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>„Ach! Słyszałem przez radio plotki o nagrodzie i byłem pewien, że ktoś inny mnie dorwie pierwszy.”</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>„Naprawdę? To raczej nie my.”</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>„No dobra. Lepiej trzymajmy broń w gotowości i wynośmy się stąd. Prowadź.”</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>Agent infiltrujący Kościół Skorupnika, którego masz zabić, jest gdzieś na terenie placówki.</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>To pewnie konfident. Myślisz, jak się nim zająć.</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>„Wsadziłeś nos w nie swoje sprawy, worze mięsa…”</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>Mężczyzna natychmiast wyciąga spluwę.</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>„Przepraszam, czy może mi pan pomóc? Mój przyjaciel jest ranny i potrzebuję pomocy, by przenieść go do ambulatorium. Proszę iść za mną!”</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>„Oczywiście! Prowadź!”</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>„Dobra, o co, do cholery, chodzi? Chcesz zmarnować mój czas? Muszę wracać do roboty.”</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>Zignoruj go i idź dalej.</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>„Witaj. Czekaliśmy na ciebie.”</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>„O co chodzi?”</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>„Odkąd nasze drogi się skrzyżowały, wyjątkowo wspieracie Kościół. Ale uratowanie życia arcykapłana to niezwykłe osiągnięcie, za które na zawsze pozostaniemy waszymi dłużnikami. Dlatego postanowiliśmy zorganizować dla was komunię. Jesteście gotowi. Proszę zbierz tutaj resztę swojej załogi i zaczniemy.”</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>„Czy to wszyscy? Możemy zacząć?”</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>„Do dzieła.”</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>Zgromadzenie zaczyna nucić melodię, a kaznodzieja podnosi ręce. „Bracia moi, zaprawdę kielichy nasze puste, spragnione wina, świeżego i nieskażonego”. Jeden z akolitów rozdaje zgromadzonym fiolki z jajami skorupnika.</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>Weź jaja.</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>„O duchu życia, pozwól nam napełnić nasz kielich twoim męstwem. Pozwól nam stać się jednością i przezwyciężyć wyrzutka świata. Pozwól nam przyjąć twój Dar i stać się najczystszą formą”. Kaznodzieja podnosi fiolkę, a reszta podąża za nim.</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>Podnieś fiolkę.</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>„Pozwól nam stać się zwiastunami fali i silnymi prądami pośród wód. Pokłońmy się przed potężnym skorupnikiem!”. Wszyscy połykają zawartość fiolek.</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>Połknij zawartość fiolki.</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>Czujesz, jak symbiont wije się i rośnie w tobie. Co to? Dlaczego to się dzieje tak szybko? Zanim zdążysz przetworzyć pytania, zdają się one rozpływać w nicości. Twój umysł czuje... Nie, „ciebie” już nie ma. Jesteśmy teraz jednym i nie musimy się już bać ani martwić.</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>„Możemy mówić?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>Kaznodzieja, teraz ze zwisającym z ust wijącym się pokładełkiem, odwraca się, by na ciebie spojrzeć. „Oczywiście. Nasze ciała i umysły w ten sposób mają dla nas większą wartość.” Kaznodzieja wskazuje na pozostałych, wciąż wijących się na ziemi. „W przeciwieństwie do tych słabeuszy. Ich skonsumujemy.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>„Co dalej?”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>„Tego musisz dowiedzieć się we własnym zakresie. Ale teraz idź, nadchodzą ludzie. Jeszcze się spotkamy.”</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>„Moment, potrzebujemy chwili.”</EventText.waytoascension5.c1.o2>
+<EventText.waytoascensionsubraescort.c1>„Uff, aż zrobiło mi się gorąco! Zakładam, że nie będziesz mieć nic przeciwko, jeśli tu zostanę, póki nie oddalimy się od tych łowców nagród?”</EventText.waytoascensionsubraescort.c1>
+<EventText.waytoascensionsubraescort.o1>„Ani trochę! Czuj się jak u siebie.”</EventText.waytoascensionsubraescort.o1>
+<EventText.waytoascensionsubraescort.c2>„Zdrówko! Zawinę się na następnym postoju.”</EventText.waytoascensionsubraescort.c2>
+<EventText.waytoascensionsubraescort.c3>„Jak ci idzie opróżnianie kielicha i tak dalej?”</EventText.waytoascensionsubraescort.c3>
+<EventText.waytoascensionsubraescort.c3.o1>„Nie mam pewności.”</EventText.waytoascensionsubraescort.c3.o1>
+<EventText.waytoascensionsubraescort.c4>„Tak między nami, moi towarzysze mówią, że zaczynają być cholernie pewni.”</EventText.waytoascensionsubraescort.c4>
+<EventText.waytoascensionsubraescort.c5>„Więc na twoim miejscu zacząłbym rozważać możliwość wykonania ostatniego kroku. Okazja może nadarzyć się szybciej niż myślisz.”</EventText.waytoascensionsubraescort.c5>
+<EventText.waytoascensionsubraescort.c5.o1>„Myślisz, że warto?”</EventText.waytoascensionsubraescort.c5.o1>
+<EventText.waytoascensionsubraescort.c6>„Cóż, jak widać, nadal jestem głupią małpą z mięsa i kości – co ma swoje zalety, gdy musisz zadawać się z innymi małpami. Więc to nie ja odpowiem na to pytanie, to ty musisz dokonać wyboru.”</EventText.waytoascensionsubraescort.c6>
+<EventText.pathofthebikehorn1.c1>Podchodzi do ciebie ktoś ubrany w osobliwy strój klauna i odciąga cię na bok. „Nie widziałem was tu wcześniej. Mogę spytać, co was tu sprowadza? Czy weseli z was ludzie, jeśli łapiecie, o co chodzi?”</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>„Po prostu tędy przepływamy. O co chodzi z tymi wesołymi ludźmi?”</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>„To ludzie, którzy podążają za dźwiękiem klaksonu: żartownisie, błazny i głupcy! Ja i moi nieuczniowie znaleźliśmy sobie tutaj miły i bezpieczny zakątek i mamy nadzieję, że uda nam się go utrzymać.”</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>„Nieuczniowie? Czyli jesteś jakimś przywódcą?”</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>„Nie, nie, żaden ze mnie przywódca! Jestem błaznem – niektórzy nazwą mnie nauczycielem, ale ja po prostu prowadzę ludzi do ścieżki klaksonu.”</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>„Czy możesz nas nauczyć ścieżki klaksonu?”</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>„Gdyby to ode mnie zależało, to wszystkich bezużytecznych „wesołych ludzi” wysłalibyśmy do obozu pracy, jeśli łapiesz, o co chodzi.”</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>„To czyni ze mnie smutnego klauna. Ale nie oceniam: nie tylko ciebie zaślepiają ich kłamstwa. Ale jeśli kiedykolwiek zmienisz zdanie i zechcesz otworzyć oczy, błazen pokaże ci ścieżkę!”</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>„Nie interesują mnie te bzdury. Żegnam.”</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>„Możesz mi opowiedzieć więcej o tej „ścieżce”, czymkolwiek ona jest?”</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>„Hmm, nie wierzę twoim intencjom po tej gadce o obozach pracy! Ale jeśli nałożysz bardziej odpowiedni strój, może uwierzę w twoją szczerość…”</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>„Dobra, zaraz wrócę.”</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>„Nie ma stroju klauna, nie ma rozmowy!”</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>„Nie musisz się nas obawiać. Niech Tańczący Klaun błogosławi wam i waszej placówce!”</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>„Chwała Tańczącemu Klaunowi! Obawiałem się, że jesteście ponurakami, którym nie spodoba się moje prowadzenie ludzi do ścieżki klaksonu.”</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>„Czy możesz nas nauczyć ścieżki klaksonu?”</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>„I to rozumiem! Nie lubię nazywać siebie nauczycielem, a powodem jest to, że nie mam czego cię uczyć – to zależy od ciebie. Ale to, co mogę, to wskazać właściwy kierunek, a być może pewnego dnia dojdziesz do prawdy na własną rękę. W tym celu chciałbym zlecić ci i twojej załodze małe zadanie, dzięki któremu poczynicie pierwszy krok ku objęciom Tańczącego Klauna.”</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>„Mów dalej.”</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>„Widzisz maskę, którą noszę? Niewiele jest takich na tym księżycu, ale jeśli włożysz w to swoje serce, jestem pewien, że w końcu znajdziesz taką podczas swoich podróży. Kiedy to zrobisz, przynieś ją do mnie lub jednego z innych błaznów, a zobaczymy, dokąd nas to zaprowadzi! Acha, i proszę weź to, trochę lekkiej lektury na drogę! Ti-ta!”</EventText.pathofthebikehorn1.o3.o1.o1.c1>
+<EventText.pathofthebikehorn2.c1>„Chwała Tańczącemu Klaunowi, to znowu ty! Jak sprawy?”</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>„Udało mi się zdobyć maskę.”</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>„Widzę! Gratulacje! Możesz ją zatrzymać – jak widzisz, ja mam już swoją. Albo ją wyrzuć jeśli wolisz. To tylko maska, i do tego moim zdaniem całkiem brzydka.”</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>„To po co się po nią fatygowaliśmy?”</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>„Zadanie samo w sobie było banalne niczym nudna misja w grze fabularnej dla dzieci, prawda? Ale czy szukanie maski sprawiło ci przyjemność? Jestem pewien, że po drodze wpadliście w różnego rodzaju kłopoty i że była to całkiem niezła przygoda, coś, co chociaż trochę było interesujące! Założę się, że nie zostałbyś marynarzem, gdyby tak nie było! Więc może powinienem zapytać cię, dlaczego twoim pragnieniem było ją zdobyć, lub dlaczego chcesz nadal pływać po Europie, wykonując wszelkiego rodzaju zlecenia.”</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>„Cóż, chyba podobały mi się te przygody, ale co to ma wspólnego ze ścieżką klaksonu?”</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>„Gry i zabawy, gry i zabawy! Nie bez powodu wybrałem misję w grze jako analogię. Jeśli to rozwinąć, to wszystkie związki społeczne są grami. A jeśli naprawdę sięgnąć do sedna sprawy, cały świat jest systemem gier: jest gra o ludziach, gra o pełzaczach, gra o zęzowaniu luków, sztauowaniu ruf i tych wszystkich rzeczach, które robi się na okręcie podwodnym…”</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>„Acha…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>„Ale uważaj na słowo „gra”! Nie oznacza ono, że to wszystko jest pozbawione sensu! To tak, jakbyśmy grali piosenkę: nie jest takie poważne, ale jednocześnie może być bardzo szczere. Może przybierać najróżniejsze piękne formy w całej ich złożoności, bez żadnego powodu poza tym, że po prostu je robimy. Jak to!” Błazen trąbi swoim klaksonem prosto w twoją twarz.</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>„Chyba łapię, co masz na myśli. Dobra, co dalej?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>„Ooo, teraz to będzie! Najpierw musisz zdobyć młotek-zabawkę. Wiesz, taki plastikowy, który piszczy jak się komuś nim przywali.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>„A potem…?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>„Potem czeka was zabawa: chcę, żebyście zanurkowali w otchłani i znaleźli jednego z dryblasów, którzy tam mieszkają. Czepiak wystarczy, ale jeśli znajdziesz sobie charybdę lub końcowija, to będzie to co najmniej trzy razy więcej zabawy. Potem walnij go młotkiem i to porządnie!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>„To nie brzmi rozsądnie, ale wierzę, że jest w tym ukryty jakiś cel.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>„I to rozumiem! Nie ma w tym ani krzty rozsądku, ale czasem lepiej jest zignorować tę zdroworozsądkową część twojej mózgownicy i po prostu cieszyć się jazdą na rollercoasterze, który Największy Błazen przygotował dla ciebie. Tak czy inaczej, daj mi lub jednemu z moich kolegów znać, gdy tego dokonasz. I weź to ze sobą, żeby mieć co czytać! Powodzenia! Życzę ci ekscytującej i miejmy nadzieję niezbyt śmiertelnej przejażdżki!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>„Co do diabła? Chcesz mnie zabić?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>„Zakładam, że nie dostrzegasz jeszcze ani głupoty, ani głębi tego pytania, i właśnie dlatego musisz to zrobić, jeśli chcesz dalej podążać tą ścieżką. Nie mogę powiedzieć ci nic więcej w tym momencie, ale daj mi lub jednemu z moich kolegów znać, kiedy tego dokonasz! I weź to ze sobą, żeby mieć co czytać! Powodzenia i pamiętaj, żeby dobrze się bawić!”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>„Głowa mi pęka od tego pseudofilozoficznego bełkotu. Nie możesz mi po prostu powiedzieć, o co chodzi z tym Tańczącym Klaunem?”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>„Widzę, że potrafisz nie brać pewnych rzeczy na poważnie! Gdyby tylko tę energię udało ci się przekierować na coś bardziej owocnego… I owszem, mogę ci powiedzieć, że Tańczący Klaun to trzy funty tarty z kremem, ale to dla ciebie nic nie znaczy, prawda? Tak myślałem. Zatem potrzebujesz więcej treningu – spróbujmy innego zadania!</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>„Pewnie.”</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>„Czy to nie jest przypadkiem niewidzialna maska? Bo chcę ją wreszcie zobaczyć.”</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>„Wciąż nie mam Oblicza Klauna. Jakieś rady?”</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>„Maski te wyszły z mody już dawno temu, ale może poszczęści ci się, jeśli znajdziesz wystarczająco stary wrak. Oczywiście jest to tradycyjny ubiór błaznów, więc przy odrobinie nieszablonowego myślenia możesz znaleźć inną drogę. Mrug mrug!”</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>„Czy ty właśnie powiedziałeś „mrug mrug”?”</EventText.pathofthebikehorn2.o2.o1>
+<EventText.toyhammeronabyssmonster.c1>Zabawkowy młotek uderza w bestię z otchłani, ale nic się nie dzieje. Zastanawiasz się, jaki był sens tego wszystkiego, dopóki nie zdajesz sobie sprawy, że może lepiej na razie porzucić te myśli i skupić się na wydostaniu się stąd żywym.</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>„Hej, chcę spytać cię, co o tym sądzisz. Gdyby, hipotetycznie, ktoś budował klauni egzokombinezon, czy zbyt oczywistym byłoby nazwanie go „TI-TA Mechem”?”</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>„Ee, czemu pytasz?”</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>„Właściwie to zapomnij, to nic ważnego! Lepiej przejdźmy do interesów: podobno byliście na jakiejś misji. Jak poszło spotkanie z potworem z otchłani?”</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>„A jak myślisz, że poszło? Ledwie udało mi się ujść z życiem.”</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>„Byłem pewien, że tak będzie, ale rozumiem, że ty nie? Wygląda na to, że masz jeszcze trochę do zrobienia, zanim naprawdę posmakujesz tarty z kremem. Zastanów się nad tym. Jakie były twoje obawy i czego nadal się obawiasz? Gdyby połknął cię ten stwór z otchłani, czy naprawdę uważasz, że twój klakson umilkłby na dobre, że to byłby koniec twojej historii? Kim jest ten „ty”, którego boisz się stracić?”</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>„Gdyby nie udało mi się uciec przed jego paszczą, to stanowczo byłby mój koniec.”</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>„Doprawdy? To tylko kwestia perspektywy – jeśli upierasz się, że ta rola, którą teraz odgrywasz, te oczy, przez które wszechświat, czy jakkolwiek chcesz to nazwać, patrzy na siebie, jest całym zakresem historii, to z pewnością byłoby to makabrycznie zabawne zakończenie „twojej” historii.”</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>„Chyba nie rozumiem, o co ci chodzi.”</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>„Nie mam pojęcia, o czym mówisz.”</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>„To było przezabawne, ale potwór chyba nie zrozumiał żartu.”</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>„Ha, ha! Dźwięk twojego klaksonu z każdym dniem jest coraz żywszy. Ale powiedz, czy to bliskie spotkanie ze śmiercią, albo nawet krótkie zanurzenie się w niej, poruszyło coś w twojej mózgownicy?”</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>„Chyba nie rozumiem, o co ci chodzi.”</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>„Wchodzimy na terytorium, gdzie słowa zawodzą, ale spróbuję. Kiedy jesteśmy w namiocie cyrkowym i oglądamy przedstawienie, nie myślimy ani nie mówimy o świecie na zewnątrz – po prostu skupiamy się na spektaklu. I tak jest dobrze! Po prostu ciesz się spektaklem, nie rozpraszając się tym, że pod koniec wieczoru wyjdziesz z namiotu.”</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>„Czy to alegoria życia po śmierci?”</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>„Nie bardziej niż alegoria życia przed śmiercią, cokolwiek by to miało znaczyć. Ujmę to tak: pomyśl, jak wyglądała twoja pierwotna twarz przed twoimi narodzinami. Albo przed nałożeniem tej maski. A czy po wyjściu z namiotu masz całkowitą pewność, że nie wrócisz do niego któregoś dnia? Przecież zdarzyło ci się wejść do namiotu raz, a może nawet kilka razy, więc skąd wiadomo, że to się już nigdy nie powtórzy?”</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>„Mówisz teraz o jakiejś reinkarnacji?”</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>„Jak już mówiłem, w tym temacie słowa zawodzą. Nie potrafię tego bardziej sprecyzować, ale wniosek jest taki, że śmierć to błazenada. Kim jest to „ja”, które boisz się stracić i czy naprawdę możesz je stracić? To może być dla ciebie miła praca domowa, nad którą możesz się zastanawiać aż do naszego ponownego spotkania! Ti-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>„Wiem, o czym mówisz, ale na razie nie zdejmujmy masek i trzymajmy się ról!”</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>„Na Tańczącego Klauna! Chyba udało ci się już z raz albo dwa wyjrzeć poza namiot. A może raczej właśnie do niego zaglądasz? W każdym razie jestem pod wrażeniem twoich postępów. Chyba potrzebuję trochę czasu, żeby pomyśleć nad naszym kolejnym krokiem, więc na razie to by było na tyle. Do następnego!”</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>„Wiem, o czym mówisz. Po śmierci nic nie ma, ale nie jest to bardziej straszne niż nicość przed moimi narodzinami.”</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>„Można i tak na to patrzeć, ale obawiam się, że właśnie stoisz na wielkiej skórce od banana! W ogóle nie rozumiesz tego, co próbuję przekazać. Pozwól, że ujmę to w ten sposób: pomyśl, jak wyglądała twoja pierwotna twarz przed twoimi narodzinami. Albo przed nałożeniem tej maski. To będzie dla ciebie miła praca domowa, nad którą możesz się zastanawiać aż do naszego ponownego spotkania! Ti-ta!”</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>
+<EventText.pathofthebikehorn4.c1>„Cieszę się, że znów na ciebie wpadam, i to w idealnym momencie! Szukamy wolontariusza na pewnego rodzaju misję.”</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>„Brzmi ciekawie.”</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>„Twoje spotkanie z tą bestią z otchłani udowodniło, że jesteś kimś, kto ma wystarczająco dużo odwagi, a może zdrowej dozy beztroski, aby sobie z tym poradzić. Pamiętasz ten klauni egzokombinezon, o którym wspominałem?”</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>„Tak, a co?”</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>„Zaraz do tego dojdziemy! Tak się składa, że w pobliżu znajduje się placówka, która była swego rodzaju bezpieczną przystanią dla tych, którzy podążali za dźwiękiem klaksonu. Niezależna placówka, gdzie mogliśmy wieść tak zwane ciche i spokojne życie. Od dłuższego czasu tak nie jest, podobnie jak nigdzie indziej na Europie, o czym na pewno wiesz. Nie ma tygodnia, żeby nie było wiadomości o pobiciu błazna, znalezieniu trefnisia martwego w balaście czy czymś takim.”</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>„Wiem. Co zamierzasz z tym zrobić?”</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>„Znowu zrobimy sobie bezpieczną przystań! Teraz jesteśmy w patowej sytuacji – placówka najwyraźniej na dobre stała się własnością poważnych ludzi, a nasza wesoła ekipa nie jest w stanie nic z tym zrobić mimo naszych usilnych starań. Jakby istniała jakaś zasada, że jak raz zdobędziesz placówkę, to jest twoja na zawsze. Będziemy więc musieli trochę nagiąć zasady gry! I tu właśnie pojawia się egzokombinezon.”</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>„Naprawdę go zbudowaliście?”</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>„Tak! Nie chcemy grać tak nieczysto jak oni, ale wierzę, że możemy to zrobić bez uciekania się do przemocy. Zamierzamy zafundować tej placówce bombastyczną zabawę w akompaniamencie nuklearnych dźwięków klaksonów i z salwami skórek od bananów, zamieniając to miejsce w tor przeszkód, dniami i nocami, aż nie będą mieli innego wyboru, jak tylko poddać się i znaleźć sobie bardziej „poważne” miejsce pobytu.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>„Myślisz, że nie użyją przeciwko nam siły?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>„Oczywiście mogą spróbować. Ale Zabawiacz 3000 też strzeli raz czy dwa. Albo dwanaście. Mam nadzieję! Co prowadzi do następnego punktu: uważam, że z takim doświadczeniem bojowym, jakie ty i twoja załoga posiadacie, nie wspominając o wyraźnym lekceważeniu własnego bezpieczeństwa, myślę, że najlepiej nadajecie się do tego zadania. Dlatego będziemy dozgonnie wdzięczni, jeśli to ty założysz kombinezon i pomożesz nam odzyskać kontrolę nad tą placówką.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>„Chętnie ci pomożemy”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>„Och, cudownie! Wiedziałem, że się nie oprzesz. Niezależnie od tego jak ci pójdzie, czeka cię dużo zabawy. Proszę, oto kombinezon. Zaznaczyłem ci położenie placówki na mapie.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>„Musimy przemyśleć sprawę.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>„I co myślicie o naszej propozycji? Założysz Zabawiacz 300 i pomożesz nam odzyskać kontrolę nad placówką?”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>„Chętnie ci pomożemy”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>„Musimy przemyśleć sprawę.”</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>„Nie mamy teraz na to czasu.”</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>Przybywasz do placówki, o której opowiedział ci błazen. Załóż Zabawiacz 3000 i zafunduj poważnym mieszkańcom tak bombastyczną zabawę, żeby zrozumieli, że lepiej zostawić to miejsce Dzieciom Tańczącego Klauna!</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>Ludzie wydają się lekko zirytowani Zabawiaczem. Może ci się uda!</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>Gdzieś w placówce rozlegają się odległe dźwięki klaksonów, a po nich radosny okrzyk: „Cześć i chwała Tańczącemu Klaunowi!”.</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>Jeden z mieszkańców placówki wydziera się na ciebie: „Zabieraj to ustrojstwo albo zawołam ochronę!”.</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>Z systemu głośników rozlega się obwieszczenie: „Do pracowników ochrony: wyłączcie tę cholerną, klaunią maszynę za wszelką cenę. Użycie śmiercionośnych środków siły jest dozwolone… nie, zalecane.”</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>Rozlega się kolejne obwieszczenie: „Dobra, poddajemy się. To nie jest tego warte. Weźcie sobie tę placówkę, tylko wyłączcie proszę tę przeklętą maszynę.”</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>„O, o, to ty! Udało ci się! Szczerze mówiąc, to był tak niedorzeczny plan, że jestem lekko zaskoczony, jak dobrze wam poszło! Nie wiem, jak ci dziękować, więc przynajmniej zatrzymaj kombinezon. Może znajdziesz dla niego zastosowanie podczas swoich podróży.”</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>„Dzięki!”</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>„Muszę przyznać, że jestem pod wrażeniem, jak daleko udało ci się zajść na ścieżce klaksonu w tak krótkim czasie. Dla wielu ta ścieżka jest znacznie dłuższa, a niektórzy w ogóle jej nie znajdują.”</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>„To co teraz?”</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>„Z radością i smutkiem stwierdzam, że dalej nie mogę cię już zaprowadzić; resztę drogi musisz przejść samodzielnie. Ale widzę też, że znasz już kierunek.”</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>„To tyle? Nie powiesz mi, czym jest Tańczący Klaun?”</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>„Och, głuptasie. Co takiego chcesz usłyszeć? Że jest Zabawą płynącą w naszych żyłach czy przyjaciółmi, których poznaliśmy po drodze? Może trzema kilogramami tarty z kremem? A może jest małpą-bogiem jadącą na wielkim żółwiu, ramą podtrzymującą ten świat wokół nas? To wszystko zabawne słowa, ale tak jak poprzednio, jest to temat, w którym słowa zawodzą.”</EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>„…”</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>„Próba wytłumaczenia tego słowami to jak tłumaczenie dowcipu, który straciłby przez to całą śmieszność. Taki jest też Wielki Dowcip Wszechświata, wymyka się definicjom, i nie wolno mylić świata rzeczy, jakie nazywamy, ze światem takim, jaki jest w rzeczywistości.”</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>Błazen patrzy na ciebie z zaciekawieniem.</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>„Naprawdę nie masz nic więcej do powiedzenia?”</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>„Mam przeczucie, dokąd ostatecznie zaprowadzi cię twoja ścieżka. Gdy tam dotrzesz, zrozumiesz zasady gry w życie jeszcze wyraźniej niż teraz. Kiedy wszystko zostanie odsłonięte, niektórzy mogą zdecydować się na zaprzestanie zabawy, być może wybierając ascetyczne życie lub całkowicie wychodząc z namiotu. I to jest w porządku! W pewnym momencie musisz pozwolić, aby napisy się skończyły. Inni, jak ja i moi koledzy błazny, wybierają, by nadal odgrywać swoją rolę, by podtrzymywać zabawę i pomagać innym zrozumieć naturę tej gry. To też jest dobry wybór! Niezależnie od tego, którą ścieżkę wybierzesz, życzę ci dużo szczęścia i zabawy w podróży. Cześć i chwała Tańczącemu Klaunowi!”</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>„Cześć i chwała Tańczącemu Klaunowi!”</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>Zarządca placówki wyciąga z kieszeni na piersi jakiś dokument i patrzy na ciebie z zamyślonym wyrazem twarzy. „Hmm… Tę misję zleciła sama Victoria Petran i jest to na tyle delikatna sprawa, że przypuszczam, iz udało ci się już udowodnić, że jesteś kimś, komu możemy zaufać.”</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>„Kto to jest?”</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>„Co? Pracujesz z nami tak długo i pierwszy raz o niej słyszysz? To pierwsza porucznik Jowiszańskich Separatystów. Właściwie nasza przywódczyni, jeśli tak luźna grupa jak nasza może mieć kogoś takiego.”</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>„Ach, rozumiem. To co z tą misją?”</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>„Jesteśmy zainteresowani. Proszę kontynuuj.”</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>„Wiesz, o co chodzi z incydentem w Tormsdale, prawda?”</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>„Coś kojarzę, ale proszę rozwiń.”</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>„Dobra, chyba zacznę od początku. W czasach, gdy Koalicja zaczynała zdobywać pozycję na Europie, Tormsdale było zdecydowanie największą niezależną kolonią, a Jowiszański Ruch Ludowy miał tam oczywiście silne poparcie. Przypuszczam, że w pewnym sensie była to siedziba niezależnych kolonii i Ruchu. W tym czasie Europa była jeszcze w pewnym stopniu demokratyczna, a poza tym zbliżały się wybory powszechne.”</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>„Mhmm.”</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>„Na kilka tygodni przed wyborami doszło do katastrofy nuklearnej w Tormsdale. Zginęło ponad sto osób. I dogodnie dla Koalicji, prawie wszyscy z nich byli zwolennikami Jowiszańskiego Ruchu Ludowego. To wystarczyło, aby przechylić szalę na ich korzyść i pozwolić im stać się de jure rządem Europy.”</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>„Brzmi to zbyt wygodnie, by było przypadkiem.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>„W rzeczy samej. Oficjalnie to był wypadek, ale trudno mi w to uwierzyć. Ruch uznano za organizację terrorystyczną, naszego założyciela Harlowa Petrana zamordowano, a większość niezależnych placówek została przejęta…”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>„Jasne. Co to ma wspólnego z misją?”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>„Mamy powody przypuszczać, że Koalicja nadal posiada tajne raporty na temat tego, co naprawdę wydarzyło się w Tormsdale. Nasi informatorzy mają mocne dowody na to, że kopie tych raportów są przechowywane w pobliskiej placówce. Gdybyśmy je dostali, może udałoby nam się w końcu udowodnić, że to nie jest tylko teoria spiskowa i sprawić, że inni zrozumieliby, jak nieczystą grę Koalicja prowadzi od początku swojego istnienia.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>„Chętnie pomożemy.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>„Świetnie. Zaznaczę placówkę na twojej mapie. Według naszych informacji, dokumenty są przechowywane w zabezpieczonej szafce w biurze zarządcy placówki. Wydobycie ich może być trudne – może spróbuj przymusić do tego zarządcę lub ukradnij jego identyfikator. Tak czy inaczej, staraj się działać dyskretnie.”</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>To pewnie zarządca placówki. Musisz znaleźć sposób, by zdobyć jego identyfikator i dostać się do zabezpieczonej szafki.</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>„Dzień dobry. Przeprowadzamy zleconą przez Koalicję kontrolę bezpieczeństwa i musimy sprawdzić zabezpieczoną szafkę w pańskim biurze. Czy mógłby pan ją otworzyć?”</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>„Eee, co? Masz mnie za idiotę? Spieprzaj z mojego biura zanim zawołam ochronę.”</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>„Rewolucja jest blisko. Daj nam swój identyfikator albo już po tobie.”</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>Mężczyzna natychmiast wyciąga spluwę.</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>„Przepraszam pana! Kilka pokładów niżej toczy się jakaś dysputa i poproszono mnie, żebym pana przyprowadził.”</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>„Rozumiem. Prowadź!”</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>„Nie wiem, w co ty ze mną próbujesz pogrywać, ale muszę wracać do pracy. Żegnam.”</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>Zignoruj go i idź dalej.</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>„Witam! Podobno zlecono ci znalezienie dla nas pewnych ważnych dokumentów. Jaki jest status?”</EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>„Mam dokumenty.”</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>Zarządca placówki bierze papiery i przegląda je, szeroko otwierając oczy. „Och, och! Ale sensacja! Jeśli są autentyczne, nie ma wątpliwości, że Koalicja zamordowała wszystkich w Tormsdale. To będzie dla nich ogromny cios, gdy sprawy wyjdą na jaw. Nie wiem, jak ci dziękować. Przekażę wieści porucznik Petran i dopilnuję, żeby wiedziała, że to twoja załoga tego dokonała. Oczywiście zapłacę ci za to.”</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>„No to przynieś je! Nie mogę się doczekać, aż na nie spojrzę.”</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>„Nie mam dokumentów przy sobie.”</EventText.tormsdalereport_complete.o2>
+<afflictionname.husksymbiosis>Symbioza ze skorupnikiem</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>To nie wygląda na zwykłą infekcję skorupnikiem: jakimś cudem pacjent wciąż może mówić i chyba zachował zdolności umysłowe.</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>Szlak jest zamknięty. Potrzebujesz reputacji na poziomie [requiredreputation] u Jowiszańskich Separatystów i pozwolenia od oficera z placówki, aby przedostać się dalej. Możesz sprawdzić swoją reputację w zakładce informacji.\n\nObecna reputacja: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>„Jak zapewne wiesz, ta placówka jest ostatnim przystankiem przed Grzbietem Europy. Nie przepuszczamy każdego marynarza, ale jeśli plotki o waszej załodze są prawdziwe, byliście cennym sojusznikiem w naszej walce z Koalicją, więc możecie przepłynąć.”</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>„Chcesz przedostać się przez placówkę do głębszych rejonów? Przykro mi, ale lepiej znajdź inną drogę. Nie mam pojęcia, kim jesteś ani dla kogo pracujesz, a z tego, co mi wiadomo, możesz być kolejnym pionkiem Koalicji zmierzającym do Grzbietu Europy, by nękać naszych ludzi. Oczywiście, jeśli masz jakieś kredyty, być może przekonasz mnie o swoich dobrych intencjach…”</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>„W sumie to wyglądasz w porządku. Chyba jednak pozwolę ci przepłynąć. Interesy z tobą to czysta przyjemność.”</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>„Jak chcesz. Może lepiej, jeśli jeszcze przez jakiś czas potaplasz się w brodziku, aż zrozumiesz, po czyjej stronie warto być.”</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>„Za mało kaski? No cóż, pech. Może lepiej jeszcze przez jakiś czas potaplaj się w brodziku i udowodnij, że nie wspierasz wroga.”</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>„Ponoć wspieraliście naszą walkę z Koalicją tutaj na Grzbiecie. W nagrodę postanowiliśmy przyznać wam dostęp do Bezświetlnej Wyżyny. Bon voyage!”</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>„Gratuluję. Niewielu udaje się przedostać przez Wyżynę, a już tym bardziej komuś tak przydatnemu. Dam znać przez radio, żeby pozwolono wam przepłynąć do Morza Wielkiego”.</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>„Z pewnością. To nie oficjalna gwarancja Jowiszańskich Separatystów ani aprobata. Dam znać strażnikom, że wiecie, jak o siebie zadbać.”</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>„Więc chcesz wpłynąć na Hydrotermalne Rubieże? A co, na Europę, cię do tego podkusiło? No ale to chyba nie moja sprawa. Przyjaciel Separatystów jest moim przyjacielem. Droga wolna.”</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>Weź pieniądze i obiecaj, że nic nikomu nie powiesz.</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>„Nie chcę twoich brudnych pieniędzy. Żegnam.”</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>„Och, dzięki niebiosom. Myśleliśmy, że nigdy już stąd nie wyjdziemy!”</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>Zarządca placówki zdaje się odrobinę wahać. „Ta misja może być dość wymagająca, ale sądząc po waszej reputacji raczej dacie radę.”</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>„Kilku naszych agentów zostało niedawno schwytanych przez Koalicję i według naszych informatorów, są oni obecnie przetrzymywani w pobliskiej placówce. Jeśli uda ci się ich stamtąd bezpiecznie wydostać, na pewno ci się to opłaci. Zaznaczę to miejsce na twojej mapie.”</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>Zarządca placówki zdaje się odrobinę wahać. „Ta misja może być dość wymagająca, ale sądząc po waszej reputacji raczej dacie radę.”</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>„Kilku naszych agentów zostało niedawno schwytanych przez Separatystów i według naszych informatorów, są oni obecnie przetrzymywani w pobliskiej placówce. Jeśli uda ci się ich stamtąd bezpiecznie wydostać, na pewno ci się to opłaci. Zaznaczę to miejsce na twojej mapie.”</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>Z systemu głośników rozlega się obwieszczenie: „Do pracowników ochrony: kod czerwony. Mamy kilku więźniów na wolności.”</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>„Hej. Zgaduję, że przysłała was porucznik Petran?”</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>„Tak, wyznaczono nas, aby cię stąd wydostać.”</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>„Ta, domyśliłem się. Dzięki. Pewnie macie gotowy okręt?”</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>„Tak, za mną!”</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>„Właściwie to mam jeszcze kilka rzeczy do załatwienia. Spotkajmy się na pokładzie tego twojego okrętu za pięć minut”. Mężczyzna znika, zanim zdążysz cokolwiek powiedzieć.</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>Zarządca placówki wyciąga z kieszeni na piersi jakiś dokument. „To jedna z tych wybitnie delikatnych misji, jeśli wiesz, co mam na myśli. Zlecenie od porucznik Petran. W zasadzie miała nadzieję, że właśnie wy się tym zajmiecie.”</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>„Koalicji udało się ostatnio schwytać jednego z naszych agentów. Bardzo ważnego, choć na szczęście wygląda na to, że nie znają jego tożsamości – w przeciwnym razie z pewnością zostałby już stracony.”</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>„Kto to?”</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>„Może lepiej, żebyśmy go nie nazywali po imieniu, ale powiedzmy, że to ktoś, kto zostawił za sobą całkiem niezły ślad w postaci tlących się placówek i okrętów Koalicji. W każdym razie obecnie przetrzymują go w pobliskiej placówce. Wydostań go bezpiecznie, a czeka cię hojna nagroda.”</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
+
+</infotexts>

@@ -1,0 +1,1600 @@
+﻿[11/01/2024 15:07:08]
+  Starting the server...
+[11/01/2024 15:07:08]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/01/2024 15:07:09]
+  Server started
+[11/01/2024 15:09:18]
+  Cryonite has joined the server.
+[11/01/2024 15:09:18]
+  Saving client permissions
+[11/01/2024 15:10:36]
+  Cryonite is causing the server to slow down.
+[11/01/2024 15:11:32]
+  LaywithMind has joined the server.
+[11/01/2024 15:11:32]
+  Saving client permissions
+[11/01/2024 15:12:35]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:12:35]
+  Cryonite changed SelectedLevelDifficulty to 19.999998
+[11/01/2024 15:12:36]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:12:36]
+  Cryonite changed BotCount to 1
+[11/01/2024 15:12:37]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:12:37]
+  Cryonite changed BotCount to 2
+[11/01/2024 15:12:37]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:12:37]
+  Cryonite changed BotCount to 3
+[11/01/2024 15:12:42]
+  Client "Cryonite" started the round.
+[11/01/2024 15:12:42]
+  Starting a new round...
+[11/01/2024 15:12:49]
+  Mission: Handle with extreme care
+[11/01/2024 15:12:49]
+  Local researchers are offering 800 marks for delivering very volatile nitroglycerin to Yasa Outpost. Magnetic suspension crates need to be powered at all times, to keep the contents stable.
+[11/01/2024 15:12:49]
+  Game mode: Mission
+[11/01/2024 15:12:49]
+  Submarine: HiveSub
+[11/01/2024 15:12:49]
+  Level seed: AKo0tqgQ
+[11/01/2024 15:12:49]
+  Mission: Handle with extreme care
+[11/01/2024 15:12:50]
+  Shayla Poole equipped Revolver
+[11/01/2024 15:12:50]
+  Raymon Simpson equipped Screwdriver
+[11/01/2024 15:12:50]
+  Maryann Hurley equipped Welding Tool
+[11/01/2024 15:12:51]
+  Round started.
+[11/01/2024 15:12:52]
+  Fractalguardian2 equipped Guardian Steam Cannon
+[11/01/2024 15:12:52]
+  Fractalguardian equipped Guardian Hook Cannon
+[11/01/2024 15:12:57]
+  Erica Sykes: I miss the sun.
+[11/01/2024 15:12:58]
+  Priscilla Nicolosi: I've heard sunlight gives you cancer. We're better off without it.
+[11/01/2024 15:13:03]
+  Erica Sykes: Jupiter gives you cancer too. I'd take the sun over Jupiter any day.
+[11/01/2024 15:13:05]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/01/2024 15:13:07]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/01/2024 15:13:51]
+  Cryonite: Hobert Dyer, power up the reactor!
+[11/01/2024 15:13:52]
+  Hobert Dyer: Aye aye!
+[11/01/2024 15:13:58]
+  Cryonite: Hobert Dyer, repair damaged systems!
+[11/01/2024 15:13:59]
+  Hobert Dyer: Copy that.
+[11/01/2024 15:14:05]
+  Cryonite: Priscilla Nicolosi, give medical aid to anyone in need!
+[11/01/2024 15:14:06]
+  Priscilla Nicolosi: Aye aye!
+[11/01/2024 15:14:09]
+  Cryonite: Priscilla Nicolosi, start fixing leaks!
+[11/01/2024 15:14:10]
+  Priscilla Nicolosi: Aye!
+[11/01/2024 15:14:17]
+  Cryonite: Priscilla Nicolosi, make sure the submarine weapons don't run out of ammo!
+[11/01/2024 15:14:18]
+  Priscilla Nicolosi: Got it!
+[11/01/2024 15:14:22]
+  Cryonite: Erica Sykes, take care of any leaks!
+[11/01/2024 15:14:23]
+  Erica Sykes: Aye aye!
+[11/01/2024 15:14:26]
+  Cryonite: Erica Sykes, make sure the submarine weapons don't run out of ammo!
+[11/01/2024 15:14:27]
+  Erica Sykes: Got it!
+[11/01/2024 15:14:36]
+  Cryonite: Erica Sykes, take care of broken devices!
+[11/01/2024 15:14:37]
+  Erica Sykes: Aye!
+[11/01/2024 15:14:37]
+  Cryonite: Erica Sykes, start fixing leaks!
+[11/01/2024 15:14:38]
+  Erica Sykes: Copy that.
+[11/01/2024 15:14:39]
+  Cryonite: Priscilla Nicolosi, take care of any leaks!
+[11/01/2024 15:14:40]
+  Priscilla Nicolosi: Copy that.
+[11/01/2024 15:14:41]
+  Cryonite: Priscilla Nicolosi, rescue anyone in distress!
+[11/01/2024 15:14:42]
+  Priscilla Nicolosi: Yes, sir!
+[11/01/2024 15:15:59]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:15:59]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:15:59]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:16:02]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:16:02]
+  Priscilla Nicolosi: I need diving gear!
+[11/01/2024 15:16:03]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:16:04]
+  Erica Sykes: I need diving gear!
+[11/01/2024 15:16:05]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:16:07]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:16:07]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:16:16]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:16]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:16]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:16]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:16]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:16]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:17]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:17]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:18]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:18]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:18]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:19]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:20]
+  Hammerheadgold attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:20]
+  Hammerheadgold attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:20]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:21]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:21]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:29]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:29]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:29]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:29]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:30]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:30]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:30]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:30]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:31]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:31]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:31]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:32]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:32]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:32]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:32]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:33]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:39]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:39]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:40]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:40]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:40]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:40]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:40]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:41]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:41]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:41]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:41]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:42]
+  Hammerheadgold attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:42]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:42]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:42]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:42]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:43]
+  Outer wall breached by Hammerhead
+[11/01/2024 15:16:43]
+  Outer wall breached by Hammerhead
+[11/01/2024 15:16:43]
+  Outer wall breached by Hammerhead
+[11/01/2024 15:16:43]
+  Outer wall breached by Hammerhead
+[11/01/2024 15:16:43]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:43]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:44]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:45]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:45]
+  Priscilla Nicolosi: LaywithMind's injuries are so minor I don't think I should waste any meds on them.
+[11/01/2024 15:16:45]
+  Priscilla Nicolosi: Erica Sykes's injuries are so minor I don't think I should waste any meds on them.
+[11/01/2024 15:16:45]
+  Priscilla Nicolosi: Hobert Dyer is mildly injured, but I think they'll manage without my help.
+[11/01/2024 15:16:45]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:45]
+  Hammerheadgold attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:45]
+  Hammerheadgold attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:46]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:46]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:46]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:46]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:46]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:47]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:47]
+  Hammerhead attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:47]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:47]
+  Priscilla Nicolosi: I need diving gear!
+[11/01/2024 15:16:48]
+  Erica Sykes: I need diving gear!
+[11/01/2024 15:16:48]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:49]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:50]
+  Hobert Dyer: Dangerous pressure in Reactor Engine!
+[11/01/2024 15:16:52]
+  Hobert Dyer: I need diving gear!
+[11/01/2024 15:16:54]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:54]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:16:54]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:16:54]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:55]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:55]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:55]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:55]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:56]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:56]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:56]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:56]
+  Hammerhead attacked by Cryonite. Lacerations: 8.3
+[11/01/2024 15:16:56]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:57]
+  Hammerhead attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:57]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:57]
+  Hammerhead attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:57]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:57]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:57]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:57]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:58]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:58]
+  Hammerhead attacked by Cryonite. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:16:58]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:58]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:58]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:58]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:16:58]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:58]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:59]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:59]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:16:59]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:16:59]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:00]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:00]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:00]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:00]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:00]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:01]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:01]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:01]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:01]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:01]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:02]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:02]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:02]
+  Priscilla Nicolosi: Dangerous pressure in Electrical!
+[11/01/2024 15:17:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:02]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:02]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:02]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:03]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:03]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:03]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:17:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:03]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:17:03]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:03]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:04]
+  Hobert Dyer started repairing Nuclear Reactor
+[11/01/2024 15:17:04]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:04]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:04]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:04]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:04]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:05]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:05]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:05]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:05]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:05]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:17:05]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:06]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:06]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:06]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:06]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:07]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:07]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:17:07]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:07]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:17:07]
+  Hammerhead has died (Cause of death: Lacerations)
+[11/01/2024 15:17:07]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:07]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:17:07]
+  Hammerhead attacked by Cryonite. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:07]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:08]
+  Hammerhead attacked by Cryonite. Lacerations: 2.9 Bleeding: 0.2
+[11/01/2024 15:17:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:08]
+  Cryonite launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:09]
+  Hobert Dyer started repairing Engine
+[11/01/2024 15:17:10]
+  Hobert Dyer failed to repair Engine
+[11/01/2024 15:17:13]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:17:13]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:17:13]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:17:14]
+  Hobert Dyer failed to repair Engine
+[11/01/2024 15:17:23]
+  Hobert Dyer failed to repair Engine
+[11/01/2024 15:17:25]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:17:26]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:17:27]
+  Hobert Dyer failed to repair Engine
+[11/01/2024 15:17:30]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:17:30]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:17:31]
+  Hobert Dyer: Cannot repair Engine!
+[11/01/2024 15:17:33]
+  Cryonite picked up Welding Tool
+[11/01/2024 15:17:34]
+  Cryonite equipped Welding Tool
+[11/01/2024 15:17:35]
+  Hobert Dyer failed to repair Engine
+[11/01/2024 15:17:35]
+  Outer wall breached by Hammerheadgold
+[11/01/2024 15:17:39]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:17:39]
+  Hobert Dyer started repairing Engine
+[11/01/2024 15:17:39]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:17:40]
+  Erica Sykes: No more leaks in Bottom Airlock!
+[11/01/2024 15:17:40]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:17:40]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:17:41]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:17:42]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:17:47]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:17:47]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:17:47]
+  Hobert Dyer: Need to find a diving suit!
+[11/01/2024 15:17:49]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:17:51]
+  Priscilla Nicolosi: Cryonite's injuries are so minor I don't think I should waste any meds on them.
+[11/01/2024 15:17:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:54]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:17:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:55]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 8.3
+[11/01/2024 15:17:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:55]
+  Hammerheadgold has died (Cause of death: Lacerations)
+[11/01/2024 15:17:55]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:17:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:55]
+  Hammerheadgold attacked by LaywithMind. Lacerations: 11.3 Bleeding: 0.8
+[11/01/2024 15:17:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:17:58]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:17:58]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:17:59]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:17:59]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:18:01]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:18:01]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:18:01]
+  Priscilla Nicolosi: Repairing Ballast. A few more holes to go!
+[11/01/2024 15:18:01]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:18:11]
+  Hobert Dyer: Pressure level dangerously high in Reactor Engine!
+[11/01/2024 15:18:16]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:18:16]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:18:18]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:18:18]
+  Hobert Dyer: I need diving gear!
+[11/01/2024 15:18:21]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:18:21]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:18:28]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:18:29]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:18:29]
+  Erica Sykes: All leaks repaired in Ballast!
+[11/01/2024 15:18:29]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:18:38]
+  Hobert Dyer started repairing Engine
+[11/01/2024 15:18:41]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:18:44]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:18:44]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:18:47]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:18:47]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:18:48]
+  Erica Sykes started repairing Coilgun Loader
+[11/01/2024 15:18:52]
+  Hobert Dyer started repairing Battery
+[11/01/2024 15:18:54]
+  Priscilla Nicolosi: Treating Hobert Dyer in electrical!
+[11/01/2024 15:18:54]
+  Priscilla Nicolosi: Hobert Dyer is back in shape!
+[11/01/2024 15:19:03]
+  Priscilla Nicolosi: Can't get to Cryonite!
+[11/01/2024 15:19:04]
+  Hobert Dyer started repairing Junction Box
+[11/01/2024 15:19:05]
+  Erica Sykes started repairing Coilgun Loader
+[11/01/2024 15:19:07]
+  Priscilla Nicolosi equipped Opium
+[11/01/2024 15:19:08]
+  Priscilla Nicolosi: Treating Erica Sykes in diving!
+[11/01/2024 15:19:09]
+  Priscilla Nicolosi: I need deusizine, morphine, opium or fentanyl to treat Erica Sykes!
+[11/01/2024 15:19:09]
+  Priscilla Nicolosi: Erica Sykes is back in shape!
+[11/01/2024 15:19:14]
+  Priscilla Nicolosi: I don't have the means to treat Cryonite!
+[11/01/2024 15:19:15]
+  Hobert Dyer started repairing Supercapacitor
+[11/01/2024 15:19:15]
+  Priscilla Nicolosi: Treating Cryonite in command!
+[11/01/2024 15:19:16]
+  Priscilla Nicolosi: I need deusizine to treat Cryonite!
+[11/01/2024 15:19:21]
+  Erica Sykes started repairing Coilgun Loader
+[11/01/2024 15:19:23]
+  No living players on the server and respawning is not enabled during this round. If no characters revive or rejoin, the server will end round in 120 seconds.
+[11/01/2024 15:19:26]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:19:26]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:19:29]
+  Priscilla Nicolosi: Giving first aid to LaywithMind in electrical!
+[11/01/2024 15:19:30]
+  Hobert Dyer started repairing Nuclear Reactor
+[11/01/2024 15:19:30]
+  Priscilla Nicolosi: I need to find deusizine!
+[11/01/2024 15:19:31]
+  Priscilla Nicolosi: Found LaywithMind unconscious in electrical!
+[11/01/2024 15:19:39]
+  Erica Sykes started repairing Custom Hatch
+[11/01/2024 15:19:42]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:19:42]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:19:47]
+  Hobert Dyer failed to repair Junction Box
+[11/01/2024 15:19:51]
+  Hobert Dyer started repairing Junction Box
+[11/01/2024 15:20:03]
+  Hobert Dyer failed to repair Junction Box
+[11/01/2024 15:20:07]
+  Hobert Dyer started repairing Junction Box
+[11/01/2024 15:20:08]
+  Erica Sykes started repairing Engine
+[11/01/2024 15:20:11]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:20:11]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:20:12]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:20:12]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:20:12]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:20:12]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:20:12]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:20:12]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:20:16]
+  Priscilla Nicolosi equipped Diving Suit
+[11/01/2024 15:20:17]
+  Hobert Dyer started repairing Junction Box
+[11/01/2024 15:20:26]
+  Erica Sykes started repairing Engine
+[11/01/2024 15:20:26]
+  Cryonite has died (Cause of death: Oxygen low)
+[11/01/2024 15:20:29]
+  Priscilla Nicolosi equipped Diving Suit
+[11/01/2024 15:20:30]
+  Hobert Dyer started repairing Navigation Terminal
+[11/01/2024 15:20:32]
+  Priscilla Nicolosi equipped Diving Suit
+[11/01/2024 15:20:37]
+  Erica Sykes: Need to find a diving suit!
+[11/01/2024 15:20:37]
+  Hobert Dyer started repairing Status Monitor
+[11/01/2024 15:20:38]
+  LaywithMind has died (Cause of death: Oxygen low)
+[11/01/2024 15:20:45]
+  Hobert Dyer started repairing Battery
+[11/01/2024 15:20:51]
+  Hobert Dyer started repairing Supercapacitor
+[11/01/2024 15:21:19]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:21:19]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:21:19]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:21:20]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:21:21]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:21:22]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:21:22]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:21:52]
+  LaywithMind picked up Screwdriver
+[11/01/2024 15:21:52]
+  LaywithMind equipped Screwdriver
+[11/01/2024 15:21:58]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:21:58]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:21:59]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:21:59]
+  Inner wall repaired by Priscilla Nicolosi
+[11/01/2024 15:22:00]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:22:00]
+  Erica Sykes: All leaks repaired in Diving!
+[11/01/2024 15:22:01]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:22:02]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:22:02]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:22:03]
+  Erica Sykes: I need diving gear!
+[11/01/2024 15:22:06]
+  Erica Sykes started repairing Pump
+[11/01/2024 15:22:20]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:22:20]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:22:24]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:22:24]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:22:24]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:22:24]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:22:24]
+  Erica Sykes started repairing Oxygen Generator
+[11/01/2024 15:22:28]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:22:32]
+  Priscilla Nicolosi: This is going to be a rough ride.
+[11/01/2024 15:22:42]
+  Cryonite picked up Screwdriver
+[11/01/2024 15:22:42]
+  Cryonite picked up Wrench
+[11/01/2024 15:22:44]
+  Cryonite equipped Screwdriver
+[11/01/2024 15:22:44]
+  Cryonite equipped Wrench
+[11/01/2024 15:22:47]
+  Erica Sykes equipped Screwdriver
+[11/01/2024 15:22:50]
+  Erica Sykes started repairing Junction Box
+[11/01/2024 15:22:54]
+  Erica Sykes unequipped Screwdriver
+[11/01/2024 15:23:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:46]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2024 15:23:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:47]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2024 15:23:47]
+  Priscilla Nicolosi: I need diving gear!
+[11/01/2024 15:23:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:49]
+  Erica Sykes: I need diving gear!
+[11/01/2024 15:23:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:50]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:23:50]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:52]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:23:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:52]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/01/2024 15:23:52]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:23:52]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:56]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:23:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:56]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:23:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:57]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:23:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:57]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/01/2024 15:23:57]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:23:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:58]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:23:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:59]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:23:59]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2024 15:23:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:59]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:23:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:23:59]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:23:59]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:00]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:01]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:02]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/01/2024 15:24:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:02]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:02]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:02]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:03]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:03]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:04]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:04]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:04]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:04]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:05]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:05]
+  Mudraptor has died (Cause of death: Lacerations)
+[11/01/2024 15:24:05]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:05]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:05]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:06]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:06]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:08]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:24:10]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2024 15:24:11]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:24:20]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:20]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:20]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:21]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:21]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:21]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:21]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:21]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:21]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:21]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:22]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:22]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:22]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:23]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:23]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:23]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:23]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:23]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:24]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:24]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:24]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:24]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/01/2024 15:24:24]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:24]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:24]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[11/01/2024 15:24:24]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/01/2024 15:24:25]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:25]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:25]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:25]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:25]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:25]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:37]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 2.9
+[11/01/2024 15:24:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:38]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:38]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:38]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:38]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:38]
+  Outer wall breached by Mudraptor_unarmored
+[11/01/2024 15:24:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:39]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:39]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:39]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:39]
+  Mudraptor_unarmored has died (Cause of death: Lacerations)
+[11/01/2024 15:24:39]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:24:40]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:24:45]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:25:13]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:25:14]
+  Erica Sykes: No more leaks in Reactor Engine!
+[11/01/2024 15:25:19]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:25:22]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:25:23]
+  Erica Sykes equipped Diving Suit
+[11/01/2024 15:25:41]
+  Cryonite unequipped Welding Tool
+[11/01/2024 15:25:41]
+  Cryonite equipped Medic Crate
+[11/01/2024 15:25:44]
+  Cryonite dropped Medic Crate
+[11/01/2024 15:25:46]
+  Cryonite equipped Metal Crate
+[11/01/2024 15:25:49]
+  Cryonite dropped Metal Crate
+[11/01/2024 15:26:14]
+  Erica Sykes equipped Screwdriver
+[11/01/2024 15:27:16]
+  Cryonite equipped Welding Tool
+[11/01/2024 15:27:18]
+  Outer wall breached by Crawler
+[11/01/2024 15:27:19]
+  Cryonite equipped Diving Knife
+[11/01/2024 15:27:19]
+  Outer wall breached by Crawler
+[11/01/2024 15:27:24]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:27:25]
+  Priscilla Nicolosi: LaywithMind's injuries are so minor I don't think I should waste any meds on them.
+[11/01/2024 15:27:26]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:27:33]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:27:35]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:27:38]
+  Erica Sykes started repairing Junction Box
+[11/01/2024 15:27:41]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:42]
+  Outer wall breached by Crawler
+[11/01/2024 15:27:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:42]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:43]
+  Crawler has died (Cause of death: Lacerations)
+[11/01/2024 15:27:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:43]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:43]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:44]
+  Erica Sykes unequipped Screwdriver
+[11/01/2024 15:27:44]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:27:44]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:44]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:45]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:45]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:27:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:45]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:45]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:27:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:45]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:46]
+  Priscilla Nicolosi: No more leaks in Reactor Engine!
+[11/01/2024 15:27:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:46]
+  Outer wall breached by Crawler
+[11/01/2024 15:27:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:47]
+  Crawler has died (Cause of death: Lacerations)
+[11/01/2024 15:27:47]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:47]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:27:47]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:47]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:48]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:48]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:27:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:49]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:27:49]
+  Erica Sykes equipped Screwdriver
+[11/01/2024 15:27:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:49]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:49]
+  Crawler has died (Cause of death: Lacerations)
+[11/01/2024 15:27:49]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:50]
+  Erica Sykes started repairing Junction Box
+[11/01/2024 15:27:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:53]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:53]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:54]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:54]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:54]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:54]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:54]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:55]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:55]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:55]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:56]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:57]
+  Erica Sykes unequipped Screwdriver
+[11/01/2024 15:27:57]
+  Erica Sykes equipped Screwdriver
+[11/01/2024 15:27:57]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:57]
+  Erica Sykes started repairing Junction Box
+[11/01/2024 15:27:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:57]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:58]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:58]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/01/2024 15:27:58]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:58]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:27:59]
+  Crawler has died (Cause of death: Lacerations)
+[11/01/2024 15:27:59]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/01/2024 15:28:04]
+  Erica Sykes started repairing Junction Box
+[11/01/2024 15:28:10]
+  Erica Sykes unequipped Screwdriver
+[11/01/2024 15:28:38]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:28:38]
+  Saving client permissions
+[11/01/2024 15:28:38]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:28:38]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:28:38]
+  Cryonite changed SelectedOutpostName to Random
+[11/01/2024 15:29:00]
+  Console command "giveitem "EMP Grenade"" executed by Cryonite.
+[11/01/2024 15:29:02]
+  Cryonite equipped EMP Grenade
+[11/01/2024 15:29:04]
+  Cryonite threw EMP Grenade
+[11/01/2024 15:29:10]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:29:11]
+  Cryonite started repairing Engine
+[11/01/2024 15:29:17]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:29:17]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:29:18]
+  Hobert Dyer started repairing Junction Box
+[11/01/2024 15:29:20]
+  Cryonite started repairing Engine
+[11/01/2024 15:29:22]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:29:22]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:29:23]
+  Hobert Dyer started repairing Oxygen Generator
+[11/01/2024 15:29:27]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:29:27]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:29:34]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:29:34]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:29:38]
+  Hobert Dyer failed to repair Coilgun Loader
+[11/01/2024 15:29:42]
+  Hobert Dyer started repairing Coilgun Loader
+[11/01/2024 15:29:49]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:29:49]
+  Hobert Dyer equipped Screwdriver
+[11/01/2024 15:29:55]
+  Hobert Dyer started repairing Surveillance Center
+[11/01/2024 15:29:56]
+  Erica Sykes started repairing Engine
+[11/01/2024 15:29:59]
+  Hobert Dyer started repairing Navigation Terminal
+[11/01/2024 15:30:07]
+  Hobert Dyer unequipped Screwdriver
+[11/01/2024 15:30:08]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:30:09]
+  Hobert Dyer started repairing Nuclear Reactor
+[11/01/2024 15:30:11]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:30:11]
+  Priscilla Nicolosi equipped Diving Suit
+[11/01/2024 15:30:12]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:30:15]
+  Console command "giveitem "EMP Grenade"" executed by Cryonite.
+[11/01/2024 15:30:16]
+  Cryonite equipped EMP Grenade
+[11/01/2024 15:30:19]
+  Cryonite threw EMP Grenade
+[11/01/2024 15:30:26]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:30:27]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:30:28]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:30:30]
+  Erica Sykes started repairing Engine
+[11/01/2024 15:30:35]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:30:36]
+  Hobert Dyer started repairing Engine
+[11/01/2024 15:30:46]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:30:46]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:31:03]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:03]
+  Cryonite used Wrench on Large Horizontal Inside Wall.
+[11/01/2024 15:31:04]
+  Cryonite used Wrench on Large Horizontal Inside Wall.
+[11/01/2024 15:31:07]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:12]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:13]
+  Cryonite used Wrench on Large Horizontal Inside Wall.
+[11/01/2024 15:31:13]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:16]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:17]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:19]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:20]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:21]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:23]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:24]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:25]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:26]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:31:26]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:31:26]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:28]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:29]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:30]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:31]
+  Erica Sykes started repairing Custom Windowed Door
+[11/01/2024 15:31:32]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:33]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:34]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:35]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:36]
+  Hobert Dyer unequipped Wrench
+[11/01/2024 15:31:37]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:38]
+  Cryonite used Wrench on Custom Windowed Door.
+[11/01/2024 15:31:38]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:33:17]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:33:19]
+  Cryonite has died (Cause of death: Internal damage)
+[11/01/2024 15:33:20]
+  Erica Sykes started repairing Pump
+[11/01/2024 15:33:24]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:33:29]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:33:29]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:33:29]
+  Erica Sykes equipped Screwdriver
+[11/01/2024 15:33:29]
+  Erica Sykes unequipped Screwdriver
+[11/01/2024 15:33:30]
+  Erica Sykes unequipped Wrench
+[11/01/2024 15:33:30]
+  Erica Sykes equipped Wrench
+[11/01/2024 15:33:39]
+  Console command "spawncharacter Latcher cursor" executed by Cryonite.
+[11/01/2024 15:34:13]
+  Console command "spawncharacter Moloch cursor" executed by Cryonite.
+[11/01/2024 15:34:31]
+  Hobert Dyer: Can I put all my annoying problems inside a decoy?
+[11/01/2024 15:34:33]
+  Hobert Dyer: Loading more fuel to the reactor!
+[11/01/2024 15:34:33]
+  Console command "spawncharacter Molochblack cursor" executed by Cryonite.
+[11/01/2024 15:34:34]
+  Hobert Dyer equipped Fuel Rod
+[11/01/2024 15:35:24]
+  Console command "spawncharacter Hammerheadmatriarch cursor" executed by Cryonite.
+[11/01/2024 15:35:26]
+  Outer wall breached by Hammerheadmatriarch
+[11/01/2024 15:35:26]
+  Hammerheadmatriarch has died (Cause of death: Internal damage)

@@ -1,0 +1,1391 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Turkish" nowhitespace="false" translatedname="Türkçe">
+
+<!-- Generic -->
+<editor.saveall>Hepsini Kaydet</editor.saveall>
+
+<!-- Submarine editor -->
+<items>Eşyalar</items>
+<structures>Yapılar</structures>
+<totalhullvolume>Toplam karina hacmi</totalhullvolume>
+<selectedhullvolume>Seçili karina hacmi</selectedhullvolume>
+<optimalballastlevel>Optimum nötr balast değeri: [value]</optimalballastlevel>
+<saveitemassembly>Eşya Topluluğu olarak kaydet</saveitemassembly>
+<insufficientballast>Batma kontrolü için yetersiz hacim</insufficientballast>
+<physicsbodies>Fiziki cisimler</physicsbodies>
+<opensubbutton>Aç...</opensubbutton>
+<savesubbutton>Kaydet</savesubbutton>
+<addsubbutton>Denizaltı ekle</addsubbutton>
+<addsubtooltip>Mevcut denizaltı dosyasına başka bir denizaltı yerleştirir. Ana denizaltıya dâhil olacak küçük gemiler, kaçış bölmeleri veya ayrılabilir bölümler gibi şeyler eklemek için kullanılabilir.</addsubtooltip>
+<holdtolink>Başka bir eşyaya bağlamak için boşluk tuşuna basılı tutarak fareyle tıklayın.</holdtolink>
+<allowedlinks>İzin verilen bağlantılar</allowedlinks>
+<filtermapentities>Filtre</filtermapentities>
+<charactermodebutton>Karakter modu</charactermodebutton>
+<charactermodetooltip>Eşyaları almana ve kullanmana izin verir. Dolapların içine eşya yerleştirmek, cihazları açıp kapatmak ve kablolamayı yapmak gibi işlemler için kullanışlıdır.</charactermodetooltip>
+<wiringmodebutton>Kablolama modu</wiringmodebutton>
+<wiringmodetooltip>Eşyalar arasındaki kabloları bağlamana izin verir.</wiringmodetooltip>
+<generatewaypointsbutton>Geçiş noktası oluştur</generatewaypointsbutton>
+<generatewaypointstooltip>Yapay zekâ kontrollü mürettebat üyeleri, denizaltı içinde gezinmek için geçiş noktalarına ihtiyaç duyar.</generatewaypointstooltip>
+<showentitieslabel>Göster</showentitieslabel>
+<showwalls>Duvarlar</showwalls>
+<showstructures>Yapılar</showstructures>
+<showitems>Eşyalar</showitems>
+<showlighting>Işıklandırma</showlighting>
+<showwaypoints>Geçiş noktaları</showwaypoints>
+<showspawnpoints>Oluşturma noktaları</showspawnpoints>
+<showlinks>Bağlantılar</showlinks>
+<showhulls>Karinalar</showhulls>
+<showgaps>Boşluklar</showgaps>
+<previouslyusedlabel>Önceden kullanılanlar</previouslyusedlabel>
+<subnamemissingwarning>Kaydetmeden önce denizaltına bir isim ver.</subnamemissingwarning>
+<subnameillegalcharswarning>Dosya isminde uygun olmayan semboller var ([illegalchar])</subnameillegalcharswarning>
+<subsavednotification>Denizaltı şu hedefe kaydedildi: [filepath].</subsavednotification>
+<savesubdialogheader>Denizaltıyı kaydet</savesubdialogheader>
+<savesubdialogname>İsim</savesubdialogname>
+<savesubdialogdescription>Açıklama</savesubdialogdescription>
+<savesubdialogsettings>Ayarlar</savesubdialogsettings>
+<saveitemassemblydialogheader>Eşya topluluğunu kaydet</saveitemassemblydialogheader>
+<saveitemassemblyhideinmenus>Menüde gizle</saveitemassemblyhideinmenus>
+<saveitemassemblydialogname>İsim</saveitemassemblydialogname>
+<saveitemassemblydialogdescription>Açıklama</saveitemassemblydialogdescription>
+<itemassemblynamemissingwarning>Kaydetmeden önce eşya topluluğuna bir isim ver.</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>Aynı isme sahip bir eşya topluluğu zaten var. Mevcut eşya topluluğunun yerine kaydetmek istiyor musun?</itemassemblyfileexistswarning>
+<itemassemblynameillegalcharswarning>Dosya isminde uygun olmayan semboller var ([illegalchar])</itemassemblynameillegalcharswarning>
+<nohullswarning>Denizaltıda bir karina bulunamadı. Karinalar, odaların "sınırlarını" belirler. Su ve hava dağıtımının düzgün çalışması için de gereklidir.</nohullswarning>
+<disconnectedventswarning>Denizaltı, oksijen jeneratörüne bağlı olmayan havalandırma delikleri içeriyor. Havalandırma deliğini seçtikten sonra boşluk tuşuna basılı tutarak bağlamak istediğin oksijen jeneratörüne tıkla.</disconnectedventswarning>
+<disconnectedturretswarning>Denizaltı, henüz bir mühimmat yükleyiciye bağlanmamış eşyalar içeriyor: [itemname]. Eşyayı seç ve boşluk tuşuna basılı tutarken bağlantı kurmak istediğin yükleyiciye tıkla.</disconnectedturretswarning>
+<nowaypointswarning>Denizaltıda bir geçit noktası bulunamadı. Yapay zekâ kontrollü mürettebat üyeleri geçit noktaları olmadan gezinemezler.</nowaypointswarning>
+<nocargospawnpointwarning>Denizaltıda kargo için oluşturma noktaları (satın alınan eşyaların nereye konacağını belirlerler) mevcut değil. Bu durumu çözmek için yeni bir oluşturma noktası oluştur ve oluşturma tip parametresini "kargo" olarak ayarla.</nocargospawnpointwarning>
+<farawayentitieswarning>Bir veya birkaç yapı/eşya denizaltıdan çokça uzağa yerleştirildi. Kamerayı onlara taşımak istiyor musun?</farawayentitieswarning>
+<adjustlightsprompt>Bu denizaltı farklı aydınlatma formülünü kullanan eski bir Barotrauma sürümü kullanılarak kaydedildi. Denizaltı içerisindeki aydınlatma artık çok parlak olabilir. Yeni aydınlatma formülü için aydınlatmayı otomatik olarak yeniden ayarlamak ister misin?</adjustlightsprompt>
+<adjustedlightsnotification>Işıkların parlaklığı ayarlandı. Birden çok ışık kaynağına sahip alanlar yine çok parlak görünebilir ve ışıkların aralığı veya parlaklığı manuel olarak azaltmayı gerektirebilir. Tüm ışıkların parlaklığını aynı anda ayarlamak için "multiplylights" konsol komutunu kullanabilirsin. Örneğin, "multiplylights 1,1,1,0.5" parlaklığı %50 azaltır.</adjustedlightsnotification>
+<noballasttagswarning>Yapay zekâ karakterlerinin denizaltının batma kuvvetini kontrol edebilmeleri adına hangi pompaların kullanıldığını belirlemesine izin vermek için balast pompalarına "balast" etiketini eklemelisin.</noballasttagswarning>
+<insufficientfreeconnectionswarning>Modül, [doorcount] adet kapıya bağlanmış ve açıkta [freeconnectioncount] adet serbest kablo bağlantısına sahip bir bağlantı kutusu içeriyor. Bu, üsse istenildiği gibi güç aktarılmasını engelleyebilir.</insufficientfreeconnectionswarning>
+<nohullnameswarning>Hiçbir karinaya isimlendirme yapılmadı; otomatik oluşturulmuş isimler kullanılıyor. Karakterler, karinada gedik açılması gibi olayları bildirirken farklı odalara atıfta bulunmak için adları kullanırlar.</nohullnameswarning>
+<deletingcontainerwithitems>İçinde eşya bulunan bir konteyner silindi. Eşyalar da silinsin mi?\n\nEşya içeriği:\n\n</deletingcontainerwithitems>
+<hideinmenus>Menüde gizle</hideinmenus>
+<manuallyoutfitted>Elle donatılmış</manuallyoutfitted>
+<manuallyoutfittedtooltip>Denizaltı başlangıçta yeterince elle yerleştirilmiş kaynağa sahip mi yoksa otomatik olarak yerleştirilmiş eşyalara ve/veya oyuncularca taşınan eşyalara mı ihtiyaç duyuyor?</manuallyoutfittedtooltip>
+<unspecifiedsubfilename>İsimlendirilmemiş</unspecifiedsubfilename>
+<reloadsprite>Sprite'ı Doldur</reloadsprite>
+<resettoprefab>Sıfırla</resettoprefab>
+<mirrorentityx>X ekseninde aynala</mirrorentityx>
+<mirrorentityxtooltip>Objeyi yatay eksende aynala. Ctrl + N kısayolunu da kullanabilirsin.</mirrorentityxtooltip>
+<mirrorentityy>Y ekseninde aynala</mirrorentityy>
+<mirrorentityytooltip>Objeyi dikey eksende aynala. Ctrl + M kısayolunu da kullanabilirsin.</mirrorentityytooltip>
+<nonlinkedgapswarning>Denizaltı, herhangi bir karinaya bağlı olmayan boşluklar içeriyor. Boşlukların her zaman en az bir karina (denizaltının dışına açılan boşluklar için) veya iki karina ile (odalar arasındaki boşluklar için) örtüşmeleri gerekir.</nonlinkedgapswarning>
+<cannoteditvanillasubs>Vanilla içerik paketinde tanımlanan denizaltılar düzenlenemez!</cannoteditvanillasubs>
+<subeditor.structurecountwarning>Denizaltı, performans sorunlarına neden olması muhtemel çok sayıda yapıya sahip. Yapı sayısını azaltmayı gözden geçir.</subeditor.structurecountwarning>
+<subeditor.structurecounterror>Denizaltı, performans sorunlarına yol açacak çok fazla yapıya (>[max]) sahip. Lütfen yapı sayısını azalt.</subeditor.structurecounterror>
+<subeditor.wallcountwarning>Denizaltı, performans sorunlarına neden olabilecek sayıda dış duvar parçasına sahip. Duvar sayısını azaltmayı gözden geçir.</subeditor.wallcountwarning>
+<subeditor.wallcounterror>Denizaltı, performans sorunlarına yol açacak çok sayıda dış duvar parçasına (>[max]) sahip. Lütfen duvar parçası sayısını azalt.</subeditor.wallcounterror>
+<subeditor.itemcountwarning>Denizaltı, performans sorunlarına neden olabilecek çok sayıda eşyaya sahip. Eşya sayısını azaltmayı gözden geçir.</subeditor.itemcountwarning>
+<subeditor.itemcounterror>Denizaltı, performans sorunlarına yol açabilecek çok fazla eşyaya (>[max]) sahip. Lütfen eşya sayısını azalt.</subeditor.itemcounterror>
+<subeditor.lightcountwarning>Denizaltı, performans sorunlarına neden olması muhtemel çok sayıda ışık kaynağına sahip. Işık kaynağı sayısını azaltmayı gözden geçir.</subeditor.lightcountwarning>
+<subeditor.lightcounterror>Denizaltı, performans sorunlarına yol açabilecek çok fazla ışık kaynağına (>[max]) sahip. Lütfen ışık kaynağı sayısını azalt.</subeditor.lightcounterror>
+<subeditor.shadowcastinglightcounterror>Denizaltı, performans sorunlarına yol açacak çok fazla gölge oluşturan ışık kaynağına (>[max]) sahip. Lütfen ışık sayısını azalt veya bazı ışıklarda gölge oluşturma özelliğini devre dışı bırak.</subeditor.shadowcastinglightcounterror>
+<canattachtoprevious>Öncekine eklenebilir</canattachtoprevious>
+<canattachtoprevious.tooltip>Bu modülün önceden yerleştirilmiş bir modüle hangi tarafından bağlanmasına izin verildiğini belirler. Örneğin; bir modülün kenetlenme modülüne her zaman sol tarafından bağlanmasını istiyorsan bu ayarı "Sağ" yapmalısın.</canattachtoprevious.tooltip>
+<subeditor.packagealreadyexists>Hâlihazırda "[name]" adında bir içerik paketi var. Lütfen başka bir ad seç veya listeden paketi seçerek düzenle.</subeditor.packagealreadyexists>
+<subeditor.duplicatesubinpackage>İçerik paketi zaten aynı ada sahip bir denizaltı içeriyor. Mevcut denizaltı dosyasının üzerine yazmak istiyor musunuz?</subeditor.duplicatesubinpackage>
+<stringpropertytranslate>Bu metin [translation] diline tercüme edilecektir.</stringpropertytranslate>
+<stringpropertycannottranslate>Bu metin tercüme edilmeyecektir. [tag] etiketli metin dil dosyalarında bulunamadı.</stringpropertycannottranslate>
+<subeditorlights>Işıklar</subeditorlights>
+<subeditorshadowcastinglights>Gölge oluşturan ışıklar</subeditorshadowcastinglights>
+
+<!-- Character editor -->
+<charactereditor.creatingnewjoint>Yeni eklem yaratılıyor</charactereditor.creatingnewjoint>
+<charactereditor.selectanchor1pos>Eklem için bir bağlantı noktası seç</charactereditor.selectanchor1pos>
+<charactereditor.selectlimbtoconnect>Ekleme bağlanacak başka bir uzuv seç</charactereditor.selectlimbtoconnect>
+<charactereditor.frozen>Donduruldu</charactereditor.frozen>
+<charactereditor.spriteorientation>Sprite Oryantasyonu</charactereditor.spriteorientation>
+<charactereditor.spritesheetorientation>Spritesheet Oryantasyonu</charactereditor.spritesheetorientation>
+<charactereditor.cantaddjointsnolimbelements>Uzuv bulunamadığı için eklem eklenemiyor!</charactereditor.cantaddjointsnolimbelements>
+<charactereditor.humanoidlimbdeletiondisabled>İnsansılardan uzuv silmek çökmeye neden olabileceği için şimdilik devre dışı bırakıldı.</charactereditor.humanoidlimbdeletiondisabled>
+<charactereditor.tryingtospawncharacter>Oluşturulmaya çalışılıyor [config]</charactereditor.tryingtospawncharacter>
+<charactereditor.nocontentpackageselected>İçerik paketi seçilmedi!</charactereditor.nocontentpackageselected>
+<charactereditor.contentpackagesaved>İçerik paketi şu hedefe kaydedildi: [path]</charactereditor.contentpackagesaved>
+<charactereditor.backgroundcolor>Arka Plan \nRengi</charactereditor.backgroundcolor>
+<charactereditor.spritesheetzoom>Spritesheet Yakınlaştırma Derecesi</charactereditor.spritesheetzoom>
+<charactereditor.reset>Sıfırla</charactereditor.reset>
+<charactereditor.hidebodysprites>Vücut Spritelarını Gizle</charactereditor.hidebodysprites>
+<charactereditor.showwearables>Giysileri Göster</charactereditor.showwearables>
+<charactereditor.lockspriteorigin>Sprite Kaynağını Kilitle</charactereditor.lockspriteorigin>
+<charactereditor.lockspriteposition>Sprite Pozisyonunu Kilitle</charactereditor.lockspriteposition>
+<charactereditor.lockspritesize>Sprite Boyutunu Kilitle</charactereditor.lockspritesize>
+<charactereditor.adjustcollider>Karakter Sınırını Ayarla</charactereditor.adjustcollider>
+<charactereditor.uniformscale>Üniforma Boyutu</charactereditor.uniformscale>
+<charactereditor.copyjointsettings>Eklem Ayarlarını Kopyala</charactereditor.copyjointsettings>
+<charactereditor.copyjointsettingstooltip>Tüm seçili eklemlerdeki değişiklikleri kopyalar.</charactereditor.copyjointsettingstooltip>
+<charactereditor.jointscale>Eklem Boyutu</charactereditor.jointscale>
+<charactereditor.limbscale>Uzuv Boyutu</charactereditor.limbscale>
+<charactereditor.selectedanimation>Seçili Animasyon</charactereditor.selectedanimation>
+<charactereditor.previouscharacter>Önceki</charactereditor.previouscharacter>
+<charactereditor.nextcharacter>Sonraki</charactereditor.nextcharacter>
+<charactereditor.showparameters>Parametreler [F1]</charactereditor.showparameters>
+<charactereditor.showspritesheet>Spritesheet [T]</charactereditor.showspritesheet>
+<charactereditor.drawskeleton>İskelet [N]</charactereditor.drawskeleton>
+<charactereditor.enablelights>Aydınlatma [L]</charactereditor.enablelights>
+<charactereditor.drawdamagemodifiers>Hasar Değişkenleri [M]</charactereditor.drawdamagemodifiers>
+<charactereditor.editcharacter>KARAKTER [1]</charactereditor.editcharacter>
+<charactereditor.editragdoll>RAGDOLL [2]</charactereditor.editragdoll>
+<charactereditor.editlimbs>UZUVLAR [3]</charactereditor.editlimbs>
+<charactereditor.editjoints>EKLEMLER [4]</charactereditor.editjoints>
+<charactereditor.editanimations>ANİMASYONLAR [5]</charactereditor.editanimations>
+<charactereditor.editiktargets>IK Hedefleri [I]</charactereditor.editiktargets>
+<charactereditor.freeze>Dondur</charactereditor.freeze>
+<charactereditor.autofreeze>Otomatik Dondur</charactereditor.autofreeze>
+<charactereditor.limbpairediting>Uzuv Çifti Düzenleme</charactereditor.limbpairediting>
+<charactereditor.animationtestpose>Poz Testi [X]</charactereditor.animationtestpose>
+<charactereditor.animationtestposeenabled>Poz Testi Etkin</charactereditor.animationtestposeenabled>
+<charactereditor.automove>Otomatik Yürüme</charactereditor.automove>
+<charactereditor.followcursor>İmleç Takibi</charactereditor.followcursor>
+<charactereditor.showcolliders>Karakter Sınırları</charactereditor.showcolliders>
+<charactereditor.editbackgroundcolor>Arka Plan Rengini Ayarla</charactereditor.editbackgroundcolor>
+<charactereditor.savebutton>Hepsini Kaydet</charactereditor.savebutton>
+<charactereditor.allanimationssaved>Tüm animasyonlar kaydedildi</charactereditor.allanimationssaved>
+<charactereditor.ragdollsavedto>Ragdoll şu hedefe kaydedildi: [path]</charactereditor.ragdollsavedto>
+<charactereditor.charactersavedto>Karakter ayarları şu hedefe kaydedildi: [path]</charactereditor.charactersavedto>
+<charactereditor.resetbutton>Sıfırla</charactereditor.resetbutton>
+<charactereditor.saveragdoll>Ragdoll'u Kaydet</charactereditor.saveragdoll>
+<charactereditor.providefilename>Lütfen dosyaya bir isim verin</charactereditor.providefilename>
+<charactereditor.loadragdoll>Ragdoll'u yükle</charactereditor.loadragdoll>
+<charactereditor.couldntopendirectory>Hedef dosya açılamadı: [folder]!</charactereditor.couldntopendirectory>
+<charactereditor.ragdolldeletedfrom>Ragdoll hedef dosyadan silindi: [file]</charactereditor.ragdolldeletedfrom>
+<charactereditor.ragdollloadedfrom>Ragdoll hedef dosyadan yüklendi: [file]</charactereditor.ragdollloadedfrom>
+<charactereditor.saveanimation>Animasyonu Kaydet</charactereditor.saveanimation>
+<charactereditor.selectanimationtype>Animasyon Tipini Seç</charactereditor.selectanimationtype>
+<charactereditor.animationoftypesavedto>[type] tipi animasyon şu hedefe kaydedildi: [path]</charactereditor.animationoftypesavedto>
+<charactereditor.loadanimation>Animasyonu Yükle</charactereditor.loadanimation>
+<charactereditor.animationoftypedeleted>[file] dosyasındaki [type] tipi animasyon silindi</charactereditor.animationoftypedeleted>
+<charactereditor.animationtypenotimplemented>[type] tipi animasyon yerleştirilmedi!</charactereditor.animationtypenotimplemented>
+<charactereditor.animationoftypeloaded>[type] tipi animasyon şu hedeften yüklendi: [path]</charactereditor.animationoftypeloaded>
+<charactereditor.reloadtextures>Dokuyu Tekrar Yükle</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>Ragdoll'u Yeniden Oluştur [F5]</charactereditor.recreateragdoll>
+<charactereditor.recreateragdolltooltip>Birçok parametre ragdoll'ün yeniden oluşturulmasını gerektirir. Parametreyi değiştirmenin bir etkisi yok gibi görünüyorsa, bu tuşa tıklayın.</charactereditor.recreateragdolltooltip>
+<charactereditor.createnewcharacter>Yeni Karakter Yarat</charactereditor.createnewcharacter>
+<charactereditor.copycharacter>Karakter Kopyala</charactereditor.copycharacter>
+<charactereditor.copycharactertooltip>Mevcut karakterin bir kopyasını oluştur</charactereditor.copycharactertooltip>
+<charactereditor.nofieldforparameterfound>[parameter] için alan bulunamadı!</charactereditor.nofieldforparameterfound>
+<charactereditor.holdleftalttoadjustcyclespeed>Döngü hızını ayarlamak için Sol Alt tuşuna basılı tut</charactereditor.holdleftalttoadjustcyclespeed>
+<charactereditor.cyclespeed>Döngü Hızı</charactereditor.cyclespeed>
+<charactereditor.movementspeed>Yürüme Hızı</charactereditor.movementspeed>
+<charactereditor.headangle>Kafa Açısı</charactereditor.headangle>
+<charactereditor.head>Kafa</charactereditor.head>
+<charactereditor.headposition>Kafa Pozisyonu</charactereditor.headposition>
+<charactereditor.torsoangle>Gövde Açısı</charactereditor.torsoangle>
+<charactereditor.torso>Gövde</charactereditor.torso>
+<charactereditor.torsoposition>Gövde Pozisyonu</charactereditor.torsoposition>
+<charactereditor.tailangle>Kuyruk Açısı</charactereditor.tailangle>
+<charactereditor.footangle>Ayak Açısı</charactereditor.footangle>
+<charactereditor.stepsize>Adım Büyüklüğü</charactereditor.stepsize>
+<charactereditor.handmoveamount>El Oynatma Derecesi</charactereditor.handmoveamount>
+<charactereditor.tailmovementspeed>Kuyruk Oynatma Hızı</charactereditor.tailmovementspeed>
+<charactereditor.tailmovementamount>Kuyruk Oynatma Derecesi</charactereditor.tailmovementamount>
+<charactereditor.legmovementspeed>Bacak Oynatma Hızı</charactereditor.legmovementspeed>
+<charactereditor.legmovementamount>Bacak Oynatma Derecesi</charactereditor.legmovementamount>
+<charactereditor.handmovementamount>El Oynatma Derecesi</charactereditor.handmovementamount>
+<charactereditor.holdleftalttomanipulatejoint>Eklemin diğer ucunu manipüle edebilmek için Sol Alt tuşuna basılı tut</charactereditor.holdleftalttomanipulatejoint>
+<charactereditor.origin>Başlangıç</charactereditor.origin>
+<charactereditor.position>Pozisyon: [coordinates]</charactereditor.position>
+<charactereditor.size>Boyut</charactereditor.size>
+<charactereditor.upperlimit>Üst Sınır</charactereditor.upperlimit>
+<charactereditor.lowerlimit>Alt Sınır</charactereditor.lowerlimit>
+<charactereditor.defaultname>X Karakteri</charactereditor.defaultname>
+<charactereditor.ishumanoid>İnsansı Mı?</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>Denizaltılara Girebiliyor Mu?</charactereditor.canentersubmarines>
+<charactereditor.canwalk>Yürüyebiliyor Mu?</charactereditor.canwalk>
+<charactereditor.configfileoutput>Ayarlar Dosya Çıktısı</charactereditor.configfileoutput>
+<charactereditor.texturepath>Doku Hedefi</charactereditor.texturepath>
+<charactereditor.selecttexture>Doku Seç</charactereditor.selecttexture>
+<charactereditor.contentpackagename>İçerik Paketi Adı</charactereditor.contentpackagename>
+<charactereditor.texturedoesnotexist>Doku dosyası bulunamıyor!</charactereditor.texturedoesnotexist>
+<charactereditor.defineragdoll>Ragdoll'u Tanımla</charactereditor.defineragdoll>
+<charactereditor.limbs>Uzuvlar</charactereditor.limbs>
+<charactereditor.limb>Uzuv</charactereditor.limb>
+<charactereditor.joints>Eklemler</charactereditor.joints>
+<charactereditor.joint>Eklem</charactereditor.joint>
+<charactereditor.selectfile>Dosya seç</charactereditor.selectfile>
+<charactereditor.missingtorsoorhead>En az bir uzvu göve veya kafa olarak seçmelisin!</charactereditor.missingtorsoorhead>
+<charactereditor.missinglimbtype>Yalnızca bir uzvu [limbtype] olarak seçmelisin!</charactereditor.missinglimbtype>
+<charactereditor.charactercreated>[name] Karakteri Oluşturuldu</charactereditor.charactercreated>
+<charactereditor.limbtype>Uzuv Türü</charactereditor.limbtype>
+<charactereditor.sourcerectangle>Kaynak Dikdörtgen</charactereditor.sourcerectangle>
+<charactereditor.id>Tanımlayıcı</charactereditor.id>
+<charactereditor.limbwithindex>Uzuv [index]</charactereditor.limbwithindex>
+<charactereditor.limbwithindexanchor>Uzuv [index] Bağlantı Noktası</charactereditor.limbwithindexanchor>
+<charactereditor.failedtoreadhtml>Karakter Yaratım Ekranı: Şu hedefteki HTML dosyası okuma başarısız: [path]</charactereditor.failedtoreadhtml>
+<charactereditor.multipleitemswithsamehierarchy>Aynı hiyerarşiye [hierarchy] sahip birden çok eşya ([name]) bulundu. Devam edilemiyor.</charactereditor.multipleitemswithsamehierarchy>
+<charactereditor.cannoteditvanillacharacters>"Vanilla" içerik paketi içerisindeki karakterleri düzenleyemezsin! Karakteri düzenlemek için kopyalayabilirsin! (Başka bir içerik paketi içerisinde)</charactereditor.cannoteditvanillacharacters>
+<charactereditor.existingcharacterfoundreplaceverification>Aynı içerik paketi içerisinde aynı ada sahip bir karakter mevcut. Yerine geçirmek istiyor musun? (Orijinal dosyalar kaybolacak)</charactereditor.existingcharacterfoundreplaceverification>
+<charactereditor.existingcharacterfoundoverrideverification>Farklı içerik paketi içerisinde aynı ada sahip bir karakter mevcut. Üstüne yazılmış bir versiyonunu oluşturmak istiyor musun? (Orijinal dosyalara dokunulmayacak)</charactereditor.existingcharacterfoundoverrideverification>
+<charactereditor.existingcharacterfound>Aynı ada sahip başka bir karakter bulundu.</charactereditor.existingcharacterfound>
+<charactereditor.modespanel>Düzenle</charactereditor.modespanel>
+<charactereditor.fileeditpanel>Dosyalar</charactereditor.fileeditpanel>
+<charactereditor.optionspanel>Ayarlar</charactereditor.optionspanel>
+<charactereditor.characterpanel>Karakter</charactereditor.characterpanel>
+<charactereditor.toolspanel>Aletler</charactereditor.toolspanel>
+<charactereditor.minormodestitle>Göster</charactereditor.minormodestitle>
+<charactereditor.addmultiplelimbsbutton>Birden Fazla Ekle</charactereditor.addmultiplelimbsbutton>
+<charactereditor.addaitarget>Hedefi Ekle</charactereditor.addaitarget>
+<charactereditor.addbloodemitter>Kan Yayıcı Ekle</charactereditor.addbloodemitter>
+<charactereditor.addgibemitter>Gib Yayıcı Ekle</charactereditor.addgibemitter>
+<charactereditor.adddamageemitter>Hasar Yayıcı Ekle</charactereditor.adddamageemitter>
+<charactereditor.addsound>Ses Ekle</charactereditor.addsound>
+<charactereditor.addlightsource>Işık Ekle</charactereditor.addlightsource>
+<charactereditor.addattack>Saldırı Ekle</charactereditor.addattack>
+<charactereditor.addaffliction>Olumsuz Etki Ekle</charactereditor.addaffliction>
+<charactereditor.adddamagemodifier>Hasar Değişkeni Ekle</charactereditor.adddamagemodifier>
+<charactereditor.addinventory>Envanter Ekle</charactereditor.addinventory>
+<charactereditor.addinventoryitem>Envanter Eşyası Ekle</charactereditor.addinventoryitem>
+<charactereditor.selected>Seçili</charactereditor.selected>
+<charactereditor.duplicatelimb>Uzvu Çoğalt</charactereditor.duplicatelimb>
+<charactereditor.deleteselected>Seçili Olanı Sil</charactereditor.deleteselected>
+<charactereditor.createjoint>Eklem Oluştur</charactereditor.createjoint>
+<charactereditor.createlimb>Uzuv Oluştur</charactereditor.createlimb>
+<charactereditor.drawlimbonspritesheet>Uzvu spitesheet üzerinde çiz</charactereditor.drawlimbonspritesheet>
+<charactereditor.onlyshowselectedlimbs>Sadece Seçili Olan Uzuvları Göster</charactereditor.onlyshowselectedlimbs>
+<charactereditor.newcontentpackage>Yeni İçerik Paketi</charactereditor.newcontentpackage>
+<charactereditor.existingjointfound>[limbid1] ve [limbid2] arasında zaten bir eklem var!</charactereditor.existingjointfound>
+<charactereditor.unrestrict>Kısıtlamayı Kaldır</charactereditor.unrestrict>
+<charactereditor.addmultiplelimbsbutton>Çoklu Ekle</charactereditor.addmultiplelimbsbutton>
+<charactereditor.contentpackagenameinuse>Aynı ada sahip bir içerik paketi mevcut. Lütfen başka bir isim seç ya da karakteri eklemek istiyorsan mevcut içerik paketini menüden seç.</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>Çoklu Ekle</charactereditor.addmultiplelimbsbutton>
+
+<!-- Entity properties -->
+<sp.scale.name>Boyut</sp.scale.name>
+<sp.spritedepth.name>Sprite Derinliği</sp.spritedepth.name>
+<sp.disallowedupgrades.name>İzin Verilmeyen Yükseltmeler</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>Oyunda Gizli</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>Oyunda Gizli</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>Etkileşime Geçilemez</sp.item.noninteractable.name>
+<sp.item.spritecolor.name>Sprite Rengi</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>Envanter İkonu Rengi</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>Konteyner Rengi</sp.item.containercolor.name>
+<sp.item.containercolor.description>Bu eşyanın bulunduğu konteynerın rengini değiştirir. Yalnızca konteynerın UseContainedSpriteColor ya da UseContainedInventoryIconColor özellikleri etkin hâle getirildiyse etki gösterir.</sp.item.containercolor.description>
+<sp.item.condition.name>Durum</sp.item.condition.name>
+<sp.item.tags.name>Etiketler</sp.item.tags.name>
+<sp.item.displaysidebysidewhenlinked.name>Bağlandığında Yan Yana Göster</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>Eşyanın ve eşyanın bağlandığı diğer eşyanın birbirleri ile bağlandıklarında HUD'larını yan yana görmek istediğinde etkin hâle getir. Uyarı: HUD'lar, birlikte görüntülenmek üzere tasarlanmamışlarsa birbirlerini engelleyebilir!</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Sprite Derinliği</sp.item.spritedepth.name>
+<sp.item.nonplayerteaminteractable.name>Oyuncu Dışı Takım Etkileşimi</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>Etkin hâle getirilirse, yalnızca oyuncu dışı takımdaki karakterler etkileşime geçebilir.</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>Değiştirmeye İzin Ver</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>Eşyanın üs içerisindeki başka bir eşyayla yer değiştirip değiştiremeyeceğini belirler. Yalnızca taret gibi değiştirilebilir eşyaları ilgilendirir.</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>Hasar Almaz</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>Etkinleştirildiğinde, eşyanın hiçbir kaynaktan hasar almamasını sağlar.</sp.item.invulnerabletodamage.description>
+<sp.structure.indestructible.name>Yıkılmaz</sp.structure.indestructible.name>
+<sp.structure.castshadows.name>Gölgeler</sp.structure.castshadows.name>
+<sp.structure.specialtag.name>Özel Etiket</sp.structure.specialtag.name>
+<sp.structure.spritecolor.name>Sprite Rengi</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>Gölge Düşüm Kullan</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>Gölge Düşüm Dengesi</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>Gölge düşümünün yapıya göre konumu. Sıfır olarak ayarlanması durumunda gölge, denizaltının ağırlık merkezine doğru olacak şekilde otomatik olarak yerleştirilir.</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>Doku Boyutu</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>Doku Dengesi</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>Bağlantılı üs kapısı kullanımdaysa kaldır</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>Yapı bir üs modülünün kenarındaki bir kapıya bağlıysa, bu ayarın etkinleştirilmesi ile söz konusu kapının üste kullanılması durumunda yapı kaldırılır. Aksi takdirde, kapı KULLANILMAZSA yapı kaldırılır.</sp.structure.removeiflinkedoutpostdoorinuse.description>
+<sp.structure.noaitarget.name>Yapay Zekâ Hedefi Değil</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>Etkinleştirilirse canavarlar bu yapıyı hedef almazlar.</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>Maksimum Sağlık</sp.structure.maxhealth.name>
+<sp.hull.ambientlight.name>Ambiyans Işığı</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>Oda İsmi</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>Nemli Bir Oda Mı</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>Bu karinanın su ile dolması normal mi? Oda isminde "balast", "sintine" veya "hava kilidi" varsa bu ayarı kapatamazsın.</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>Durmaktan Kaçın</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Botlar, zorunda olmadıkça ve geçmeleri gerekmedikçe burada durmaktan kaçınır. Nemli odalar için zorunlu seçenektir.</sp.hull.avoidstaying.description>
+<sp.door.openingspeed.name>Açma Hızı</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>Kapının ne kadar hızlı açıldığını belirler.</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>Kapanma Hızı</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>Kapının ne kadar hızlı kapandığını belirler.</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>Etkileşim Bekleme Süresi</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>Kapı başka bir karakter tarafından açıldı veya kapandı ise bu bekleme süresi boyunca tekrardan açılamaz veya kapatılamaz.</sp.door.togglecooldown.description>
+<sp.door.isopen.name>Açık Mı</sp.door.isopen.name>
+<sp.door.isopen.description>Kapının şu an açık olup olmadığını belirler.</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>Üs Modülleri Arasında Kullan</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>Bu baika bir üs modülüne açılan bir kapı mı? Yalnızca üs modüllerini ilgilendirir.</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Botlar Açık Bırakmalı</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>Etkinleştirildiğinde botlar kapıyı geçtikten sonra kapatmaya çalışmaz.</sp.door.botsshouldkeepopen.description>
+<sp.door.ToggleWhenClicked>Tıklanınca açıp kapanır</sp.door.ToggleWhenClicked>
+<sp.door.ToggleWhenClicked.description>Kapının entegre tuşları varsa üstüne tıklamak kapının açılmasına yol açar mı? Biri açmaya veya kapatmaya çalıştığında "aktifleştir_girdi" ile birlikte devreye bir sinyal göndermek için kullanılabilir.</sp.door.ToggleWhenClicked.description>
+<sp.itemcomponent.pickingtime.name>Alma Süresi</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>Eşyayı almanın ne kadar sürdüğünü belirler. (Saniye cinsinden)</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>Alınabilir</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>Eşyanın alınıp alınmayacağını (ya da alma aksiyonu başka bir hareket yapıyorsa etkileşime geçilip geçilemeyeceğini) belirler.</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>Oyun İçi Düzenlemeye İzin Ver</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>Bileşenin özellikleri oyun içinde düzenlenebilir mi (yalnızca bileşenin oyun içinde düzenlenebilir özellikleri varsa geçerlidir).</sp.itemcomponent.allowingameediting.description>
+<sp.itemcomponent.msg.name>Mesaj</sp.itemcomponent.msg.name>
+<sp.itemcomponent.msg.description>Eşyanın yanında bir yazı çıkmasına sebep olur. (Genellikle eşyanın nasıl kullanılacağını anlatır. Örneğin; "[Mouse1] Al")</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>Deşarjın eşyadan ne kadar uzağa gideceğini belirler.</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>Duvarlardaki Menzil Çarpanı</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>Deşarjın duvarlar arasında ne kadar uzağa hareket edeceğini belirler.</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>Süre</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>Her bir deşarjın bireysel süresini belirler (saniye cinsinden).</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>Yalnızca Dış Kapılar</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>Etkinleştirildiğinde artık deşarj denizaltının içine ilerlemez ve içindeki kimseyi şoklamaz.</sp.electricaldischarger.outdoorsonly.description>
+<sp.electricaldischarger.reload.name>Yeniden Doldurma</sp.electricaldischarger.reload.name>
+<sp.electricaldischarger.reload.description>Yeniden ateşlemeye başlamadan önce eşyanın "doldurulmasının" ne kadar süreceği (saniye olarak).</sp.electricaldischarger.reload.description>
+<sp.powered.minvoltage.name>Minimum Voltaj</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>Cihazın çalışması için gereken minimum voltaj. Voltaj, güç/güç tüketimi olarak hesaplanır; yani minimum voltaj 0,5 olarak ayarlanırsa, 1000 kW güç tüketimine sahip bir cihazın çalışması için en az 500 kW güce ihtiyaç duyacağı anlamına gelir.</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>Güç Tüketimi</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>Cihazın etkinken elektrik şebekesinden ne kadar güç çektiği (veya çekmeye çalıştığı).</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>EMP'ye Karşı Savunmasız</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>Eşya elektromanyetik darbelerden zarar görebilir mi?</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>Eşya Tanımlayıcısı</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>Oluşturulacak eşyanın tanımlayıcısı; SpeciesName ayarlanırsa hiçbir etkisi olmaz. Birden fazla eşyanın rastgele ortaya çıkması için virgülle ayır.</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>Tür Adı</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>Oluşturulacak canlının tür adı; ItemIdentifier ayarlanmışsa öncelik alır. Birden fazla yaratığın rastgele oluşturulması için virgülle ayır.</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Yalnızca Mürettebat Menzil İçindeyse Oluştur</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Yalnızca mürettebat üyeleri belirli bir alan içindeyse oluşturur</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>Mürettebat Alanı Şekli</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>Mürettebat üyelerinin kalması gereken alanın şekli</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>Mürettebat Alanı Sınırları</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>Mürettebat üyelerinin kalması gereken dikdörtgenin boyutu. CrewAreaShape, Circle olarak ayarlanmışsa hiçbir etkisi olmaz</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>Mürettebat Alanı Yarıçapı</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>Eşyaları oluşturmak gereken dairenin yarıçapı. CrewAreaShape, Rectangle olarak ayarlanmışsa hiçbir etkisi olmaz</sp.entityspawnercomponent.crewarearadius.description>
+<sp.entityspawnercomponent.crewareaoffset.name>Mürettebat Alanı Dengesi</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>Mürettebat alanının eşyanın merkezine olan uzaklığını belirler</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>Oluşturma Alanı Şekli</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>Düşmanların veya eşyaların oluşturulduğu alanın şekli</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>Oluşturma Alanı Sınırları</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>Eşyaların veya yaratıkların ortaya çıkacağı dikdörtgenin boyutu. SpawnAreaShape, Circle olarak ayarlanmışsa hiçbir şey yapmaz</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>Oluşturma Alanı Yarıçapı</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>Eşyaların veya yaratıkların oluşturulacağı dairenin yarıçapı. SpawnAreaShape, Rectangle olarak ayarlanmışsa hiçbir etkisi olmaz</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>Oluşturma Alanı Dengesi</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>Oluşturma alanının eşyanın merkezine olan uzaklığını belirler</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>Oluşturma Zaman Aralığı</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>Oluşturma girişimleri arasındaki saniye cinsinden zaman aralığı. Otomatik oluşturmayı devre dışı bırakmak için her ikisini de negatif bir değere ayarla.</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>Oluşturma Miktarı Aralığı</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>Tek denemede oluşturulacak minimum ve maksimum eşya veya yaratık miktarı</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>Maksimum Miktar</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>Oluşturulabilecek toplam maksimum eşya veya yaratık miktarı. 0 = sınırsız.</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>Alanda İçerisindeki Maksimum Miktar</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>Alan içerisinde daha fazla eşya veya yaratığın ortaya çıkmasını önleyecek eşya veya yaratık miktarı. 0 = sınırsız.</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>Maksimum Miktar Aralığı Dolgusu</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>Oluşturulacak maksimum eşya veya düşman miktarına dâhil olan alanı genişletmek için daireyi veya dikdörtgeni bu değer kadar genişlet</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.entityspawnercomponent.preloadcharacter.name>Karakteri önyükle</sp.entityspawnercomponent.preloadcharacter.name>
+<sp.entityspawnercomponent.preloadcharacter.description>Doğuran, karakter doğurursa turun başında gecikmeyi önlemek için bunlar "önyüklenmiş" karakterler mi olsun?</sp.entityspawnercomponent.preloadcharacter.description>
+<sp.holdable.holdpos.name>Tutma Pozisyonu</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>Karakterin eşyayı tuttuğu konum (karakterin omzundan piksel olarak uzaklığı). Örneğin, 10,-100 değeri, karakterin eşyayı omzunun 100 piksel altında ve 10 piksel önünde tutmasını sağlar.</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>Tutma Açısı</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>Karakterin eşyayı tutarken elinde oluşan dönme açısı.</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>Sallanma Miktarı</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>Eşyanın nişan alırken veya tutarken ne kadar sallandığını belirler. (Nişan Alma Pozisyonu ve Tutma Pozisyonuna denge olarak. Piksel miktarı)</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>Sallanma Hızı</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>Eşyanın nişan alırken veya tutarken ne kadar hızlı sallandığını belirler. (yalnızca SwingAmount ayarlanmışsa geçerlidir).</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>Tutarken Sallansın</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>Eşyanın tutarken sallanıp sallanmayacağını belirler.</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>Nişan Alırken Sallansın</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>Eşyanın nişan alırken sallanıp sallanmayacağını belirler.</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>Kullanırken Sallansın</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>Eşyanın kullanırken sallanıp sallanmayacağını belirler. (Örneğin, silah ateşlerken veya kaynak aletini kullanırken)</sp.holdable.swingwhenusing.description>
+<sp.holdable.disableheadrotation.name>Kafa Rotasyonunu Devre Dışı Bırak</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>Düşürüldüğünde Sprite Derinliği</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>Eşya duvara sabit değilken kullanılan Sprite derinliği</sp.holdable.spritedepthwhendropped.description>
+<sp.holdable.aimangle.name>Hedef açısı</sp.holdable.aimangle.name>
+<sp.holdable.aimangle.description>Karakterin hedef alırken eşyayı tuttuğu açı (karakterin elindeki dönüşe oranla derece olarak).</sp.holdable.aimangle.description>
+<sp.rangedweapon.penetration.name>Delme</sp.rangedweapon.penetration.name>
+<sp.rangedweapon.penetration.description>Zırhlı gövde parçaları vurulduğunda görmezden gelinecek hasar azaltma (püskürtme). Silah + mermi toplamı.</sp.rangedweapon.penetration.description>
+<sp.itemcontainer.containablerestrictions.name>Konteyner Kısıtlamaları</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>Botların bu konteynerın içine yerleştirmesi gereken eşyaları (tanımlayıcılara veya etiketlere göre) tanımla. Boş bırakılırsa herhangi bir kısıtlama uygulanmaz.</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>Otomatik Doldur</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>Bu konteynerın otomatik olarak eşyalarla doldurulup doldurulmaması durumunu belirler.</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>Açıklama</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>Etiket üzerinde gösterilecek olan açıklama.</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>Yerelleştirmeyi Yok Say</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>Yerelleştirmenin yok sayılıp orijinal değerin her zaman gösterilip gösterilmeyeceğini belirler.</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>Etikette görünen açıklamanın rengini belirler (R,G,B,A).</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>Etikette görünen açıklamanın boyutunu belirler.</sp.itemlabel.textscale.description>
+<sp.lightcomponent.range.description>Yayılan ışığın menzili. Daha yüksek değerler daha fazla performans gerektirir.</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>Gölge Düşülsün</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>Gelen ışığın yapılarda gölge oluşturup oluşturmaması durumunu belirler. Gölgeleri devre dışı bırakmak oyunun performansını artırır ve kısa menzilli ışıklar için kapatılması önerilir. Denizaltıların arkasına çekilecek şekilde ayarlanan ışıklar, bu ayardan bağımsız olarak gölge oluşturmaz.</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>Denizaltının Arkasında Çizilsin</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>Denizaltıların arkasına çekilen ışıklar herhangi bir gölge oluşturmaz ve gölge oluşturan ışıklardan çok daha hızlı çizilir. Denizaltı gövdesinin dışındaki dekoratif ışıklarda bu ayarın etkinleştirilmesi önerilir.</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.ison.description>Işığın şu an etkin olup olmadığını belirler.</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>Titreme</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>Işığın ne derece titrediğini belirler. 0 = titreme olmaz, 1 = ışık tamamen karanlık ve tamamen aydınlık arasında seçim yapar.</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>Titreme Hızı</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>Işığın titreme hızını belirler.</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>Darbe Frekansı</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>Işık ne kadar hızlı darbe etkisi göstereceğini belirler (Hz. cinsinden). 0 = darbe olmaz</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>Darbe Miktarı</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>Işığın ne kadar darbe etkisi göstereceğini belirler (Hz. cinsinden). 0 = darbe etkisi oluşmaz, 1 = tam aydınlık ve kapalılık arasında seçim yapar.</sp.lightcomponent.pulseamount.description>
+<sp.lightcomponent.blinkfrequency.name>Parlama Frekansı</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>Işığın ne kadar hızlı parladığını belirler (Hz. cinsinden). 0 = parlama olmaz.</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.lightcolor.description>Işığın yaydığı rengi belirler (R,G,B,A).</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>Açılıp Kapanabilirliği</sp.controller.istoggle.name>
+
+<sp.controller.state.name>Durum</sp.controller.state.name>
+<sp.controller.state.description>Eşyanın açılıp kapanabilirlik durumunu belirler. Yalnızca IsToggle ayarı evet olarak ayarlandıysa geçerlidir.</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>Yapısöküm Hızı</sp.deconstructor.deconstructionspeed.name>
+<sp.Deconstructor.DeconstructionSpeed.name>Parçalama hızı</sp.Deconstructor.DeconstructionSpeed.name>
+<sp.Deconstructor.DeconstructionSpeed.description>Parçalama hızı çarpanı</sp.Deconstructor.DeconstructionSpeed.description>
+<sp.engine.maxforce.name>Maksimum Güç</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>Motor tam güçte çalışırken denizaltıya uygulanan kuvvet miktarı.</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>Pervane Pozisyonu</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>Eşyanın merkezinden uzaklık olarak dengesini belirler (piksel cinsinden). PropellerDamage tanımlanmışsa, parçacıkların ortaya çıkacağı ve karakterlerin motordan hasar almasına neden olacağı konumu belirler.</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>Pervane Hasarını Devre Dışı Bırak</sp.engine.disablepropellerdamage.name>
+<sp.minimap.requirewaterdetectors.name>Su Dedektörü Gerekliliği</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>Makine, odaların içindeki su seviyelerini göstermek için su dedektörü girdisi gerektiriyor mu?</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>Oksijen Dedektörü Gerekliliği</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>Makine, odaların içindeki oksijen seviyelerini göstermek için oksijen dedektörü girdisi gerektiriyor mu?</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>Karina Sağlamlığını Göster</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>Hasar almış duvarlar makine tarafından gösterilir.</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>Karina Durumunu Etkinleştir</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>Karina durum modu etkinleştirilir.</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>Elektrik Görünümünü Etkinleştir</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>Elektrik Görünümü modu etkinleştirilir.</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>Eşya Bulucuyu Etkinleştir</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>Eşya bulma modunu etkinleştirir.</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>Maksimum Akıntı</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>%100 güçte çalışır durumda iken pompanın içe ve dışa su atım hızını belirler.</sp.pump.maxflow.description>
+<sp.reactor.maxpoweroutput.name>Maksimum Güç Çıkışı</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>Reaktörün tam kapasitede çalışırken ne kadar güç (kW) ürettiğini belirler.</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>Erime Gecikmesi</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>Reaktörün erimeden önce kritik konumda ne kadar süre kalabileceğini belirler.</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>Yanma Gecikmesi</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>Reaktörün yanmaya başlamadan önce kritik konumda ne kadar süre kalabileceğini belirler</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>Yakıt Tüketim Hızı</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>Yakıt çubuklarının saniyede ne kadar aşındığını belirler.</sp.reactor.fuelconsumptionrate.description>
+<sp.reactor.explosiondamagesothersubs.name>Patlama Diğer Denizaltılara Hasar Verir</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>Dönüştürücüleri Kullanır</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>Sonarın çalışması için harici dönüştürücülere bağlı olması gerekiyor mu?</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>Dönüştürücüleri Merkezle</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>Sonar görüntüsü dönüştürücülere mi yoksa denizaltının kütle merkezine mi odaklanmalıdır? Yalnızca UseTransducers etkinleştirildiyse etki eder.</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>Mineral Tarayıcılı</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>Sonarın mineral tarama modunun olup olmadığını belirler.</sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>Nötr Balast Seviyesi</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>Denizaltı yukarı veya aşağı doğru yönlendirilmediğinde balast tanklarının ne kadar dolu olması gerektiğini belirler. Balast tanklarının denizaltının boyutuna nazaran çok büyük/küçük olma durumunu egale etmek için de kullanılabilir.</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>Maksimum Enerji Çıktısı</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>Tamamen şarj olduğunda cihazdan çıkan maksimum enerji (kW).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>Kapasite</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>Cihazın maksimum kapasitesi (kW/dk). Örneğin; 1000 değeri, cihazın 10 dakikada 100 kilovat veya 1 dakikada 1000 kilovat enerji sağlayabileceği anlamına gelir.</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.description>Cihazın mevcut Şarjı.</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>Maksimum Şarj Hızı</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>Cihazın ne kadar hızlı şarj edilebileceğini belirler. Örneğin; 100 kW şarj hızı ve 1000 kW/dk kapasite, cihazın tamamen şarj edilmesinin 10 dakika süreceği anlamına gelir.</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>Şarj Hızı</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>Cihazın mevcut şarj hızını belirler.</sp.powercontainer.rechargespeed.description>
+<sp.powercontainer.efficiency.name>Etkililik</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>Eşyaya harcanan enerjinin eşyadan elde edilen enerjiye oranını belirler.</sp.powercontainer.efficiency.description>
+<sp.PowerContainer.FlipIndicator.name>Dönüş Göstergesi</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>İlerleme çubuğu gerektirirse yükleme diğer tarafa döner.</sp.PowerContainer.FlipIndicator.description>
+<sp.powertransfer.canbeoverloaded.name>Aşırı Yükleme Yapabilir</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>Elektrik şebekesine çok güç yüklenmesi durumunda eşyanın hasar görüp görmeyeceğini belirler.</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>Aşırı Yükleme Voltajı</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>Eşyanın hasar almaya başlamadan önce şebekeye ne kadar güç akması gerektiğini belirler. Örneğin; 2 değeri, şebekenin şebekedeki cihazların tükettiğinden iki kat güç alması gerektiği anlamına gelir.</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>Yangın Olasılığı</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>Eşyanın kırılması durumunda yangıç çıkması olasılığını belirler.</sp.powertransfer.fireprobability.description>
+<sp.quality.qualitylevel.name>Kalite Seviyesi</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>Aşınma Hızı</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>Eşyanın saniye başına ne kadar aşınacağını belirler.</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>Minimum Aşınma Gecikmesi</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>Eşyanın aşınmaya başlamadan önce geçebilecek minimum bekleme süresini belirler.</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>Maksimum Aşınma Gecikmesi</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>Eşyanın aşınmaya başlamadan önce geçebilecek maksimum bekleme süresini belirler.</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>Minimum Aşınma Seviyesi</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>Eşyanın kondisyonu bu değerin altındaysa eşya aşınmayı bırakır. Örneğin; değer 10'a ayarlanırsa, eşyanın kondisyonu zamanla 10'a düştükten sonra aşınma durur (eşya hâlâ dış etkenlerden hasar görebilir).</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>Onarım Eşiği</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>Eşyanın tamir edilebilir hâle gelmesi için gereken kondisyon eşiği değerini belirler.</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>Düşük Beceri Tamir Süresi</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>Yetersiz beceri değerine sahipken gereken tamir süresini belirler.</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>Yüksek Beceri Tamir Süresi</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>Yeterli beceri değerine sahipken gereken tamir süresini belirler.</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>Namlu Dönüş Açısı</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>Namlunun derece cinsinden dönüş açısını belirler.</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>Sinyaller</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>İlgili düğmelere basıldığında gönderilen sinyalleri belirler.</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>Eşyaları Etkinleştirmek</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>Eşyanın içermesi durumunda terminal tuşlarını kullanmasına izin veren işaret veya tanımlayıcılar. Birden fazla ise virgülle ayrılmalıdır.</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>Kilitli</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>Kilitli bağlantı paneli kabloları oyun içinde düzenlenemez.</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>Maksimum Değer Uzunluğu</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>Depolanan değerin maksimum uzunluğu. Uyarı: Büyük değerler, yüksek bellek kullanımına veya ağ sorunlarına yol açabilir.</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>Yazılabilme Durumu</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>Bellek bileşeninde depolanan değer sinyaller aracılığıyla değiştirilebilir mi?</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>Ölüleri Yok Say</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>Sensör, ölü karakterlerin bedenlerini görmezden gelmeli mi?</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>Yatay algılama aralığı.</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>Dikey hareket algılama aralığı.</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>Algı Dengesi</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>Eşyaya göre hareketin algılanacağı konum. Örneğin, 0,100, öğenin 100 birim yukarısındaki hareketi algılar.</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>Güncelleme aralığı</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>Sensörün, yakınında hareket eden bir şey olup olmadığını ne sıklıkta kontrol ettiğini belirler. Yüksek değerler performans için daha iyidir.</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>Eşyanın hareket tespit ettiğinde verdiği sinyal.</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>Eşyanın hareket tespit etmediğinde verdiği sinyal.</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>Minimum Gerekli Hız</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>Dedektörün menzili içindeki nesnelerin algılanmadan önce ne kadar hızlı hareket etmeleri gerektiğini belirler (m/sn cinsinden).</sp.motionsensor.minimumvelocity.description>
+<sp.terminal.welcomemessage.name>Açılış Mesajı</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>İlk açıldığında terminal ekranında gösterilecek mesaj.</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>Tek Aralıklı Yazı Tipi Kullan</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>Bu kutu işaretlenirse, terminal tek aralıklı bir yazı tipi kullanır.</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>Yazı Rengi</sp.textcolor.name>
+<sp.terminal.textcolor.description>Terminal yazısının rengini belirler.</sp.terminal.textcolor.description>
+<sp.terminal.linestartsymbol.name>Hat başlangıç sembolü</sp.terminal.linestartsymbol.name>
+<sp.terminal.readonly.name>Salt okunur</sp.terminal.readonly.name>
+<sp.range.name>Menzil</sp.range.name>
+<sp.wificomponent.range.description>Bu wifi bileşeninden bir sinyal almak için alıcının ne kadar yakın olması gerektiği.</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>Takımlar Arası İletişime İzin Ver</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>Bileşenin, başka bir takımın denizaltısındaki kablosuz bileşenlerle iletişim kurup kuramayacağını belirler. Örneğin; savaş görevlerindeki düşman denizaltısı veya yeniden doğma mekiği ile iletişim kurma gibi. Hem sinyali ileten bileşende hem de sinyali alan bileşende etkinleştirilmesi gerekir.</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>Sohbet Bağlantısı</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>Etkinleştirilirse, sohbete bağlı başka bir wifi bileşeninden alınan tüm sinyaller, eşyayı tutan oyuncunun sohbet kutusunda sohbet mesajları olarak görüntülenir.</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>Minimum Sohbet Mesaj Aralığı</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>Bir mesajın sohbet kutusunda görüntülenmesi için sinyaller arasında kaç saniye geçmesi gerektiğini belirler. Bu ayarı çok düşük bir değere ayarlaman önerilmez; sürekli sinyal ileten sohbete bağlı bir wifi bileşeni olması durumunda aşırı miktarda sohbet mesajı oluşturulmasına neden olabilir.</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>Yinelenen Sohbet Mesajlarını Yok Say</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>true olarak ayarlanırsa, bileşen sohbet mesajını yalnızca alınan sinyal değiştiğinde oluşturur.</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>Otomatik Olarak Kilitlenmez</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>Etkinleştirilirse, bu kablo "Tüm varsayılan kabloları kilitle" ayarı tarafından yok sayılır.</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>Sprite Derinliği Kullan</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>Açılırsa bu kablo sürekli derinlik yerine Sprite derinilği kullanır.</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>Ögeyi tetikleyen varlıklara uygulanan maksimum güç miktarı.</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>Mesafe Tabanlı Kuvvet</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>Tetikleyicinin tetiğin merkezine yaklaşmasıyla kuvvetin artıp artmadığını belirler.</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>Kuvvet Dalgalanması</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>Kuvvetin zamanla dalgalanıp dalgalanmadığını veya sabit kalıp kalmadığını belirler.</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>HUD Renk Tonu</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>Eşyanın çalıştırılırkenki ekran tonu rengi (R,G,B,A).</sp.turret.hudtint.description>
+<sp.turret.reload.name>Doldurma Süresi</sp.turret.reload.name>
+<sp.turret.reload.description>Kullanıcının atışlar arasında beklemesi gerektiği süreyi belirler.</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>Kullanım Başına Yaptığı Atış Sayısı</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>Fazladan bekleme süresine sebep olmadan önce kaç adet merminin atılabileceğini belirler. (Çift Gauss silahı kullanılıyormuş gibi)</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>Atışlar Arasındaki Süre</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>Atışlar arasındaki fazladan süreyi belirler. Doldurma süresine eklenir.</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>Geri Çekme Süresi Çarpanı</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>Ateş ettikten sonra namlunun orijinal konumuna geri dönmesinin ne kadar süreceğini belirler. Doldurma süresinden de etkilenir.</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>Geri Tepme Süresi</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>Fırlatmadan sonra geri tepmenin namluyu ne kadar hızlı hareket ettirdiğini belirler.</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>Geri Çekme Gecikmesi</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>Geri tepmeden sonra ve orijinal konumuna geri çekilmeden önce namlunun yerinde kalma süresini belirler.</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>Dönüş Sınırı</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>Namlunun dönebileceği menzil aralığı.</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>Düşük Beceri Döndürme Sertliği</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>Yetersiz beceri değerine sahip karakterlerin namluya uygulayacağı tork değerini belirler. Yüksek değerler namlunun daha hızlı dönmesini sağlar.</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>Yüksek Beceri Döndürme Sertliği</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>Yeterli beceri değerine sahip karakterlerin namluya uygulayacağı tork değerini belirler. Yüksek değerler namlunun daha hızlı dönmesini sağlar.</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>Düşük Beceri Döndürme Direnci</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>Yetersiz beceri değerine sahip karakterlerin namlu dönüş hızına karşı koymak için uygulayacakları tork değerini belirler. Yüksek değerler nişan alma işlemini daha "ani" hâle getireceği için namlunun hedeflendiği yön etrafında dönmesini engeller.</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>Yüksek Beceri Döndürme Direnci</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>Yeterli beceri değerine sahip karakterlerin namlu dönüş hızına karşı koymak için uygulayacakları tork değerini belirler. Yüksek değerler nişan alma işlemini daha "ani" hâle getireceği için namlunun hedeflendiği yön etrafında dönmesini engeller.</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>Düşük Beceri Döndürme Hızı</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>Yetersiz beceri değerine sahip karakterlerin namluyu çevirirken sahip olacakları açı hızlarını belirler.</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>Yüksek Beceri Döndürme Hızı</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>Yeterli beceri değerine sahip karakterlerin namluyu çevirirken sahip olacakları açı hızlarını belirler.</sp.turret.rotationspeedhighskill.description>
+<sp.turret.AutoOperate.name>Otomatik Yönetim</sp.turret.AutoOperate.name>
+<sp.turret.RandomAimAmount.name>Rastgele Hedef Miktarı</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimMinTime.name>Rastgele Hedef Minimum Süre</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMaxTime.name>Rastgele Hedef Maksimum Süre</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomMovement.name>Rastgele Hareket</sp.turret.RandomMovement.name>
+<sp.turret.AimDelay.name>Hedef Gecikmesi</sp.turret.AimDelay.name>
+<sp.turret.TargetCharacters.name>Karakterleri hedef al</sp.turret.TargetCharacters.name>
+<sp.turret.TargetMonsters.name>Yaratıkları hedef al</sp.turret.TargetMonsters.name>
+<sp.turret.TargetHumans.name>İnsanları hedef al</sp.turret.TargetHumans.name>
+<sp.turret.TargetSubmarines.name>Denizaltlarını hedef al</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetItems.name>Eşyaları hedef al</sp.turret.TargetItems.name>
+<sp.turret.FriendlyTag.name>Dost etiketi</sp.turret.FriendlyTag.name>
+<sp.dockingport.maindockingport.name>Ana Kenetlenme Noktası</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>true olarak ayarlanırsa, üste oluşturulacak olan denizaltı bu kenetlenme noktasını kullanır (şartları karşılıyorsa).</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>Kenetlenmeye Etki Ekle</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>Kenetlenme sırasında OnUse StatusEffects etkilerinin tetiklenip tetiklenmeyeceğini belirler. (vanilla kenetlenme bağlantı noktalarında bu efekt parçacık yayılması ve ses çıkması şeklinde tezahür eder).</sp.dockingport.applyeffectsondocking.description>
+<sp.dockingport.forcedockingdirection.name>Zorunlu Kenetlenme Yönü</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>Bağlantı noktasının kenetlenmeye izin verildiği yön. Örneğin, "Üst", bağlantı noktasının kendi üzerindeki başka bir bağlantı noktasına kenetlenebileceği anlamına gelir. Normalde bu ayarı değiştirmene gerek olmaz ama kenetlenme konumunun hatalı olduğunu fark edersen (örneğin, karina veya kapı olmayan bazı sıra dışı kenetlenmeler oluyorsa), zorunlu yön oluşturmak için bu ayarı kullanabilirsin.</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>Sallanma</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>Sallanma Pozisyonu</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>Sallanma Kuvveti</sp.meleeweapon.swingforce.name>
+<sp.force.name>Kuvvet</sp.force.name>
+<sp.propulsion.force.description>Kullanıcının bedenine uygulanan kuvveti belirler.</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>Üretilen Miktar</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>Makinenin tam güçte çalışırken ne kadar oksijen ürettiğini belirler.</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>Sinyal şartlar sağlandığında gönderilir.</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>Sinyal şartlar sağlandığında gönderilir. (Boşsa hiçbir sinyal gönderilmemiş demektir.)</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>Çıkış dizesinin maksimum uzunluğunu belirler. Uyarı: Büyük değerler, yüksek bellek kullanımına veya ağ yüküne neden olabilir.</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>Eşyanın sinyalleri ne kadar geciktirdiğini belirler (saniye cinsinden).</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>Eşya yeni bir sinyal aldığında önceki sinyalleri unutmalı mı?</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>Eşya gelen sinyal değiştiğinde önceki sinyalleri unutmalı mı?</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>Sürekli Çıkış</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>Eşyanın ne tür bir sinyal gönderdiğini belirler. Darbe: periyodik olarak 1 sinyali gönderir. Testere Dişi: 0'dan 1'e doğrusal olarak artan periyodik bir dalga gönderir. Sinüs: -1 ile 1 arasında salınan bir sinüs dalgası gönderir. Kare: 0 ile 1 arasında değişen bir sinyal gönderir. Üçgen: -1'den 1'e doğrusal olarak artan ve 1'den -1'e doğru azalan bir sinyal dalgası gönderir.</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>Frekans</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>Sinyalin ne kadar hızlı salındığını veya darbelerin ne kadar hızlı gönderildiğini belirler (Hz. cinsinden).</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>Çıkış dizesinin maksimum uzunluğunu belirler. Uyarı: Büyük değerler, yüksek bellek kullanımına veya ağ yüküne neden olabilir.</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>Maksimum Güç</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>Eşyadan geçebilecek maksimum güç miktarını belirler.</sp.relaycomponent.maxpower.description>
+<sp.greatercomponent.output.description>İlk sinyal, ikincisinden büyük olduğunda gönderilen sinyal (boşsa sinyal gönderilmez).</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>İlk sinyal, ikincisinden küçük veya ikincisine eşit olduğunda gönderilen sinyal (boşsa sinyal gönderilmez).</sp.greatercomponent.falseoutput.description>
+<sp.ison.name>Açık</sp.ison.name>
+<sp.relaycomponent.ison.description>Röle mevcut olarak içerisinden güç ve sinyal geçirebilir mi?</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>Alınan sinyalin hedef sinyalle eşleşmesi sonucunda bu eşyanın yaydığı sinyal.</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>Alınan sinyalin hedef sinyalle eşleşmemesi sonucunda bu eşyanın yaydığı sinyal.</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>Alınan sinyallerin karşılaştırılacağı değer.</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>Maksimum Çıkış Uzunluğu</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>Çıkış dizesinin maksimum uzunluğunu belirler. Uyarı: Büyük değerler, yüksek bellek kullanımına veya ağ yüküne neden olabilir.</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>Eşyanın su altındayken gönderdiği sinyal.</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>Eşyanın su altında değilken gönderdiği sinyal.</sp.waterdetector.falseoutput.description>
+
+<!-- Entity names -->
+<entityname.hull>Karina</entityname.hull>
+<entitydescription.hull>Karinalar, hangi parçaların "denizaltının içinde" kabul edildiğini belirler. Genellikle her oda bir karina ile çevrelenmelidir.</entitydescription.hull>
+<entityname.gap>Boşluk</entityname.gap>
+<entitydescription.gap>Boşluklar, su ve havanın iki karina arasında akmasına izin verir.</entitydescription.gap>
+<entityname.waypoint>Geçiş Noktası</entityname.waypoint>
+<entitydescription.waypoint>Yapay zekâ karakterler denizaltı içinde gezinmek için geçiş noktalarını kullanır.</entitydescription.waypoint>
+<entityname.spawnpoint>Canlanma Noktası</entityname.spawnpoint>
+<entitydescription.spawnpoint>Mürettebat üyelerinin hangi odalarda doğacaklarını belirler.</entitydescription.spawnpoint>
+
+<!-- Structure names -->
+<entityname.horizontalresizablewindow>Yeniden Boyutlandırılabilir Yatay Pencere</entityname.horizontalresizablewindow>
+<entityname.verticalresizablewindow>Yeniden Boyutlandırılabilir Dikey Pencere</entityname.verticalresizablewindow>
+<entityname.ff_x_wall>Büyük Yatay İç Duvar</entityname.ff_x_wall>
+<entityname.ff_x_wall_cables>Kablolu Büyük Yatay İç Duvar</entityname.ff_x_wall_cables>
+<entityname.ff_y_wall>Büyük Dikey İç Duvar</entityname.ff_y_wall>
+<entityname.inwalll90cables>Kablolu Büyük Dikey İç Duvar</entityname.inwalll90cables>
+<entitydescription.resizeablewallwithcollisiondetection>Çarpışma algılamalı yeniden boyutlandırılabilir bir duvar.</entitydescription.resizeablewallwithcollisiondetection>
+<entityname.inwalllcaph1>Geniş İç Duvar Kapağı H1</entityname.inwalllcaph1>
+<entityname.inwalllcaph2>Geniş İç Duvar Kapağı H2</entityname.inwalllcaph2>
+<entityname.inwalllcaph3>Geniş İç Duvar Kapağı H3</entityname.inwalllcaph3>
+<entityname.inwalllcapy1>Geniş İç Duvar Kapağı V1</entityname.inwalllcapy1>
+<entityname.inwalllcapy2>Geniş İç Duvar Kapağı V2</entityname.inwalllcapy2>
+<entityname.inwalllcapy4>Geniş İç Duvar Kapağı V4</entityname.inwalllcapy4>
+<entityname.inwallltieh1>Büyük İç Duvar Bağlantısı H1</entityname.inwallltieh1>
+<entityname.inwallltieh2>Büyük İç Duvar Bağlantısı H2</entityname.inwallltieh2>
+<entityname.inwallltieh3>Büyük İç Duvar Bağlantısı H3</entityname.inwallltieh3>
+<entityname.inwallltiev1>Büyük İç Duvar Bağlantısı V1</entityname.inwallltiev1>
+<entityname.inwallltiev2>Büyük İç Duvar Bağlantısı V2</entityname.inwallltiev2>
+<entityname.inwallltiev3>Büyük İç Duvar Bağlantısı V3</entityname.inwallltiev3>
+<entitydescription.wallcap>Duvar parçalarının uçlarına veya kesişme noktalarına yerleştirilmesi amaçlanan dekoratif bir yapı.</entitydescription.wallcap>
+<entityname.ff_wall_b>Siyah Duvar Balastı A1</entityname.ff_wall_b>
+<entityname.ff_wall_bp>Siyah Duvar Balastı A2</entityname.ff_wall_bp>
+<entityname.bwbc>Siyah Duvar Balastı C</entityname.bwbc>
+<entityname.ff_wall_c1>Siyah Duvar C1</entityname.ff_wall_c1>
+<entityname.ff_wall_c2>Siyah Duvar C2</entityname.ff_wall_c2>
+<entityname.ff_wall_c3>Siyah Duvar C3</entityname.ff_wall_c3>
+<entityname.ff_wall_d1>Siyah Duvar D1</entityname.ff_wall_d1>
+<entityname.ff_wall_d2>Siyah Duvar D2</entityname.ff_wall_d2>
+<entityname.ff_wall_d3>Siyah Duvar D3</entityname.ff_wall_d3>
+<entityname.ff_wall_e>Siyah Duvar E</entityname.ff_wall_e>
+<entityname.ff_wall_e2>Siyah Duvar E2</entityname.ff_wall_e2>
+<entityname.ff_wall_g1>Siyah Duvar G1</entityname.ff_wall_g1>
+<entityname.ff_wall_g2>Siyah Duvar G2</entityname.ff_wall_g2>
+<entityname.ff_wall_g3>Siyah Duvar G3</entityname.ff_wall_g3>
+<entityname.ff_wall_h1>Siyah Duvar H1</entityname.ff_wall_h1>
+<entityname.bgorangepanels>Arka Duvar Turuncu Paneller</entityname.bgorangepanels>
+<entityname.bgorangepanelwindow>Arka Duvar Turuncu Paneller Pencereli</entityname.bgorangepanelwindow>
+<entityname.bgpanels>Arka Duvar Panelleri</entityname.bgpanels>
+<entityname.bgpanelswindow>Arka Duvar Penceresi</entityname.bgpanelswindow>
+<entityname.PipesBackground>Arka Duvar Boruları</entityname.PipesBackground>
+<entityname.roughbgwall>Arka Duvar Su Gideri</entityname.roughbgwall>
+<entityname.cleanbgwall>Arka Duvar Temiz</entityname.cleanbgwall>
+<entitydescription.backgroundwall>Dekoratif bir arka plan duvarı.</entitydescription.backgroundwall>
+<entityname.exta_tail>Eski Kuyruk Yüzgeci A</entityname.exta_tail>
+<entitydescription.tailwithcollision>Çarpışma algılamalı denizaltı kuyruk parçası.</entitydescription.tailwithcollision>
+<entityname.tailfina>Kuyruk Yüzgeci A</entityname.tailfina>
+<entityname.tailfinb>Kuyruk Yüzgeci B</entityname.tailfinb>
+<entityname.tailfinc>Kuyruk Yüzgeci C</entityname.tailfinc>
+<entityname.tailfind>Kuyruk Yüzgeci D</entityname.tailfind>
+<entityname.tailfind2p1>Kuyruk Yüzgeci D2 P1</entityname.tailfind2p1>
+<entityname.tailfind2p2>Kuyruk Yüzgeci D2 P2</entityname.tailfind2p2>
+<entityname.tailfind2p3>Kuyruk Yüzgeci D2 P3</entityname.tailfind2p3>
+<entityname.tailfind3p1>Kuyruk Yüzgeci D3 P1</entityname.tailfind3p1>
+<entityname.tailfind3p2>Kuyruk Yüzgeci D3 P2</entityname.tailfind3p2>
+<entityname.tailfind3p3>Kuyruk Yüzgeci D3 P3</entityname.tailfind3p3>
+<entityname.tailfinep1>Kuyruk Yüzgeci E P1</entityname.tailfinep1>
+<entityname.tailfinep2>Kuyruk Yüzgeci E P2</entityname.tailfinep2>
+<entityname.tailfinfp3>Kuyruk Yüzgeci E P3</entityname.tailfinfp3>
+<entityname.tailfinf1>Kuyruk Yüzgeci F1</entityname.tailfinf1>
+<entityname.tailfinf2>Kuyruk Yüzgeci F2</entityname.tailfinf2>
+<entityname.tailfinf3>Kuyruk Yüzgeci F3</entityname.tailfinf3>
+<entityname.tailfinf4>Kuyruk Yüzgeci F4</entityname.tailfinf4>
+<entitydescription.tailnocollision>Çarpışma algılamasız dekoratif denizaltı kuyruk parçası.</entitydescription.tailnocollision>
+<entityname.exta_front>Denizaltı Ön Eğrisi A</entityname.exta_front>
+<entityname.subfrontb>Denizaltı Ön Eğrisi B</entityname.subfrontb>
+<entityname.subfrontc>Denizaltı Ön Eğrisi C</entityname.subfrontc>
+<entityname.subfrontd>Denizaltı Ön Eğrisi D</entityname.subfrontd>
+<entityname.subfronte>Denizaltı Ön Eğrisi E</entityname.subfronte>
+<entityname.subfrontg1p1>Denizaltı Ön Eğrisi F Üst</entityname.subfrontg1p1>
+<entityname.subfrontg1p2>Denizaltı Ön Eğrisi F Orta</entityname.subfrontg1p2>
+<entityname.subfrontg1p3>Denizaltı Ön Eğrisi F Alt</entityname.subfrontg1p3>
+<entityname.subfrontg2p1>Denizaltı Ön Eğrisi G Üst</entityname.subfrontg2p1>
+<entityname.subfrontg2p2>Denizaltı Ön Eğrisi G Orta</entityname.subfrontg2p2>
+<entityname.subfrontg2p3>Denizaltı Ön Eğrisi G Alt</entityname.subfrontg2p3>
+<entitydescription.frontwithcollision>Çarpışma algılamalı denizaltı ön parçası.</entitydescription.frontwithcollision>
+<entityname.frontfchaina1>Ön Zincir 1</entityname.frontfchaina1>
+<entityname.frontfchaina2>Ön Zincir 2</entityname.frontfchaina2>
+<entityname.frontpulley>Ön Kasnak</entityname.frontpulley>
+<entityname.shellaboard0dega>Metal Şerit Yatay Küçük</entityname.shellaboard0dega>
+<entityname.shellaboard0degb>Metal Şerit Yatay Büyük</entityname.shellaboard0degb>
+<entityname.shellaboard90dega>Metal Şerit Dikey Küçük</entityname.shellaboard90dega>
+<entityname.shellaboard90degb>Metal Şerit Dikey Büyük</entityname.shellaboard90degb>
+<entityname.leftwall>Basit Duvar Sol</entityname.leftwall>
+<entityname.LeftWallHeavy>Ağır Duvar Sol</entityname.LeftWallHeavy>
+<entityname.rightwall>Basit Duvar Sağ</entityname.rightwall>
+<entityname.RightWallHeavy>Ağır Duvar Sağ</entityname.RightWallHeavy>
+<entityname.topwall>Basit Duvar Üst</entityname.topwall>
+<entityname.TopWallHeavy>Ağır Duvar Üst</entityname.TopWallHeavy>
+<entityname.shella90deg>Kabuk A 90 Derece</entityname.shella90deg>
+<entityname.shella16deg>Kabuk A 16 Derece</entityname.shella16deg>
+<entityname.shella34deg>Kabuk A 34 Derece</entityname.shella34deg>
+<entityname.shella0deg>Kabuk A 0 Derece</entityname.shella0deg>
+<entityname.shella04deg>Kabuk A 4 Derece</entityname.shella04deg>
+<entityname.shella14adeg>Kabuk A 14 Derece</entityname.shella14adeg>
+<entityname.shella52deg>Kabuk A 52 Derece</entityname.shella52deg>
+<entityname.shella16degb>Kabuk A 16 Derece B</entityname.shella16degb>
+<entityname.shella25deg>Kabuk A 25 Derece</entityname.shella25deg>
+<entityname.shella45deg>Kabuk A 45 Derece</entityname.shella45deg>
+<entityname.shella32deg>Kabuk A 32 Derece</entityname.shella32deg>
+<entityname.shella14degb>Kabuk A 14 Derece B</entityname.shella14degb>
+<entityname.shella43deg>Kabuk A 43 Derece</entityname.shella43deg>
+<entityname.shella51deg>Kabuk A 51 Derece</entityname.shella51deg>
+<entityname.shella47deg>Kabuk A 47 Derece</entityname.shella47deg>
+<entityname.shella60deg>Kabuk A 60 Derece</entityname.shella60deg>
+<entityname.shella18deg>Kabuk A 18 Derece</entityname.shella18deg>
+<entityname.shella70deg>Kabuk A 70 Derece</entityname.shella70deg>
+<entityname.shella90degcurve>Kabuk A 90 Derece Eğimli</entityname.shella90degcurve>
+<entityname.shella45degb>Kabuk A 45 Derece B</entityname.shella45degb>
+<entityname.shella45degc>Kabuk A 45 Derece A</entityname.shella45degc>
+<entityname.shella45degd>Kabuk A 45 Derece B</entityname.shella45degd>
+<entityname.shella57deg>Kabuk A 57 Derece</entityname.shella57deg>
+<entityname.shella40deg>Kabuk A 40 Derece</entityname.shella40deg>
+<entityname.shella61deg>Kabuk A 61 Derece</entityname.shella61deg>
+<entityname.shella17deg>Kabuk A 17 Derece</entityname.shella17deg>
+<entityname.shella34degb>Kabuk A 34 Derece B</entityname.shella34degb>
+<entityname.shella26deg>Kabuk A 26 Derece</entityname.shella26deg>
+<entityname.shella54deg>Kabuk A 54 Derece</entityname.shella54deg>
+<entityname.shella38deg>Kabuk A 38 Derece</entityname.shella38deg>
+<entityname.shella42deg>Kabuk A 42</entityname.shella42deg>
+<entityname.shellacombo11>Kabuk A Kombo 1 1</entityname.shellacombo11>
+<entityname.shellacombo12>Kabuk A Kombo 1 2</entityname.shellacombo12>
+<entitydescription.exteriorshell>Dış denizaltı duvarı.</entitydescription.exteriorshell>
+<entityname.shellacap0dega>Kabuk A Kapak Yatay Yuvarlak</entityname.shellacap0dega>
+<entityname.shellacap0degb>Kabuk A Kapak Yatay Kare</entityname.shellacap0degb>
+<entityname.shellacap90dega>Kabuk A Kapak Dikey Yuvarlak</entityname.shellacap90dega>
+<entityname.shellacap90degb>Kabuk A Kapak Dikey Kare</entityname.shellacap90degb>
+<entityname.sshella01>Mekik Kabuğu A01</entityname.sshella01>
+<entityname.sshella02>Mekik Kabuğu A02</entityname.sshella02>
+<entityname.sshella04>Mekik Kabuğu A04</entityname.sshella04>
+<entityname.sshella05>Mekik Kabuğu A05</entityname.sshella05>
+<entityname.sshellaa06>Mekik Kabuğu A06</entityname.sshellaa06>
+<entityname.sshella07>Mekik Kabuğu A07</entityname.sshella07>
+<entityname.sshella08>Mekik Kabuğu A08</entityname.sshella08>
+<entityname.sshella09>Mekik Kabuğu A09</entityname.sshella09>
+<entityname.sshella10>Mekik Kabuğu A10</entityname.sshella10>
+<entityname.sshella11>Mekik Kabuğu A11</entityname.sshella11>
+<entityname.sshella14>Mekik Kabuğu A14</entityname.sshella14>
+<entityname.sshella15a>Mekik Kabuğu A15a</entityname.sshella15a>
+<entityname.sshella15b>Mekik Kabuğu A15b</entityname.sshella15b>
+<entityname.sshella15c>Mekik Kabuğu A15c</entityname.sshella15c>
+<entityname.sshella17a>Mekik Kabuğu A17a</entityname.sshella17a>
+<entityname.sshella17b>Mekik Kabuğu A17b</entityname.sshella17b>
+<entityname.sshella17c>Mekik Kabuğu A17c</entityname.sshella17c>
+<entityname.sshella18>Mekik Kabuğu A18</entityname.sshella18>
+<entityname.sshella19>Mekik Kabuğu A19</entityname.sshella19>
+<entityname.sshella20>Mekik Kabuğu A20</entityname.sshella20>
+<entityname.sshella21>Mekik Kabuğu A21</entityname.sshella21>
+<entityname.sshella22>Mekik Kabuğu A22</entityname.sshella22>
+<entityname.sshella23>Mekik Kabuğu A23</entityname.sshella23>
+<entityname.sshella24>Mekik Kabuğu A24</entityname.sshella24>
+<entityname.sshella25>Mekik Kabuğu A25</entityname.sshella25>
+<entityname.sshella26>Mekik Kabuğu A26</entityname.sshella26>
+<entityname.sshella27>Mekik Kabuğu A27</entityname.sshella27>
+<entityname.sshella28>Mekik Kabuğu A28</entityname.sshella28>
+<entityname.sshella30>Mekik Kabuğu A30</entityname.sshella30>
+<entityname.sshella32b>Mekik Kabuğu A32b</entityname.sshella32b>
+<entityname.sshella32c>Mekik Kabuğu A32c</entityname.sshella32c>
+<entityname.sshella32d>Mekik Kabuğu A32d</entityname.sshella32d>
+<entityname.sshella36>Mekik Kabuğu A36</entityname.sshella36>
+<entityname.sshella37>Mekik Kabuğu A37</entityname.sshella37>
+<entityname.sshella38>Mekik Kabuğu A38</entityname.sshella38>
+<entityname.sshella39>Mekik Kabuğu A39</entityname.sshella39>
+<entityname.sshella40>Mekik Kabuğu A40</entityname.sshella40>
+<entityname.sshella41>Mekik Kabuğu A41</entityname.sshella41>
+<entityname.sshellaglassa>Mekik Kabuğu A Cam A</entityname.sshellaglassa>
+<entityname.sshellaglassb>Mekik Kabuğu A Cam B</entityname.sshellaglassb>
+<entityname.sshellaglassc>Mekik Kabuğu A Cam C</entityname.sshellaglassc>
+<entityname.sshellaglassd>Mekik Kabuğu A Cam D</entityname.sshellaglassd>
+<entityname.sshellaglasse>Mekik Kabuğu A Cam E</entityname.sshellaglasse>
+<entityname.sshellaglassf>Mekik Kabuğu A Cam F</entityname.sshellaglassf>
+<entitydescription.exteriorshuttleshell>Dış mekik duvarı.</entitydescription.exteriorshuttleshell>
+<entityname.ventbendducta1>Havalandırma Dirsek Kanalı A1</entityname.ventbendducta1>
+<entityname.ventbendducta2>Havalandırma Dirsek Kanalı A2</entityname.ventbendducta2>
+<entityname.ventconnectora1>Havalandırma Bağlantısı A1</entityname.ventconnectora1>
+<entityname.ventconnectora2>Havalandırma Bağlantısı A2</entityname.ventconnectora2>
+<entityname.ventconnectora3>Havalandırma Bağlantısı A3</entityname.ventconnectora3>
+<entityname.ventconnectora4>Havalandırma Bağlantısı A4</entityname.ventconnectora4>
+<entityname.ventconnectora5>Havalandırma Bağlantısı A5</entityname.ventconnectora5>
+<entityname.ventconnectora6>Havalandırma Bağlantısı A6</entityname.ventconnectora6>
+<entityname.ventconnectora7>Havalandırma Bağlantısı A7</entityname.ventconnectora7>
+<entityname.ventconnectorcapa1>Havalandırma Bağlantısı Kapağı A1</entityname.ventconnectorcapa1>
+<entityname.ventconnectorcapa2>Havalandırma Bağlantısı Kapağı A2</entityname.ventconnectorcapa2>
+<entityname.ventducta1>Havalandırma Kanalı A1</entityname.ventducta1>
+<entityname.ventducta190deg>Havalandırma Kanalı A1 Dikey</entityname.ventducta190deg>
+<entityname.ventducta2>Havalandırma Kanalı A2</entityname.ventducta2>
+<entityname.ventducta290deg>Havalandırma Kanalı A2 Dikey</entityname.ventducta290deg>
+<entityname.ventductb1>Havalandırma Kanalı B1</entityname.ventductb1>
+<entityname.ventductb190deg>Havalandırma Kanalı B1 Dikey</entityname.ventductb190deg>
+<entityname.ventductb290deg>Havalandırma Kanalı B2 Dikey</entityname.ventductb290deg>
+<entityname.ventductbendb1>Havalandırma Kanalı Dirseği B1</entityname.ventductbendb1>
+<entityname.ventductbendb2>Havalandırma Kanalı Dirseği B2</entityname.ventductbendb2>
+<entityname.ventductfana>Havalandırma Kanalı Fanı A</entityname.ventductfana>
+<entityname.ventductlongb2>Havalandırma Kanalı B2</entityname.ventductlongb2>
+<entityname.ventductreducerb>Havalandırma Kanalı Daraltıcı B</entityname.ventductreducerb>
+<entityname.ventductreducerb90deg>Havalandırma Kanalı Daraltıcı B Dikey</entityname.ventductreducerb90deg>
+<entityname.ventlargeductreducera>Havalandırma Kanalı Büyük Daraltıcı A</entityname.ventlargeductreducera>
+<entityname.ventlargeductreducera1>Havalandırma Kanalı Orta Daraltıcı A1</entityname.ventlargeductreducera1>
+<entityname.ventlargeductreducera2>Havalandırma Kanalı Orta Daraltıcı A2</entityname.ventlargeductreducera2>
+<entityname.ventlargepipebenda1>Havalandırma Büyük Boru Dirseği A1</entityname.ventlargepipebenda1>
+<entityname.ventmediumpipebenda1>Havalandırma Orta Boru Dirseği A1</entityname.ventmediumpipebenda1>
+<entityname.ventpipea1>Havalandırma Borusu A1</entityname.ventpipea1>
+<entityname.ventpipea190deg>Havalandırma Borusu A1 Dikey</entityname.ventpipea190deg>
+<entityname.ventpipea2>Havalandırma Borusu A2</entityname.ventpipea2>
+<entityname.ventpipea290deg>Havalandırma Borusu A2 Dikey</entityname.ventpipea290deg>
+<entityname.ventpipea3>Havalandırma Borusu A3</entityname.ventpipea3>
+<entityname.ventpipea390deg>Havalandırma Borusu A3 Dikey</entityname.ventpipea390deg>
+<entityname.ventpipea4>Havalandırma Borusu A4</entityname.ventpipea4>
+<entityname.ventpipea490deg>Havalandırma Borusu A4 Dikey</entityname.ventpipea490deg>
+<entityname.ventpipea5>Havalandırma Borusu A5</entityname.ventpipea5>
+<entityname.ventpipea590deg>Havalandırma Borusu A5 Dikey</entityname.ventpipea590deg>
+<entityname.ventpipea6>Havalandırma Borusu A6</entityname.ventpipea6>
+<entityname.ventpipea690deg>Havalandırma Borusu A6 Dikey</entityname.ventpipea690deg>
+<entityname.ventpipea7>Havalandırma Borusu A7</entityname.ventpipea7>
+<entityname.ventpipea790deg>Havalandırma Borusu A7 Dikey</entityname.ventpipea790deg>
+<entityname.ventpipea8>Havalandırma Borusu A8</entityname.ventpipea8>
+<entityname.ventpipea890deg>Havalandırma Borusu A8 Dikey</entityname.ventpipea890deg>
+<entityname.ventpipea9>Havalandırma Borusu A9</entityname.ventpipea9>
+<entityname.ventpipea990deg>Havalandırma Borusu A9 Dikey</entityname.ventpipea990deg>
+<entityname.ventpipecapa1>Havalandırma Borusu Kapağı A1</entityname.ventpipecapa1>
+<entityname.ventpipecapa190deg>Havalandırma Borusu Kapağı A1 Dikey</entityname.ventpipecapa190deg>
+<entityname.ventsmallductreducera>Havalandırma Küçük Kanal Daraltıcı A</entityname.ventsmallductreducera>
+<entityname.sshellalightsa>Mekik Işıkları A</entityname.sshellalightsa>
+<entityname.sshellaplatea>Mekik Plakası A</entityname.sshellaplatea>
+<entityname.sshellaplateb>Mekik Plakası B</entityname.sshellaplateb>
+<entityname.sshellaplatexl>Mekik Plakası XL</entityname.sshellaplatexl>
+<entityname.sshellabumpera>Mekik Tamponu A</entityname.sshellabumpera>
+<entityname.sshellabumperb>Mekik Tamponu B</entityname.sshellabumperb>
+<entityname.sshellafina>Mekik Yüzgeci A</entityname.sshellafina>
+<entityname.sshellafinb>Mekik Yüzgeci B</entityname.sshellafinb>
+<entityname.sshellafinc>Mekik Yüzgeci C</entityname.sshellafinc>
+<entityname.sshellafind>Mekik Yüzgeci D</entityname.sshellafind>
+<entityname.sshellagromita>Mekik Gromiti A</entityname.sshellagromita>
+<entityname.sshellagromitb>Mekik Gromiti B</entityname.sshellagromitb>
+<entityname.sshellagromitc>Mekik Gromiti C</entityname.sshellagromitc>
+<entityname.sshellagromitd>Mekik Gromiti D</entityname.sshellagromitd>
+<entitydescription.decorativeshuttlepiece>Dekoratif bir mekik parçası.</entitydescription.decorativeshuttlepiece>
+<entityname.finabelt01>Yüzgeç Kanat Kayışı 1</entityname.finabelt01>
+<entityname.finabelt02>Yüzgeç Kanat Kayışı 2</entityname.finabelt02>
+<entityname.finabelt03>Yüzgeç Kanat Kayışı 3</entityname.finabelt03>
+<entityname.finabelt04>Yüzgeç Kanat Kayışı 4</entityname.finabelt04>
+<entityname.finabelt05>Yüzgeç Kanat Kayışı 5</entityname.finabelt05>
+<entityname.finabelt06>Yüzgeç Kanat Kayışı 6</entityname.finabelt06>
+<entityname.finabodyedge01>Yüzgeç Kanat Kenarı 1</entityname.finabodyedge01>
+<entityname.finabodyedge02>Yüzgeç Kanat Kenarı 2</entityname.finabodyedge02>
+<entityname.finabodyedge03>Yüzgeç Kanat Kenarı 3</entityname.finabodyedge03>
+<entityname.finabodyedge04>Yüzgeç Kanat Kenarı 4</entityname.finabodyedge04>
+<entityname.finabodyedge05>Yüzgeç Kanat Kenarı 5</entityname.finabodyedge05>
+<entityname.finabodyedge06>Yüzgeç Kanat Kenarı 6</entityname.finabodyedge06>
+<entityname.finabodyedge07>Yüzgeç Kanat Kenarı 7</entityname.finabodyedge07>
+<entityname.finabodyedge08>Yüzgeç Kanat Kenarı 8</entityname.finabodyedge08>
+<entityname.finabodyinside01>Yüzgeç Kanat İçi 1</entityname.finabodyinside01>
+<entityname.finabodyinside02>Yüzgeç Kanat İçi 2</entityname.finabodyinside02>
+<entityname.finabodyinside03>Yüzgeç Kanat İçi 3</entityname.finabodyinside03>
+<entityname.finabodyinside04>Yüzgeç Kanat İçi 4</entityname.finabodyinside04>
+<entityname.finabodyinside05>Yüzgeç Kanat İçi 5</entityname.finabodyinside05>
+<entityname.finabodyinside06>Yüzgeç Kanat İçi 6</entityname.finabodyinside06>
+<entityname.finbodyinside07>Yüzgeç Kanat İçi 7</entityname.finbodyinside07>
+<entityname.finabodyinside08>Yüzgeç Kanat İçi 8</entityname.finabodyinside08>
+<entityname.finabodyinside11>Yüzgeç Kanat İçi 9</entityname.finabodyinside11>
+<entityname.finabodyinside12>Yüzgeç Kanat İçi 10</entityname.finabodyinside12>
+<entityname.finabodyinside13>Yüzgeç Kanat İçi 11</entityname.finabodyinside13>
+<entityname.finabodyinside14>Yüzgeç Kanat İçi 12</entityname.finabodyinside14>
+<entityname.finabodyinside15>Yüzgeç Kanat İçi 13</entityname.finabodyinside15>
+<entityname.finabodyinside16>Yüzgeç Kanat İçi 14</entityname.finabodyinside16>
+<entityname.finacorner01>Yüzgeç Kanat Köşesi 1</entityname.finacorner01>
+<entityname.finacorner02>Yüzgeç Kanat Köşesi 2</entityname.finacorner02>
+<entityname.finacorner03>Yüzgeç Kanat Köşesi 3</entityname.finacorner03>
+<entityname.finacorner04>Yüzgeç Kanat Köşesi 4</entityname.finacorner04>
+<entityname.finacorner05>Yüzgeç Kanat Köşesi 5</entityname.finacorner05>
+<entityname.finacorner06>Yüzgeç Kanat Köşesi 6</entityname.finacorner06>
+<entityname.finacorner07>Yüzgeç Kanat Köşesi 7</entityname.finacorner07>
+<entityname.finacorner08>Yüzgeç Kanat Köşesi 8</entityname.finacorner08>
+<entityname.finacorner09>Yüzgeç Kanat Köşesi 9</entityname.finacorner09>
+<entityname.finacorner11>Yüzgeç Kanat Köşesi 10</entityname.finacorner11>
+<entityname.finacorner12>Yüzgeç Kanat Köşesi 11</entityname.finacorner12>
+<entityname.finacorner13>Yüzgeç Kanat Köşesi 12</entityname.finacorner13>
+<entityname.finacorner14>Yüzgeç Kanat Köşesi 13</entityname.finacorner14>
+<entityname.finacorner15>Yüzgeç Kanat Köşesi 14</entityname.finacorner15>
+<entityname.finadeco01>Yüzgeç Dekorasyonu 1</entityname.finadeco01>
+<entityname.finadeco02>Yüzgeç Dekorasyonu 2</entityname.finadeco02>
+<entityname.finadeco03>Yüzgeç Dekorasyonu 3</entityname.finadeco03>
+<entityname.finadeco04>Yüzgeç Dekorasyonu 4</entityname.finadeco04>
+<entityname.finadeco05>Yüzgeç Dekorasyonu 5</entityname.finadeco05>
+<entityname.finadeco06>Yüzgeç Dekorasyonu 6</entityname.finadeco06>
+<entityname.finadeco07>Yüzgeç Dekorasyonu 7</entityname.finadeco07>
+<entityname.finadeco08>Yüzgeç Dekorasyonu 8</entityname.finadeco08>
+<entityname.finadeco09>Yüzgeç Dekorasyonu 9</entityname.finadeco09>
+<entityname.finadeco10>Yüzgeç Dekorasyonu 10</entityname.finadeco10>
+<entityname.finawingpart72>Yüzgeç Dekorasyonu 11</entityname.finawingpart72>
+<entityname.finapatch01>Yüzgeç Yaması 1</entityname.finapatch01>
+<entityname.finapatch02>Yüzgeç Yaması 2</entityname.finapatch02>
+<entityname.finapatch03>Yüzgeç Yaması 3</entityname.finapatch03>
+<entityname.finapatch04>Yüzgeç Yaması 4</entityname.finapatch04>
+<entityname.finapatch05>Yüzgeç Yaması 5</entityname.finapatch05>
+<entityname.finawingpart01>Yüzgeç Kanadı G2</entityname.finawingpart01>
+<entityname.finawingpart02>Yüzgeç Kanadı G1</entityname.finawingpart02>
+<entityname.finawingpart03>Yüzgeç Kanadı E2</entityname.finawingpart03>
+<entityname.finawingpart04>Yüzgeç Kanadı E1</entityname.finawingpart04>
+<entityname.finawingpart05>Yüzgeç Kanadı D2</entityname.finawingpart05>
+<entityname.finawingpart06>Yüzgeç Kanadı D1</entityname.finawingpart06>
+<entityname.finawingpart07>Yüzgeç Kanadı F2</entityname.finawingpart07>
+<entityname.finawingpart08>Yüzgeç Kanadı F1</entityname.finawingpart08>
+<entityname.finawingpart09>Yüzgeç Kanadı Eğrisi A1</entityname.finawingpart09>
+<entityname.finawingpart10>Yüzgeç Kanadı Eğrisi A2</entityname.finawingpart10>
+<entityname.finawingpart11>Yüzgeç Kanadı E4</entityname.finawingpart11>
+<entityname.finawingpart12>Yüzgeç Kanadı E3</entityname.finawingpart12>
+<entityname.finawingpart13>Yüzgeç Kanadı D5</entityname.finawingpart13>
+<entityname.finawingpart14>Yüzgeç Kanadı D6</entityname.finawingpart14>
+<entityname.finawingpart15>Yüzgeç Kanadı D3</entityname.finawingpart15>
+<entityname.finawingpart16>Yüzgeç Kanadı D4</entityname.finawingpart16>
+<entityname.finawingpart19>Yüzgeç Çıkartması 2</entityname.finawingpart19>
+<entityname.finawingpart20>Yüzgeç Çıkartması 1</entityname.finawingpart20>
+<entityname.finawingpart22>Yüzgeç Özel Parçası 1</entityname.finawingpart22>
+<entityname.finawingpart23>Yüzgeç Özel Parçası 2</entityname.finawingpart23>
+<entityname.finawingpart24>Yüzgeç Özel Parçası 3</entityname.finawingpart24>
+<entityname.finawingpart25>Yüzgeç Özel Parçası 4</entityname.finawingpart25>
+<entityname.finawingpart26>Yüzgeç Özel Parçası 5</entityname.finawingpart26>
+<entityname.finawingpart27>Yüzgeç Özel Parçası 6</entityname.finawingpart27>
+<entityname.finawingpart28>Yüzgeç Duvarı 1</entityname.finawingpart28>
+<entityname.finawingpart29>Yüzgeç Duvarı 2</entityname.finawingpart29>
+<entityname.finawingpart30>Yüzgeç Duvarı 3</entityname.finawingpart30>
+<entityname.finawingpart31>Yüzgeç Duvarı 4</entityname.finawingpart31>
+<entityname.finawingpart32>Yüzgeç Duvarı 5</entityname.finawingpart32>
+<entityname.finawingpart33>Yüzgeç Duvarı 6</entityname.finawingpart33>
+<entityname.finawingpart34>Yüzgeç Kanadı A1</entityname.finawingpart34>
+<entityname.finawingpart35>Yüzgeç Kanadı A2</entityname.finawingpart35>
+<entityname.finawingpart36>Yüzgeç Kanadı A3</entityname.finawingpart36>
+<entityname.finawingpart38>Yüzgeç Kanadı B2</entityname.finawingpart38>
+<entityname.finawingpart39>Yüzgeç Kanadı B1</entityname.finawingpart39>
+<entityname.finawingpart40>Yüzgeç Kanadı A4</entityname.finawingpart40>
+<entityname.finawingpart41>Yüzgeç Kanadı A3</entityname.finawingpart41>
+<entityname.finawingpart42>Yüzgeç Kanadı A5</entityname.finawingpart42>
+<entityname.finawingpart43>Yüzgeç Kanadı C3</entityname.finawingpart43>
+<entityname.finawingpart44>Yüzgeç Kanadı C4</entityname.finawingpart44>
+<entityname.finawingpart45>Yüzgeç Kanadı C2</entityname.finawingpart45>
+<entityname.finawingpart46>Yüzgeç Kanadı C1</entityname.finawingpart46>
+<entityname.finawingpart67>Yüzgeç Kanadı C5</entityname.finawingpart67>
+<entityname.finawingpart68>Yüzgeç Kanadı C6</entityname.finawingpart68>
+<entityname.finawingpart53>Yüzgeç Kanadı Eğrisi B1</entityname.finawingpart53>
+<entityname.finawingpart54>Yüzgeç Kanadı Eğrisi B2</entityname.finawingpart54>
+<entityname.finawingpart55>Yüzgeç Kanadı Eğrisi C1</entityname.finawingpart55>
+<entityname.finawingpart56>Yüzgeç Kanadı Eğrisi C2</entityname.finawingpart56>
+<entityname.finawingpart17>Yüzgeç Kanadı Parçası 1</entityname.finawingpart17>
+<entityname.finawingpart18>Yüzgeç Kanadı Parçası 2</entityname.finawingpart18>
+<entityname.finawingpart21>Yüzgeç Kanadı Parçası 3</entityname.finawingpart21>
+<entityname.finawingpart37>Yüzgeç Kanadı Parçası 4</entityname.finawingpart37>
+<entityname.finawingpart47>Yüzgeç Kanadı Parçası 5</entityname.finawingpart47>
+<entityname.finawingpart48>Yüzgeç Kanadı Parçası 6</entityname.finawingpart48>
+<entityname.finawingpart49>Yüzgeç Kanadı Parçası 7</entityname.finawingpart49>
+<entityname.finawingpart50>Yüzgeç Kanadı Parçası 8</entityname.finawingpart50>
+<entityname.finawingpart52>Yüzgeç Kanadı Parçası 9</entityname.finawingpart52>
+<entityname.finawingpart57>Yüzgeç Kanadı Parçası 10</entityname.finawingpart57>
+<entityname.finawingpart58>Yüzgeç Kanadı Parçası 11</entityname.finawingpart58>
+<entityname.finawingpart59>Yüzgeç Kanadı Parçası 12</entityname.finawingpart59>
+<entityname.finawingpart60>Yüzgeç Kanadı Parçası 13</entityname.finawingpart60>
+<entityname.finawingpart61>Yüzgeç Kanadı Parçası 14</entityname.finawingpart61>
+<entityname.finawingpart62>Yüzgeç Kanadı Parçası 15</entityname.finawingpart62>
+<entityname.finawingpart63>Yüzgeç Kanadı Parçası 16</entityname.finawingpart63>
+<entityname.finawingpart64>Yüzgeç Kanadı Parçası 17</entityname.finawingpart64>
+<entityname.finawingpart65>Yüzgeç Kanadı Parçası 18</entityname.finawingpart65>
+<entityname.finawingpart66>Yüzgeç Kanadı Parçası 19</entityname.finawingpart66>
+<entityname.finawingpart69>Yüzgeç Kanadı Parçası 20</entityname.finawingpart69>
+<entityname.finawingpart70>Yüzgeç Kanadı Parçası 21</entityname.finawingpart70>
+<entityname.finawingpart71>Yüzgeç Kanadı Parçası 22</entityname.finawingpart71>
+<entityname.finawingpart73>Yüzgeç Kanadı Parçası 23</entityname.finawingpart73>
+<entityname.largehorizontalback>Büyük Yatay Sırt</entityname.largehorizontalback>
+<entityname.smallhorizontalback>Küçük Yatay Sırt</entityname.smallhorizontalback>
+<entityname.largeverticalback>Büyük Dikey Sırt</entityname.largeverticalback>
+<entityname.largeverticalback2>Büyük Dikey Sırt 2</entityname.largeverticalback2>
+<entityname.smallverticalback>Küçük Dikey Sırt</entityname.smallverticalback>
+<entityname.smallverticalback2>Küçük Dikey Sırt 2</entityname.smallverticalback2>
+<entitydescription.decorativestructure>Çarpışma algılaması olmayan dekoratif bir yapı.</entitydescription.decorativestructure>
+<entityname.doorlabel>Kapı Levhası</entityname.doorlabel>
+<entityname.engineeringlabel>Mühendislik Levhası</entityname.engineeringlabel>
+<entityname.commandlabel>Komuta Levhası</entityname.commandlabel>
+<entityname.airlocklabel>Hava Kilidi Levhası</entityname.airlocklabel>
+<entityname.cabinslabel>Kamara Levhası</entityname.cabinslabel>
+<entityname.medicallabel>Sıhhiye Levhası</entityname.medicallabel>
+<entityname.arrowup>Yukarı Ok Levhası</entityname.arrowup>
+<entityname.arrowdown>Aşağı Ok Levhası</entityname.arrowdown>
+<entityname.arrowleft>Sola Ok Levhası</entityname.arrowleft>
+<entityname.arrowright>Sağa Ok Levhası</entityname.arrowright>
+<entityname.labelslettera>A Harfi Levhası</entityname.labelslettera>
+<entityname.labelsletterb>B Harfi Levhası</entityname.labelsletterb>
+<entityname.labelsletterc>C Harfi Levhası</entityname.labelsletterc>
+<entityname.labelsletterd>D Harfi Levhası</entityname.labelsletterd>
+<entityname.labelslettere>E Harfi Levhası</entityname.labelslettere>
+<entityname.labelsletterf>F Harfi Levhası</entityname.labelsletterf>
+<entityname.labelsletterg>G Harfi Levhası</entityname.labelsletterg>
+<entityname.labelsletterh>H Harfi Levhası</entityname.labelsletterh>
+<entityname.labelsletteri>I Harfi Levhası</entityname.labelsletteri>
+<entityname.labelsletterj>J Harfi Levhası</entityname.labelsletterj>
+<entityname.labelsletterk>K Harfi Levhası</entityname.labelsletterk>
+<entityname.labelsletterl>L Harfi Levhası</entityname.labelsletterl>
+<entityname.labelsletterm>M Harfi Levhası</entityname.labelsletterm>
+<entityname.labelslettern>N Harfi Levhası</entityname.labelslettern>
+<entityname.labelslettero>O Harfi Levhası</entityname.labelslettero>
+<entityname.labelsletterp>P Harfi Levhası</entityname.labelsletterp>
+<entityname.labelsletterq>Q Harfi Levhası</entityname.labelsletterq>
+<entityname.labelsletterr>R Harfi Levhası</entityname.labelsletterr>
+<entityname.labelsletters>S Harfi Levhası</entityname.labelsletters>
+<entityname.labelslettert>T Harfi Levhası</entityname.labelslettert>
+<entityname.labelsletteru>U Harfi Levhası</entityname.labelsletteru>
+<entityname.labelsletterv>V Harfi Levhası</entityname.labelsletterv>
+<entityname.labelsletterw>W Harfi Levhası</entityname.labelsletterw>
+<entityname.labelsletterx>X Harfi Levhası</entityname.labelsletterx>
+<entityname.labelslettery>Y Harfi Levhası</entityname.labelslettery>
+<entityname.labelsletterz>Z Harfi Levhası</entityname.labelsletterz>
+<entityname.labelsnumber0>0 Rakamı Levhası</entityname.labelsnumber0>
+<entityname.labelsnumber1>1 Rakamı Levhası</entityname.labelsnumber1>
+<entityname.labelsnumber2>2 Rakamı Levhası</entityname.labelsnumber2>
+<entityname.labelsnumber3>3 Rakamı Levhası</entityname.labelsnumber3>
+<entityname.labelsnumber4>4 Rakamı Levhası</entityname.labelsnumber4>
+<entityname.labelsnumber5>5 Rakamı Levhası</entityname.labelsnumber5>
+<entityname.labelsnumber6>6 Rakamı Levhası</entityname.labelsnumber6>
+<entityname.labelsnumber7>7 Rakamı Levhası</entityname.labelsnumber7>
+<entityname.labelsnumber8>8 Rakamı Levhası</entityname.labelsnumber8>
+<entityname.labelsnumber9>9 Rakamı Levhası</entityname.labelsnumber9>
+<entityname.labelscaptureitlettera>Aşınmış A Harfi Levhası</entityname.labelscaptureitlettera>
+<entityname.labelscaptureitletterb>Aşınmış B Harfi Levhası</entityname.labelscaptureitletterb>
+<entityname.labelscaptureitletterc>Aşınmış C Harfi Levhası</entityname.labelscaptureitletterc>
+<entityname.labelscaptureitletterd>Aşınmış D Harfi Levhası</entityname.labelscaptureitletterd>
+<entityname.labelscaptureitlettere>Aşınmış E Harfi Levhası</entityname.labelscaptureitlettere>
+<entityname.labelscaptureitletterf>Aşınmış F Harfi Levhası</entityname.labelscaptureitletterf>
+<entityname.labelscaptureitletterg>Aşınmış G Harfi Levhası</entityname.labelscaptureitletterg>
+<entityname.labelscaptureitletterh>Aşınmış H Harfi Levhası</entityname.labelscaptureitletterh>
+<entityname.labelscaptureitletteri>Aşınmış I Harfi Levhası</entityname.labelscaptureitletteri>
+<entityname.labelscaptureitletterj>Aşınmış J Harfi Levhası</entityname.labelscaptureitletterj>
+<entityname.labelscaptureitletterk>Aşınmış K Harfi Levhası</entityname.labelscaptureitletterk>
+<entityname.labelscaptureitletterl>Aşınmış L Harfi Levhası</entityname.labelscaptureitletterl>
+<entityname.labelscaptureitletterm>Aşınmış M Harfi Levhası</entityname.labelscaptureitletterm>
+<entityname.labelscaptureitlettern>Aşınmış N Harfi Levhası</entityname.labelscaptureitlettern>
+<entityname.labelscaptureitlettero>Aşınmış O Harfi Levhası</entityname.labelscaptureitlettero>
+<entityname.labelscaptureitletterp>Aşınmış P Harfi Levhası</entityname.labelscaptureitletterp>
+<entityname.labelscaptureitletterq>Aşınmış Q Harfi Levhası</entityname.labelscaptureitletterq>
+<entityname.labelscaptureitletterr>Aşınmış R Harfi Levhası</entityname.labelscaptureitletterr>
+<entityname.labelscaptureitletters>Aşınmış S Harfi Levhası</entityname.labelscaptureitletters>
+<entityname.labelscaptureitlettert>Aşınmış T Harfi Levhası</entityname.labelscaptureitlettert>
+<entityname.labelscaptureitletteru>Aşınmış U Harfi Levhası</entityname.labelscaptureitletteru>
+<entityname.labelscaptureitletterv>Aşınmış V Harfi Levhası</entityname.labelscaptureitletterv>
+<entityname.labelscaptureitletterw>Aşınmış W Harfi Levhası</entityname.labelscaptureitletterw>
+<entityname.labelscaptureitletterx>Aşınmış X Harfi Levhası</entityname.labelscaptureitletterx>
+<entityname.labelscaptureitlettery>Aşınmış Y Harfi Levhası</entityname.labelscaptureitlettery>
+<entityname.labelscaptureitletterz>Aşınmış Z Harfi Levhası</entityname.labelscaptureitletterz>
+<entityname.labelscaptureitnumber0>Aşınmış 0 Rakamı Levhası</entityname.labelscaptureitnumber0>
+<entityname.labelscaptureitnumber1>Aşınmış 1 Rakamı Levhası</entityname.labelscaptureitnumber1>
+<entityname.labelscaptureitnumber2>Aşınmış 2 Rakamı Levhası</entityname.labelscaptureitnumber2>
+<entityname.labelscaptureitnumber3>Aşınmış 3 Rakamı Levhası</entityname.labelscaptureitnumber3>
+<entityname.labelscaptureitnumber4>Aşınmış 4 Rakamı Levhası</entityname.labelscaptureitnumber4>
+<entityname.labelscaptureitnumber5>Aşınmış 5 Rakamı Levhası</entityname.labelscaptureitnumber5>
+<entityname.labelscaptureitnumber6>Aşınmış 6 Rakamı Levhası</entityname.labelscaptureitnumber6>
+<entityname.labelscaptureitnumber7>Aşınmış 7 Rakamı Levhası</entityname.labelscaptureitnumber7>
+<entityname.labelscaptureitnumber8>Aşınmış 8 Rakamı Levhası</entityname.labelscaptureitnumber8>
+<entityname.labelscaptureitnumber9>Aşınmış 9 Rakamı Levhası</entityname.labelscaptureitnumber9>
+<entityname.labelsiconairlock>Hava Kilidi İkon Levhası</entityname.labelsiconairlock>
+<entityname.labelsiconballast>Balast İkon Levhası</entityname.labelsiconballast>
+<entityname.labelsiconcargo>Kargo İkon Levhası</entityname.labelsiconcargo>
+<entityname.labelsicondiving>Dalış İkon Levhası</entityname.labelsicondiving>
+<entityname.labelsicondocking>Kenetlenme İkon Levhası</entityname.labelsicondocking>
+<entityname.labelsiconelectricity>Elektrik İkon Levhası</entityname.labelsiconelectricity>
+<entityname.labelsiconengine>Motor İkon Levhası</entityname.labelsiconengine>
+<entityname.labelsiconengineering>Mühendislik İkon Levhası</entityname.labelsiconengineering>
+<entityname.labelsiconexit>Çıkış İkon Levhası</entityname.labelsiconexit>
+<entityname.labelsiconmedical>Sıhhiye İkon Levhası</entityname.labelsiconmedical>
+<entityname.labelsiconreactor>Reaktör İkon Levhası</entityname.labelsiconreactor>
+<entityname.labelsiconsecurity>Güvenlik İkon Levhası</entityname.labelsiconsecurity>
+<entityname.labelsiconsteering>Dümen İkon Levhası</entityname.labelsiconsteering>
+<entityname.labelsiconweapons>Silah İkon Levhası</entityname.labelsiconweapons>
+<entityname.labelsarroverticala>Dikey Ok Levhası A</entityname.labelsarroverticala>
+<entityname.labelsarroverticalb>Dikey Ok Levhası B</entityname.labelsarroverticalb>
+<entityname.labelsarrowdiagonala>Çapraz Ok Levhası A</entityname.labelsarrowdiagonala>
+<entityname.labelsarrowdiagonalb>Çapraz Ok Levhası B</entityname.labelsarrowdiagonalb>
+<entityname.labelsarrowhorizontala>Yatay Ok Levhası A</entityname.labelsarrowhorizontala>
+<entityname.labelsarrowhorizontalb>Yatay Ok Levhası B</entityname.labelsarrowhorizontalb>
+<entityname.decorativelabel>Dekoratif bir levha.</entityname.decorativelabel>
+<entityname.cableholderhorizontal>Kablo Tutucu Yatay</entityname.cableholderhorizontal>
+<entityname.cableholdervertical>Kablo Tutucu Dikey</entityname.cableholdervertical>
+<entitydescription.cableholder>Kabloları düzgün bir şekilde istiflemek için kullanılan dekoratif şerit.</entitydescription.cableholder>
+<entityname.topwindow>Üst Pencere</entityname.topwindow>
+<entityname.verticalwindow>Dikey Pencere</entityname.verticalwindow>
+<entityname.largeplatform>Platform Büyük</entityname.largeplatform>
+<entityname.platform>Platform Basit</entityname.platform>
+<entitydescription.platform>Karakterin isteğe bağlı olarak aşağı inebileceği veya tırmanabileceği yürünebilir platform.</entitydescription.platform>
+<entityname.slopeforward>Eğim İleri</entityname.slopeforward>
+<entityname.slopeback>Eğim Geri</entityname.slopeback>
+<entitydescription.decorativepiece>Dekoratif bir öge.</entitydescription.decorativepiece>
+<entityname.stairs>Merdiven</entityname.stairs>
+<entityname.stairsshort>Merdiven Kısa</entityname.stairsshort>
+<entityname.stairslong>Merdiven Uzun</entityname.stairslong>
+<entityname.ruinwallhorizontal>Kalıntı Duvarı Yatay</entityname.ruinwallhorizontal>
+<entityname.ruinwallvertical>Kalıntı Duvarı Dikey</entityname.ruinwallvertical>
+<entityname.ruinwallheavyhorizontal>Kalıntı Duvarı Ağır Yatay</entityname.ruinwallheavyhorizontal>
+<entityname.ruinwallheavyvertical>Kalıntı Duvarı Ağır Dikey</entityname.ruinwallheavyvertical>
+<entityname.ruinwallhorizontalsmall>Kalıntı Duvarı Küçük Yatay</entityname.ruinwallhorizontalsmall>
+<entityname.ruinwallverticalsmall>Kalıntı Duvarı Küçük Dikey</entityname.ruinwallverticalsmall>
+<entityname.ruinback>Kalıntı Arka Duvar Temel</entityname.ruinback>
+<entityname.ruinprop>Harabe Dekorasyonu</entityname.ruinprop>
+<entityname.bunk>Ranza</entityname.bunk>
+<entityname.opdeco_weaponstoragesuit1>Kıyafet Vitrini</entityname.opdeco_weaponstoragesuit1>
+<entityname.op_weaponstoragesmall>Küçük Silah Vitrini</entityname.op_weaponstoragesmall>
+<entityname.op_weaponstoragemedium>Orta Silah Vitrini</entityname.op_weaponstoragemedium>
+<entityname.op_weaponstoragelarge>Büyük Silah Vitrini</entityname.op_weaponstoragelarge>
+<entityname.opdeco_storageitemshelf>Eşya Vitrin Rafı</entityname.opdeco_storageitemshelf>
+<entityname.opdeco_storagemineralshelf>Mineral Vitrin Rafı</entityname.opdeco_storagemineralshelf>
+<entityname.opdeco_storageweaponshelf>Silah Vitrin Rafı</entityname.opdeco_storageweaponshelf>
+<entityname.opdeco_storageseedshelf>Tohum Vitrin Rafı</entityname.opdeco_storageseedshelf>
+<entityname.opdeco_storagefrozenseedshelf>Donmuş Tohum Vitrin Rafı</entityname.opdeco_storagefrozenseedshelf>
+<entityname.opdeco_diningtable>Yemek Masası</entityname.opdeco_diningtable>
+<entityname.opdeco_boxes1>Kutular</entityname.opdeco_boxes1>
+<entityname.opdeco_bunks1>Ranzalar</entityname.opdeco_bunks1>
+<entityname.opdeco_researchdecal1>Laboratuvar Dekorasyonu</entityname.opdeco_researchdecal1>
+<entityname.opdeco_hrwindow1>Ofis Penceresi</entityname.opdeco_hrwindow1>
+<entityname.opdeco_hrwindow2>Büyük Ofis Penceresi</entityname.opdeco_hrwindow2>
+<entityname.opdeco_hrwindowblinds>Ofis Penceresi Panjuru</entityname.opdeco_hrwindowblinds>
+<entityname.opdeco_hrblinds>Büyük Ofis Penceresi Panjuru</entityname.opdeco_hrblinds>
+<entityname.opdeco_hrglassoffice>Ofis Kapısı</entityname.opdeco_hrglassoffice>
+<entityname.opdeco_hrticketdispenser>Bilet Makinesi</entityname.opdeco_hrticketdispenser>
+<entityname.opdeco_hrnewspaperrack>Gazete Rafı</entityname.opdeco_hrnewspaperrack>
+<entityname.opdeco_hrcalendar>Takvim</entityname.opdeco_hrcalendar>
+<entityname.opdeco_hrsign>Levha Arka Planı</entityname.opdeco_hrsign>
+<entityname.opdeco_hrheater>Radyatör</entityname.opdeco_hrheater>
+<entityname.opdeco_hrelectricpanel>Bildiri Panosu</entityname.opdeco_hrelectricpanel>
+<entityname.opdeco_hrbench>Bank</entityname.opdeco_hrbench>
+<entityname.opdeco_hrflyers>El İlanları</entityname.opdeco_hrflyers>
+<entityname.opdeco_officeshelf1>Ofis Dolabı</entityname.opdeco_officeshelf1>
+<entityname.opdeco_officedesk1>Ofis Masası</entityname.opdeco_officedesk1>
+<entityname.opdeco_officedisplay1>Dekoratif Kupa</entityname.opdeco_officedisplay1>
+<entityname.opdeco_computer>Bilgisayar Terminali</entityname.opdeco_computer>
+<entityname.opdeco_shelfsmall>Küçük Raf</entityname.opdeco_shelfsmall>
+<entityname.opdeco_shelfmedium>Orta Raf</entityname.opdeco_shelfmedium>
+<entityname.opdeco_shelflarge>Büyük Raf</entityname.opdeco_shelflarge>
+<entityname.opdeco_rollupdoor>Sarmal Kapı</entityname.opdeco_rollupdoor>
+<entityname.opdeco_rollupdoorframe>Sarmal Kapı Çerçevesi</entityname.opdeco_rollupdoorframe>
+<entityname.opdeco_subblueprint1>Denizaltı Şablonu</entityname.opdeco_subblueprint1>
+<entityname.opdeco_toolrack1>Alet Rafı</entityname.opdeco_toolrack1>
+<entityname.opdeco_ladder>Seyyar Merdiven</entityname.opdeco_ladder>
+<entityname.opdeco_shelf>Vitrin Rafı</entityname.opdeco_shelf>
+<entityname.opdeco_desk>Vezne</entityname.opdeco_desk>
+<entityname.opdeco_oxygentanks>Oksijen Tankı</entityname.opdeco_oxygentanks>
+<entityname.opdeco_crane>Maden İskelesi</entityname.opdeco_crane>
+<entityname.opdeco_trolley1>Maden Arabası 1</entityname.opdeco_trolley1>
+<entityname.opdeco_trolley2>Maden Arabası 2</entityname.opdeco_trolley2>
+<entityname.opdeco_debris1>Maden Enkazı 1</entityname.opdeco_debris1>
+<entityname.opdeco_debris2>Maden Enkazı 2</entityname.opdeco_debris2>
+<entityname.opdeco_debris3>Maden Enkazı 3</entityname.opdeco_debris3>
+<entityname.opdeco_construction_sign>İnşaat Levhası</entityname.opdeco_construction_sign>
+<entityname.opdeco_box1>Kutu 1</entityname.opdeco_box1>
+<entityname.opdeco_box2>Kutu 2</entityname.opdeco_box2>
+<entityname.opdeco_box3>Kutu 3</entityname.opdeco_box3>
+<entityname.opdeco_box4>Kutu 4</entityname.opdeco_box4>
+<entityname.opdeco_box5>Kutu 5</entityname.opdeco_box5>
+<entityname.heavydoor>Ağır Kapı</entityname.heavydoor>
+<entityname.opdeco_door>Arka Plan Kapısı</entityname.opdeco_door>
+<entitydescription.decodoor>Dekoratif bir kapı.</entitydescription.decodoor>
+<entityname.opdeco_door>Kilitli Kapı</entityname.opdeco_door>
+<entityname.opdeco_towelrack>Havlu Rafı</entityname.opdeco_towelrack>
+<entityname.concretewall>Beton Duvar</entityname.concretewall>
+<entityname.opdeco_wheelchair1>Tekerlekli Sandalye</entityname.opdeco_wheelchair1>
+<entityname.opdeco_adposter>Reklam Panosu</entityname.opdeco_adposter>
+<entityname.windowglass>Pencere Camı</entityname.windowglass>
+<entityname.windowframe>Pencere Çerçevesi</entityname.windowframe>
+<entityname.op_cafeteriawindow>Kafeterya Barı</entityname.op_cafeteriawindow>
+<entityname.op_gardendistiller>Damıtıcı</entityname.op_gardendistiller>
+<entityname.op_cafeteriabench>Kafeterya Bankı</entityname.op_cafeteriabench>
+<entityname.op_cafeteriatable>Kafeterya Masası</entityname.op_cafeteriatable>
+<entityname.op_cafeteriachair>Kafeterya Sandalyesi</entityname.op_cafeteriachair>
+<entityname.op_cafeteriaposter>Kafeterya Posteri</entityname.op_cafeteriaposter>
+<entityname.op_cafeteriacart>Kafeterya Arabası</entityname.op_cafeteriacart>
+<entityname.op_gardenproducebox>Üretim Kutuları</entityname.op_gardenproducebox>
+<entityname.op_gardenbags>Toprak Torbaları</entityname.op_gardenbags>
+<entityname.op_gardenposter>Bahçe Posteri</entityname.op_gardenposter>
+<entityname.table>Masa</entityname.table>
+<entityname.Target>Hedef</entityname.Target>
+<entityname.sign>Tabela</entityname.sign>
+<entityname.op_freezer>Dondurucu</entityname.op_freezer>
+<entityname.op_clothesrack>Kıyafet Rafı</entityname.op_clothesrack>
+<entityname.op_metalchair>Metal Sandalye Seti</entityname.op_metalchair>
+<entityname.op_washingmachine>Çamaşır Makinesi</entityname.op_washingmachine>
+<entityname.op_smallcouch>Koltuk</entityname.op_smallcouch>
+<entityname.op_janitorcart>Temizlikçi Arabası</entityname.op_janitorcart>
+<entityname.op_towellocker>Havlu Dolabı</entityname.op_towellocker>
+<entityname.op_inkpainting>Mürekkep Çizimi</entityname.op_inkpainting>
+<entityname.op_banner>Asılı Bayrak</entityname.op_banner>
+<entityname.op_boxcart>Metal Araba</entityname.op_boxcart>
+<entityname.op_sworddisplay>Kılıç Vitrini</entityname.op_sworddisplay>
+<entityname.op_statue>Heykel</entityname.op_statue>
+<entityname.op_raptorhead>Çamur Kuşu Kafası</entityname.op_raptorhead>
+<entityname.op_shower>Duş Seti</entityname.op_shower>
+<entityname.op_painting1>Çerçeveli Resim</entityname.op_painting1>
+<entityname.op_wetsign>Temizlik Tahtası</entityname.op_wetsign>
+<entityname.FF_Wall_I1>Üs Duvarı 1</entityname.FF_Wall_I1>
+<entityname.FF_Wall_I2>Üs Duvarı 2</entityname.FF_Wall_I2>
+<entityname.FF_Wall_I3>Üs Duvarı 3</entityname.FF_Wall_I3>
+<entityname.opbg_generic1>Genel Üs Duvarı 1</entityname.opbg_generic1>
+<entityname.opbg_generic2>Genel Üs Duvarı 2</entityname.opbg_generic2>
+<entityname.opbg_generic3>Genel Üs Duvarı 3</entityname.opbg_generic3>
+<entityname.opbg_generic4>Genel Üs Duvarı 4</entityname.opbg_generic4>
+<entityname.opbg_generic5>Genel Üs Duvarı 5</entityname.opbg_generic5>
+<entityname.opbg_generic6>Genel Üs Duvarı 6</entityname.opbg_generic6>
+<entityname.opbg_generic7>Genel Üs Duvarı 7</entityname.opbg_generic7>
+<entityname.opbg_airlock1>Üs Hava Kilidi Duvarı</entityname.opbg_airlock1>
+<entityname.opbgshopa1>Üs Satıcı Duvarı 1</entityname.opbgshopa1>
+<entityname.opbg_shop2>Üs Satıcı Duvarı 2</entityname.opbg_shop2>
+<entityname.opbg_shop3>Üs Satıcı Duvarı 3</entityname.opbg_shop3>
+<entityname.opbg_shop4>Üs Satıcı Duvarı 4</entityname.opbg_shop4>
+<entityname.opbgsocialcentera1>Üs Toplum Merkezi Duvarı</entityname.opbgsocialcentera1>
+<entityname.opbg_barracks1>Üs Kışla Arka Planı 1</entityname.opbg_barracks1>
+<entityname.opbg_barracks2>Üs Kışla Arka Planı 2</entityname.opbg_barracks2>
+<entityname.opbg_barracks3>Üs Kışla Arka Planı 3</entityname.opbg_barracks3>
+<entityname.opbg_services1>Üs Hizmet Arka Planı 1</entityname.opbg_services1>
+<entityname.opbg_services2>Üs Hizmet Arka Planı 2</entityname.opbg_services2>
+<entityname.opbgmaintenancebaya1>Üs Bakım Bölümü Arka Planı 1</entityname.opbgmaintenancebaya1>
+<entityname.opbgmaintenancebaya2>Üs Bakım Bölümü Arka Planı 2</entityname.opbgmaintenancebaya2>
+<entityname.opbgmaintenancebaya3>Üs Bakım Bölümü Arka Planı 3</entityname.opbgmaintenancebaya3>
+<entityname.opbg_researchlab1>Üs Araştırma Laboratuvarı Arka Planı 1</entityname.opbg_researchlab1>
+<entityname.opbg_researchlab2>Üs Araştırma Laboratuvarı Arka Planı 2</entityname.opbg_researchlab2>
+<entityname.opbg_tunnel1>Üs Tünel Arka Planı 1</entityname.opbg_tunnel1>
+<entityname.opbg_tunnel2>Üs Tünel Arka Planı 2</entityname.opbg_tunnel2>
+<entityname.opbg_tunnel4>Üs Tünel Arka Planı 4</entityname.opbg_tunnel4>
+<entityname.opbg_tunnel5>Üs Tünel Arka Planı 5</entityname.opbg_tunnel5>
+<entityname.opbg_tunnel6>Üs Tünel Arka Planı 6</entityname.opbg_tunnel6>
+<entityname.opbg_manageroffice1>Üs Yönetici Ofisi Arka Planı 1</entityname.opbg_manageroffice1>
+<entityname.opbg_manageroffice2>Üs Yönetici Ofisi Arka Planı 2</entityname.opbg_manageroffice2>
+<entityname.opbg_manageroffice3>Üs Yönetici Ofisi Arka Planı 3</entityname.opbg_manageroffice3>
+<entityname.opbg_dorm1>Üs Koğuş Arka Planı</entityname.opbg_dorm1>
+<entityname.opbg_messhall1>Üs Yemekhane Arka Planı</entityname.opbg_messhall1>
+<entityname.opdeco_nuclearsign>Nükleer Simge Tabelası</entityname.opdeco_nuclearsign>
+<entityname.opdeco_instructionsign>Eğitim Tabelası</entityname.opdeco_instructionsign>
+<entityname.opdeco_propagandaposter>Propoganda Afişi</entityname.opdeco_propagandaposter>
+<entityname.crackedwall1>Çatlak Duvar Dekorasyonu</entityname.crackedwall1>
+<entityname.graffiti1>Grafiti</entityname.graffiti1>
+<entityname.icewall>Tünel Buz Duvarı</entityname.icewall>
+<entityname.icewallcracked>Tünel Buz Duvarı Çatlak</entityname.icewallcracked>
+<entityname.icewall90>Tünel Buz Duvarı 90</entityname.icewall90>
+<entityname.icewallcracked90>Tünel Buz Duvarı Çatlak 90</entityname.icewallcracked90>
+<entityname.icerock01>Tünel Buz Kayası 1</entityname.icerock01>
+<entityname.icerock02>Tünel Buz Kayası 2</entityname.icerock02>
+<entityname.icerock03>Tünel Buz Kayası 3</entityname.icerock03>
+<entityname.icerock04>Tünel Buz Kayası 4</entityname.icerock04>
+<entityname.thalamus_background_2>Thalamus Arka Planı 2</entityname.thalamus_background_2>
+<entityname.thalamus_background_3>Thalamus Arka Planı 3</entityname.thalamus_background_3>
+<entityname.thalamus_background_4>Thalamus Arka Planı 4</entityname.thalamus_background_4>
+<entityname.medbaywall1>Sıhhiye Duvarı 1</entityname.medbaywall1>
+<entityname.opdeco_medrack>Sıhhiye Rafı</entityname.opdeco_medrack>
+<entityname.opdeco_hospitalbed>Hastane Yatağı</entityname.opdeco_hospitalbed>
+<entityname.opdeco_diningtablesmall>Küçük Yemek Masası</entityname.opdeco_diningtablesmall>
+<entityname.opdeco_liftingequpiment>Vinç Ekipmanları</entityname.opdeco_liftingequpiment>
+<entityname.opdeco_construction_barrier>İnşaat Bariyeri</entityname.opdeco_construction_barrier>
+<entityname.opdeco_supportbeam>Destek Kirişi</entityname.opdeco_supportbeam>
+<entityname.opdeco_icecube>Buz Kübü</entityname.opdeco_icecube>
+<entityname.opdeco_icepillar>Buz Sütunu</entityname.opdeco_icepillar>
+<entityname.opdeco_monitor>Monitör</entityname.opdeco_monitor>
+<entityname.decowire1>Dekoratif Kablo</entityname.decowire1>
+<entityname.decopanel1>Dekoratif Panel</entityname.decopanel1>
+<entityname.decocolumn1>Dekoratif Kolon</entityname.decocolumn1>
+<entityname.decobarrier1>Koruyucu Bariyer</entityname.decobarrier1>
+<entityname.opbg_jail>Beyaz Hapishane</entityname.opbg_jail>
+<entityname.opbg_rock>Kaya Arka Planı</entityname.opbg_rock>
+<entityname.opdeco_prisonbed>Hapishane Yatağı</entityname.opdeco_prisonbed>
+<entityname.shop_decoration>Satıcı Dekorasyonu</entityname.shop_decoration>
+<entityname.op_circusposter.png>Poster</entityname.op_circusposter.png>
+<entityname.op_plaque.png>Plak</entityname.op_plaque.png>
+<entityname.wreckdecal>Enkaz Dekorasyonu</entityname.wreckdecal>
+<entityname.engineerequipment>Mühendislik Ekipmanları</entityname.engineerequipment>
+<entityname.Jaildoor>Hapishane Kapısı</entityname.Jaildoor>
+<entityname.shelf>Raf</entityname.shelf>
+
+<!-- The following texts are only used in "hidden editors" only accessible by console commands and intended for very advanced modders (and the devs), these don't need to be localized -->
+
+<!-- Sprite editor -->
+<spriteeditor.reloadtexture>Dokuyu Yükle</spriteeditor.reloadtexture>
+<spriteeditor.texturesreloaded>Doku şu hedeften yüklendi: [filepath]</spriteeditor.texturesreloaded>
+<spriteeditor.resetchanges>Değişiklikleri Sıfırla</spriteeditor.resetchanges>
+<spriteeditor.resetsuccessful>Değişiklikler başarıyla sıfırlandı</spriteeditor.resetsuccessful>
+<spriteeditor.saveselectedsprites>Seçili Sprite'ları Kaydet</spriteeditor.saveselectedsprites>
+<spriteeditor.saveallsprites>Tüm Sprite'ları Kaydet</spriteeditor.saveallsprites>
+<spriteeditor.zoom>Yakınlaştırma Derecesi:</spriteeditor.zoom>
+<spriteeditor.resetzoom>Yakınlaştırmayı Sıfırla</spriteeditor.resetzoom>
+<spriteeditor.showgrid>Şebekeyi Göster</spriteeditor.showgrid>
+<spriteeditor.snaptogrid>Şebekeye Geç</spriteeditor.snaptogrid>
+<spriteeditor.backgroundcolor>Arka Plan\Rengi:</spriteeditor.backgroundcolor>
+<spriteeditor.colorcomponentr>R</spriteeditor.colorcomponentr>
+<spriteeditor.colorcomponentg>G</spriteeditor.colorcomponentg>
+<spriteeditor.colorcomponentb>B</spriteeditor.colorcomponentb>
+<spriteeditor.allchangessavedto>Tüm değişiklikler şu hedefe kaydedildi:</spriteeditor.allchangessavedto>
+
+<!-- Event editor -->
+<eventeditor.loadevent>Hazır event şablonunu yükle</eventeditor.loadevent>
+<eventeditor.addaction>Event aksiyonu ekle</eventeditor.addaction>
+<eventeditor.addvalue>Değer ekle</eventeditor.addvalue>
+<eventeditor.addspecial>Özellik ekle</eventeditor.addspecial>
+<eventeditor.add>Ekle</eventeditor.add>
+<eventeditor.edit>Değeri düzenle</eventeditor.edit>
+<eventeditor.delete>Nodu sil</eventeditor.delete>
+<eventeditor.removeconnection>Bağlantıları temizle</eventeditor.removeconnection>
+<eventeditor.removeoption>Seçeneği sil</eventeditor.removeoption>
+<eventeditor.addoption>Seçenek ekle</eventeditor.addoption>
+<eventeditor.saveproject>Projeyi kaydet</eventeditor.saveproject>
+<eventeditor.loadproject>Projeyi yükle</eventeditor.loadproject>
+<eventeditor.newproject>Yeni proje</eventeditor.newproject>
+<eventeditor.newprojectprompt>Yeni bir proje oluşturmak istediğine emin misin? Kaydedilmemiş tüm veriler silinecek.</eventeditor.newprojectprompt>
+<eventeditor.export>Event olarak dışa aktar</eventeditor.export>
+<eventeditor.namefileprompt>Projeyi farklı kaydet</eventeditor.namefileprompt>
+<eventeditor.exportprojectprompt>Projeyi farklı olarak dışa aktar</eventeditor.exportprojectprompt>
+<eventeditor.unnamed>İsimsiz</eventeditor.unnamed>
+<eventeditor.opentextheader>Eventi aç</eventeditor.opentextheader>
+<eventeditor.opentextbody>Dışa aktarılan eventi bir metin düzenleyicide açmak istiyor musun?</eventeditor.opentextbody>
+<eventeditor.randomgenerationheader>Nod konumu bulunamadı</eventeditor.randomgenerationheader>
+<eventeditor.randomgenerationbody>Bu event, event düzenleyici ile oluşturulmamış ve tanımlı bir noda sahip değil; otomatik olarak üretiliyor.</eventeditor.randomgenerationbody>
+
+<!-- Particle editor -->
+<particleeditor.emitter>Yayıcı</particleeditor.emitter>
+
+<!-- Level editor -->
+<leveleditor.levelseed>Seviye Tohumu</leveleditor.levelseed>
+<leveleditor.generate>Üret</leveleditor.generate>
+<leveleditor.test>Test et</leveleditor.test>
+<leveleditor.lightingenabled>Işıklandırmayı Etkinleştir</leveleditor.lightingenabled>
+<leveleditor.cursorlightenabled>İmleç Işığını Etkinleştir</leveleditor.cursorlightenabled>
+<leveleditor.reloadtextures>Dokuları Tekrar Yükle</leveleditor.reloadtextures>
+<leveleditor.spriteeditdone>Uygula</leveleditor.spriteeditdone>
+<leveleditor.levelobjcommonness>Yaygınlık seviyesi [leveltype]</leveleditor.levelobjcommonness>
+<leveleditor.editsprite>Sprite'ı Düzenle</leveleditor.editsprite>
+<leveleditor.childobjects>Alt Objeler</leveleditor.childobjects>
+<leveleditor.addchildobject>Alt Obje Ekle</leveleditor.addchildobject>
+<leveleditor.lightsources>Işık Kaynakları</leveleditor.lightsources>
+<leveleditor.addlightsource>Işık Kaynağı Ekle</leveleditor.addlightsource>
+<leveleditor.createlevelobj>Seviye Objesi Ekle</leveleditor.createlevelobj>
+<leveleditor.levelobjname>İsim</leveleditor.levelobjname>
+<leveleditor.levelobjtexturepath>Doku Hedefi</leveleditor.levelobjtexturepath>
+<leveleditor.levelobjnameempty>Lütfen seviye objesi için bir isim seç.</leveleditor.levelobjnameempty>
+<leveleditor.levelobjnametaken>Seçili isim zaten kullanılmakta.</leveleditor.levelobjnametaken>
+<leveleditor.levelobjtexturenotfound>Seçili doku dosyası bulunamadı.</leveleditor.levelobjtexturenotfound>
+<leveleditor.ruinparams>Kalıntı parametreleri</leveleditor.ruinparams>
+<leveleditor.caveparams>Mağara parametreleri</leveleditor.caveparams>
+<leveleditor.outpostparams>Üs parametreleri</leveleditor.outpostparams>
+<leveleditor.addmoduletype>Modül tipi ekle</leveleditor.addmoduletype>
+<leveleditor.allowinvalidoutpost>Geçersiz üslere izin ver</leveleditor.allowinvalidoutpost>
+<leveleditor.allowinvalidoutpost.tooltip>Üs oluşturucu, bir geri üs ile mevcut üssü değiştirmek yerine yanlış bir şekilde üretilmiş bir üs yerleştirmeli mi (örneğin gerekli modüllerin eksik üretilmesi hâlinde)? Üs oluşturma hatalarını ayıklamak için yararlı olabilir.</leveleditor.allowinvalidoutpost.tooltip>
+<leveleditor.allsaved>Tüm değişiklikler kaydedildi</leveleditor.allsaved>
+
+<!-- Modified values May 27th, 2024 -->
+<sp.turret.AutoOperate.description>Taret, yapay zekâ kullanılarak otomatik şekilde çalıştırılsın mı? Aşağıdan ayarlanabilen opsiyonel rastgele hareketi de içerir. Değer ayrıca bağlantılar (kablolar) da kullanılarak ayarlanabilir ama bu sadece editörüde Otomatik Yönetme açıksa yapılabilir.</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.description>Taretin hedefi mükemmel şekilde takip etmektense ne kadar rastgele düzeltmeye çalışacağını belirler.</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.description>Taretin hedefi mükemmel şekilde takip etmek yerine ne kadar sık şekilde rastgele ayarlayacağını belirler. Minimum bekleme süresi. Saniye ile.</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.description>Taretin hedefi mükemmel şekilde takip etmek yerine ne kadar sık şekilde rastgele ayarlayacağını belirler. Maksimum bekleme süresi. Saniye ile.</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.description>Taret boştayken rastgele hareket etsin mi?</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.description>Taret hedefleri belirlerken gecikmeye sahip olsun mu yoksa mükemmel bir zamanlaması mı olsun?</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.description>Taret genel olarak karakterleri hedef alsın mı?</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.description>Taret tüm canavarları hedef alsın mı?</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.description>Taret tüm insanları hedef alsın mı? (aynı gruptaki yaratıkları da içerir, evcil hayvan gibi)</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.description>Taret diğer denizaltlarını hedef alsın mı?</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.description>Taret eşyaları hedef alsın mı?</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.description>Taret otomatik olarak kontrol edilirken yapay zekânın görmezden geleceği grup veya tür adları.</sp.turret.FriendlyTag.description>
+<!-- New values May 27th, 2024 -->
+<sp.turret.AutoOperate.propertyheader>Otomatik Kontrol</sp.turret.AutoOperate.propertyheader>
+<sp.powered.propertyheader>Güç Parçası</sp.powered.propertyheader>
+
+</infotexts>

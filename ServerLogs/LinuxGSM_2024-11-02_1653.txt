@@ -1,0 +1,94 @@
+﻿[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:36]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:36]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/02/2024 16:52:36]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor has died (Cause of death: Lacerations)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:40]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:40]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:42]
+  Liberator762 placed Welding Fuel Tank in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:53:11]
+  LaywithMind docked HiveSub to Huronia Facility
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:53:11]
+  Cryonite has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:53:11]
+  Liberator762 has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:53:11]
+  LaywithMind has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:53:11]
+  Dorsey Case has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:12]
+  Ending the round...

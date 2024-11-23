@@ -1,0 +1,241 @@
+﻿[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:36]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:36]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/02/2024 16:52:36]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:37]
+  Mudraptor attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/02/2024 16:52:37]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:39]
+  Mudraptor has died (Cause of death: Lacerations)
+[11/02/2024 16:52:39]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:40]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/02/2024 16:52:40]
+  Mudraptor attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/02/2024 16:52:40]
+  Mudraptor attacked by LaywithMind. Lacerations: 2.9
+[11/02/2024 16:52:42]
+  Liberator762 placed Welding Fuel Tank in the inventory of Medium Steel Cabinet (ID: 19)
+[11/02/2024 16:53:11]
+  LaywithMind docked HiveSub to Huronia Facility
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Cryonite.
+[11/02/2024 16:53:11]
+  Cryonite has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Liberator762.
+[11/02/2024 16:53:11]
+  Liberator762 has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from LaywithMind.
+[11/02/2024 16:53:11]
+  LaywithMind has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:11]
+  0 (0%) was stolen from Dorsey Case.
+[11/02/2024 16:53:11]
+  Dorsey Case has gained 146 experience (1273 -> 1419)
+[11/02/2024 16:53:12]
+  Ending the round...
+[11/02/2024 16:53:12]
+  Round ended.
+[11/02/2024 16:53:15]
+  Starting a new round...
+[11/02/2024 16:53:17]
+  Game mode: Campaign
+[11/02/2024 16:53:17]
+  Submarine: HiveSub
+[11/02/2024 16:53:17]
+  Level seed: LocationName.city.1929
+[11/02/2024 16:53:17]
+  Micheal Holter equipped Wrench
+[11/02/2024 16:53:17]
+  Micheal Holter unequipped Wrench
+[11/02/2024 16:53:17]
+  Micheal Holter equipped Screwdriver
+[11/02/2024 16:53:17]
+  Pamela Fesler equipped Wrench
+[11/02/2024 16:53:17]
+  Pamela Fesler unequipped Wrench
+[11/02/2024 16:53:17]
+  Pamela Fesler equipped Screwdriver
+[11/02/2024 16:53:17]
+  Kristie Terry equipped Wrench
+[11/02/2024 16:53:17]
+  Kristie Terry unequipped Wrench
+[11/02/2024 16:53:17]
+  Kristie Terry equipped Screwdriver
+[11/02/2024 16:53:17]
+  Frances Hefner equipped Wrench
+[11/02/2024 16:53:17]
+  Frances Hefner unequipped Wrench
+[11/02/2024 16:53:17]
+  Frances Hefner equipped Screwdriver
+[11/02/2024 16:53:17]
+  Frances Hefner unequipped Screwdriver
+[11/02/2024 16:53:17]
+  Frances Hefner equipped Crowbar
+[11/02/2024 16:53:17]
+  Garrett Marquez equipped Wrench
+[11/02/2024 16:53:17]
+  Garrett Marquez unequipped Wrench
+[11/02/2024 16:53:17]
+  Garrett Marquez equipped Screwdriver
+[11/02/2024 16:53:17]
+  Carla Santistevan equipped Wrench
+[11/02/2024 16:53:17]
+  Roland Sawyer equipped Screwdriver
+[11/02/2024 16:53:17]
+  Dimitry Pearson equipped Wrench
+[11/02/2024 16:53:18]
+  Liberator762 equipped Screwdriver
+[11/02/2024 16:53:18]
+  Liberator762 equipped Wrench
+[11/02/2024 16:53:18]
+  LaywithMind equipped Screwdriver
+[11/02/2024 16:53:18]
+  Dorsey Case equipped Screwdriver
+[11/02/2024 16:53:18]
+  Round started.
+[11/02/2024 16:53:18]
+  Carla Santistevan unequipped Wrench
+[11/02/2024 16:53:18]
+  Roland Sawyer unequipped Screwdriver
+[11/02/2024 16:53:19]
+  Dimitry Pearson unequipped Wrench
+[11/02/2024 16:53:19]
+  Frances Hefner unequipped Crowbar
+[11/02/2024 16:53:24]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:53:30]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:53:34]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 16:53:46]
+  Cryonite has gained the talent 'Mule'
+[11/02/2024 16:54:04]
+  Liberator762 picked up Swim Bladder
+[11/02/2024 16:54:08]
+  Roy Veach: I haven't seen you people before.
+[11/02/2024 16:54:10]
+  Liberator762 picked up Gunner's Uniform
+[11/02/2024 16:54:28]
+  LaywithMind placed Oxygen Tank in the inventory of Plasma Cutter (ID: 2764)
+[11/02/2024 16:54:38]
+  Liberator762 picked up Fuel Rod
+[11/02/2024 16:54:53]
+  Cryonite set the value "GuiFrameOffset" of the item "Trash Can" to "0,0".
+[11/02/2024 16:54:54]
+  Cryonite equipped Sulphuric Acid
+[11/02/2024 16:55:01]
+  Cryonite placed Anabolic Steroids in the inventory of Toolbelt (ID: 2716)
+[11/02/2024 16:55:02]
+  Cryonite placed Hyperzine in the inventory of Toolbelt (ID: 2716)
+[11/02/2024 16:55:39]
+  Garrett Marquez unequipped Screwdriver
+[11/02/2024 16:55:51]
+  Cryonite purchased 1 item(s) for 435 mk
+ - Fuel Rod x3
+[11/02/2024 16:56:14]
+  Liberator762 placed Swim Bladder in the inventory of Deconstructor (ID: 1343)
+[11/02/2024 16:56:15]
+  Cryonite purchased 2 item(s) for 235 mk
+ - Stun Gun x1
+ - Stun Gun Dart x6
+[11/02/2024 16:56:16]
+  Liberator762 activated Deconstructor
+[11/02/2024 16:56:21]
+  Liberator762 picked up x2 Stabilozine
+[11/02/2024 16:56:21]
+  Liberator762 picked up x3 Saline
+[11/02/2024 16:56:23]
+  Liberator762 placed Gunner's Uniform in the inventory of Deconstructor (ID: 1343)
+[11/02/2024 16:56:25]
+  Liberator762 activated Deconstructor
+[11/02/2024 16:56:29]
+  Liberator762 picked up Organic Fiber
+[11/02/2024 16:56:43]
+  Liberator762 placed Fuel Rod in the inventory of Fabricator (ID: 1187)
+[11/02/2024 16:56:45]
+  Liberator762 placed Fuel Rod in the inventory of Fabricator (ID: 1187)
+[11/02/2024 16:56:52]
+  Liberator762 picked up Fuel Rod
+[11/02/2024 16:57:38]
+  Liberator762 started fabricating Bandage in Medical Fabricator
+[11/02/2024 16:57:44]
+  Liberator762 picked up x2 Bandage
+[11/02/2024 16:58:05]
+  Roy Veach: Hey, you! I need to check your pockets. Hold on for a second.
+[11/02/2024 16:58:51]
+  Cryonite changed the default salary to 0%.
+[11/02/2024 16:59:08]
+  Cryonite changed the default salary to 20%.
+[11/02/2024 16:59:13]
+  Liberator762 placed x2 Stabilozine in the inventory of Supplies Cabinet (ID: 322)
+[11/02/2024 16:59:33]
+  Cryonite purchased 2 item(s) for 757 mk
+ - Calyxanide x1
+ - Morphine x12
+[11/02/2024 16:59:38]
+  LaywithMind has gained the talent 'Veteran'
+[11/02/2024 17:01:15]
+  Liberator762 has gained the talent 'Machine Maniac'
+[11/02/2024 17:01:29]
+  Client "Cryonite" ended the round.
+[11/02/2024 17:01:29]
+  Ending the round...

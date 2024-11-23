@@ -1,0 +1,142 @@
+﻿[11/02/2024 15:53:55]
+  Starting the server...
+[11/02/2024 15:53:56]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/02/2024 15:53:56]
+  Server started
+[11/02/2024 15:54:03]
+  Cryonite has joined the server.
+[11/02/2024 15:54:03]
+  Saving client permissions
+[11/02/2024 15:54:19]
+  Liberator762 has joined the server.
+[11/02/2024 15:54:19]
+  Saving client permissions
+[11/02/2024 15:54:25]
+  LaywithMind has joined the server.
+[11/02/2024 15:54:25]
+  Saving client permissions
+[11/02/2024 15:54:38]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:38]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:39]
+  Gamemode changed to Campaign
+[11/02/2024 15:54:40]
+  Gamemode changed to Campaign
+[11/02/2024 15:55:08]
+  Starting a new round...
+[11/02/2024 15:55:17]
+  Game mode: Campaign
+[11/02/2024 15:55:17]
+  Submarine: HiveSub
+[11/02/2024 15:55:17]
+  Level seed: LocationName.generic.2159
+[11/02/2024 15:55:18]
+  Lorrie Hocker equipped Wrench
+[11/02/2024 15:55:18]
+  Lorrie Hocker unequipped Wrench
+[11/02/2024 15:55:18]
+  Lorrie Hocker equipped Screwdriver
+[11/02/2024 15:55:18]
+  Lora Hampton equipped Wrench
+[11/02/2024 15:55:18]
+  Lora Hampton unequipped Wrench
+[11/02/2024 15:55:18]
+  Lora Hampton equipped Screwdriver
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro equipped Wrench
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro unequipped Wrench
+[11/02/2024 15:55:18]
+  Mafalda Tamashiro equipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Wrench
+[11/02/2024 15:55:18]
+  Kathy Gay unequipped Wrench
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay unequipped Screwdriver
+[11/02/2024 15:55:18]
+  Kathy Gay equipped Crowbar
+[11/02/2024 15:55:18]
+  Timur Lavey equipped Wrench
+[11/02/2024 15:55:18]
+  Timur Lavey unequipped Wrench
+[11/02/2024 15:55:18]
+  Timur Lavey equipped Screwdriver
+[11/02/2024 15:55:18]
+  Jarvis Meisner equipped Screwdriver
+[11/02/2024 15:55:18]
+  Coleman Meals equipped Wrench
+[11/02/2024 15:55:18]
+  Round started.
+[11/02/2024 15:55:19]
+  Coleman Meals unequipped Wrench
+[11/02/2024 15:55:19]
+  Kathy Gay unequipped Crowbar
+[11/02/2024 15:55:19]
+  Jarvis Meisner unequipped Screwdriver
+[11/02/2024 15:55:22]
+  Rosina Gonzales: I hope you people aren't planning on staying for long. Got enough problems down here as it is.
+[11/02/2024 15:55:24]
+  Mitchel Hardy: I don't get why the separatists follow that Petran girl. What is she, 30 or something?
+[11/02/2024 15:55:29]
+  Leo Lavey: I suppose being the great-great-something-granddaughter of Harlow Petran gives her gravitas of some sort.
+[11/02/2024 15:55:31]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:34]
+  Mitchel Hardy: And who the hell is that?
+[11/02/2024 15:55:34]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:36]
+  Leo Lavey: The guy who founded the Jovian People's Movement?
+[11/02/2024 15:55:37]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/02/2024 15:55:41]
+  Mitchel Hardy: What's that? Don't they call themselves Jovian Separatists?
+[11/02/2024 15:55:46]
+  Leo Lavey: I take it you haven't read a single history book in your life?
+[11/02/2024 15:59:11]
+  LaywithMind equipped Revolver
+[11/02/2024 15:59:54]
+  Cryonite picked up Diving Mask
+[11/02/2024 15:59:56]
+  Cryonite placed Diving Mask in the inventory of Medium Steel Cabinet (ID: 18)
+[11/02/2024 15:59:58]
+  LaywithMind picked up Diving Mask
+[11/02/2024 16:00:02]
+  Cryonite picked up Welding Tool
+[11/02/2024 16:00:22]
+  Cryonite: Dorsey Case, take care of any leaks!
+[11/02/2024 16:00:23]
+  Dorsey Case: Sure thing!
+[11/02/2024 16:00:25]
+  Cryonite: Dorsey Case, take care of broken devices!
+[11/02/2024 16:00:26]
+  Dorsey Case: Got it!
+[11/02/2024 16:00:29]
+  Cryonite: Dorsey Case, make sure the submarine weapons don't run out of ammo!
+[11/02/2024 16:00:30]
+  Dorsey Case: No way!
+[11/02/2024 16:00:31]
+  Cryonite: Dorsey Case, start fixing leaks!
+[11/02/2024 16:00:32]
+  Dorsey Case: Yes, sir!
+[11/02/2024 16:00:32]
+  Cryonite: Dorsey Case, repair damaged systems!
+[11/02/2024 16:00:33]
+  Dorsey Case: Yes, sir!
+[11/02/2024 16:01:53]
+  LaywithMind set the recharge speed of Battery to 10 %
+[11/02/2024 16:01:54]
+  LaywithMind set the recharge speed of Battery to 20 %
+[11/02/2024 16:01:55]
+  LaywithMind set the recharge speed of Battery to 30 %
+[11/02/2024 16:01:55]
+  LaywithMind set the recharge speed of Battery to 40 %
+[11/02/2024 16:02:52]
+  Client "Cryonite" ended the round.
+[11/02/2024 16:02:53]
+  Ending the round...

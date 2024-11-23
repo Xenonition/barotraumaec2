@@ -1,0 +1,1600 @@
+﻿[11/16/2024 16:42:08]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:42:08]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:42:08]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:08]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:42:08]
+  Margeret Planck: All leaks repaired in Prison!
+[11/16/2024 16:42:08]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:08]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:08]
+  Inner wall repaired by Janee Cluck
+[11/16/2024 16:42:08]
+  Marylee Hutchinson: All leaks repaired in Upper fore side!
+[11/16/2024 16:42:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:08]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:09]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:09]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:09]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:09]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:10]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:10]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:10]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:11]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:42:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:12]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:12]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:12]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:12]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:13]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:13]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:13]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:13]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:14]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:14]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:14]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:15]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:15]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:15]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:15]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:16]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:16]
+  Margeret Planck equipped Welding Tool
+[11/16/2024 16:42:16]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:16]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:17]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:42:18]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:42:18]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:42:18]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:42:18]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:42:18]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:42:18]
+  Margeret Planck equipped Screwdriver
+[11/16/2024 16:42:21]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:42:21]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:42:21]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:21]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:21]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:23]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:24]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:24]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:25]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:25]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:25]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:25]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:26]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:26]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:26]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:27]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:27]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:27]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:28]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:28]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:28]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:29]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:29]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:29]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:29]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:30]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:30]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:30]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:30]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:31]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:31]
+  Margeret Planck unequipped Screwdriver
+[11/16/2024 16:42:31]
+  Margeret Planck equipped Welding Tool
+[11/16/2024 16:42:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:31]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:31]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:31]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:32]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:42:32]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:42:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:32]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:32]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:42:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:32]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:42:32]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:32]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:33]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:33]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:33]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:33]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:33]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:42:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:34]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:34]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:42:34]
+  Margeret Planck equipped Screwdriver
+[11/16/2024 16:42:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:34]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:34]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:42:34]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:42:34]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:34]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:35]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:35]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:35]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:35]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:35]
+  Janee Cluck unequipped Welding Tool
+[11/16/2024 16:42:35]
+  Janee Cluck equipped Screwdriver
+[11/16/2024 16:42:35]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:35]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:35]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:35]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:36]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:36]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:36]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:36]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:36]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:36]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:36]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:36]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:36]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:36]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:36]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:38]
+  Marylee Hutchinson: I need diving gear!
+[11/16/2024 16:42:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:39]
+  Margeret Planck: Need to find a diving suit!
+[11/16/2024 16:42:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:39]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:39]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:40]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:40]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:40]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:40]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:41]
+  Janee Cluck unequipped Screwdriver
+[11/16/2024 16:42:41]
+  Janee Cluck equipped Welding Tool
+[11/16/2024 16:42:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:42]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:42]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:42]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:42]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:43]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:43]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:43]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:44]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:44]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:44]
+  Rowena Dyer: Giving first aid to Liberator762 in electrical!
+[11/16/2024 16:42:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:44]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:44]
+  Outer wall repaired by Janee Cluck
+[11/16/2024 16:42:44]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:45]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:45]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:45]
+  Janee Cluck: I need diving gear!
+[11/16/2024 16:42:45]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:45]
+  Rowena Dyer: I need to find morphine or opium!
+[11/16/2024 16:42:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:45]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:46]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:46]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:46]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:46]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:47]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:47]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:47]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:47]
+  Inner wall breached by Moloch
+[11/16/2024 16:42:47]
+  Outer wall breached by Moloch
+[11/16/2024 16:42:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:47]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:47]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:48]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:48]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:48]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:49]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:49]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:49]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:49]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:50]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:50]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:50]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:51]
+  Rowena Dyer unequipped Screwdriver
+[11/16/2024 16:42:51]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:42:51]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:51]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:51]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:42:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:51]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:52]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:52]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:52]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:52]
+  Margeret Planck unequipped Screwdriver
+[11/16/2024 16:42:52]
+  Margeret Planck equipped Welding Tool
+[11/16/2024 16:42:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:52]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:53]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:53]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:53]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 16:42:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:53]
+  Respawning bjoe998822 (118.99.80.204:3291) as Assistant.
+[11/16/2024 16:42:53]
+  Dispatching the respawn shuttle.
+[11/16/2024 16:42:53]
+  Inner wall repaired by Margeret Planck
+[11/16/2024 16:42:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:53]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:54]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:54]
+  Margeret Planck: No more leaks in Bottom Airlock!
+[11/16/2024 16:42:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:54]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:42:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:54]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:54]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:55]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:55]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:55]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:55]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:55]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:55]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:55]
+  bjoe998822 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:42:55]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:56]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:56]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:56]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:56]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:56]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:56]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:56]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:57]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:57]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:42:57]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:57]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:57]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:57]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:57]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:57]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:58]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:58]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:58]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:59]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:59]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:59]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:59]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:59]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:42:59]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:42:59]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:00]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:00]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:00]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:00]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:00]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:00]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:01]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:01]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:01]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:03]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:04]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:04]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:04]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:04]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:04]
+  Outer wall breached by widjajajames
+[11/16/2024 16:43:04]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:04]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:05]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:05]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:05]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:05]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:06]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:06]
+  Outer wall breached by widjajajames
+[11/16/2024 16:43:06]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:06]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:07]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:08]
+  Rowena Dyer: I'm sorry, there's nothing I can do for Liberator762!
+[11/16/2024 16:43:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:12]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:43:14]
+  Rowena Dyer: Giving first aid to LaywithMind in electrical!
+[11/16/2024 16:43:15]
+  Rowena Dyer: I need morphine or opium to treat LaywithMind!
+[11/16/2024 16:43:16]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:43:18]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:18]
+  Inner wall breached by Moloch
+[11/16/2024 16:43:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:21]
+  Janee Cluck: One leak fixed in Ballast!
+[11/16/2024 16:43:21]
+  Janee Cluck unequipped Welding Tool
+[11/16/2024 16:43:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:24]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:25]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:25]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:26]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:26]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:43:26]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:26]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:27]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:27]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:27]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:27]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:28]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:29]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:31]
+  Margeret Planck equipped Welding Tool
+[11/16/2024 16:43:32]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:43:32]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:43:34]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:43:34]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:43:36]
+  Rowena Dyer: LaywithMind is all right!
+[11/16/2024 16:43:36]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:37]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:37]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:38]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:38]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:39]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:39]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:39]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:41]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:43:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:45]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:45]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:45]
+  Janee Cluck: Just a setback!
+[11/16/2024 16:43:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:46]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:47]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:47]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:47]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:47]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:48]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:48]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:48]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:48]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:48]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:49]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:49]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:49]
+  Inner wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  Inner wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  Outer wall breached by Moloch
+[11/16/2024 16:43:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:50]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:43:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:50]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:50]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:51]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:51]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:51]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:51]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:52]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:43:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:52]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:52]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:52]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:53]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:53]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:43:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:53]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:53]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:54]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:54]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:43:54]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:43:57]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:43:57]
+  Rowena Dyer: Treating Margeret Planck in diving!
+[11/16/2024 16:43:57]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:43:58]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:43:58]
+  Rowena Dyer: I need morphine or opium to treat Margeret Planck!
+[11/16/2024 16:43:58]
+  Rowena Dyer: Margeret Planck is back in shape!
+[11/16/2024 16:43:58]
+  Rowena Dyer: Giving first aid to Marylee Hutchinson in diving!
+[11/16/2024 16:43:59]
+  Rowena Dyer: Marylee Hutchinson is back in shape!
+[11/16/2024 16:43:59]
+  Rowena Dyer: I need to find morphine or opium!
+[11/16/2024 16:44:03]
+  Janee Cluck equipped Welding Tool
+[11/16/2024 16:44:04]
+  Outer wall breached by Moloch
+[11/16/2024 16:44:08]
+  Inner wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:09]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:10]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:11]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:11]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:11]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:44:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:11]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:11]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:12]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:12]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:12]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:12]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:14]
+  Rowena Dyer: Treating Cryonite in ballast!
+[11/16/2024 16:44:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:14]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:15]
+  Rowena Dyer: I need morphine or opium to treat Cryonite!
+[11/16/2024 16:44:15]
+  Marylee Hutchinson: All leaks repaired in Prison!
+[11/16/2024 16:44:15]
+  Inner wall repaired by Margeret Planck
+[11/16/2024 16:44:16]
+  Outer wall breached by Moloch
+[11/16/2024 16:44:16]
+  Outer wall breached by Moloch
+[11/16/2024 16:44:18]
+  Outer wall repaired by Janee Cluck
+[11/16/2024 16:44:20]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:44:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:23]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:23]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:23]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:23]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:24]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:24]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:25]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:25]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:25]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:26]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:26]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:26]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:26]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:27]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:27]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:27]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:27]
+  Moloch has died (Cause of death: Lacerations)
+[11/16/2024 16:44:27]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:28]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:28]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:28]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:28]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:29]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:29]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:29]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:29]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:29]
+  Moloch attacked by widjajajames. Lacerations: 7.5 Bleeding: 0.5
+[11/16/2024 16:44:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:30]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:30]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:30]
+  Outer wall repaired by Janee Cluck
+[11/16/2024 16:44:30]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:30]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:31]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:31]
+  Rowena Dyer equipped Opium
+[11/16/2024 16:44:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:31]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:31]
+  Moloch attacked by widjajajames. Lacerations: 3.8 Bleeding: 0.3
+[11/16/2024 16:44:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:31]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:32]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:44:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:32]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:44:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:33]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:44:34]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:44:35]
+  Margeret Planck: All leaks repaired in Reactor Engine!
+[11/16/2024 16:44:35]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:36]
+  Inner wall repaired by Marylee Hutchinson
+[11/16/2024 16:44:36]
+  Marylee Hutchinson: No more leaks in Ballast!
+[11/16/2024 16:44:37]
+  Outer wall repaired by Margeret Planck
+[11/16/2024 16:44:37]
+  Janee Cluck unequipped Welding Tool
+[11/16/2024 16:44:37]
+  Janee Cluck equipped Welding Tool
+[11/16/2024 16:44:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:38]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:38]
+  Janee Cluck unequipped Welding Tool
+[11/16/2024 16:44:38]
+  Janee Cluck equipped Screwdriver
+[11/16/2024 16:44:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:38]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:44:38]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:44:38]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:44:38]
+  Margeret Planck equipped Welding Tool
+[11/16/2024 16:44:38]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:38]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:38]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:39]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:39]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:44:39]
+  Marylee Hutchinson equipped Wrench
+[11/16/2024 16:44:39]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:39]
+  Margeret Planck unequipped Welding Tool
+[11/16/2024 16:44:39]
+  Margeret Planck equipped Screwdriver
+[11/16/2024 16:44:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:39]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:40]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:40]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:40]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:40]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:41]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:41]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:44:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:41]
+  Moloch attacked by widjajajames. Lacerations: 2.9
+[11/16/2024 16:44:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:42]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:42]
+  Rowena Dyer: I'm sorry, there's nothing I can do for Cryonite!
+[11/16/2024 16:44:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:43]
+  Marylee Hutchinson failed to repair Pump
+[11/16/2024 16:44:43]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:43]
+  Moloch attacked by widjajajames. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 16:44:45]
+  Janee Cluck unequipped Screwdriver
+[11/16/2024 16:44:45]
+  Janee Cluck equipped Screwdriver
+[11/16/2024 16:44:47]
+  Marylee Hutchinson started repairing Pump
+[11/16/2024 16:44:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:52]
+  Janee Cluck started repairing Junction Box
+[11/16/2024 16:44:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:54]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:55]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:44:55]
+  Margeret Planck started repairing Junction Box
+[11/16/2024 16:45:00]
+  Marylee Hutchinson unequipped Wrench
+[11/16/2024 16:45:00]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:45:02]
+  Janee Cluck started repairing Junction Box
+[11/16/2024 16:45:08]
+  Janee Cluck unequipped Screwdriver
+[11/16/2024 16:45:09]
+  Margeret Planck unequipped Screwdriver
+[11/16/2024 16:45:09]
+  Margeret Planck equipped Screwdriver
+[11/16/2024 16:45:13]
+  Liberator762 equipped Metal Crate
+[11/16/2024 16:45:13]
+  Liberator762 picked up Metal Crate
+[11/16/2024 16:45:17]
+  Liberator762 placed Metal Crate in the inventory of Crate Shelf (ID: 698)
+[11/16/2024 16:45:18]
+  Liberator762 picked up Medic Crate
+[11/16/2024 16:45:18]
+  Rowena Dyer: I don't have the means to treat Marylee Hutchinson!
+[11/16/2024 16:45:19]
+  Margeret Planck unequipped Screwdriver
+[11/16/2024 16:45:23]
+  Liberator762 picked up x8 Opium

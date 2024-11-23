@@ -1,0 +1,244 @@
+﻿[11/16/2024 17:33:12]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:13]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:17]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:17]
+  Outer wall repaired by bjoe998822
+[11/16/2024 17:33:17]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:33:19]
+  Cryonite failed to repair Engine
+[11/16/2024 17:33:19]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:19]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:33:19]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:33:19]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:19]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:20]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:20]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:33:25]
+  Outer wall repaired by Liberator762
+[11/16/2024 17:33:25]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:26]
+  Outer wall repaired by bjoe998822
+[11/16/2024 17:33:26]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:33:26]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:27]
+  Captain Hognose equipped Welding Tool
+[11/16/2024 17:33:27]
+  Cryonite started repairing Engine
+[11/16/2024 17:33:28]
+  Outer wall repaired by Captain Hognose
+[11/16/2024 17:33:29]
+  Captain Hognose: No more leaks in Diving!
+[11/16/2024 17:33:29]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:29]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:33:31]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:34]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:35]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:33:35]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:36]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:33:36]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:37]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:37]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:39]
+  Outer wall repaired by bjoe998822
+[11/16/2024 17:33:39]
+  Captain Hognose unequipped Welding Tool
+[11/16/2024 17:33:40]
+  Outer wall breached by Crawler
+[11/16/2024 17:33:41]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:41]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:33:42]
+  Cryonite failed to repair Engine
+[11/16/2024 17:33:43]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:33:43]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:33:43]
+  Outer wall repaired by bjoe998822
+[11/16/2024 17:33:43]
+  Dorsey Case: All leaks repaired in Top Airlock!
+[11/16/2024 17:33:45]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:33:45]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:33:45]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:33:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:46]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:33:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:46]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:47]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:33:47]
+  Crawler attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:33:50]
+  Captain Hognose: Where the fuck is the morphine?
+[11/16/2024 17:33:53]
+  Dorsey Case: What's going on? Are you hurt?
+[11/16/2024 17:33:55]
+  Dorsey Case started repairing Junction Box
+[11/16/2024 17:33:56]
+  Captain Hognose: My muscles are cramping and my heart is about to blow up! I can't take this!
+[11/16/2024 17:34:00]
+  Liberator762 picked up Fuel Rod
+[11/16/2024 17:34:01]
+  Dorsey Case started repairing Junction Box
+[11/16/2024 17:34:05]
+  widjajajames equipped Diving Knife
+[11/16/2024 17:34:07]
+  Cryonite attacked by widjajajames. Lacerations: 4.3 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:34:07]
+  widjajajames used Diving Knife on Cryonite.
+[11/16/2024 17:34:07]
+  Dorsey Case started repairing Battery
+[11/16/2024 17:34:08]
+  Cryonite attacked by widjajajames. Lacerations: 4.5 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:34:08]
+  widjajajames used Diving Knife on Cryonite.
+[11/16/2024 17:34:09]
+  Cryonite attacked by widjajajames. Lacerations: 4.5 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:34:09]
+  widjajajames used Diving Knife on Cryonite.
+[11/16/2024 17:34:10]
+  Cryonite attacked by widjajajames. Lacerations: 4.5 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:34:10]
+  widjajajames used Diving Knife on Cryonite.
+[11/16/2024 17:34:11]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:34:11]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:34:12]
+  Cryonite attacked by widjajajames. Lacerations: 4.5 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:34:12]
+  widjajajames used Diving Knife on Cryonite.
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from LaywithMind.
+[11/16/2024 17:34:13]
+  LaywithMind has gained 149 experience (2113 -> 2262)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from widjajajames.
+[11/16/2024 17:34:13]
+  widjajajames has gained 149 experience (0 -> 149)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Liberator762.
+[11/16/2024 17:34:13]
+  Liberator762 has gained 149 experience (2113 -> 2262)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from bjoe998822.
+[11/16/2024 17:34:13]
+  bjoe998822 has gained 149 experience (0 -> 149)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Cryonite.
+[11/16/2024 17:34:13]
+  Cryonite has gained 149 experience (2113 -> 2262)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Captain Hognose.
+[11/16/2024 17:34:13]
+  Captain Hognose has gained 149 experience (6000 -> 6149)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Dorsey Case.
+[11/16/2024 17:34:13]
+  Dorsey Case has gained 149 experience (2113 -> 2262)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from LaywithMind.
+[11/16/2024 17:34:13]
+  LaywithMind has gained 249 experience (2262 -> 2511)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from widjajajames.
+[11/16/2024 17:34:13]
+  widjajajames has gained 249 experience (149 -> 398)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Liberator762.
+[11/16/2024 17:34:13]
+  Liberator762 has gained 249 experience (2262 -> 2511)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from bjoe998822.
+[11/16/2024 17:34:13]
+  bjoe998822 has gained 249 experience (149 -> 398)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Cryonite.
+[11/16/2024 17:34:13]
+  Cryonite has gained 249 experience (2262 -> 2511)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Captain Hognose.
+[11/16/2024 17:34:13]
+  Captain Hognose has gained 249 experience (6149 -> 6398)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Dorsey Case.
+[11/16/2024 17:34:13]
+  Dorsey Case has gained 249 experience (2262 -> 2511)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from LaywithMind.
+[11/16/2024 17:34:13]
+  LaywithMind has gained 199 experience (2511 -> 2710)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from widjajajames.
+[11/16/2024 17:34:13]
+  widjajajames has gained 199 experience (398 -> 597)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Liberator762.
+[11/16/2024 17:34:13]
+  Liberator762 has gained 199 experience (2511 -> 2710)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from bjoe998822.
+[11/16/2024 17:34:13]
+  bjoe998822 has gained 199 experience (398 -> 597)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Cryonite.
+[11/16/2024 17:34:13]
+  Cryonite has gained 199 experience (2511 -> 2710)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Captain Hognose.
+[11/16/2024 17:34:13]
+  Captain Hognose has gained 199 experience (6398 -> 6597)
+[11/16/2024 17:34:13]
+  0 (0%) was stolen from Dorsey Case.
+[11/16/2024 17:34:13]
+  Dorsey Case has gained 199 experience (2511 -> 2710)
+[11/16/2024 17:34:13]
+  Ending the round...

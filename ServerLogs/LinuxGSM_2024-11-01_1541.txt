@@ -1,0 +1,158 @@
+﻿[11/01/2024 15:35:30]
+  Priscilla Nicolosi: Pressure rising in Diving!
+[11/01/2024 15:35:32]
+  Erica Sykes: Need to find a diving suit!
+[11/01/2024 15:35:38]
+  Hobert Dyer equipped Wrench
+[11/01/2024 15:35:38]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:35:39]
+  Hobert Dyer started repairing Nuclear Reactor
+[11/01/2024 15:35:40]
+  Priscilla Nicolosi: Need to find a diving suit!
+[11/01/2024 15:35:41]
+  Hobert Dyer: Pressure rising in Reactor Engine!
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Outer wall breached by Moloch
+[11/01/2024 15:35:41]
+  Hobert Dyer: I need diving gear!
+[11/01/2024 15:35:52]
+  Hobert Dyer has died (Cause of death: Barotrauma)
+[11/01/2024 15:35:53]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:35:53]
+  Erica Sykes: One leak fixed in Diving!
+[11/01/2024 15:35:53]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:35:55]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:35:56]
+  Priscilla Nicolosi equipped Opium
+[11/01/2024 15:36:05]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:36:06]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:36:09]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:36:09]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:36:10]
+  Inner wall repaired by Erica Sykes
+[11/01/2024 15:36:10]
+  Erica Sykes: One leak fixed in Prison!
+[11/01/2024 15:36:11]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:36:11]
+  Erica Sykes: All leaks repaired in Prison!
+[11/01/2024 15:36:12]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:36:14]
+  Priscilla Nicolosi unequipped Welding Tool
+[11/01/2024 15:36:18]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:36:22]
+  Priscilla Nicolosi equipped Welding Tool
+[11/01/2024 15:36:25]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:36:25]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:36:30]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:36:33]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:36:33]
+  Erica Sykes unequipped Welding Tool
+[11/01/2024 15:36:39]
+  Outer wall repaired by Priscilla Nicolosi
+[11/01/2024 15:36:44]
+  Inner wall repaired by Priscilla Nicolosi
+[11/01/2024 15:36:47]
+  Erica Sykes equipped Welding Tool
+[11/01/2024 15:36:48]
+  Outer wall repaired by Erica Sykes
+[11/01/2024 15:36:55]
+  Inner wall repaired by Priscilla Nicolosi
+[11/01/2024 15:36:55]
+  Priscilla Nicolosi: No more leaks in Bottom Airlock!
+[11/01/2024 15:37:18]
+  LaywithMind picked up Welding Tool
+[11/01/2024 15:37:18]
+  LaywithMind equipped Welding Tool
+[11/01/2024 15:37:45]
+  LaywithMind disconnected a wire from Pump (power_in) to Relay Component (power_out)
+[11/01/2024 15:37:45]
+  LaywithMind connected a wire from Pump (toggle) to Relay Component (power_out)
+[11/01/2024 15:38:12]
+  Console command "spawnitem "Incendium Grenade" cursor" executed by Cryonite.
+[11/01/2024 15:38:17]
+  Console command "spawnitem "Incendium Grenade" cursor" executed by Cryonite.
+[11/01/2024 15:38:17]
+  Console command "spawnitem "Incendium Grenade" cursor" executed by Cryonite.
+[11/01/2024 15:38:18]
+  Console command "spawnitem "Incendium Grenade" cursor" executed by Cryonite.
+[11/01/2024 15:38:19]
+  Respawning Cryonite (139.0.39.80:43807) as Security Officer.
+[11/01/2024 15:38:19]
+  Dispatching the respawn shuttle.
+[11/01/2024 15:38:19]
+  Respawning bot Hobert Dyer as Engineer.
+[11/01/2024 15:38:19]
+  Dispatching the respawn shuttle.
+[11/01/2024 15:38:21]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/01/2024 15:38:27]
+  LaywithMind equipped Incendium Grenade
+[11/01/2024 15:38:33]
+  LaywithMind threw Incendium Grenade
+[11/01/2024 15:39:14]
+  Priscilla Nicolosi: I don't have the means to treat myself!
+[11/01/2024 15:39:30]
+  LaywithMind disconnected a wire from Pump (toggle) to Relay Component (power_out)
+[11/01/2024 15:39:30]
+  LaywithMind connected a wire from Pump (power_in) to Relay Component (power_out)
+[11/01/2024 15:39:33]
+  LaywithMind equipped Captain's Pipe
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Inner wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Inner wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Inner wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Inner wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Outer wall breached by Molochblack
+[11/01/2024 15:39:53]
+  Inner wall breached by Molochblack
+[11/01/2024 15:41:09]
+  LaywithMind docked HiveSub to Yasa Outpost
+[11/01/2024 15:41:14]
+  Ending round (submarine reached the end of the level)
+[11/01/2024 15:41:14]
+  Ending the round...

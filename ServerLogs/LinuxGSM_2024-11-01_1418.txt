@@ -1,0 +1,10 @@
+﻿[11/01/2024 14:13:05]
+  Starting the server...
+[11/01/2024 14:13:05]
+  Using Lidgren networking. Manual port forwarding may be required. If players cannot connect to the server, you may want to use the in-game hosting menu (which uses Steamworks and EOS networking and does not require port forwarding).
+[11/01/2024 14:13:05]
+  Server started
+[11/01/2024 14:18:26]
+  Saving banlist
+[11/01/2024 14:18:26]
+  Shutting down the server...

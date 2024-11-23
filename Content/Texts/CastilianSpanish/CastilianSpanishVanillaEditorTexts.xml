@@ -1,0 +1,1317 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Castilian Spanish" nowhitespace="false" translatedname="Castellano">
+
+<!-- Generic -->
+<editor.saveall>Guardar todo</editor.saveall>
+
+<!-- Submarine editor -->
+<items>Objetos</items>
+<structures>Estructuras</structures>
+<totalhullvolume>Volumen total del casco</totalhullvolume>
+<selectedhullvolume>Volumen del casco seleccionado</selectedhullvolume>
+<optimalballastlevel>nivel neutral óptimo del lastre: [value]</optimalballastlevel>
+<saveitemassembly>Guardar como: montaje de objetos</saveitemassembly>
+<insufficientballast>volumen insuficiente de capacidad de flote</insufficientballast>
+<physicsbodies>Cuerpos físicos</physicsbodies>
+<opensubbutton>Abrir...</opensubbutton>
+<savesubbutton>Guardar</savesubbutton>
+<addsubbutton>Añadir submarino</addsubbutton>
+<addsubtooltip>Añade un submarino nuevo al archivo de submarinos actual. Se usa para añadir naves pequeñas, cápsulas de escape o secciones extraíbles al submarino principal.</addsubtooltip>
+<holdtolink>Mantén pulsado Espacio y haz clic con el ratón para vincular a otro objeto.</holdtolink>
+<allowedlinks>Vinculaciones permitidas</allowedlinks>
+<filtermapentities>Filtro</filtermapentities>
+<charactermodebutton>Modo Personaje</charactermodebutton>
+<charactermodetooltip>Te permite recoger y usar objetos. Es útil para poner objetos dentro de los armarios, encender o apagar dispositivos y cablear.</charactermodetooltip>
+<wiringmodebutton>Modo Cablear</wiringmodebutton>
+<wiringmodetooltip>Te permite conectar cables a objetos.</wiringmodetooltip>
+<generatewaypointsbutton>Generar puntos de ruta</generatewaypointsbutton>
+<generatewaypointstooltip>Los miembros controlados por la IA necesitan puntos de ruta para andar por el submarino.</generatewaypointstooltip>
+<showentitieslabel>Mostrar</showentitieslabel>
+<showwalls>Paredes</showwalls>
+<showstructures>Estructuras</showstructures>
+<showitems>Objetos</showitems>
+<showlighting>Electricidad</showlighting>
+<showwaypoints>Puntos de ruta</showwaypoints>
+<showspawnpoints>Puntos de aparición</showspawnpoints>
+<showlinks>Vinculaciones</showlinks>
+<showhulls>Cascos</showhulls>
+<showgaps>Huecos</showgaps>
+<previouslyusedlabel>Usado con anterioridad</previouslyusedlabel>
+<subnamemissingwarning>Ponle nombre al submarino antes de guardarlo.</subnamemissingwarning>
+<subnameillegalcharswarning>Símbolos no permitidos en el nombre del archivo ([illegalchar]).</subnameillegalcharswarning>
+<subsavednotification>Submarino guardado en [filepath].</subsavednotification>
+<savesubdialogheader>Guardar submarino</savesubdialogheader>
+<savesubdialogname>Nombre</savesubdialogname>
+<savesubdialogdescription>Descripción</savesubdialogdescription>
+<savesubdialogsettings>Ajustes</savesubdialogsettings>
+<saveitemassemblydialogheader>Guardar montaje</saveitemassemblydialogheader>
+<saveitemassemblyhideinmenus>Ocultar en los menús</saveitemassemblyhideinmenus>
+<saveitemassemblydialogname>Nombre</saveitemassemblydialogname>
+<saveitemassemblydialogdescription>Descripción</saveitemassemblydialogdescription>
+<itemassemblynamemissingwarning>Ponle nombre al montaje antes de guardarlo.</itemassemblynamemissingwarning>
+<itemassemblyfileexistswarning>Ya hay un montaje con el mismo nombre. ¿Quieres reemplazarlo?</itemassemblyfileexistswarning>
+<itemassemblynameillegalcharswarning>Símbolos no permitidos en el nombre del archivo ([illegalchar]).</itemassemblynameillegalcharswarning>
+<nohullswarning>El submarino no tiene cascos. Estos determinan los "bordes" de una zona individual y se necesitan para que la distribución del agua y el aire funcione correctamente.</nohullswarning>
+<disconnectedventswarning>El submarino tiene respiraderos que no se han vinculado a un generador de oxígeno. Elige un respiradero, mantén pulsado Espacio y haz clic en un generador de oxígeno para vincularlo.</disconnectedventswarning>
+<disconnectedturretswarning>El submarino tiene más de un ejemplar de [itemname] sin conectar un cargador de munición. Elige el objeto, mantén pulsado el Espacio y haz clic en un cargador para vincularlo.</disconnectedturretswarning>
+<nowaypointswarning>El submarino no tiene puntos de ruta. Los miembros controlados por la IA no podrán caminar por la nave sin ellos.</nowaypointswarning>
+<nocargospawnpointwarning>El submarino no tiene puntos de aparición para el cargamento. Se usan para determinar dónde aparecerán los objetos que compres. Para solucionarlo, crea un nuevo punto de aparición y cambia el parámetro de tipo de aparición a "cargo".</nocargospawnpointwarning>
+<farawayentitieswarning>Más de una estructura u objeto se ha colocado muy lejos del submarino. ¿Quieres llevar la cámara hasta allí?</farawayentitieswarning>
+<adjustlightsprompt>Has guardado este submarino usando una versión antigua de Barotrauma, que usaba una fórmula distinta para calcular la electricidad. Ahora el submarino está demasiado iluminado. ¿Quieres reajustar automáticamente la luz a la nueva fórmula?</adjustlightsprompt>
+<adjustedlightsnotification>La luz se ha ajustado. Las zonas con varias fuentes de luz seguirán teniendo mucha y hay que regularlas manualmente. Usa el comando "multiplylights" para ajustar el brillo de todas las luces a la vez. "multiplylights 1,1,1,0.5" reducirá el brillo en un 50 %.</adjustedlightsnotification>
+<noballasttagswarning>Añade la etiqueta "ballast" a las bombas de lastre para que los personajes controlados por la IA sepan qué bombas se usan para controlar la capacidad de flote del submarino.</noballasttagswarning>
+<insufficientfreeconnectionswarning>El modulo contiene una caja de conexiones que está vinculada a [doorcount] puertas, pero solo tiene [freeconnectioncount] conexiones por cable disponibles. Esto puede provocar que el puesto de avanzada no tenga electricidad suficiente.</insufficientfreeconnectionswarning>
+<nohullnameswarning>Al no ponerle nombre a tus cascos, se han nombrado a través del autogenerador. Los personajes usan los nombres para referirse a las distintas salas cuando informan de problemas como brechas en el casco.</nohullnameswarning>
+<deletingcontainerwithitems>Se ha borrado un contenedor con objetos. ¿Borrar también los objetos que contiene?\n\nObjetos:\n\n</deletingcontainerwithitems>
+<hideinmenus>Ocultar en los menús</hideinmenus>
+<manuallyoutfitted>Equipado manualmente</manuallyoutfitted>
+<manuallyoutfittedtooltip>El submarino tiene suficientes suministros que han sido puestos manualmente o depende de los que se ponen automáticamente y de los que transfiere el jugador.</manuallyoutfittedtooltip>
+<unspecifiedsubfilename>Sin nombre</unspecifiedsubfilename>
+<reloadsprite>Recargar imagen</reloadsprite>
+<resettoprefab>Predeterminado</resettoprefab>
+<mirrorentityx>Voltear X</mirrorentityx>
+<mirrorentityxtooltip>Voltea la entidad horizontalmente. Usa también el atajo Ctrl + N.</mirrorentityxtooltip>
+<mirrorentityy>Voltear Y</mirrorentityy>
+<mirrorentityytooltip>Voltea la entidad verticalmente. Usa también el atajo Ctrl + M.</mirrorentityytooltip>
+<nonlinkedgapswarning>El submarino tiene huecos que no están vinculados a ningún casco. Los huecos tienen siempre que solaparse con al menos un casco (para los huecos que llevan a la salida) o entre dos cascos (para aquellos huecos entre salas).</nonlinkedgapswarning>
+<cannoteditvanillasubs>¡Los submarinos del paquete de contenido básico no se pueden editar!</cannoteditvanillasubs>
+<subeditor.structurecountwarning>El submarino tiene demasiadas estructuras grandes que pueden provocar problemas de rendimiento. Considera reducir el número de estructuras.</subeditor.structurecountwarning>
+<subeditor.structurecounterror>El submarino tiene demasiadas estructuras. (>[max]) y tendrá problemas de rendimiento. Reduce el número de estructuras.</subeditor.structurecounterror>
+<subeditor.wallcountwarning>El submarino tiene demasiadas paredes con un colisionador, lo que puede provocar problemas de rendimiento. Considera reducir el número de paredes.</subeditor.wallcountwarning>
+<subeditor.wallcounterror>El submarino tiene demasiadas paredes con un colisionador, (>[max]) y provocará problemas de rendimiento. Reduce el número de paredes.</subeditor.wallcounterror>
+<subeditor.itemcountwarning>El submarino contiene mucho objetos que pueden provocar problemas de rendimiento. Considera reducir el número de objetos.</subeditor.itemcountwarning>
+<subeditor.itemcounterror>El submarino tiene demasiados objetos (>[max]) y provocarán problemas de rendimiento. Reduce el número de objetos.</subeditor.itemcounterror>
+<subeditor.lightcountwarning>El submarino tiene demasiadas fuentes de luz que pueden provocar problemas de rendimiento. Considera reducir el número de luces.</subeditor.lightcountwarning>
+<subeditor.lightcounterror>El submarino tiene demasiadas luces (>[max]) y provocarán problemas de rendimiento. Reduce el número de luces.</subeditor.lightcounterror>
+<subeditor.shadowcastinglightcounterror>El submarino tiene demasiadas fuentes de sombras (>[max]) y provocarán problemas de rendimiento. Reduce el número de luces o inhabilita la fuente de sombra de algunas de las luces.</subeditor.shadowcastinglightcounterror>
+<canattachtoprevious>Se puede unir al previo</canattachtoprevious>
+<canattachtoprevious.tooltip>Los lados de este módulo que se pueden unir al puesto previo. Por ejemplo, si quieres que un módulo siempre se una al lado izquierdo del módulo de atraque, deja esto en "right".</canattachtoprevious.tooltip>
+<subeditor.packagealreadyexists>Ya existe un paquete de contenido con el nombre "[name]". Elige otro nombre o selecciona el paquete de contenido existente en el menú desplegable si quieres modificarlo.</subeditor.packagealreadyexists>
+<subeditor.duplicatesubinpackage>Ya existe un submarino con el mismo nombre en el paquete de contenido. ¿Quieres reescribir el archivo actual del submarino?</subeditor.duplicatesubinpackage>
+<stringpropertytranslate>Este texto se traducirá a [translation].</stringpropertytranslate>
+<stringpropertycannottranslate>Este texto no se traducirá: el texto con la etiqueta [tag] no se encuentra en los archivos de idioma.</stringpropertycannottranslate>
+<subeditorlights>Luces</subeditorlights>
+<subeditorshadowcastinglights>Luces que producen sombras</subeditorshadowcastinglights>
+
+<!-- Character editor -->
+<charactereditor.creatingnewjoint>Crear una articulación nueva</charactereditor.creatingnewjoint>
+<charactereditor.selectanchor1pos>Elige el punto de unión de la articulación</charactereditor.selectanchor1pos>
+<charactereditor.selectlimbtoconnect>Elige otra extremidad para conectar con la articulación</charactereditor.selectlimbtoconnect>
+<charactereditor.frozen>Congelación</charactereditor.frozen>
+<charactereditor.spriteorientation>Orientación de la imagen</charactereditor.spriteorientation>
+<charactereditor.spritesheetorientation>Orientación de la hoja</charactereditor.spritesheetorientation>
+<charactereditor.cantaddjointsnolimbelements>No se pueden añadir más articulaciones. ¡No hay extremidades!</charactereditor.cantaddjointsnolimbelements>
+<charactereditor.humanoidlimbdeletiondisabled>No se pueden eliminar extremidades de un humanoide para evitar que el juego se cierre inesperadamente.</charactereditor.humanoidlimbdeletiondisabled>
+<charactereditor.tryingtospawncharacter>Intentando reaparecer [config]</charactereditor.tryingtospawncharacter>
+<charactereditor.nocontentpackageselected>¡No hay paquete de contenido seleccionado!</charactereditor.nocontentpackageselected>
+<charactereditor.contentpackagesaved>Paquete de contenido guardado en [path]</charactereditor.contentpackagesaved>
+<charactereditor.backgroundcolor>Color \nde fondo</charactereditor.backgroundcolor>
+<charactereditor.spritesheetzoom>Acercar/Alejar hoja</charactereditor.spritesheetzoom>
+<charactereditor.reset>Reiniciar</charactereditor.reset>
+<charactereditor.hidebodysprites>Esconder imágenes de cuerpo</charactereditor.hidebodysprites>
+<charactereditor.showwearables>Mostrar usables</charactereditor.showwearables>
+<charactereditor.lockspriteorigin>Bloquear origen de la imagen</charactereditor.lockspriteorigin>
+<charactereditor.lockspriteposition>Bloquear posición de la imagen</charactereditor.lockspriteposition>
+<charactereditor.lockspritesize>Bloquear tamaño de la imagen</charactereditor.lockspritesize>
+<charactereditor.adjustcollider>Ajustar colisionador</charactereditor.adjustcollider>
+<charactereditor.uniformscale>Escala uniforme</charactereditor.uniformscale>
+<charactereditor.copyjointsettings>Copiar los ajustes de las articulaciones</charactereditor.copyjointsettings>
+<charactereditor.copyjointsettingstooltip>Copia los ajustes actuales modificados a todas las juntas.</charactereditor.copyjointsettingstooltip>
+<charactereditor.jointscale>Escala de las articulaciones</charactereditor.jointscale>
+<charactereditor.limbscale>Escala de las extremidades</charactereditor.limbscale>
+<charactereditor.selectedanimation>Animación seleccionada</charactereditor.selectedanimation>
+<charactereditor.previouscharacter>Anterior</charactereditor.previouscharacter>
+<charactereditor.nextcharacter>Siguiente</charactereditor.nextcharacter>
+<charactereditor.showparameters>Parámetros [F1]</charactereditor.showparameters>
+<charactereditor.showspritesheet>Hoja [T]</charactereditor.showspritesheet>
+<charactereditor.drawskeleton>Esqueleto [N]</charactereditor.drawskeleton>
+<charactereditor.enablelights>Luces [L]</charactereditor.enablelights>
+<charactereditor.drawdamagemodifiers>Modificadores del daño [M]</charactereditor.drawdamagemodifiers>
+<charactereditor.editcharacter>PERSONAJE [1]</charactereditor.editcharacter>
+<charactereditor.editragdoll>MUÑECA DE TRAPO [2]</charactereditor.editragdoll>
+<charactereditor.editlimbs>EXTREMIDADES [3]</charactereditor.editlimbs>
+<charactereditor.editjoints>ARTICULACIONES [4]</charactereditor.editjoints>
+<charactereditor.editanimations>ANIMACIONES [5]</charactereditor.editanimations>
+<charactereditor.editiktargets>Invertir objetivos cinemáticos [I]</charactereditor.editiktargets>
+<charactereditor.freeze>Congelar</charactereditor.freeze>
+<charactereditor.autofreeze>Autocongelar</charactereditor.autofreeze>
+<charactereditor.limbpairediting>Editar Par de extremidades</charactereditor.limbpairediting>
+<charactereditor.animationtestpose>Probar pose [X]</charactereditor.animationtestpose>
+<charactereditor.animationtestposeenabled>Probar pose habilitado</charactereditor.animationtestposeenabled>
+<charactereditor.automove>Mov. automático</charactereditor.automove>
+<charactereditor.followcursor>Seguir cursor</charactereditor.followcursor>
+<charactereditor.showcolliders>Colisionadores [C]</charactereditor.showcolliders>
+<charactereditor.editbackgroundcolor>Editar color de fondo</charactereditor.editbackgroundcolor>
+<charactereditor.savebutton>Guardar todo</charactereditor.savebutton>
+<charactereditor.allanimationssaved>Todas las animaciones guardadas</charactereditor.allanimationssaved>
+<charactereditor.ragdollsavedto>Muñeca de trapo guardada en [path]</charactereditor.ragdollsavedto>
+<charactereditor.charactersavedto>Archivo de configuración de personaje guardado en [path].</charactereditor.charactersavedto>
+<charactereditor.resetbutton>Reiniciar</charactereditor.resetbutton>
+<charactereditor.saveragdoll>Guardar muñeca de trapo</charactereditor.saveragdoll>
+<charactereditor.providefilename>Ponle nombre al archivo</charactereditor.providefilename>
+<charactereditor.loadragdoll>Cargar muñeca de trapo</charactereditor.loadragdoll>
+<charactereditor.couldntopendirectory>¡No se puede abrir el directorio: [folder]!</charactereditor.couldntopendirectory>
+<charactereditor.ragdolldeletedfrom>Muñeca de trapo eliminada de [file]</charactereditor.ragdolldeletedfrom>
+<charactereditor.ragdollloadedfrom>Muñeca de trapo cargada de [file]</charactereditor.ragdollloadedfrom>
+<charactereditor.saveanimation>Guardar animación</charactereditor.saveanimation>
+<charactereditor.selectanimationtype>Seleccionar el tipo de animación</charactereditor.selectanimationtype>
+<charactereditor.animationoftypesavedto>Animación tipo [type] guardada en [path]</charactereditor.animationoftypesavedto>
+<charactereditor.loadanimation>Cargar animación</charactereditor.loadanimation>
+<charactereditor.animationoftypedeleted>El tipo de animación [type] ubicado en [file] se ha eliminado.</charactereditor.animationoftypedeleted>
+<charactereditor.animationtypenotimplemented>¡El tipo de animación [type] no se ha implementado!</charactereditor.animationtypenotimplemented>
+<charactereditor.animationoftypeloaded>El tipo de animación [type] se ha cargado desde [file].</charactereditor.animationoftypeloaded>
+<charactereditor.reloadtextures>Recargar texturas</charactereditor.reloadtextures>
+<charactereditor.recreateragdoll>Recrear muñeca de trapo [F5]</charactereditor.recreateragdoll>
+<charactereditor.recreateragdolltooltip>Muchos de los parámetros necesitan recrear una muñeca de trapo. Si al ajustar el parámetro no ves que pase nada, haz clic en este botón.</charactereditor.recreateragdolltooltip>
+<charactereditor.createnewcharacter>Crear nuevo personaje</charactereditor.createnewcharacter>
+<charactereditor.copycharacter>Copiar personaje</charactereditor.copycharacter>
+<charactereditor.copycharactertooltip>Crear una copia del personaje actual</charactereditor.copycharactertooltip>
+<charactereditor.nofieldforparameterfound>¡No se ha encontrado [parameter]!</charactereditor.nofieldforparameterfound>
+<charactereditor.holdleftalttoadjustcyclespeed>Mantén MAYÚS izquierdo para ajustar la velocidad del ciclo</charactereditor.holdleftalttoadjustcyclespeed>
+<charactereditor.cyclespeed>Velocidad del ciclo</charactereditor.cyclespeed>
+<charactereditor.movementspeed>Velocidad de movimiento</charactereditor.movementspeed>
+<charactereditor.headangle>Ángulo de la cabeza</charactereditor.headangle>
+<charactereditor.head>Cabeza</charactereditor.head>
+<charactereditor.headposition>Posición de la cabeza</charactereditor.headposition>
+<charactereditor.torsoangle>Ángulo del torso</charactereditor.torsoangle>
+<charactereditor.torso>Torso</charactereditor.torso>
+<charactereditor.torsoposition>Posición del torso</charactereditor.torsoposition>
+<charactereditor.tailangle>Ángulo de la cola</charactereditor.tailangle>
+<charactereditor.footangle>Ángulo del pie</charactereditor.footangle>
+<charactereditor.stepsize>Tamaño de la pisada</charactereditor.stepsize>
+<charactereditor.handmoveamount>Cantidad de movimientos de la mano</charactereditor.handmoveamount>
+<charactereditor.tailmovementspeed>Velocidad de movimiento de la cola</charactereditor.tailmovementspeed>
+<charactereditor.tailmovementamount>Cantidad de movimientos de la cola</charactereditor.tailmovementamount>
+<charactereditor.legmovementspeed>Velocidad de movimiento de las piernas</charactereditor.legmovementspeed>
+<charactereditor.legmovementamount>Cantidad de movimientos de las piernas</charactereditor.legmovementamount>
+<charactereditor.handmovementamount>Cantidad de movimientos de la mano</charactereditor.handmovementamount>
+<charactereditor.holdleftalttomanipulatejoint>Mantén MAYÚS izquierdo para manipular el otro extremo de la articulación.</charactereditor.holdleftalttomanipulatejoint>
+<charactereditor.origin>Origen</charactereditor.origin>
+<charactereditor.position>Posición: [coordenadas]</charactereditor.position>
+<charactereditor.size>Tamaño</charactereditor.size>
+<charactereditor.upperlimit>Límite parte superior</charactereditor.upperlimit>
+<charactereditor.lowerlimit>Límite parte inferior</charactereditor.lowerlimit>
+<charactereditor.defaultname>Personaje X</charactereditor.defaultname>
+<charactereditor.ishumanoid>¿Humanoide?</charactereditor.ishumanoid>
+<charactereditor.canentersubmarines>¿Puede entrar en submarinos?</charactereditor.canentersubmarines>
+<charactereditor.canwalk>¿Puede andar?</charactereditor.canwalk>
+<charactereditor.configfileoutput>Config. del archivo generado</charactereditor.configfileoutput>
+<charactereditor.texturepath>Ruta de las texturas</charactereditor.texturepath>
+<charactereditor.selecttexture>Elegir textura</charactereditor.selecttexture>
+<charactereditor.contentpackagename>Nombre del paquete de contenido</charactereditor.contentpackagename>
+<charactereditor.texturedoesnotexist>¡El archivo de texturas no existe!</charactereditor.texturedoesnotexist>
+<charactereditor.defineragdoll>Definir muñeca de trapo</charactereditor.defineragdoll>
+<charactereditor.limbs>Extremidades</charactereditor.limbs>
+<charactereditor.limb>Extremidad</charactereditor.limb>
+<charactereditor.joints>Articulaciones</charactereditor.joints>
+<charactereditor.joint>Articulación</charactereditor.joint>
+<charactereditor.selectfile>Elegir archivo</charactereditor.selectfile>
+<charactereditor.missingtorsoorhead>¡Tienes que definir al menos una extremidad, torso y cabeza!</charactereditor.missingtorsoorhead>
+<charactereditor.missinglimbtype>¡Tienes que definir una sola extremidad como [limbtype]!</charactereditor.missinglimbtype>
+<charactereditor.charactercreated>Personaje creado: [name]</charactereditor.charactercreated>
+<charactereditor.limbtype>Tipo de extremidad</charactereditor.limbtype>
+<charactereditor.sourcerectangle>Rectángulo</charactereditor.sourcerectangle>
+<charactereditor.id>Identificador</charactereditor.id>
+<charactereditor.limbwithindex>Extremidad [index]</charactereditor.limbwithindex>
+<charactereditor.limbwithindexanchor>Extremidad [index] (ancla)</charactereditor.limbwithindexanchor>
+<charactereditor.failedtoreadhtml>Pantalla de editor de personaje: Error al leer el HTML en [path].</charactereditor.failedtoreadhtml>
+<charactereditor.multipleitemswithsamehierarchy>Se han encontrado varios objetos con el nivel de jerarquía [hierarchy] ([name]). No se puede continuar.</charactereditor.multipleitemswithsamehierarchy>
+<charactereditor.cannoteditvanillacharacters>¡No se pueden editar los personajes definidos en el paquete de contenido básico! Crea una copia del personaje (en otro paquete de contenido) si quieres editarlo.</charactereditor.cannoteditvanillacharacters>
+<charactereditor.existingcharacterfoundreplaceverification>Hay un personaje con el mismo nombre en el mismo paquete de contenido. ¿Quieres reemplazarlo? Los archivos originales se perderán.</charactereditor.existingcharacterfoundreplaceverification>
+<charactereditor.existingcharacterfoundoverrideverification>Hay un personaje con el mismo nombre en el mismo paquete de contenido. ¿Quieres reescribirlo? Los archivos originales se mantendrán intactos.</charactereditor.existingcharacterfoundoverrideverification>
+<charactereditor.existingcharacterfound>Hay un personaje con el mismo nombre.</charactereditor.existingcharacterfound>
+<charactereditor.modespanel>Editar</charactereditor.modespanel>
+<charactereditor.fileeditpanel>Archivos</charactereditor.fileeditpanel>
+<charactereditor.optionspanel>Opciones</charactereditor.optionspanel>
+<charactereditor.characterpanel>Personaje</charactereditor.characterpanel>
+<charactereditor.toolspanel>Herramientas</charactereditor.toolspanel>
+<charactereditor.minormodestitle>Mostrar</charactereditor.minormodestitle>
+<charactereditor.addmultiplelimbsbutton>Añadir varias</charactereditor.addmultiplelimbsbutton>
+<charactereditor.addaitarget>Añadir objetivo</charactereditor.addaitarget>
+<charactereditor.addbloodemitter>Añadir difusor de sangre</charactereditor.addbloodemitter>
+<charactereditor.addgibemitter>Añadir difusor de tripas</charactereditor.addgibemitter>
+<charactereditor.adddamageemitter>Añadir difusor de daño</charactereditor.adddamageemitter>
+<charactereditor.addsound>Añadir sonido</charactereditor.addsound>
+<charactereditor.addlightsource>Añadir luz</charactereditor.addlightsource>
+<charactereditor.addattack>Añadir ataque</charactereditor.addattack>
+<charactereditor.addaffliction>Añadir dolencia</charactereditor.addaffliction>
+<charactereditor.adddamagemodifier>Añadir modificador de daño</charactereditor.adddamagemodifier>
+<charactereditor.addinventory>Añadir inventario</charactereditor.addinventory>
+<charactereditor.addinventoryitem>Añadir objeto del inventario</charactereditor.addinventoryitem>
+<charactereditor.selected>Seleccionado</charactereditor.selected>
+<charactereditor.duplicatelimb>Duplicar extremidad</charactereditor.duplicatelimb>
+<charactereditor.deleteselected>Eliminar selección</charactereditor.deleteselected>
+<charactereditor.createjoint>Crear articulación</charactereditor.createjoint>
+<charactereditor.createlimb>Crear extremidad</charactereditor.createlimb>
+<charactereditor.drawlimbonspritesheet>Dibuja la extremidad en la hoja</charactereditor.drawlimbonspritesheet>
+<charactereditor.onlyshowselectedlimbs>Mostrar solo las extremidades seleccionadas</charactereditor.onlyshowselectedlimbs>
+<charactereditor.newcontentpackage>Nuevo paquete de contenido</charactereditor.newcontentpackage>
+<charactereditor.existingjointfound>¡Hay una articulación entre las extremidades [limbid1] y [limbid2]!</charactereditor.existingjointfound>
+<charactereditor.unrestrict>Sin restricción</charactereditor.unrestrict>
+<charactereditor.addmultiplelimbsbutton>Añadir varias</charactereditor.addmultiplelimbsbutton>
+<charactereditor.contentpackagenameinuse>Ya existe un paquete de contenido con el mismo nombre. Elige otro nombre o selecciona el paquete de contenido existente en el menú desplegable si quieres añadirle el personaje.</charactereditor.contentpackagenameinuse>
+<charactereditor.addmultiplelimbsbutton>Añadir varias</charactereditor.addmultiplelimbsbutton>
+
+<!-- Entity properties -->
+<sp.scale.name>Escala</sp.scale.name>
+<sp.spritedepth.name>Profundidad de la imagen</sp.spritedepth.name>
+<sp.disallowedupgrades.name>Mejoras no permitidas</sp.disallowedupgrades.name>
+<sp.hiddeningame.name>Oculto al jugar</sp.hiddeningame.name>
+<sp.item.hiddeningame.name>Oculto al jugar</sp.item.hiddeningame.name>
+<sp.item.noninteractable.name>No se puede interactuar</sp.item.noninteractable.name>
+<sp.item.spritecolor.name>Color de la imagen</sp.item.spritecolor.name>
+<sp.item.inventoryiconcolor.name>Color del icono del inventario</sp.item.inventoryiconcolor.name>
+<sp.item.containercolor.name>Color del contenedor</sp.item.containercolor.name>
+<sp.item.containercolor.description>Cambia el color del contenedor de este objeto. Solo tendrá efecto si la propiedad del contenedor "UseContainedSpriteColor" o "UseContainedInventoryIconColor" está en "true".</sp.item.containercolor.description>
+<sp.item.condition.name>Estado</sp.item.condition.name>
+<sp.item.tags.name>Etiquetas</sp.item.tags.name>
+<sp.item.displaysidebysidewhenlinked.name>Mostrar al lado al vincular</sp.item.displaysidebysidewhenlinked.name>
+<sp.item.displaysidebysidewhenlinked.description>Habilita esta opción si quieres que se muestre el HUD del objeto al lado de otro cuando estén vinculados. Aviso: ¡puede que los HUD se obstaculicen entre ellos si no están diseñados para verse juntos!</sp.item.displaysidebysidewhenlinked.description>
+<sp.item.spritedepth.name>Profundidad de la imagen</sp.item.spritedepth.name>
+<sp.item.nonplayerteaminteractable.name>Interactividad del resto de equipos</sp.item.nonplayerteaminteractable.name>
+<sp.item.nonplayerteaminteractable.description>Al activar esta opción, solo pueden interactuar con el objeto los personajes y los equipos que no sean tuyos.</sp.item.nonplayerteaminteractable.description>
+<sp.item.allowswapping.name>Permitir intercambio</sp.item.allowswapping.name>
+<sp.item.allowswapping.description>¿Se puede intercambiar el objeto por otros en los puestos de avanzada? Solo los relevantes como las torretas.</sp.item.allowswapping.description>
+<sp.item.invulnerabletodamage.name>Invulnerable al daño</sp.item.invulnerabletodamage.name>
+<sp.item.invulnerabletodamage.description>Al habilitar esta opción, el objeto no recibirá daño de ninguna fuente.</sp.item.invulnerabletodamage.description>
+<sp.structure.indestructible.name>Indestructible</sp.structure.indestructible.name>
+<sp.structure.castshadows.name>Emisión de sombras</sp.structure.castshadows.name>
+<sp.structure.specialtag.name>Etiqueta especial</sp.structure.specialtag.name>
+<sp.structure.spritecolor.name>Color de la imagen</sp.structure.spritecolor.name>
+<sp.structure.usedropshadow.name>Usar sombras idénticas</sp.structure.usedropshadow.name>
+<sp.structure.dropshadowoffset.name>Desviación de las sombras idénticas</sp.structure.dropshadowoffset.name>
+<sp.structure.dropshadowoffset.description>La posición de la sombra para con la estructura. Si el valor establecido es 0, la sombra se posicionará automáticamente para que señale el centro de la masa del submarino.</sp.structure.dropshadowoffset.description>
+<sp.structure.texturescale.name>Escala de la textura</sp.structure.texturescale.name>
+<sp.structure.textureoffset.name>Desviación de la textura</sp.structure.textureoffset.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.name>Eliminar si la puerta vinculada del puesto de avanzada está en uso</sp.structure.removeiflinkedoutpostdoorinuse.name>
+<sp.structure.removeiflinkedoutpostdoorinuse.description>Si la estructura está vinculada a una puerta al final de un módulo del puesto de avanzada, este ajuste provocará que la estructura se elimine si la puerta se usa en el puesto. De no ser así, se eliminará la estructura si la puerta no se usa.</sp.structure.removeiflinkedoutpostdoorinuse.description>
+<sp.structure.noaitarget.name>IA: hacer objetivo</sp.structure.noaitarget.name>
+<sp.structure.noaitarget.description>Si se habilita, los monstruos no se dirigirán a esta estructura.</sp.structure.noaitarget.description>
+<sp.structure.maxhealth.name>Salud máxima</sp.structure.maxhealth.name>
+<sp.hull.ambientlight.name>Luz ambiental</sp.hull.ambientlight.name>
+<sp.hull.roomname.name>Nombre de la sala</sp.hull.roomname.name>
+<sp.hull.iswetroom.name>Húmeda</sp.hull.iswetroom.name>
+<sp.hull.iswetroom.description>¿Es normal que el casco esté lleno de agua? Si el nombre de la sala contiene "Lastre", "Pantoque" o "Esclusa", no puedes deshabilitarlo.</sp.hull.iswetroom.description>
+<sp.hull.avoidstaying.name>Evitar quedarse</sp.hull.avoidstaying.name>
+<sp.hull.avoidstaying.description>Los bots no se quedan aquí, pero sí pueden pasar cuando lo necesiten. Forzado para las habitaciones húmedas.</sp.hull.avoidstaying.description>
+<sp.door.openingspeed.name>Velocidad de apertura</sp.door.openingspeed.name>
+<sp.door.openingspeed.description>Cómo de rápido se abren las puertas.</sp.door.openingspeed.description>
+<sp.door.closingspeed.name>Velocidad de cerrado</sp.door.closingspeed.name>
+<sp.door.closingspeed.description>Cómo de rápido se cierran las puertas.</sp.door.closingspeed.description>
+<sp.door.togglecooldown.name>Activar o desactivar la recarga</sp.door.togglecooldown.name>
+<sp.door.togglecooldown.description>La puerta no se puede abrir o cerrar durante un tiempo tras haberse abierto o cerrado por otro personaje.</sp.door.togglecooldown.description>
+<sp.door.isopen.name>Abierta</sp.door.isopen.name>
+<sp.door.isopen.description>La puerta está abierta.</sp.door.isopen.description>
+<sp.door.usebetweenoutpostmodules.name>Usar entre módulos de puesto de avanzada</sp.door.usebetweenoutpostmodules.name>
+<sp.door.usebetweenoutpostmodules.description>¿Esta puerta lleva a otros módulos de los puestos de avanzada? Solo es relevante para los módulos de puestos de avanzada.</sp.door.usebetweenoutpostmodules.description>
+<sp.door.botsshouldkeepopen.name>Los bots no pueden cerrar</sp.door.botsshouldkeepopen.name>
+<sp.door.botsshouldkeepopen.description>Si lo pones en "true", los bots no cerrarán esta puerta tras su paso.</sp.door.botsshouldkeepopen.description>
+<sp.door.ToggleWhenClicked>Activar cuando se hace clic</sp.door.ToggleWhenClicked>
+<sp.door.ToggleWhenClicked.description>Determina si se debe hacer clic en los botones integrados de las puertas para ejecutar la acción de apertura. Se puede usar con "activar_salida" para pasar una señal a un circuito sin activar la puerta cuando alguien intentar abrirla o cerrarla.</sp.door.ToggleWhenClicked.description>
+<sp.itemcomponent.pickingtime.name>Tiempo de recogida</sp.itemcomponent.pickingtime.name>
+<sp.itemcomponent.pickingtime.description>Lo que se tarda en recoger el objeto en segundos.</sp.itemcomponent.pickingtime.description>
+<sp.itemcomponent.canbepicked.name>Se puede recoger</sp.itemcomponent.canbepicked.name>
+<sp.itemcomponent.canbepicked.description>El objeto se puede recoger o puedes interactuar con él si la acción de coger también sirve para otras cosas.</sp.itemcomponent.canbepicked.description>
+<sp.itemcomponent.allowingameediting.name>Permitir edición en el juego</sp.itemcomponent.allowingameediting.name>
+<sp.itemcomponent.allowingameediting.description>Las propiedades del componente se pueden editar (solo aplicable si el componente tiene propiedades editables dentro del juego).</sp.itemcomponent.allowingameediting.description>
+<sp.itemcomponent.msg.name>Mensaje</sp.itemcomponent.msg.name>
+<sp.itemcomponent.msg.description>Un texto que se muestra al lado de un objeto cuando esté iluminado. Da instrucciones de cómo interactuar con el objeto, por ejemplo: "[Mouse1] Recoger".</sp.itemcomponent.msg.description>
+<sp.electricaldischarger.range.description>Cómo de lejos llega la descarga del objeto.</sp.electricaldischarger.range.description>
+<sp.electricaldischarger.rangemultiplierinwalls.name>Multiplicador de rango en las paredes</sp.electricaldischarger.rangemultiplierinwalls.name>
+<sp.electricaldischarger.rangemultiplierinwalls.description>Cómo de lejos puede llegar la descarga a través de las paredes.</sp.electricaldischarger.rangemultiplierinwalls.description>
+<sp.electricaldischarger.duration.name>Duración:</sp.electricaldischarger.duration.name>
+<sp.electricaldischarger.duration.description>La duración de una descarga única en segundos.</sp.electricaldischarger.duration.description>
+<sp.electricaldischarger.outdoorsonly.name>Solo fuera</sp.electricaldischarger.outdoorsonly.name>
+<sp.electricaldischarger.outdoorsonly.description>Si se establece en "true", la descarga no puede viajar por dentro del submarino ni electrocutar a nadie de dentro.</sp.electricaldischarger.outdoorsonly.description>
+<sp.electricaldischarger.reload.name>Recargar</sp.electricaldischarger.reload.name>
+<sp.electricaldischarger.reload.description>El tiempo en segundos que le cuesta al objeto recargar antes de volver a disparar.</sp.electricaldischarger.reload.description>
+<sp.powered.minvoltage.name>Voltaje mín.</sp.powered.minvoltage.name>
+<sp.powered.minvoltage.description>El voltaje mínimo para que el dispositivo funcione. Se calcula como energía/potencia. Un dispositivo con un consumo de energía de 100 kW necesitará 500 kW de potencia si el valor se establece en 0,5.</sp.powered.minvoltage.description>
+<sp.powered.powerconsumption.name>Consumo de energía</sp.powered.powerconsumption.name>
+<sp.powered.powerconsumption.description>Cuánta energía consume el dispositivo (o intenta consumir) de la red eléctrica al estar activo.</sp.powered.powerconsumption.description>
+<sp.powered.vulnerabletoemp.name>Vulnerable a los PEM</sp.powered.vulnerabletoemp.name>
+<sp.powered.vulnerabletoemp.description>¿Puede el dispositivo dañarse por culpa de los pulsos electromagnéticos?</sp.powered.vulnerabletoemp.description>
+<sp.entityspawnercomponent.itemidentifier.name>Identificador de objetos</sp.entityspawnercomponent.itemidentifier.name>
+<sp.entityspawnercomponent.itemidentifier.description>Identificador del objeto que aparece. No funciona si se establece un "SpeciesName". Separa entre comas si quieres que aparezcan varios objetos de forma aleatoria.</sp.entityspawnercomponent.itemidentifier.description>
+<sp.entityspawnercomponent.speciesname.name>Nombre de especie</sp.entityspawnercomponent.speciesname.name>
+<sp.entityspawnercomponent.speciesname.description>El nombre de la especie de la criatura que aparece. Tiene prioridad si se ha establecido un "ItemIdentifier". Separa entre comas si quieres que aparezcan varias criaturas de forma aleatoria.</sp.entityspawnercomponent.speciesname.description>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>Solo aparece cuando haya una tripulación al alcance</sp.entityspawnercomponent.onlyspawnwhencrewinrange.name>
+<sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>Solo aparece si la tripulación está dentro de la zona.</sp.entityspawnercomponent.onlyspawnwhencrewinrange.description>
+<sp.entityspawnercomponent.crewareashape.name>Forma de la zona de la tripulación</sp.entityspawnercomponent.crewareashape.name>
+<sp.entityspawnercomponent.crewareashape.description>La forma de la zona donde la tripulación tiene que permanecer.</sp.entityspawnercomponent.crewareashape.description>
+<sp.entityspawnercomponent.crewareabounds.name>Límites de la zona de la tripulación</sp.entityspawnercomponent.crewareabounds.name>
+<sp.entityspawnercomponent.crewareabounds.description>El rectángulo donde la tripulación tiene que permanecer. No tendrá efecto si "CrewAreaShape" está establecido en círculo.</sp.entityspawnercomponent.crewareabounds.description>
+<sp.entityspawnercomponent.crewarearadius.name>Radio de la zona de la tripulación</sp.entityspawnercomponent.crewarearadius.name>
+<sp.entityspawnercomponent.crewarearadius.description>Radio del círculo donde aparecen las cosas. No tendrá efecto si "CrewAreaShape" está establecido en rectángulo.</sp.entityspawnercomponent.crewarearadius.description>
+<sp.entityspawnercomponent.crewareaoffset.name>Desviación de la zona de la tripulación</sp.entityspawnercomponent.crewareaoffset.name>
+<sp.entityspawnercomponent.crewareaoffset.description>Desviación de la zona de la tripulación desde el centro del objeto.</sp.entityspawnercomponent.crewareaoffset.description>
+<sp.entityspawnercomponent.spawnareashape.name>Forma de la zona de aparición</sp.entityspawnercomponent.spawnareashape.name>
+<sp.entityspawnercomponent.spawnareashape.description>Forma de la zona donde los enemigos o las cosas aparecen.</sp.entityspawnercomponent.spawnareashape.description>
+<sp.entityspawnercomponent.spawnareabounds.name>Límites de la zona de aparición</sp.entityspawnercomponent.spawnareabounds.name>
+<sp.entityspawnercomponent.spawnareabounds.description>El rectángulo donde los enemigos o las cosas aparecen. No tendrá efecto si "SpawnAreaShape" está establecido en círculo.</sp.entityspawnercomponent.spawnareabounds.description>
+<sp.entityspawnercomponent.spawnarearadius.name>Radio de la zona de aparición</sp.entityspawnercomponent.spawnarearadius.name>
+<sp.entityspawnercomponent.spawnarearadius.description>Radio del círculo donde los enemigos o las cosas aparecen. No tendrá efecto si "SpawnAreaShape" está establecido en rectángulo.</sp.entityspawnercomponent.spawnarearadius.description>
+<sp.entityspawnercomponent.spawnareaoffset.name>Desviación de la zona de aparición</sp.entityspawnercomponent.spawnareaoffset.name>
+<sp.entityspawnercomponent.spawnareaoffset.description>Desviación de la zona de aparición desde el centro del objeto.</sp.entityspawnercomponent.spawnareaoffset.description>
+<sp.entityspawnercomponent.spawntimerrange.name>Rango de tiempo de aparición</sp.entityspawnercomponent.spawntimerrange.name>
+<sp.entityspawnercomponent.spawntimerrange.description>El rango de tiempo en segundos entre los intentos de aparición. Pon ambos en valor negativo para desactivar la aparición automática.</sp.entityspawnercomponent.spawntimerrange.description>
+<sp.entityspawnercomponent.spawnamountrange.name>Rango de cantidad de aparición</sp.entityspawnercomponent.spawnamountrange.name>
+<sp.entityspawnercomponent.spawnamountrange.description>La cantidad mínima y máxima de los objetos o criaturas que aparecen en un intento.</sp.entityspawnercomponent.spawnamountrange.description>
+<sp.entityspawnercomponent.maximumamount.name>Cantidad máxima</sp.entityspawnercomponent.maximumamount.name>
+<sp.entityspawnercomponent.maximumamount.description>La cantidad máxima de objetos o criaturas que aparecen. 0 = sin restringir.</sp.entityspawnercomponent.maximumamount.description>
+<sp.entityspawnercomponent.maximumamountinarea.name>Cantidad máxima de la zona</sp.entityspawnercomponent.maximumamountinarea.name>
+<sp.entityspawnercomponent.maximumamountinarea.description>La cantidad máxima de objetos o criaturas que aparecen que evitará que más objetos o criaturas aparezcan. 0 = sin restringir.</sp.entityspawnercomponent.maximumamountinarea.description>
+<sp.entityspawnercomponent.maximumamountrangepadding.name>Rango de la cantidad máxima de relleno</sp.entityspawnercomponent.maximumamountrangepadding.name>
+<sp.entityspawnercomponent.maximumamountrangepadding.description>Infla el círculo del rectángulo en este valor para extender la zona que cuenta para la cantidad máxima de objetos o enemigos que aparecerán.</sp.entityspawnercomponent.maximumamountrangepadding.description>
+<sp.entityspawnercomponent.preloadcharacter.name>Precargar personaje</sp.entityspawnercomponent.preloadcharacter.name>
+<sp.entityspawnercomponent.preloadcharacter.description>Si los personajes que el reaparecedor genera deben estar precargados al comienzo del turno para evitar un gran pico de retraso al aparecer.</sp.entityspawnercomponent.preloadcharacter.description>
+<sp.holdable.holdpos.name>Posición de mantenimiento</sp.holdable.holdpos.name>
+<sp.holdable.holdpos.description>La posición a la que sostiene el personaje un objeto (en píxeles, desde el hombro del personaje). Por ejemplo, un valor de 10, -100 hará que el personaje sostenga el objeto a 100 píxeles por debajo de su hombro y 10 píxeles hacia delante.</sp.holdable.holdpos.description>
+<sp.holdable.holdangle.name>Ángulo de mantenimiento</sp.holdable.holdangle.name>
+<sp.holdable.holdangle.description>La rotación a la que el personaje sostendrá el objeto en píxeles, en relación con la rotación de la mano.</sp.holdable.holdangle.description>
+<sp.holdable.swingamount.name>Cantidad de balanceo</sp.holdable.swingamount.name>
+<sp.holdable.swingamount.description>Cuánto se balancea el objeto al apuntarlo o sostenerlo. En píxeles, en compensación con "AimPos"/"HoldPos".</sp.holdable.swingamount.description>
+<sp.holdable.swingspeed.name>Velocidad de balanceo</sp.holdable.swingspeed.name>
+<sp.holdable.swingspeed.description>Cómo de rápido se balancea el objeto al apuntarlo o sostenerlo. Solo es válido si se ha establecido "SwingAmount".</sp.holdable.swingspeed.description>
+<sp.holdable.swingwhenholding.name>Balanceo al sostener</sp.holdable.swingwhenholding.name>
+<sp.holdable.swingwhenholding.description>Si el objeto se balancea cuando se sostiene.</sp.holdable.swingwhenholding.description>
+<sp.holdable.swingwhenaiming.name>Balanceo al apuntar</sp.holdable.swingwhenaiming.name>
+<sp.holdable.swingwhenaiming.description>Si el objeto se balancea cuando se apunta.</sp.holdable.swingwhenaiming.description>
+<sp.holdable.swingwhenusing.name>Balanceo al usar</sp.holdable.swingwhenusing.name>
+<sp.holdable.swingwhenusing.description>Si el objeto se balancea cuando se usa. Por ejemplo, al disparar un arma o usar una herramienta de soldar.</sp.holdable.swingwhenusing.description>
+<sp.holdable.disableheadrotation.name>Desactivar rotación de la cabeza</sp.holdable.disableheadrotation.name>
+<sp.holdable.spritedepthwhendropped.name>Profundidad de la imagen al caer</sp.holdable.spritedepthwhendropped.name>
+<sp.holdable.spritedepthwhendropped.description>Profundidad de la imagen que se usa cuando el objeto no está colgado en una pared.</sp.holdable.spritedepthwhendropped.description>
+<sp.holdable.aimangle.name>Ángulo de apuntado</sp.holdable.aimangle.name>
+<sp.holdable.aimangle.description>La rotación a la que el personaje tiene el objeto al apuntar. En grados y relacionado con la rotación de la mano.</sp.holdable.aimangle.description>
+<sp.rangedweapon.penetration.name>Penetración</sp.rangedweapon.penetration.name>
+<sp.rangedweapon.penetration.description>Porcentaje de mitigación de daño ignorado a partes del cuerpo blindadas (extremidades con bloqueo). Suma del arma más el proyectil.</sp.rangedweapon.penetration.description>
+<sp.itemcontainer.containablerestrictions.name>Restricciones controlables</sp.itemcontainer.containablerestrictions.name>
+<sp.itemcontainer.containablerestrictions.description>Define los objetos (por identificadores o etiquetas) que los bots tienen que poner dentro del contenedor.</sp.itemcontainer.containablerestrictions.description>
+<sp.itemcontainer.autofill.name>Relleno automático</sp.itemcontainer.autofill.name>
+<sp.itemcontainer.autofill.description>El contenedor se rellena automáticamente con objetos.</sp.itemcontainer.autofill.description>
+<sp.itemlabel.text.name>Texto</sp.itemlabel.text.name>
+<sp.itemlabel.text.description>El texto que se muestra en la etiqueta.</sp.itemlabel.text.description>
+<sp.itemlabel.ignorelocalization.name>Ignorar localización</sp.itemlabel.ignorelocalization.name>
+<sp.itemlabel.ignorelocalization.description>Si ignorar la localización y mostrar siempre el valor bruto.</sp.itemlabel.ignorelocalization.description>
+<sp.itemlabel.textcolor.description>El color del texto que se muestra en la etiqueta (R, G, B, A).</sp.itemlabel.textcolor.description>
+<sp.itemlabel.textscale.description>La escala del texto que se muestra en la etiqueta.</sp.itemlabel.textscale.description>
+<sp.lightcomponent.range.description>El rango de luz emitida. Los valores más altos provocan un rendimiento intensivo.</sp.lightcomponent.range.description>
+<sp.lightcomponent.castshadows.name>Emisión de sombras</sp.lightcomponent.castshadows.name>
+<sp.lightcomponent.castshadows.description>Si las estructuras producen sombras cuando la luz de esta fuente les da. Deshabilitar las sombras aumenta el rendimiento del juego, y se recomienda para luces de corto alcance. Las luces que se dibujan tras los submarinos no producen sombras.</sp.lightcomponent.castshadows.description>
+<sp.lightcomponent.drawbehindsubs.name>Dibujar detrás del submarino</sp.lightcomponent.drawbehindsubs.name>
+<sp.lightcomponent.drawbehindsubs.description>Las luces dibujadas detrás del submarino no producen sombras y son mucho más rápidas de dibujar que las que sí. Se recomienda habilitarlo en las luces decorativas en la parte de fuera del casco.</sp.lightcomponent.drawbehindsubs.description>
+<sp.lightcomponent.ison.description>Si la luz está encendida.</sp.lightcomponent.ison.description>
+<sp.lightcomponent.flicker.name>Titilar</sp.lightcomponent.flicker.name>
+<sp.lightcomponent.flicker.description>Cómo de fuerte titilan las luces. 0 = sin titileo. 1 = la luz alternará entre apagada y luz brillante.</sp.lightcomponent.flicker.description>
+<sp.lightcomponent.flickerspeed.name>Velocidad de titileo</sp.lightcomponent.flickerspeed.name>
+<sp.lightcomponent.flickerspeed.description>Cómo de rápido titila la luz.</sp.lightcomponent.flickerspeed.description>
+<sp.lightcomponent.pulsefrequency.name>Frecuencia de pulso</sp.lightcomponent.pulsefrequency.name>
+<sp.lightcomponent.pulsefrequency.description>Cómo de rápido la luz palpita (en Hz). 0 = sin palpitar.</sp.lightcomponent.pulsefrequency.description>
+<sp.lightcomponent.pulseamount.name>Cantidad de pulso</sp.lightcomponent.pulseamount.name>
+<sp.lightcomponent.pulseamount.description>Cuánto palpita la luz (en Hz). 0 =nada. 1 = alterna entre apagada y luz brillante.</sp.lightcomponent.pulseamount.description>
+<sp.lightcomponent.blinkfrequency.name>Frecuencia de parpadeo</sp.lightcomponent.blinkfrequency.name>
+<sp.lightcomponent.blinkfrequency.description>Cómo de rápido parpadea la luz (en Hz). 0 = sin parpadeo.</sp.lightcomponent.blinkfrequency.description>
+<sp.lightcomponent.lightcolor.description>El color de la luz que se emite (R, G, B, A).</sp.lightcomponent.lightcolor.description>
+<sp.controller.istoggle.name>Se alterna</sp.controller.istoggle.name>
+
+<sp.controller.state.name>Estado</sp.controller.state.name>
+<sp.controller.state.description>Si el objeto está encendido o apagado. Solo es válido si "se alterna" está en "true".</sp.controller.state.description>
+<sp.deconstructor.deconstructionspeed.name>Velocidad de deconstrucción</sp.deconstructor.deconstructionspeed.name>
+<sp.Deconstructor.DeconstructionSpeed.name>Velocidad de deconstrucción</sp.Deconstructor.DeconstructionSpeed.name>
+<sp.Deconstructor.DeconstructionSpeed.description>Multiplicador de la velocidad de deconstrucción.</sp.Deconstructor.DeconstructionSpeed.description>
+<sp.engine.maxforce.name>Fuerza máx.</sp.engine.maxforce.name>
+<sp.engine.maxforce.description>La cantidad de fuerza que se ejerce en el submarino cuando el motor está en máxima capacidad.</sp.engine.maxforce.description>
+<sp.engine.propellerpos.name>Posición de la hélice</sp.engine.propellerpos.name>
+<sp.engine.propellerpos.description>La posición de la hélice desde el centro del objeto (en píxeles). Determina dónde aparecen las partículas y la posición en la que se provoca daño a los personajes con el motor si se ha definido "PropellerDamage".</sp.engine.propellerpos.description>
+<sp.engine.disablepropellerdamage.name>Deshabilitar daño de hélice</sp.engine.disablepropellerdamage.name>
+<sp.minimap.requirewaterdetectors.name>Detector de agua necesario</sp.minimap.requirewaterdetectors.name>
+<sp.minimap.requirewaterdetectors.description>Si la máquina necesita entradas de los detectores de agua para mostrar el nivel del agua dentro de las salas.</sp.minimap.requirewaterdetectors.description>
+<sp.minimap.requireoxygendetectors.name>Detector de oxígeno necesario</sp.minimap.requireoxygendetectors.name>
+<sp.minimap.requireoxygendetectors.description>Si la máquina necesita entradas de los detectores de oxígeno para mostrar los niveles de oxígeno dentro de las salas.</sp.minimap.requireoxygendetectors.description>
+<sp.minimap.showhullintegrity.name>Mostrar la integridad del casco</sp.minimap.showhullintegrity.name>
+<sp.minimap.showhullintegrity.description>Si la máquina muestra paredes dañadas.</sp.minimap.showhullintegrity.description>
+<sp.minimap.enablehullstatus.name>Habilitar estado del casco</sp.minimap.enablehullstatus.name>
+<sp.minimap.enablehullstatus.description>Habilitar el modo de estado del casco.</sp.minimap.enablehullstatus.description>
+<sp.minimap.enableelectricalview.name>Habilitar vista eléctrica</sp.minimap.enableelectricalview.name>
+<sp.minimap.enableelectricalview.description>Habilitar el modo de vista eléctrica.</sp.minimap.enableelectricalview.description>
+<sp.minimap.enableitemfinder.name>Habilitar buscaobjetos</sp.minimap.enableitemfinder.name>
+<sp.minimap.enableitemfinder.description>Habilitar el modo buscaobjetos.</sp.minimap.enableitemfinder.description>
+<sp.pump.maxflow.name>Caudal máximo</sp.pump.maxflow.name>
+<sp.pump.maxflow.description>Cómo de rápido los objetos sacan o succionan agua al operar a máxima capacidad.</sp.pump.maxflow.description>
+<sp.reactor.maxpoweroutput.name>Potencia máxima de energía</sp.reactor.maxpoweroutput.name>
+<sp.reactor.maxpoweroutput.description>Cuánta potencia (kW) genera el reactor cuando está a máxima capacidad.</sp.reactor.maxpoweroutput.description>
+<sp.reactor.meltdowndelay.name>Retraso de fusión</sp.reactor.meltdowndelay.name>
+<sp.reactor.meltdowndelay.description>Cuánto tiempo la temperatura debe mantenerse crítica antes de una fusión.</sp.reactor.meltdowndelay.description>
+<sp.reactor.firedelay.name>Retraso de incendio</sp.reactor.firedelay.name>
+<sp.reactor.firedelay.description>Cuánto tiempo la temperatura debe mantenerse crítica antes de que el reactor se prenda fuego.</sp.reactor.firedelay.description>
+<sp.reactor.fuelconsumptionrate.name>Tasa de consumo de combustible</sp.reactor.fuelconsumptionrate.name>
+<sp.reactor.fuelconsumptionrate.description>Cómo de rápido por segundo se deteriora el estado de las barras de combustible.</sp.reactor.fuelconsumptionrate.description>
+<sp.reactor.explosiondamagesothersubs.name>Daño por explosión a otros submarinos</sp.reactor.explosiondamagesothersubs.name>
+<sp.sonar.usetransducers.name>Usar transductores</sp.sonar.usetransducers.name>
+<sp.sonar.usetransducers.description>Si el sonar tiene que estar conectado a los transductores externos para funcionar.</sp.sonar.usetransducers.description>
+<sp.sonar.centerontransducers.name>Foco en el transductor</sp.sonar.centerontransducers.name>
+<sp.sonar.centerontransducers.description>La vista del sonar debe centrarse en los transductores o en el centro de la masa del submarino. Solo tiene efecto si "UseTransducers" está habilitado.</sp.sonar.centerontransducers.description>
+<sp.sonar.hasmineralscanner.name>Tiene escáner mineral</sp.sonar.hasmineralscanner.name>
+<sp.sonar.hasmineralscanner.description>Si el sonar tiene el modo de escáner mineral.</sp.sonar.hasmineralscanner.description>
+<sp.steering.neutralballastlevel.name>Nivel neutral de lastre</sp.steering.neutralballastlevel.name>
+<sp.steering.neutralballastlevel.description>Cómo de llenos tienen que estar los tanques de lastre cuando el submarino no asciende o desciende. Se puede usar para compensar si los tanques son demasiado largos o pequeños respecto al tamaño del submarino.</sp.steering.neutralballastlevel.description>
+<sp.powercontainer.maxoutput.name>Potencia máxima</sp.powercontainer.maxoutput.name>
+<sp.powercontainer.maxoutput.description>La potencia máxima del dispositivo cuando está cargado por completo (kW).</sp.powercontainer.maxoutput.description>
+<sp.powercontainer.capacity.name>Capacidad</sp.powercontainer.capacity.name>
+<sp.powercontainer.capacity.description>La capacidad máxima del dispositivo (kw/min). Por ejemplo: un valor de 1000 significa que el dispositivo puede sacar 100 kilovatios de potencia durante 10 minutos o 1000 kilovatios por minuto.</sp.powercontainer.capacity.description>
+<sp.powercontainer.charge.description>La carga actual del dispositivo.</sp.powercontainer.charge.description>
+<sp.powercontainer.maxrechargespeed.name>Velocidad de carga máxima</sp.powercontainer.maxrechargespeed.name>
+<sp.powercontainer.maxrechargespeed.description>Cómo de rápido se puede cargar el dispositivo. Por ejemplo, con una velocidad de carga de 100 kW y una capacidad de 1000 kW/min, tardará 10 minutos hasta cargarse por completo.</sp.powercontainer.maxrechargespeed.description>
+<sp.powercontainer.rechargespeed.name>Velocidad de carga</sp.powercontainer.rechargespeed.name>
+<sp.powercontainer.rechargespeed.description>La velocidad de carga actual del dispositivo.</sp.powercontainer.rechargespeed.description>
+<sp.powercontainer.efficiency.name>Eficiencia</sp.powercontainer.efficiency.name>
+<sp.powercontainer.efficiency.description>La cantidad de energía que puedes obtener de un objetivo relativa a la cantidad de energía que se ha puesto en él.</sp.powercontainer.efficiency.description>
+<sp.PowerContainer.FlipIndicator.name>Indicador de volteo</sp.PowerContainer.FlipIndicator.name>
+<sp.PowerContainer.FlipIndicator.description>Si la barra de progreso que indica la carga tiene que cambiar para cargar desde el otro lado.</sp.PowerContainer.FlipIndicator.description>
+<sp.powertransfer.canbeoverloaded.name>Se puede sobrecargar</sp.powertransfer.canbeoverloaded.name>
+<sp.powertransfer.canbeoverloaded.description>Si el objeto se puede dañar al recibir demasiada energía de la red eléctrica.</sp.powertransfer.canbeoverloaded.description>
+<sp.powertransfer.overloadvoltage.name>Sobrecarga de tensión</sp.powertransfer.overloadvoltage.name>
+<sp.powertransfer.overloadvoltage.description>Cuánta energía tiene que mandar la red eléctrica en relación a la carga antes de que el objeto reciba daño. Por ejemplo, un valor de 2 significa que la red tiene que recibir el doble de energía que los dispositivos conectados consumen.</sp.powertransfer.overloadvoltage.description>
+<sp.powertransfer.fireprobability.name>Probabilidad de incendio</sp.powertransfer.fireprobability.name>
+<sp.powertransfer.fireprobability.description>La probabilidad de que haya un incendio cuando el objeto se rompa.</sp.powertransfer.fireprobability.description>
+<sp.quality.qualitylevel.name>Nivel de calidad</sp.quality.qualitylevel.name>
+<sp.repairable.deteriorationspeed.name>Velocidad de deterioro</sp.repairable.deteriorationspeed.name>
+<sp.repairable.deteriorationspeed.description>Cómo de rápido por segundo se deteriora un objeto.</sp.repairable.deteriorationspeed.description>
+<sp.repairable.mindeteriorationdelay.name>Retraso de deterioro mín.</sp.repairable.mindeteriorationdelay.name>
+<sp.repairable.mindeteriorationdelay.description>El retraso inicial mínimo antes de que un objeto se deteriore.</sp.repairable.mindeteriorationdelay.description>
+<sp.repairable.maxdeteriorationdelay.name>Retraso de deterioro máx.</sp.repairable.maxdeteriorationdelay.name>
+<sp.repairable.maxdeteriorationdelay.description>El retraso inicial máximo antes de que un objeto se deteriore.</sp.repairable.maxdeteriorationdelay.description>
+<sp.repairable.mindeteriorationcondition.name>Condición de deterioro mín.</sp.repairable.mindeteriorationcondition.name>
+<sp.repairable.mindeteriorationcondition.description>El objeto no se deteriorará espontáneamente si la condición está por debajo de este valor. Por ejemplo, si se establece en 10, la condición caerá espontáneamente a 10 y dejará de disminuir (a no ser que el objeto se deteriore por factores externos). Porcentajes de condición máx.</sp.repairable.mindeteriorationcondition.description>
+<sp.repairable.repairthreshold.name>Umbral de reparación</sp.repairable.repairthreshold.name>
+<sp.repairable.repairthreshold.description>La condición del objeto tiene que estar por debajo antes de poder repararlo. Porcentajes de condición máx.</sp.repairable.repairthreshold.description>
+<sp.repairable.fixdurationlowskill.name>Duración de reparación: habilidad baja</sp.repairable.fixdurationlowskill.name>
+<sp.repairable.fixdurationlowskill.description>La cantidad de tiempo que cuesta arreglar un objeto sin el nivel suficiente de habilidad.</sp.repairable.fixdurationlowskill.description>
+<sp.repairable.fixdurationhighskill.name>Duración de reparación: habilidad alta</sp.repairable.fixdurationhighskill.name>
+<sp.repairable.fixdurationhighskill.description>La cantidad de tiempo que cuesta arreglar un objeto con el nivel suficiente de habilidad.</sp.repairable.fixdurationhighskill.description>
+<sp.repairtool.barrelrotation.name>Rotación de cañón</sp.repairtool.barrelrotation.name>
+<sp.repairtool.barrelrotation.description>La rotación del cañón en grados.</sp.repairtool.barrelrotation.description>
+<sp.buttonterminal.signals.name>Señales</sp.buttonterminal.signals.name>
+<sp.buttonterminal.signals.description>Se mandan señales al apretar los botones correspondientes.</sp.buttonterminal.signals.description>
+<sp.buttonterminal.activatingitems.name>Activar objetos</sp.buttonterminal.activatingitems.name>
+<sp.buttonterminal.activatingitems.description>Identificadores o etiquetas de objetos que, al guardarse, permiten que se usen los botones del terminal. Han de ir separados por comas si se introduce más de uno.</sp.buttonterminal.activatingitems.description>
+<sp.connectionpanel.locked.name>Bloqueado</sp.connectionpanel.locked.name>
+<sp.connectionpanel.locked.description>Los paneles de conexión bloqueados no se pueden reconectar en el juego.</sp.connectionpanel.locked.description>
+<sp.memorycomponent.maxvaluelength.name>Valor máx. de longitud</sp.memorycomponent.maxvaluelength.name>
+<sp.memorycomponent.maxvaluelength.description>La longitud máxima de valor guardado. Aviso: los valores grandes pueden provocar un uso alto de memoria o problemas de conexión.</sp.memorycomponent.maxvaluelength.description>
+<sp.memorycomponent.writeable.name>Escribible</sp.memorycomponent.writeable.name>
+<sp.memorycomponent.writeable.description>El valor guardado en el componente de la memoria se puede cambiar mediante las señales.</sp.memorycomponent.writeable.description>
+<sp.motionsensor.ignoredead.name>Ignorar muertos</sp.motionsensor.ignoredead.name>
+<sp.motionsensor.ignoredead.description>Si el sensor ignora los cuerpos de los personajes muertos.</sp.motionsensor.ignoredead.description>
+<sp.motionsensor.rangex.description>Rango de detección horizontal.</sp.motionsensor.rangex.description>
+<sp.motionsensor.rangey.description>Rango de detección de movimiento vertical.</sp.motionsensor.rangey.description>
+<sp.motionsensor.detectoffset.name>Detectar desviación</sp.motionsensor.detectoffset.name>
+<sp.motionsensor.detectoffset.description>La posición para detectar movimiento en relación con el objeto. Por ejemplo, 0,100 detectará un movimiento a 100 unidades por encima del objeto.</sp.motionsensor.detectoffset.description>
+<sp.motionsensor.updateinterval.name>Intervalo de actualización</sp.motionsensor.updateinterval.name>
+<sp.motionsensor.updateinterval.description>Frecuencia con la que el sensor comprueba si hay algo moviéndose cerca. Los valores más altos son para un rendimiento mejor.</sp.motionsensor.updateinterval.description>
+<sp.motionsensor.output.description>La señal que emite este objeto cuando detecta movimiento.</sp.motionsensor.output.description>
+<sp.motionsensor.falseoutput.description>La señal que emite este objeto cuando no detecta movimiento.</sp.motionsensor.falseoutput.description>
+<sp.motionsensor.minimumvelocity.name>Velocidad mínima</sp.motionsensor.minimumvelocity.name>
+<sp.motionsensor.minimumvelocity.description>Cómo de rápido los objetos se tienen que mover (en m/s) dentro del rango del sector para que los detecte.</sp.motionsensor.minimumvelocity.description>
+<sp.terminal.welcomemessage.name>Mensaje de bienvenida</sp.terminal.welcomemessage.name>
+<sp.terminal.welcomemessage.description>Mensaje que se muestra en el terminal cuando se abre por primera vez.</sp.terminal.welcomemessage.description>
+<sp.terminal.usemonospacefont.name>Usar tipo de letra monoespaciado</sp.terminal.usemonospacefont.name>
+<sp.terminal.usemonospacefont.description>El terminal usará un tipo de letra monoespaciado.</sp.terminal.usemonospacefont.description>
+<sp.textcolor.name>Color del texto</sp.textcolor.name>
+<sp.terminal.textcolor.description>Color del texto del terminal.</sp.terminal.textcolor.description>
+<sp.terminal.linestartsymbol.name>Símbolo de comienzo de línea</sp.terminal.linestartsymbol.name>
+<sp.terminal.readonly.name>Solo lectura</sp.terminal.readonly.name>
+<sp.range.name>Alcance</sp.range.name>
+<sp.wificomponent.range.description>Cómo de cerca tiene que estar el destinatario para recibir una señal de este componente wifi.</sp.wificomponent.range.description>
+<sp.wificomponent.allowcrossteamcommunication.name>Permitir la comunicación entre equipos</sp.wificomponent.allowcrossteamcommunication.name>
+<sp.wificomponent.allowcrossteamcommunication.description>Si el componente se puede comunicar con componentes wifi de otro submarino (por ejemplo, un submarino enemigo con misiones de combate, batiscafo de reaparición). Tiene que estar activada tanto en el componente que emite la señal como en el componente que la recibe.</sp.wificomponent.allowcrossteamcommunication.description>
+<sp.wificomponent.linktochat.name>Vinculación con el chat</sp.wificomponent.linktochat.name>
+<sp.wificomponent.linktochat.description>Si se activa, las señales que se reciban de otro componente wifi vinculado a un chat se mostrarán como mensajes de quien tenga el objeto.</sp.wificomponent.linktochat.description>
+<sp.wificomponent.minchatmessageinterval.name>Intervalo mínimo de mensajes de chat.</sp.wificomponent.minchatmessageinterval.name>
+<sp.wificomponent.minchatmessageinterval.description>Cuántos segundos tienen que pasar entre señales para que un mensaje aparezca en la caja del chat. No se recomienda establecerlo en un valor bajo, ya que puede provocar que haya una gran cantidad de mensajes creados si hay componentes wifi vinculados al chat que no dejan de emitir una señal.</sp.wificomponent.minchatmessageinterval.description>
+<sp.wificomponent.discardduplicatechatmessages.name>Eliminar mensajes de chat duplicados</sp.wificomponent.discardduplicatechatmessages.name>
+<sp.wificomponent.discardduplicatechatmessages.description>Si se establece en "true", el componente solo creará mensajes de chat cuando reciba los cambios de la señal.</sp.wificomponent.discardduplicatechatmessages.description>
+<sp.wire.noautolock.name>Sin bloqueo automático</sp.wire.noautolock.name>
+<sp.wire.noautolock.description>Si se activa, el ajuste "bloquear cables predeterminados" ignorará a este cable.</sp.wire.noautolock.description>
+<sp.wire.usespritedepth.name>Usa profundidad de imagen</sp.wire.usespritedepth.name>
+<sp.wire.usespritedepth.description>Si se habilita, este cable usará la profundidad de imagen en vez de una constante.</sp.wire.usespritedepth.description>
+<sp.triggercomponent.force.description>La cantidad máxima de fuerza que se aplica a las entidades.</sp.triggercomponent.force.description>
+<sp.triggercomponent.distancebasedforce.name>Fuerza con base de distancia</sp.triggercomponent.distancebasedforce.name>
+<sp.triggercomponent.distancebasedforce.description>Determina si la fuerza aumenta conforme más cerca está el desencadenante del centro.</sp.triggercomponent.distancebasedforce.description>
+<sp.triggercomponent.forcefluctuation.name>Fluctuación de fuerza</sp.triggercomponent.forcefluctuation.name>
+<sp.triggercomponent.forcefluctuation.description>Determina si la fuerza fluctúa con el tiempo o se mantiene constante.</sp.triggercomponent.forcefluctuation.description>
+<sp.turret.hudtint.name>Tinta HUD</sp.turret.hudtint.name>
+<sp.turret.hudtint.description>Color opcional para la pantalla cuando se use un objeto (R, G, B, A).</sp.turret.hudtint.description>
+<sp.turret.reload.name>Recargar</sp.turret.reload.name>
+<sp.turret.reload.description>El periodo de tiempo que el usuario tiene que esperar entre disparos.</sp.turret.reload.description>
+<sp.turret.shotsperburst.name>Disparos por ráfaga</sp.turret.shotsperburst.name>
+<sp.turret.shotsperburst.description>Cuántos proyectiles se tienen que disparar antes de que haya una rotura adicional. (Piensa en el cañón de Gauss).</sp.turret.shotsperburst.description>
+<sp.turret.delaybetweenbursts.name>Retraso entre ráfagas</sp.turret.delaybetweenbursts.name>
+<sp.turret.delaybetweenbursts.description>Un retraso adicional entre ráfagas. Se añade a la recarga.</sp.turret.delaybetweenbursts.description>
+<sp.turret.retractiondurationmultiplier.name>Multiplicador de duración de la retracción</sp.turret.retractiondurationmultiplier.name>
+<sp.turret.retractiondurationmultiplier.description>Modifica cuánto le cuesta al cañón volver a la posición original tras disparar. El tiempo de recarga también le afecta.</sp.turret.retractiondurationmultiplier.description>
+<sp.turret.recoiltime.name>Tiempo de retroceso</sp.turret.recoiltime.name>
+<sp.turret.recoiltime.description>Cómo de rápido el retroceso mueve el cañón tras el lanzamiento.</sp.turret.recoiltime.description>
+<sp.turret.retractiondelay.name>Retraso en la retracción</sp.turret.retractiondelay.name>
+<sp.turret.retractiondelay.description>Cuánto tiempo le cuesta quedarse al cañón en su sitio tras el retroceso y antes de volver a la posición original.</sp.turret.retractiondelay.description>
+<sp.turret.rotationlimits.name>Límites de rotación</sp.turret.rotationlimits.name>
+<sp.turret.rotationlimits.description>El rango al que puede rotar el cañón.</sp.turret.rotationlimits.description>
+<sp.turret.springstiffnesslowskill.name>Velocidad del resorte: habilidad baja</sp.turret.springstiffnesslowskill.name>
+<sp.turret.springstiffnesslowskill.description>Cuánta rotación se le aplica al cañón cuando lo usa un personaje sin la habilidad suficiente. Los valores más altos provocan que el cañón rote más rápido.</sp.turret.springstiffnesslowskill.description>
+<sp.turret.springstiffnesshighskill.name>Velocidad del resorte: habilidad alta</sp.turret.springstiffnesshighskill.name>
+<sp.turret.springstiffnesshighskill.description>Cuánta rotación se le aplica al cañón cuando lo usa un personaje con la habilidad suficiente. Los valores más altos provocan que el cañón rote más rápido.</sp.turret.springstiffnesshighskill.description>
+<sp.turret.springdampinglowskill.name>Amortiguador del resorte: habilidad baja</sp.turret.springdampinglowskill.name>
+<sp.turret.springdampinglowskill.description>Cuánta rotación se le aplica al cañón para evitar su movimiento si lo usa un personaje sin la habilidad suficiente. Los valores más altos provocan que el apuntado sea más preciso y evita que el cañón se balancee en la dirección en la que se apunta.</sp.turret.springdampinglowskill.description>
+<sp.turret.springdampinghighskill.name>Amortiguador del resorte: habilidad alta</sp.turret.springdampinghighskill.name>
+<sp.turret.springdampinghighskill.description>Cuánta rotación se le aplica al cañón para evitar su movimiento si lo usa un personaje con la habilidad suficiente. Los valores más altos provocan que el apuntado sea más preciso y evita que el cañón se balancee en la dirección en la que se apunta.</sp.turret.springdampinghighskill.description>
+<sp.turret.rotationspeedlowskill.name>Velocidad de rotación: habilidad baja</sp.turret.rotationspeedlowskill.name>
+<sp.turret.rotationspeedlowskill.description>La velocidad angular máxima del cañón si lo usa un personaje sin la habilidad suficiente.</sp.turret.rotationspeedlowskill.description>
+<sp.turret.rotationspeedhighskill.name>Velocidad de rotación: habilidad alta</sp.turret.rotationspeedhighskill.name>
+<sp.turret.rotationspeedhighskill.description>La velocidad angular máxima del cañón si lo usa un personaje con la habilidad suficiente.</sp.turret.rotationspeedhighskill.description>
+<sp.turret.AutoOperate.name>Modo automático</sp.turret.AutoOperate.name>
+<sp.turret.RandomAimAmount.name>Cantidad de apuntado al azar</sp.turret.RandomAimAmount.name>
+<sp.turret.RandomAimMinTime.name>Tiempo mín. de apuntado al azar</sp.turret.RandomAimMinTime.name>
+<sp.turret.RandomAimMaxTime.name>Tiempo máx. de apuntado al azar</sp.turret.RandomAimMaxTime.name>
+<sp.turret.RandomMovement.name>Movimiento aleatorio</sp.turret.RandomMovement.name>
+<sp.turret.AimDelay.name>Retraso al apuntar</sp.turret.AimDelay.name>
+<sp.turret.TargetCharacters.name>Apuntar a personajes</sp.turret.TargetCharacters.name>
+<sp.turret.TargetMonsters.name>Apuntar a monstruos</sp.turret.TargetMonsters.name>
+<sp.turret.TargetHumans.name>Apuntar a humanos</sp.turret.TargetHumans.name>
+<sp.turret.TargetSubmarines.name>Apuntar a submarinos</sp.turret.TargetSubmarines.name>
+<sp.turret.TargetItems.name>Apuntar a objetos</sp.turret.TargetItems.name>
+<sp.turret.FriendlyTag.name>Apuntar a aliados</sp.turret.FriendlyTag.name>
+<sp.dockingport.maindockingport.name>Puerto de atraque principal</sp.dockingport.maindockingport.name>
+<sp.dockingport.maindockingport.description>Si se establece en "true", este puesto de avanzada se usará cuando aparezca un submarino atracado en un puesto de avanzada (si es posible).</sp.dockingport.maindockingport.description>
+<sp.dockingport.applyeffectsondocking.name>Aplicar efectos al atracar</sp.dockingport.applyeffectsondocking.name>
+<sp.dockingport.applyeffectsondocking.description>Si "OnUse StatusEffects" se activa al atracar (en puertos de atraque básicos, estos efectos emiten partículas y un sonido).</sp.dockingport.applyeffectsondocking.description>
+<sp.dockingport.forcedockingdirection.name>Forzar puerto de atraque</sp.dockingport.forcedockingdirection.name>
+<sp.dockingport.forcedockingdirection.description>La dirección en la que se tiene que acoplar el puerto. Por ejemplo, "Top" significa que el puerto puede acoplar otro arriba. Por norma, no se suele tocar este ajuste, pero si notas que la posición de atraque no es correcta (por ejemplo, por culpa de una configuración inusual de atraque sin cascos ni puertas), puedes usar esto para forzar la dirección.</sp.dockingport.forcedockingdirection.description>
+<sp.meleeweapon.swing.name>Oscilación</sp.meleeweapon.swing.name>
+<sp.meleeweapon.swingpos.name>Posición de la oscilación</sp.meleeweapon.swingpos.name>
+<sp.meleeweapon.swingforce.name>Fuerza de oscilación</sp.meleeweapon.swingforce.name>
+<sp.force.name>Fuerza</sp.force.name>
+<sp.propulsion.force.description>La fuerza que se aplica al cuerpo del personaje.</sp.propulsion.force.description>
+<sp.oxygengenerator.generatedamount.name>Cantidad generada</sp.oxygengenerator.generatedamount.name>
+<sp.oxygengenerator.generatedamount.description>Cuánto oxígeno genera la máquina si funciona a máxima capacidad.</sp.oxygengenerator.generatedamount.description>
+<sp.booleanoperatorcomponent.output.description>La señal que emite cuando se cumplen los requisitos.</sp.booleanoperatorcomponent.output.description>
+<sp.booleanoperatorcomponent.falseoutput.description>La señal que emite cuando las señales de entrada son las mismas (no se envía señal si está vacío).</sp.booleanoperatorcomponent.falseoutput.description>
+<sp.concatcomponent.maxoutputlength.description>La longitud máxima de la serie de salida. Aviso: los valores altos pueden provocar un uso alto de memoria o problemas de conexión.</sp.concatcomponent.maxoutputlength.description>
+<sp.delaycomponent.delay.description>Cuánto tiempo en segundos retrasa el objeto las señales.</sp.delaycomponent.delay.description>
+<sp.delaycomponent.resetwhensignalreceived.description>El componente descartaría señales recibidas previamente cuando se reciba una nueva.</sp.delaycomponent.resetwhensignalreceived.description>
+<sp.delaycomponent.resetwhendifferentsignalreceived.description>El componente descartaría señales recibidas previamente cuando la señal entrante sea distinta.</sp.delaycomponent.resetwhendifferentsignalreceived.description>
+<sp.notcomponent.continuousoutput.name>Salida continua</sp.notcomponent.continuousoutput.name>
+<sp.oscillatorcomponent.outputtype.description>Qué tipo de señal emite el objeto. Pulso: emite una señal periódica de 1. Serrado: envía una onda periódica que aumenta de forma lineal de 0 a 1. Sinusoidal: emite una onda sinusoidal que oscila entre -1 y 1. Cuadrado: emite una señal que alterna entre 0 y 1. Triángulo: emite una onda que alterna un aumento de forma lineal entre -1 y 1 y una disminución de 1 a -1.</sp.oscillatorcomponent.outputtype.description>
+<sp.oscillatorcomponent.frequency.name>Frecuencia</sp.oscillatorcomponent.frequency.name>
+<sp.oscillatorcomponent.frequency.description>Cómo de rápido oscila la señal o cómo de rápido se envían los pulsos (en Hz).</sp.oscillatorcomponent.frequency.description>
+<sp.regexfindcomponent.maxoutputlength.description>La longitud máxima de la serie de salida. Aviso: los valores altos pueden provocar un uso alto de memoria o problemas de conexión.</sp.regexfindcomponent.maxoutputlength.description>
+<sp.relaycomponent.maxpower.name>Energía máx.</sp.relaycomponent.maxpower.name>
+<sp.relaycomponent.maxpower.description>La cantidad máxima de energía que puede atravesar al objeto.</sp.relaycomponent.maxpower.description>
+<sp.greatercomponent.output.description>La señal que emite cuando la primera señal es mayor que la segunda (no se envía señal si está vacío).</sp.greatercomponent.output.description>
+<sp.greatercomponent.falseoutput.description>La señal que emite cuando la primera señal es igual o menor que la segunda (no se envía señal si está vacío).</sp.greatercomponent.falseoutput.description>
+<sp.ison.name>Encendido</sp.ison.name>
+<sp.relaycomponent.ison.description>Si el relé puede transmitir energía y señales a través de él.</sp.relaycomponent.ison.description>
+<sp.signalcheckcomponent.output.description>La señal que emite este objeto cuando la señal recibida coincide con la objetivo.</sp.signalcheckcomponent.output.description>
+<sp.signalcheckcomponent.falseoutput.description>La señal que emite este objeto cuando la señal recibida no coincide con la objetivo.</sp.signalcheckcomponent.falseoutput.description>
+<sp.signalcheckcomponent.targetsignal.description>El valor a comparar de las señales recibidas.</sp.signalcheckcomponent.targetsignal.description>
+<sp.maxoutputlength.name>Longitud de la salida máx.</sp.maxoutputlength.name>
+<sp.maxoutputlength.description>La longitud máxima de las series de salida. Aviso: Los valores altos pueden provocar un uso alto de memoria o problemas de conexión.</sp.maxoutputlength.description>
+<sp.waterdetector.output.description>La señal que emite el objeto cuando está debajo de agua.</sp.waterdetector.output.description>
+<sp.waterdetector.falseoutput.description>La señal que emite el objeto cuando no está debajo del agua.</sp.waterdetector.falseoutput.description>
+
+<!-- Entity names -->
+<entityname.hull>Casco</entityname.hull>
+<entitydescription.hull>Los cascos determinan qué partes se consideran "dentro" del submarino. Por normal general, todas las salas se pueden cerrar con un casco.</entitydescription.hull>
+<entityname.gap>Hueco</entityname.gap>
+<entitydescription.gap>Los huecos le permiten al agua y al aire fluir entre dos cascos.</entitydescription.gap>
+<entityname.waypoint>Punto de ruta</entityname.waypoint>
+<entitydescription.waypoint>Se usa por los personajes de la IA para caminar por el submarino.</entitydescription.waypoint>
+<entityname.spawnpoint>Punto de aparición</entityname.spawnpoint>
+<entitydescription.spawnpoint>Determina en qué salas puede aparecer la tripulación.</entitydescription.spawnpoint>
+
+<!-- Structure names -->
+<entityname.horizontalresizablewindow>Ventana horizontal reajustable</entityname.horizontalresizablewindow>
+<entityname.verticalresizablewindow>Ventana vertical reajustable</entityname.verticalresizablewindow>
+<entityname.ff_x_wall>Pared interior horizontal grande</entityname.ff_x_wall>
+<entityname.ff_x_wall_cables>Pared interior con cables horizontal grande</entityname.ff_x_wall_cables>
+<entityname.ff_y_wall>Pared interior vertical grande</entityname.ff_y_wall>
+<entityname.inwalll90cables>Pared interior con cables vertical grande</entityname.inwalll90cables>
+<entitydescription.resizeablewallwithcollisiondetection>Una pared reajustable con detección de colisión.</entitydescription.resizeablewallwithcollisiondetection>
+<entityname.inwalllcaph1>Remate de pared interior grande H1</entityname.inwalllcaph1>
+<entityname.inwalllcaph2>Remate de pared interior grande H2</entityname.inwalllcaph2>
+<entityname.inwalllcaph3>Remate de pared interior grande H3</entityname.inwalllcaph3>
+<entityname.inwalllcapy1>Remate de pared interior grande V1</entityname.inwalllcapy1>
+<entityname.inwalllcapy2>Remate de pared interior grande V2</entityname.inwalllcapy2>
+<entityname.inwalllcapy4>Remate de pared interior grande V4</entityname.inwalllcapy4>
+<entityname.inwallltieh1>Unión de pared interior grande H1</entityname.inwallltieh1>
+<entityname.inwallltieh2>Unión de pared interior grande H2</entityname.inwallltieh2>
+<entityname.inwallltieh3>Unión de pared interior grande H3</entityname.inwallltieh3>
+<entityname.inwallltiev1>Unión de pared interior grande V1</entityname.inwallltiev1>
+<entityname.inwallltiev2>Unión de pared interior grande V2</entityname.inwallltiev2>
+<entityname.inwallltiev3>Unión de pared interior grande V3</entityname.inwallltiev3>
+<entitydescription.wallcap>Una estructura decorativa que se pone en los extremos o en las intersecciones de las paredes.</entitydescription.wallcap>
+<entityname.ff_wall_b>Pared de lastre trasera A1</entityname.ff_wall_b>
+<entityname.ff_wall_bp>Pared de lastre trasera A2</entityname.ff_wall_bp>
+<entityname.bwbc>Pared de lastre trasera C</entityname.bwbc>
+<entityname.ff_wall_c1>Pared trasera C1</entityname.ff_wall_c1>
+<entityname.ff_wall_c2>Pared trasera C2</entityname.ff_wall_c2>
+<entityname.ff_wall_c3>Pared trasera C3</entityname.ff_wall_c3>
+<entityname.ff_wall_d1>Pared trasera D1</entityname.ff_wall_d1>
+<entityname.ff_wall_d2>Pared trasera D2</entityname.ff_wall_d2>
+<entityname.ff_wall_d3>Pared trasera D3</entityname.ff_wall_d3>
+<entityname.ff_wall_e>Pared trasera E</entityname.ff_wall_e>
+<entityname.ff_wall_e2>Pared trasera E2</entityname.ff_wall_e2>
+<entityname.ff_wall_g1>Pared trasera G1</entityname.ff_wall_g1>
+<entityname.ff_wall_g2>Pared trasera G2</entityname.ff_wall_g2>
+<entityname.ff_wall_g3>Pared trasera G3</entityname.ff_wall_g3>
+<entityname.ff_wall_h1>Pared trasera H1</entityname.ff_wall_h1>
+<entityname.bgorangepanels>Paneles de pared trasera naranjas</entityname.bgorangepanels>
+<entityname.bgorangepanelwindow>Paneles de pared trasera naranjas con ventana</entityname.bgorangepanelwindow>
+<entityname.bgpanels>Paneles de pared trasera</entityname.bgpanels>
+<entityname.bgpanelswindow>Pared trasera con ventana</entityname.bgpanelswindow>
+<entityname.PipesBackground>Pared trasera de tuberías</entityname.PipesBackground>
+<entityname.roughbgwall>Pared trasera irregular</entityname.roughbgwall>
+<entityname.cleanbgwall>Pared trasera limpia</entityname.cleanbgwall>
+<entitydescription.backgroundwall>Un fondo decorativo para la pared.</entitydescription.backgroundwall>
+<entityname.exta_tail>Timones antiguos A</entityname.exta_tail>
+<entitydescription.tailwithcollision>Timones de cola de submarino con detección de colisión.</entitydescription.tailwithcollision>
+<entityname.tailfina>Timones A</entityname.tailfina>
+<entityname.tailfinb>Timones B</entityname.tailfinb>
+<entityname.tailfinc>Timones C</entityname.tailfinc>
+<entityname.tailfind>Timones D</entityname.tailfind>
+<entityname.tailfind2p1>Timones D2 P1</entityname.tailfind2p1>
+<entityname.tailfind2p2>Timones D2 P2</entityname.tailfind2p2>
+<entityname.tailfind2p3>Timones D2 P3</entityname.tailfind2p3>
+<entityname.tailfind3p1>Timones D3 P1</entityname.tailfind3p1>
+<entityname.tailfind3p2>Timones D3 P2</entityname.tailfind3p2>
+<entityname.tailfind3p3>Timones D3 P3</entityname.tailfind3p3>
+<entityname.tailfinep1>Timones E P1</entityname.tailfinep1>
+<entityname.tailfinep2>Timones E P2</entityname.tailfinep2>
+<entityname.tailfinfp3>Timones E P3</entityname.tailfinfp3>
+<entityname.tailfinf1>Timones F1</entityname.tailfinf1>
+<entityname.tailfinf2>Timones F2</entityname.tailfinf2>
+<entityname.tailfinf3>Timones F3</entityname.tailfinf3>
+<entityname.tailfinf4>Timones F4</entityname.tailfinf4>
+<entitydescription.tailnocollision>Timones de cola de submarino decorativos sin detección de colisión.</entitydescription.tailnocollision>
+<entityname.exta_front>Proa de submarino A</entityname.exta_front>
+<entityname.subfrontb>Proa de submarino B</entityname.subfrontb>
+<entityname.subfrontc>Proa de submarino C</entityname.subfrontc>
+<entityname.subfrontd>Proa de submarino D</entityname.subfrontd>
+<entityname.subfronte>Proa de submarino E</entityname.subfronte>
+<entityname.subfrontg1p1>Proa de submarino F (parte de arriba)</entityname.subfrontg1p1>
+<entityname.subfrontg1p2>Proa de submarino F (parte central)</entityname.subfrontg1p2>
+<entityname.subfrontg1p3>Proa de submarino F (parte de abajo)</entityname.subfrontg1p3>
+<entityname.subfrontg2p1>Proa de submarino G (parte de arriba)</entityname.subfrontg2p1>
+<entityname.subfrontg2p2>Proa de submarino G (parte central)</entityname.subfrontg2p2>
+<entityname.subfrontg2p3>Proa de submarino G (parte de abajo)</entityname.subfrontg2p3>
+<entitydescription.frontwithcollision>Parte central del submarino con detector de colisión.</entitydescription.frontwithcollision>
+<entityname.frontfchaina1>Cadena frontal 1</entityname.frontfchaina1>
+<entityname.frontfchaina2>Cadena frontal 2</entityname.frontfchaina2>
+<entityname.frontpulley>Polea frontal</entityname.frontpulley>
+<entityname.shellaboard0dega>Tira horizontal pequeña de metal</entityname.shellaboard0dega>
+<entityname.shellaboard0degb>Tira horizontal grande de metal</entityname.shellaboard0degb>
+<entityname.shellaboard90dega>Tira vertical pequeña de metal</entityname.shellaboard90dega>
+<entityname.shellaboard90degb>Tira vertical grande de metal</entityname.shellaboard90degb>
+<entityname.leftwall>Pared básica (izq.)</entityname.leftwall>
+<entityname.LeftWallHeavy>Pared pesada (izq.)</entityname.LeftWallHeavy>
+<entityname.rightwall>Pared básica (dcha.)</entityname.rightwall>
+<entityname.RightWallHeavy>Pared pesada (dcha.)</entityname.RightWallHeavy>
+<entityname.topwall>Pared básica (parte de arriba)</entityname.topwall>
+<entityname.TopWallHeavy>Pared pesada (parte de arriba)</entityname.TopWallHeavy>
+<entityname.shella90deg>Exterior A. 90 grados</entityname.shella90deg>
+<entityname.shella16deg>Exterior A. 16 grados</entityname.shella16deg>
+<entityname.shella34deg>Exterior A. 34 grados</entityname.shella34deg>
+<entityname.shella0deg>Exterior A. 0 grados</entityname.shella0deg>
+<entityname.shella04deg>Exterior A. 4 grados</entityname.shella04deg>
+<entityname.shella14adeg>Exterior A. 14 grados</entityname.shella14adeg>
+<entityname.shella52deg>Exterior A. 52 grados</entityname.shella52deg>
+<entityname.shella16degb>Exterior A. 16 grados B</entityname.shella16degb>
+<entityname.shella25deg>Exterior A. 25 grados</entityname.shella25deg>
+<entityname.shella45deg>Exterior A. 45 grados</entityname.shella45deg>
+<entityname.shella32deg>Exterior A. 32 grados</entityname.shella32deg>
+<entityname.shella14degb>Exterior A. 14 grados B</entityname.shella14degb>
+<entityname.shella43deg>Exterior A. 43 grados</entityname.shella43deg>
+<entityname.shella51deg>Exterior A. 51 grados</entityname.shella51deg>
+<entityname.shella47deg>Exterior A. 47 grados</entityname.shella47deg>
+<entityname.shella60deg>Exterior A. 60 grados</entityname.shella60deg>
+<entityname.shella18deg>Exterior A. 18 grados</entityname.shella18deg>
+<entityname.shella70deg>Exterior A. 70 grados</entityname.shella70deg>
+<entityname.shella90degcurve>Exterior A. 90 grados curvo</entityname.shella90degcurve>
+<entityname.shella45degb>Exterior A. 45 grados B</entityname.shella45degb>
+<entityname.shella45degc>Exterior A. 45 grados A</entityname.shella45degc>
+<entityname.shella45degd>Exterior A. 45 grados B</entityname.shella45degd>
+<entityname.shella57deg>Exterior A. 57 grados</entityname.shella57deg>
+<entityname.shella40deg>Exterior A. 40 grados</entityname.shella40deg>
+<entityname.shella61deg>Exterior A. 61 grados</entityname.shella61deg>
+<entityname.shella17deg>Exterior A. 17 grados</entityname.shella17deg>
+<entityname.shella34degb>Exterior A. 34 grados B</entityname.shella34degb>
+<entityname.shella26deg>Exterior A. 26 grados</entityname.shella26deg>
+<entityname.shella54deg>Exterior A. 54 grados</entityname.shella54deg>
+<entityname.shella38deg>Exterior A. 38 grados</entityname.shella38deg>
+<entityname.shella42deg>Exterior A. 42</entityname.shella42deg>
+<entityname.shellacombo11>Exterior A. Combinación 1 1</entityname.shellacombo11>
+<entityname.shellacombo12>Exterior A. Combinación 1 2</entityname.shellacombo12>
+<entitydescription.exteriorshell>Pared exterior del submarino.</entitydescription.exteriorshell>
+<entityname.shellacap0dega>Exterior A. Remate redondo horizontal</entityname.shellacap0dega>
+<entityname.shellacap0degb>Exterior A. Remate cuadrado horizontal</entityname.shellacap0degb>
+<entityname.shellacap90dega>Exterior A. Remate redondo vertical</entityname.shellacap90dega>
+<entityname.shellacap90degb>Exterior A. Remate cuadrado vertical</entityname.shellacap90degb>
+<entityname.sshella01>Exterior de batiscafo A01</entityname.sshella01>
+<entityname.sshella02>Exterior de batiscafo A02</entityname.sshella02>
+<entityname.sshella04>Exterior de batiscafo A04</entityname.sshella04>
+<entityname.sshella05>Exterior de batiscafo A05</entityname.sshella05>
+<entityname.sshellaa06>Exterior de batiscafo A06</entityname.sshellaa06>
+<entityname.sshella07>Exterior de batiscafo A07</entityname.sshella07>
+<entityname.sshella08>Exterior de batiscafo A08</entityname.sshella08>
+<entityname.sshella09>Exterior de batiscafo A09</entityname.sshella09>
+<entityname.sshella10>Exterior de batiscafo A10</entityname.sshella10>
+<entityname.sshella11>Exterior de batiscafo A11</entityname.sshella11>
+<entityname.sshella14>Exterior de batiscafo A14</entityname.sshella14>
+<entityname.sshella15a>Exterior de batiscafo A15a</entityname.sshella15a>
+<entityname.sshella15b>Exterior de batiscafo A15b</entityname.sshella15b>
+<entityname.sshella15c>Exterior de batiscafo A15c</entityname.sshella15c>
+<entityname.sshella17a>Exterior de batiscafo A17a</entityname.sshella17a>
+<entityname.sshella17b>Exterior de batiscafo A17b</entityname.sshella17b>
+<entityname.sshella17c>Exterior de batiscafo A17c</entityname.sshella17c>
+<entityname.sshella18>Exterior de batiscafo A18</entityname.sshella18>
+<entityname.sshella19>Exterior de batiscafo A19</entityname.sshella19>
+<entityname.sshella20>Exterior de batiscafo A20</entityname.sshella20>
+<entityname.sshella21>Exterior de batiscafo A21</entityname.sshella21>
+<entityname.sshella22>Exterior de batiscafo A22</entityname.sshella22>
+<entityname.sshella23>Exterior de batiscafo A23</entityname.sshella23>
+<entityname.sshella24>Exterior de batiscafo A24</entityname.sshella24>
+<entityname.sshella25>Exterior de batiscafo A25</entityname.sshella25>
+<entityname.sshella26>Exterior de batiscafo A26</entityname.sshella26>
+<entityname.sshella27>Exterior de batiscafo A27</entityname.sshella27>
+<entityname.sshella28>Exterior de batiscafo A28</entityname.sshella28>
+<entityname.sshella30>Exterior de batiscafo A30</entityname.sshella30>
+<entityname.sshella32b>Exterior de batiscafo A32b</entityname.sshella32b>
+<entityname.sshella32c>Exterior de batiscafo A32c</entityname.sshella32c>
+<entityname.sshella32d>Exterior de batiscafo A32d</entityname.sshella32d>
+<entityname.sshella36>Exterior de batiscafo A36</entityname.sshella36>
+<entityname.sshella37>Exterior de batiscafo A37</entityname.sshella37>
+<entityname.sshella38>Exterior de batiscafo A38</entityname.sshella38>
+<entityname.sshella39>Exterior de batiscafo A39</entityname.sshella39>
+<entityname.sshella40>Exterior de batiscafo A40</entityname.sshella40>
+<entityname.sshella41>Exterior de batiscafo A41</entityname.sshella41>
+<entityname.sshellaglassa>Exterior de batiscafo A. Cristal A</entityname.sshellaglassa>
+<entityname.sshellaglassb>Exterior de batiscafo A. Cristal B</entityname.sshellaglassb>
+<entityname.sshellaglassc>Exterior de batiscafo A. Cristal C</entityname.sshellaglassc>
+<entityname.sshellaglassd>Exterior de batiscafo A. Cristal D</entityname.sshellaglassd>
+<entityname.sshellaglasse>Exterior de batiscafo A. Cristal E</entityname.sshellaglasse>
+<entityname.sshellaglassf>Exterior de batiscafo A. Cristal F</entityname.sshellaglassf>
+<entitydescription.exteriorshuttleshell>Pared exterior del batiscafo.</entitydescription.exteriorshuttleshell>
+<entityname.ventbendducta1>Tubo de respiradero curvo A1</entityname.ventbendducta1>
+<entityname.ventbendducta2>Tubo de respiradero curvo A2</entityname.ventbendducta2>
+<entityname.ventconnectora1>Conector de respiradero A1</entityname.ventconnectora1>
+<entityname.ventconnectora2>Conector de respiradero A2</entityname.ventconnectora2>
+<entityname.ventconnectora3>Conector de respiradero A3</entityname.ventconnectora3>
+<entityname.ventconnectora4>Conector de respiradero A4</entityname.ventconnectora4>
+<entityname.ventconnectora5>Conector de respiradero A5</entityname.ventconnectora5>
+<entityname.ventconnectora6>Conector de respiradero A6</entityname.ventconnectora6>
+<entityname.ventconnectora7>Conector de respiradero A7</entityname.ventconnectora7>
+<entityname.ventconnectorcapa1>Remate de conector de respiradero A1</entityname.ventconnectorcapa1>
+<entityname.ventconnectorcapa2>Remate de conector de respiradero A2</entityname.ventconnectorcapa2>
+<entityname.ventducta1>Tubo de respiradero A1</entityname.ventducta1>
+<entityname.ventducta190deg>Tubo de respiradero A1 vertical</entityname.ventducta190deg>
+<entityname.ventducta2>Tubo de respiradero A2</entityname.ventducta2>
+<entityname.ventducta290deg>Tubo de respiradero A2 vertical</entityname.ventducta290deg>
+<entityname.ventductb1>Tubo de respiradero B1</entityname.ventductb1>
+<entityname.ventductb190deg>Tubo de respiradero B1 vertical</entityname.ventductb190deg>
+<entityname.ventductb290deg>Tubo de respiradero B2 vertical</entityname.ventductb290deg>
+<entityname.ventductbendb1>Tubo de respiradero curvo B1</entityname.ventductbendb1>
+<entityname.ventductbendb2>Tubo de respiradero curvo B2</entityname.ventductbendb2>
+<entityname.ventductfana>Tubo de respiradero con ventilador A</entityname.ventductfana>
+<entityname.ventductlongb2>Tubo de respiradero B2</entityname.ventductlongb2>
+<entityname.ventductreducerb>Tubo de respiradero reductor B</entityname.ventductreducerb>
+<entityname.ventductreducerb90deg>Tubo de respiradero reductor B vertical</entityname.ventductreducerb90deg>
+<entityname.ventlargeductreducera>Tubo de respiradero reductor grande A</entityname.ventlargeductreducera>
+<entityname.ventlargeductreducera1>Tubo de respiradero reductor mediano A1</entityname.ventlargeductreducera1>
+<entityname.ventlargeductreducera2>Tubo de respiradero reductor mediano A2</entityname.ventlargeductreducera2>
+<entityname.ventlargepipebenda1>Tubería de respiradero curvo grande A1</entityname.ventlargepipebenda1>
+<entityname.ventmediumpipebenda1>Tubería de respiradero curvo mediana A1</entityname.ventmediumpipebenda1>
+<entityname.ventpipea1>Tubería de respiradero A1</entityname.ventpipea1>
+<entityname.ventpipea190deg>Tubería de respiradero A1 vertical</entityname.ventpipea190deg>
+<entityname.ventpipea2>Tubería de respiradero A2</entityname.ventpipea2>
+<entityname.ventpipea290deg>Tubería de respiradero A2 vertical</entityname.ventpipea290deg>
+<entityname.ventpipea3>Tubería de respiradero A3</entityname.ventpipea3>
+<entityname.ventpipea390deg>Tubería de respiradero A3 vertical</entityname.ventpipea390deg>
+<entityname.ventpipea4>Tubería de respiradero A4</entityname.ventpipea4>
+<entityname.ventpipea490deg>Tubería de respiradero A4 vertical</entityname.ventpipea490deg>
+<entityname.ventpipea5>Tubería de respiradero A5</entityname.ventpipea5>
+<entityname.ventpipea590deg>Tubería de respiradero A5 vertical</entityname.ventpipea590deg>
+<entityname.ventpipea6>Tubería de respiradero A6</entityname.ventpipea6>
+<entityname.ventpipea690deg>Tubería de respiradero A6 vertical</entityname.ventpipea690deg>
+<entityname.ventpipea7>Tubería de respiradero A7</entityname.ventpipea7>
+<entityname.ventpipea790deg>Tubería de respiradero A7 vertical</entityname.ventpipea790deg>
+<entityname.ventpipea8>Tubería de respiradero A8</entityname.ventpipea8>
+<entityname.ventpipea890deg>Tubería de respiradero A8 vertical</entityname.ventpipea890deg>
+<entityname.ventpipea9>Tubería de respiradero A9</entityname.ventpipea9>
+<entityname.ventpipea990deg>Tubería de respiradero A9 vertical</entityname.ventpipea990deg>
+<entityname.ventpipecapa1>Remate de tubería de respiradero A1</entityname.ventpipecapa1>
+<entityname.ventpipecapa190deg>Remate de tubería de respiradero A1 vertical</entityname.ventpipecapa190deg>
+<entityname.ventsmallductreducera>Tubo de respiradero reductor pequeño A</entityname.ventsmallductreducera>
+<entityname.sshellalightsa>Luces del batiscafo A</entityname.sshellalightsa>
+<entityname.sshellaplatea>Plancha del batiscafo A</entityname.sshellaplatea>
+<entityname.sshellaplateb>Plancha del batiscafo B</entityname.sshellaplateb>
+<entityname.sshellaplatexl>Plancha del batiscafo XL</entityname.sshellaplatexl>
+<entityname.sshellabumpera>Parachoques del batiscafo A</entityname.sshellabumpera>
+<entityname.sshellabumperb>Parachoques del batiscafo B</entityname.sshellabumperb>
+<entityname.sshellafina>Timones del batiscafo A</entityname.sshellafina>
+<entityname.sshellafinb>Timones del batiscafo B</entityname.sshellafinb>
+<entityname.sshellafinc>Timones del batiscafo C</entityname.sshellafinc>
+<entityname.sshellafind>Timones del batiscafo D</entityname.sshellafind>
+<entityname.sshellagromita>Ojete de metal del batiscafo A</entityname.sshellagromita>
+<entityname.sshellagromitb>Ojete de metal del batiscafo B</entityname.sshellagromitb>
+<entityname.sshellagromitc>Ojete de metal del batiscafo C</entityname.sshellagromitc>
+<entityname.sshellagromitd>Ojete de metal del batiscafo D</entityname.sshellagromitd>
+<entitydescription.decorativeshuttlepiece>Pieza decorativa del batiscafo.</entitydescription.decorativeshuttlepiece>
+<entityname.finabelt01>Timón de inmersión con franja 1</entityname.finabelt01>
+<entityname.finabelt02>Timón de inmersión con franja 2</entityname.finabelt02>
+<entityname.finabelt03>Timón de inmersión con franja 3</entityname.finabelt03>
+<entityname.finabelt04>Timón de inmersión con franja 4</entityname.finabelt04>
+<entityname.finabelt05>Timón de inmersión con franja 5</entityname.finabelt05>
+<entityname.finabelt06>Timón de inmersión con franja 6</entityname.finabelt06>
+<entityname.finabodyedge01>Canto del timón de inmersión 1</entityname.finabodyedge01>
+<entityname.finabodyedge02>Canto del timón de inmersión 2</entityname.finabodyedge02>
+<entityname.finabodyedge03>Canto del timón de inmersión 3</entityname.finabodyedge03>
+<entityname.finabodyedge04>Canto del timón de inmersión 4</entityname.finabodyedge04>
+<entityname.finabodyedge05>Canto del timón de inmersión 5</entityname.finabodyedge05>
+<entityname.finabodyedge06>Canto del timón de inmersión 6</entityname.finabodyedge06>
+<entityname.finabodyedge07>Canto del timón de inmersión 7</entityname.finabodyedge07>
+<entityname.finabodyedge08>Canto del timón de inmersión 8</entityname.finabodyedge08>
+<entityname.finabodyinside01>Interior del timón de inmersión 1</entityname.finabodyinside01>
+<entityname.finabodyinside02>Interior del timón de inmersión 2</entityname.finabodyinside02>
+<entityname.finabodyinside03>Interior del timón de inmersión 3</entityname.finabodyinside03>
+<entityname.finabodyinside04>Interior del timón de inmersión 4</entityname.finabodyinside04>
+<entityname.finabodyinside05>Interior del timón de inmersión 5</entityname.finabodyinside05>
+<entityname.finabodyinside06>Interior del timón de inmersión 6</entityname.finabodyinside06>
+<entityname.finbodyinside07>Interior del timón de inmersión 7</entityname.finbodyinside07>
+<entityname.finabodyinside08>Interior del timón de inmersión 8</entityname.finabodyinside08>
+<entityname.finabodyinside11>Interior del timón de inmersión 9</entityname.finabodyinside11>
+<entityname.finabodyinside12>Interior del timón de inmersión 10</entityname.finabodyinside12>
+<entityname.finabodyinside13>Interior del timón de inmersión 11</entityname.finabodyinside13>
+<entityname.finabodyinside14>Interior del timón de inmersión 12</entityname.finabodyinside14>
+<entityname.finabodyinside15>Interior del timón de inmersión 13</entityname.finabodyinside15>
+<entityname.finabodyinside16>Interior del timón de inmersión 14</entityname.finabodyinside16>
+<entityname.finacorner01>Esquina del timón de inmersión 1</entityname.finacorner01>
+<entityname.finacorner02>Esquina del timón de inmersión 2</entityname.finacorner02>
+<entityname.finacorner03>Esquina del timón de inmersión 3</entityname.finacorner03>
+<entityname.finacorner04>Esquina del timón de inmersión 4</entityname.finacorner04>
+<entityname.finacorner05>Esquina del timón de inmersión 5</entityname.finacorner05>
+<entityname.finacorner06>Esquina del timón de inmersión 6</entityname.finacorner06>
+<entityname.finacorner07>Esquina del timón de inmersión 7</entityname.finacorner07>
+<entityname.finacorner08>Esquina del timón de inmersión 8</entityname.finacorner08>
+<entityname.finacorner09>Esquina del timón de inmersión 9</entityname.finacorner09>
+<entityname.finacorner11>Esquina del timón de inmersión 10</entityname.finacorner11>
+<entityname.finacorner12>Esquina del timón de inmersión 11</entityname.finacorner12>
+<entityname.finacorner13>Esquina del timón de inmersión 12</entityname.finacorner13>
+<entityname.finacorner14>Esquina del timón de inmersión 13</entityname.finacorner14>
+<entityname.finacorner15>Esquina del timón de inmersión 14</entityname.finacorner15>
+<entityname.finadeco01>Decoración de timón 1</entityname.finadeco01>
+<entityname.finadeco02>Decoración de timón 2</entityname.finadeco02>
+<entityname.finadeco03>Decoración de timón 3</entityname.finadeco03>
+<entityname.finadeco04>Decoración de timón 4</entityname.finadeco04>
+<entityname.finadeco05>Decoración de timón 5</entityname.finadeco05>
+<entityname.finadeco06>Decoración de timón 6</entityname.finadeco06>
+<entityname.finadeco07>Decoración de timón 7</entityname.finadeco07>
+<entityname.finadeco08>Decoración de timón 8</entityname.finadeco08>
+<entityname.finadeco09>Decoración de timón 9</entityname.finadeco09>
+<entityname.finadeco10>Decoración de timón 10</entityname.finadeco10>
+<entityname.finawingpart72>Decoración de timón 11</entityname.finawingpart72>
+<entityname.finapatch01>Parche de timón 1</entityname.finapatch01>
+<entityname.finapatch02>Parche de timón 2</entityname.finapatch02>
+<entityname.finapatch03>Parche de timón 3</entityname.finapatch03>
+<entityname.finapatch04>Parche de timón 4</entityname.finapatch04>
+<entityname.finapatch05>Parche de timón 5</entityname.finapatch05>
+<entityname.finawingpart01>Timón de inmersión G 2</entityname.finawingpart01>
+<entityname.finawingpart02>Timón de inmersión G 1</entityname.finawingpart02>
+<entityname.finawingpart03>Timón de inmersión E 2</entityname.finawingpart03>
+<entityname.finawingpart04>Timón de inmersión E 1</entityname.finawingpart04>
+<entityname.finawingpart05>Timón de inmersión D 2</entityname.finawingpart05>
+<entityname.finawingpart06>Timón de inmersión D 1</entityname.finawingpart06>
+<entityname.finawingpart07>Timón de inmersión F 2</entityname.finawingpart07>
+<entityname.finawingpart08>Timón de inmersión F 1</entityname.finawingpart08>
+<entityname.finawingpart09>Timón de inmersión curvo A 1</entityname.finawingpart09>
+<entityname.finawingpart10>Timón de inmersión curvo A 2</entityname.finawingpart10>
+<entityname.finawingpart11>Timón de inmersión E 4</entityname.finawingpart11>
+<entityname.finawingpart12>Timón de inmersión E 3</entityname.finawingpart12>
+<entityname.finawingpart13>Timón de inmersión D 5</entityname.finawingpart13>
+<entityname.finawingpart14>Timón de inmersión D 6</entityname.finawingpart14>
+<entityname.finawingpart15>Timón de inmersión D 3</entityname.finawingpart15>
+<entityname.finawingpart16>Timón de inmersión D 4</entityname.finawingpart16>
+<entityname.finawingpart19>Pegatina para timón 2</entityname.finawingpart19>
+<entityname.finawingpart20>Pegatina para timón 1</entityname.finawingpart20>
+<entityname.finawingpart22>Parte especial del timón 1</entityname.finawingpart22>
+<entityname.finawingpart23>Parte especial del timón 2</entityname.finawingpart23>
+<entityname.finawingpart24>Parte especial del timón 3</entityname.finawingpart24>
+<entityname.finawingpart25>Parte especial del timón 4</entityname.finawingpart25>
+<entityname.finawingpart26>Parte especial del timón 5</entityname.finawingpart26>
+<entityname.finawingpart27>Parte especial del timón 6</entityname.finawingpart27>
+<entityname.finawingpart28>Pared de timón 1</entityname.finawingpart28>
+<entityname.finawingpart29>Pared de timón 2</entityname.finawingpart29>
+<entityname.finawingpart30>Pared de timón 3</entityname.finawingpart30>
+<entityname.finawingpart31>Pared de timón 4</entityname.finawingpart31>
+<entityname.finawingpart32>Pared de timón 5</entityname.finawingpart32>
+<entityname.finawingpart33>Pared de timón 6</entityname.finawingpart33>
+<entityname.finawingpart34>Timón de inmersión A 1</entityname.finawingpart34>
+<entityname.finawingpart35>Timón de inmersión A 2</entityname.finawingpart35>
+<entityname.finawingpart36>Timón de inmersión B 3</entityname.finawingpart36>
+<entityname.finawingpart38>Timón de inmersión B 2</entityname.finawingpart38>
+<entityname.finawingpart39>Timón de inmersión B 1</entityname.finawingpart39>
+<entityname.finawingpart40>Timón de inmersión A 4</entityname.finawingpart40>
+<entityname.finawingpart41>Timón de inmersión A 3</entityname.finawingpart41>
+<entityname.finawingpart42>Timón de inmersión A 5</entityname.finawingpart42>
+<entityname.finawingpart43>Timón de inmersión C 3</entityname.finawingpart43>
+<entityname.finawingpart44>Timón de inmersión C 4</entityname.finawingpart44>
+<entityname.finawingpart45>Timón de inmersión C 2</entityname.finawingpart45>
+<entityname.finawingpart46>Timón de inmersión C 1</entityname.finawingpart46>
+<entityname.finawingpart67>Timón de inmersión C 5</entityname.finawingpart67>
+<entityname.finawingpart68>Timón de inmersión C 6</entityname.finawingpart68>
+<entityname.finawingpart53>Timón de inmersión curvo B 1</entityname.finawingpart53>
+<entityname.finawingpart54>Timón de inmersión curvo B 2</entityname.finawingpart54>
+<entityname.finawingpart55>Timón de inmersión curvo C 1</entityname.finawingpart55>
+<entityname.finawingpart56>Timón de inmersión curvo C 2</entityname.finawingpart56>
+<entityname.finawingpart17>Timón de inmersión. Pieza 1</entityname.finawingpart17>
+<entityname.finawingpart18>Timón de inmersión. Pieza 2</entityname.finawingpart18>
+<entityname.finawingpart21>Timón de inmersión. Pieza 3</entityname.finawingpart21>
+<entityname.finawingpart37>Timón de inmersión. Pieza 4</entityname.finawingpart37>
+<entityname.finawingpart47>Timón de inmersión. Pieza 5</entityname.finawingpart47>
+<entityname.finawingpart48>Timón de inmersión. Pieza 6</entityname.finawingpart48>
+<entityname.finawingpart49>Timón de inmersión. Pieza 7</entityname.finawingpart49>
+<entityname.finawingpart50>Timón de inmersión. Pieza 8</entityname.finawingpart50>
+<entityname.finawingpart52>Timón de inmersión. Pieza 9</entityname.finawingpart52>
+<entityname.finawingpart57>Timón de inmersión. Pieza 10</entityname.finawingpart57>
+<entityname.finawingpart58>Timón de inmersión. Pieza 11</entityname.finawingpart58>
+<entityname.finawingpart59>Timón de inmersión. Pieza 12</entityname.finawingpart59>
+<entityname.finawingpart60>Timón de inmersión. Pieza 13</entityname.finawingpart60>
+<entityname.finawingpart61>Timón de inmersión. Pieza 14</entityname.finawingpart61>
+<entityname.finawingpart62>Timón de inmersión. Pieza 15</entityname.finawingpart62>
+<entityname.finawingpart63>Timón de inmersión. Pieza 16</entityname.finawingpart63>
+<entityname.finawingpart64>Timón de inmersión. Pieza 17</entityname.finawingpart64>
+<entityname.finawingpart65>Timón de inmersión. Pieza 18</entityname.finawingpart65>
+<entityname.finawingpart66>Timón de inmersión. Pieza 19</entityname.finawingpart66>
+<entityname.finawingpart69>Timón de inmersión. Pieza 20</entityname.finawingpart69>
+<entityname.finawingpart70>Timón de inmersión. Pieza 21</entityname.finawingpart70>
+<entityname.finawingpart71>Timón de inmersión. Pieza 22</entityname.finawingpart71>
+<entityname.finawingpart73>Timón de inmersión. Pieza 23</entityname.finawingpart73>
+<entityname.largehorizontalback>Parte trasera horizontal grande</entityname.largehorizontalback>
+<entityname.smallhorizontalback>Parte trasera horizontal pequeña</entityname.smallhorizontalback>
+<entityname.largeverticalback>Parte trasera vertical grande</entityname.largeverticalback>
+<entityname.largeverticalback2>Parte trasera vertical grande 2</entityname.largeverticalback2>
+<entityname.smallverticalback>Parte trasera vertical pequeña</entityname.smallverticalback>
+<entityname.smallverticalback2>Parte trasera vertical pequeña 2</entityname.smallverticalback2>
+<entitydescription.decorativestructure>Una estructura decorativa sin detección de colisión.</entitydescription.decorativestructure>
+<entityname.doorlabel>Etiqueta "Puerta"</entityname.doorlabel>
+<entityname.engineeringlabel>Etiqueta "Ingeniería"</entityname.engineeringlabel>
+<entityname.commandlabel>Etiqueta "Comandante"</entityname.commandlabel>
+<entityname.airlocklabel>Etiqueta "Esclusa"</entityname.airlocklabel>
+<entityname.cabinslabel>Etiqueta "Cabinas"</entityname.cabinslabel>
+<entityname.medicallabel>Etiqueta "Medicina"</entityname.medicallabel>
+<entityname.arrowup>Flecha arriba</entityname.arrowup>
+<entityname.arrowdown>Flecha abajo</entityname.arrowdown>
+<entityname.arrowleft>Flecha izq.</entityname.arrowleft>
+<entityname.arrowright>Flecha dcha.</entityname.arrowright>
+<entityname.labelslettera>Etiqueta letra "A"</entityname.labelslettera>
+<entityname.labelsletterb>Etiqueta letra "B"</entityname.labelsletterb>
+<entityname.labelsletterc>Etiqueta letra "C"</entityname.labelsletterc>
+<entityname.labelsletterd>Etiqueta letra "D"</entityname.labelsletterd>
+<entityname.labelslettere>Etiqueta letra "E"</entityname.labelslettere>
+<entityname.labelsletterf>Etiqueta letra "F"</entityname.labelsletterf>
+<entityname.labelsletterg>Etiqueta letra "G"</entityname.labelsletterg>
+<entityname.labelsletterh>Etiqueta letra "H"</entityname.labelsletterh>
+<entityname.labelsletteri>Etiqueta letra "I"</entityname.labelsletteri>
+<entityname.labelsletterj>Etiqueta letra "J"</entityname.labelsletterj>
+<entityname.labelsletterk>Etiqueta letra "K"</entityname.labelsletterk>
+<entityname.labelsletterl>Etiqueta letra "L"</entityname.labelsletterl>
+<entityname.labelsletterm>Etiqueta letra "M"</entityname.labelsletterm>
+<entityname.labelslettern>Etiqueta letra "N"</entityname.labelslettern>
+<entityname.labelslettero>Etiqueta letra "O"</entityname.labelslettero>
+<entityname.labelsletterp>Etiqueta letra "P"</entityname.labelsletterp>
+<entityname.labelsletterq>Etiqueta letra "Q"</entityname.labelsletterq>
+<entityname.labelsletterr>Etiqueta letra "R"</entityname.labelsletterr>
+<entityname.labelsletters>Etiqueta letra "S"</entityname.labelsletters>
+<entityname.labelslettert>Etiqueta letra "T"</entityname.labelslettert>
+<entityname.labelsletteru>Etiqueta letra "U"</entityname.labelsletteru>
+<entityname.labelsletterv>Etiqueta letra "V"</entityname.labelsletterv>
+<entityname.labelsletterw>Etiqueta letra "W"</entityname.labelsletterw>
+<entityname.labelsletterx>Etiqueta letra "X"</entityname.labelsletterx>
+<entityname.labelslettery>Etiqueta letra "Y"</entityname.labelslettery>
+<entityname.labelsletterz>Etiqueta letra "Z"</entityname.labelsletterz>
+<entityname.labelsnumber0>Etiqueta número "0"</entityname.labelsnumber0>
+<entityname.labelsnumber1>Etiqueta número "1"</entityname.labelsnumber1>
+<entityname.labelsnumber2>Etiqueta número "2"</entityname.labelsnumber2>
+<entityname.labelsnumber3>Etiqueta número "3"</entityname.labelsnumber3>
+<entityname.labelsnumber4>Etiqueta número "4"</entityname.labelsnumber4>
+<entityname.labelsnumber5>Etiqueta número "5"</entityname.labelsnumber5>
+<entityname.labelsnumber6>Etiqueta número "6"</entityname.labelsnumber6>
+<entityname.labelsnumber7>Etiqueta número "7"</entityname.labelsnumber7>
+<entityname.labelsnumber8>Etiqueta número "8"</entityname.labelsnumber8>
+<entityname.labelsnumber9>Etiqueta número "9"</entityname.labelsnumber9>
+<entityname.labelscaptureitlettera>Etiqueta letra "A" arrugada</entityname.labelscaptureitlettera>
+<entityname.labelscaptureitletterb>Etiqueta letra "B" arrugada</entityname.labelscaptureitletterb>
+<entityname.labelscaptureitletterc>Etiqueta letra "C" arrugada</entityname.labelscaptureitletterc>
+<entityname.labelscaptureitletterd>Etiqueta letra "D" arrugada</entityname.labelscaptureitletterd>
+<entityname.labelscaptureitlettere>Etiqueta letra "E" arrugada</entityname.labelscaptureitlettere>
+<entityname.labelscaptureitletterf>Etiqueta letra "F" arrugada</entityname.labelscaptureitletterf>
+<entityname.labelscaptureitletterg>Etiqueta letra "G" arrugada</entityname.labelscaptureitletterg>
+<entityname.labelscaptureitletterh>Etiqueta letra "H" arrugada</entityname.labelscaptureitletterh>
+<entityname.labelscaptureitletteri>Etiqueta letra "I" arrugada</entityname.labelscaptureitletteri>
+<entityname.labelscaptureitletterj>Etiqueta letra "J" arrugada</entityname.labelscaptureitletterj>
+<entityname.labelscaptureitletterk>Etiqueta letra "K" arrugada</entityname.labelscaptureitletterk>
+<entityname.labelscaptureitletterl>Etiqueta letra "L" arrugada</entityname.labelscaptureitletterl>
+<entityname.labelscaptureitletterm>Etiqueta letra "M" arrugada</entityname.labelscaptureitletterm>
+<entityname.labelscaptureitlettern>Etiqueta letra "N" arrugada</entityname.labelscaptureitlettern>
+<entityname.labelscaptureitlettero>Etiqueta letra "O" arrugada</entityname.labelscaptureitlettero>
+<entityname.labelscaptureitletterp>Etiqueta letra "P" arrugada</entityname.labelscaptureitletterp>
+<entityname.labelscaptureitletterq>Etiqueta letra "Q" arrugada</entityname.labelscaptureitletterq>
+<entityname.labelscaptureitletterr>Etiqueta letra "R" arrugada</entityname.labelscaptureitletterr>
+<entityname.labelscaptureitletters>Etiqueta letra "S" arrugada</entityname.labelscaptureitletters>
+<entityname.labelscaptureitlettert>Etiqueta letra "T" arrugada</entityname.labelscaptureitlettert>
+<entityname.labelscaptureitletteru>Etiqueta letra "U" arrugada</entityname.labelscaptureitletteru>
+<entityname.labelscaptureitletterv>Etiqueta letra "V" arrugada</entityname.labelscaptureitletterv>
+<entityname.labelscaptureitletterw>Etiqueta letra "W" arrugada</entityname.labelscaptureitletterw>
+<entityname.labelscaptureitletterx>Etiqueta letra "X" arrugada</entityname.labelscaptureitletterx>
+<entityname.labelscaptureitlettery>Etiqueta letra "Y" arrugada</entityname.labelscaptureitlettery>
+<entityname.labelscaptureitletterz>Etiqueta letra "Z" arrugada</entityname.labelscaptureitletterz>
+<entityname.labelscaptureitnumber0>Etiqueta número "0" arrugada</entityname.labelscaptureitnumber0>
+<entityname.labelscaptureitnumber1>Etiqueta número "1" arrugada</entityname.labelscaptureitnumber1>
+<entityname.labelscaptureitnumber2>Etiqueta número "2" arrugada</entityname.labelscaptureitnumber2>
+<entityname.labelscaptureitnumber3>Etiqueta número "3" arrugada</entityname.labelscaptureitnumber3>
+<entityname.labelscaptureitnumber4>Etiqueta número "4" arrugada</entityname.labelscaptureitnumber4>
+<entityname.labelscaptureitnumber5>Etiqueta número "5" arrugada</entityname.labelscaptureitnumber5>
+<entityname.labelscaptureitnumber6>Etiqueta número "6" arrugada</entityname.labelscaptureitnumber6>
+<entityname.labelscaptureitnumber7>Etiqueta número "7" arrugada</entityname.labelscaptureitnumber7>
+<entityname.labelscaptureitnumber8>Etiqueta número "8" arrugada</entityname.labelscaptureitnumber8>
+<entityname.labelscaptureitnumber9>Etiqueta número "9" arrugada</entityname.labelscaptureitnumber9>
+<entityname.labelsiconairlock>Icono de etiqueta "Esclusa"</entityname.labelsiconairlock>
+<entityname.labelsiconballast>Icono de etiqueta "Lastre"</entityname.labelsiconballast>
+<entityname.labelsiconcargo>Icono de etiqueta "Bodega de carga"</entityname.labelsiconcargo>
+<entityname.labelsicondiving>Icono de etiqueta "Buceo"</entityname.labelsicondiving>
+<entityname.labelsicondocking>Icono de etiqueta "Atracar"</entityname.labelsicondocking>
+<entityname.labelsiconelectricity>Icono de etiqueta "Electricidad"</entityname.labelsiconelectricity>
+<entityname.labelsiconengine>Icono de etiqueta "Motor"</entityname.labelsiconengine>
+<entityname.labelsiconengineering>Icono de etiqueta "Ingeniería"</entityname.labelsiconengineering>
+<entityname.labelsiconexit>Icono de etiqueta "Salida"</entityname.labelsiconexit>
+<entityname.labelsiconmedical>Icono de etiqueta "Medicina"</entityname.labelsiconmedical>
+<entityname.labelsiconreactor>Icono de etiqueta "Reactor"</entityname.labelsiconreactor>
+<entityname.labelsiconsecurity>Icono de etiqueta "Seguridad"</entityname.labelsiconsecurity>
+<entityname.labelsiconsteering>Icono de etiqueta "Dirección"</entityname.labelsiconsteering>
+<entityname.labelsiconweapons>Icono de etiqueta "Armas"</entityname.labelsiconweapons>
+<entityname.labelsarroverticala>Etiqueta de flecha vertical A</entityname.labelsarroverticala>
+<entityname.labelsarroverticalb>Etiqueta de flecha vertical B</entityname.labelsarroverticalb>
+<entityname.labelsarrowdiagonala>Etiqueta de flecha diagonal A</entityname.labelsarrowdiagonala>
+<entityname.labelsarrowdiagonalb>Etiqueta de flecha diagonal B</entityname.labelsarrowdiagonalb>
+<entityname.labelsarrowhorizontala>Etiqueta de flecha horizontal A</entityname.labelsarrowhorizontala>
+<entityname.labelsarrowhorizontalb>Etiqueta de flecha horizontal B</entityname.labelsarrowhorizontalb>
+<entityname.decorativelabel>Una etiqueta decorativa.</entityname.decorativelabel>
+<entityname.cableholderhorizontal>Soporte de cables horizontal</entityname.cableholderhorizontal>
+<entityname.cableholdervertical>Soporte de cables vertical</entityname.cableholdervertical>
+<entitydescription.cableholder>Tira decorativa para almacenar los cables de manera ordenada.</entitydescription.cableholder>
+<entityname.topwindow>Ventana (parte de arriba)</entityname.topwindow>
+<entityname.verticalwindow>Ventana vertical</entityname.verticalwindow>
+<entityname.largeplatform>Plataforma grande</entityname.largeplatform>
+<entityname.platform>Plataforma básica</entityname.platform>
+<entitydescription.platform>Una plataforma que un personaje puede usar para bajar o para subir.</entitydescription.platform>
+<entityname.slopeforward>Inclinación hacia delante</entityname.slopeforward>
+<entityname.slopeback>Inclinación hacia atrás</entityname.slopeback>
+<entitydescription.decorativepiece>Una pieza decorativa.</entitydescription.decorativepiece>
+<entityname.stairs>Escaleras</entityname.stairs>
+<entityname.stairsshort>Escalera corta</entityname.stairsshort>
+<entityname.stairslong>Escalera larga</entityname.stairslong>
+<entityname.ruinwallhorizontal>Pared ruinosa horizontal</entityname.ruinwallhorizontal>
+<entityname.ruinwallvertical>Pared ruinosa vertical</entityname.ruinwallvertical>
+<entityname.ruinwallheavyhorizontal>Pared ruinosa pesada horizontal</entityname.ruinwallheavyhorizontal>
+<entityname.ruinwallheavyvertical>Pared ruinosa pesada vertical</entityname.ruinwallheavyvertical>
+<entityname.ruinwallhorizontalsmall>Pared ruinosa pequeña horizontal</entityname.ruinwallhorizontalsmall>
+<entityname.ruinwallverticalsmall>Pared ruinosa pequeña vertical</entityname.ruinwallverticalsmall>
+<entityname.ruinback>Pared ruinosa trasera básica</entityname.ruinback>
+<entityname.ruinprop>Atrezo ruinoso</entityname.ruinprop>
+<entityname.bunk>Litera</entityname.bunk>
+<entityname.opdeco_weaponstoragesuit1>Vitrina de exhibición de atuendo</entityname.opdeco_weaponstoragesuit1>
+<entityname.op_weaponstoragesmall>Vitrina pequeña de exhibición de armas</entityname.op_weaponstoragesmall>
+<entityname.op_weaponstoragemedium>Vitrina mediana de exhibición de armas</entityname.op_weaponstoragemedium>
+<entityname.op_weaponstoragelarge>Vitrina grande de exhibición de armas</entityname.op_weaponstoragelarge>
+<entityname.opdeco_storageitemshelf>Estante de exhibición de objetos</entityname.opdeco_storageitemshelf>
+<entityname.opdeco_storagemineralshelf>Estante de exhibición de minerales</entityname.opdeco_storagemineralshelf>
+<entityname.opdeco_storageweaponshelf>Estante de exhibición de armas</entityname.opdeco_storageweaponshelf>
+<entityname.opdeco_storageseedshelf>Estante de exhibición de semillas</entityname.opdeco_storageseedshelf>
+<entityname.opdeco_storagefrozenseedshelf>Estante de exhibición de semillas congeladas</entityname.opdeco_storagefrozenseedshelf>
+<entityname.opdeco_diningtable>Mesa de comer</entityname.opdeco_diningtable>
+<entityname.opdeco_boxes1>Cajas</entityname.opdeco_boxes1>
+<entityname.opdeco_bunks1>Literas</entityname.opdeco_bunks1>
+<entityname.opdeco_researchdecal1>Pegatina de laboratorio</entityname.opdeco_researchdecal1>
+<entityname.opdeco_hrwindow1>Ventana de oficina</entityname.opdeco_hrwindow1>
+<entityname.opdeco_hrwindow2>Ventana alta de oficina</entityname.opdeco_hrwindow2>
+<entityname.opdeco_hrwindowblinds>Persianas de la ventana de oficina</entityname.opdeco_hrwindowblinds>
+<entityname.opdeco_hrblinds>Persianas grandes de la ventana de oficina</entityname.opdeco_hrblinds>
+<entityname.opdeco_hrglassoffice>Puerta de oficina</entityname.opdeco_hrglassoffice>
+<entityname.opdeco_hrticketdispenser>Dispensador de billetes</entityname.opdeco_hrticketdispenser>
+<entityname.opdeco_hrnewspaperrack>Exhibidor de periódicos</entityname.opdeco_hrnewspaperrack>
+<entityname.opdeco_hrcalendar>Calendario</entityname.opdeco_hrcalendar>
+<entityname.opdeco_hrsign>Señal de fondo</entityname.opdeco_hrsign>
+<entityname.opdeco_hrheater>Radiador</entityname.opdeco_hrheater>
+<entityname.opdeco_hrelectricpanel>Tablón de anuncios</entityname.opdeco_hrelectricpanel>
+<entityname.opdeco_hrbench>Banco</entityname.opdeco_hrbench>
+<entityname.opdeco_hrflyers>Folletos</entityname.opdeco_hrflyers>
+<entityname.opdeco_officeshelf1>Estante de oficina</entityname.opdeco_officeshelf1>
+<entityname.opdeco_officedesk1>Escritorio de oficina</entityname.opdeco_officedesk1>
+<entityname.opdeco_officedisplay1>Trofeo decorativo</entityname.opdeco_officedisplay1>
+<entityname.opdeco_computer>Ordenador</entityname.opdeco_computer>
+<entityname.opdeco_shelfsmall>Estante pequeño</entityname.opdeco_shelfsmall>
+<entityname.opdeco_shelfmedium>Estante mediano</entityname.opdeco_shelfmedium>
+<entityname.opdeco_shelflarge>Estante grande</entityname.opdeco_shelflarge>
+<entityname.opdeco_rollupdoor>Puerta que se abre hacia arriba</entityname.opdeco_rollupdoor>
+<entityname.opdeco_rollupdoorframe>Marco de puerta que se abre hacia arriba</entityname.opdeco_rollupdoorframe>
+<entityname.opdeco_subblueprint1>Plano de submarino</entityname.opdeco_subblueprint1>
+<entityname.opdeco_toolrack1>Exhibidor de herramientas</entityname.opdeco_toolrack1>
+<entityname.opdeco_ladder>Escalera de mano</entityname.opdeco_ladder>
+<entityname.opdeco_shelf>Estante de exhibición</entityname.opdeco_shelf>
+<entityname.opdeco_desk>Mesa de cajero</entityname.opdeco_desk>
+<entityname.opdeco_oxygentanks>Botellas de oxígeno</entityname.opdeco_oxygentanks>
+<entityname.opdeco_crane>Grúa minera</entityname.opdeco_crane>
+<entityname.opdeco_trolley1>Carro minero 1</entityname.opdeco_trolley1>
+<entityname.opdeco_trolley2>Carro minero 2</entityname.opdeco_trolley2>
+<entityname.opdeco_debris1>Escombros mineros 1</entityname.opdeco_debris1>
+<entityname.opdeco_debris2>Escombros mineros 2</entityname.opdeco_debris2>
+<entityname.opdeco_debris3>Escombros mineros 3</entityname.opdeco_debris3>
+<entityname.opdeco_construction_sign>Señal de construcción</entityname.opdeco_construction_sign>
+<entityname.opdeco_box1>Caja 1</entityname.opdeco_box1>
+<entityname.opdeco_box2>Caja 2</entityname.opdeco_box2>
+<entityname.opdeco_box3>Caja 3</entityname.opdeco_box3>
+<entityname.opdeco_box4>Caja 4</entityname.opdeco_box4>
+<entityname.opdeco_box5>Caja 5</entityname.opdeco_box5>
+<entityname.heavydoor>Puerta pesada</entityname.heavydoor>
+<entityname.opdeco_door>Puerta de fondo</entityname.opdeco_door>
+<entitydescription.decodoor>Una puerta decorativa.</entitydescription.decodoor>
+<entityname.opdeco_door>Puerta cerrada</entityname.opdeco_door>
+<entityname.opdeco_towelrack>Estante de toallas</entityname.opdeco_towelrack>
+<entityname.concretewall>Pared de cemento</entityname.concretewall>
+<entityname.opdeco_wheelchair1>Silla de ruedas</entityname.opdeco_wheelchair1>
+<entityname.opdeco_adposter>Anuncio</entityname.opdeco_adposter>
+<entityname.windowglass>Cristal de ventana</entityname.windowglass>
+<entityname.windowframe>Marco de ventana</entityname.windowframe>
+<entityname.op_cafeteriawindow>Bar-cafetería</entityname.op_cafeteriawindow>
+<entityname.op_gardendistiller>Destilería</entityname.op_gardendistiller>
+<entityname.op_cafeteriabench>Banco de cafetería</entityname.op_cafeteriabench>
+<entityname.op_cafeteriatable>Mesa de cafetería</entityname.op_cafeteriatable>
+<entityname.op_cafeteriachair>Silla de cafetería</entityname.op_cafeteriachair>
+<entityname.op_cafeteriaposter>Póster de cafetería</entityname.op_cafeteriaposter>
+<entityname.op_cafeteriacart>Carrito de cafetería</entityname.op_cafeteriacart>
+<entityname.op_gardenproducebox>Cajas de productos</entityname.op_gardenproducebox>
+<entityname.op_gardenbags>Bolsas de tierra</entityname.op_gardenbags>
+<entityname.op_gardenposter>Póster de jardinería</entityname.op_gardenposter>
+<entityname.table>Mesa</entityname.table>
+<entityname.Target>Objetivo</entityname.Target>
+<entityname.sign>Señal</entityname.sign>
+<entityname.op_freezer>Congelador</entityname.op_freezer>
+<entityname.op_clothesrack>Exhibidor de ropa</entityname.op_clothesrack>
+<entityname.op_metalchair>Sillas metálicas</entityname.op_metalchair>
+<entityname.op_washingmachine>Lavadora</entityname.op_washingmachine>
+<entityname.op_smallcouch>Sillón</entityname.op_smallcouch>
+<entityname.op_janitorcart>Carrito de limpieza</entityname.op_janitorcart>
+<entityname.op_towellocker>Taquilla de toallas</entityname.op_towellocker>
+<entityname.op_inkpainting>Pintura de tinta</entityname.op_inkpainting>
+<entityname.op_banner>Pancarta colgante</entityname.op_banner>
+<entityname.op_boxcart>Carro metálico</entityname.op_boxcart>
+<entityname.op_sworddisplay>Exhibición de espadas</entityname.op_sworddisplay>
+<entityname.op_statue>Estatua</entityname.op_statue>
+<entityname.op_raptorhead>Exhibidor de cabeza de raptores</entityname.op_raptorhead>
+<entityname.op_shower>Set de ducha</entityname.op_shower>
+<entityname.op_painting1>Cuadro enmarcado</entityname.op_painting1>
+<entityname.op_wetsign>Señal de limpieza</entityname.op_wetsign>
+<entityname.FF_Wall_I1>Pared de puesto de avanzada 1</entityname.FF_Wall_I1>
+<entityname.FF_Wall_I2>Pared de puesto de avanzada 2</entityname.FF_Wall_I2>
+<entityname.FF_Wall_I3>Pared de puesto de avanzada 3</entityname.FF_Wall_I3>
+<entityname.opbg_generic1>Pared de puesto de avanzada genérica 1</entityname.opbg_generic1>
+<entityname.opbg_generic2>Pared de puesto de avanzada genérica 2</entityname.opbg_generic2>
+<entityname.opbg_generic3>Pared de puesto de avanzada genérica 3</entityname.opbg_generic3>
+<entityname.opbg_generic4>Pared de puesto de avanzada genérica 4</entityname.opbg_generic4>
+<entityname.opbg_generic5>Pared de puesto de avanzada genérica 5</entityname.opbg_generic5>
+<entityname.opbg_generic6>Pared de puesto de avanzada genérica 6</entityname.opbg_generic6>
+<entityname.opbg_generic7>Pared de puesto de avanzada genérica 7</entityname.opbg_generic7>
+<entityname.opbg_airlock1>Pared de esclusa del puesto de avanzada</entityname.opbg_airlock1>
+<entityname.opbgshopa1>Pared de tienda del puesto de avanzada 1</entityname.opbgshopa1>
+<entityname.opbg_shop2>Pared de tienda del puesto de avanzada 2</entityname.opbg_shop2>
+<entityname.opbg_shop3>Pared de tienda del puesto de avanzada 3</entityname.opbg_shop3>
+<entityname.opbg_shop4>Pared de tienda del puesto de avanzada 4</entityname.opbg_shop4>
+<entityname.opbgsocialcentera1>Pared del centro social del puesto de avanzada</entityname.opbgsocialcentera1>
+<entityname.opbg_barracks1>Fondo de barracones del puesto de avanzada 1</entityname.opbg_barracks1>
+<entityname.opbg_barracks2>Fondo de barracones del puesto de avanzada 2</entityname.opbg_barracks2>
+<entityname.opbg_barracks3>Fondo de barracones del puesto de avanzada 3</entityname.opbg_barracks3>
+<entityname.opbg_services1>Fondo de servicios del puesto de avanzada 1</entityname.opbg_services1>
+<entityname.opbg_services2>Fondo de servicios del puesto de avanzada 2</entityname.opbg_services2>
+<entityname.opbgmaintenancebaya1>Fondo de bahía de mantenimiento del puesto de avanzada 1</entityname.opbgmaintenancebaya1>
+<entityname.opbgmaintenancebaya2>Fondo de bahía de mantenimiento del puesto de avanzada 2</entityname.opbgmaintenancebaya2>
+<entityname.opbgmaintenancebaya3>Fondo de bahía de mantenimiento del puesto de avanzada 3</entityname.opbgmaintenancebaya3>
+<entityname.opbg_researchlab1>Fondo de laboratorio de investigación del puesto de avanzada 1</entityname.opbg_researchlab1>
+<entityname.opbg_researchlab2>Fondo de laboratorio de investigación del puesto de avanzada 2</entityname.opbg_researchlab2>
+<entityname.opbg_tunnel1>Fondo de túnel de puesto de avanzada 1</entityname.opbg_tunnel1>
+<entityname.opbg_tunnel2>Fondo de túnel de puesto de avanzada 2</entityname.opbg_tunnel2>
+<entityname.opbg_tunnel4>Fondo de túnel de puesto de avanzada 4</entityname.opbg_tunnel4>
+<entityname.opbg_tunnel5>Fondo de túnel de puesto de avanzada 5</entityname.opbg_tunnel5>
+<entityname.opbg_tunnel6>Fondo de túnel de puesto de avanzada 6</entityname.opbg_tunnel6>
+<entityname.opbg_manageroffice1>Fondo de despacho del puesto de avanzada 1</entityname.opbg_manageroffice1>
+<entityname.opbg_manageroffice2>Fondo de despacho del puesto de avanzada 2</entityname.opbg_manageroffice2>
+<entityname.opbg_manageroffice3>Fondo de despacho del puesto de avanzada 3</entityname.opbg_manageroffice3>
+<entityname.opbg_dorm1>Fondo de habitación del puesto de avanzada</entityname.opbg_dorm1>
+<entityname.opbg_messhall1>Fondo de comedor del puesto de avanzada</entityname.opbg_messhall1>
+<entityname.opdeco_nuclearsign>Señal nuclear</entityname.opdeco_nuclearsign>
+<entityname.opdeco_instructionsign>Señal de instrucciones</entityname.opdeco_instructionsign>
+<entityname.opdeco_propagandaposter>Pancarta de propaganda</entityname.opdeco_propagandaposter>
+<entityname.crackedwall1>Pegatina de pared agrietada</entityname.crackedwall1>
+<entityname.graffiti1>Grafiti</entityname.graffiti1>
+<entityname.icewall>Pared de túnel de hielo</entityname.icewall>
+<entityname.icewallcracked>Pared de túnel de hielo agrietada</entityname.icewallcracked>
+<entityname.icewall90>Pared de túnel de hielo 90</entityname.icewall90>
+<entityname.icewallcracked90>Pared de túnel de hielo agrietada 90</entityname.icewallcracked90>
+<entityname.icerock01>Roca de túnel de hielo 1</entityname.icerock01>
+<entityname.icerock02>Roca de túnel de hielo 2</entityname.icerock02>
+<entityname.icerock03>Roca de túnel de hielo 3</entityname.icerock03>
+<entityname.icerock04>Roca de túnel de hielo 4</entityname.icerock04>
+<entityname.thalamus_background_2>Fondo de Tálamo 2</entityname.thalamus_background_2>
+<entityname.thalamus_background_3>Fondo de Tálamo 3</entityname.thalamus_background_3>
+<entityname.thalamus_background_4>Fondo de Tálamo 4</entityname.thalamus_background_4>
+<entityname.medbaywall1>Pared de clínica 1</entityname.medbaywall1>
+<entityname.opdeco_medrack>Expositor médico</entityname.opdeco_medrack>
+<entityname.opdeco_hospitalbed>Cama de hospital</entityname.opdeco_hospitalbed>
+<entityname.opdeco_diningtablesmall>Mesa de comer pequeña</entityname.opdeco_diningtablesmall>
+<entityname.opdeco_liftingequpiment>Equipo de levantamiento de pesas</entityname.opdeco_liftingequpiment>
+<entityname.opdeco_construction_barrier>Barrera de construcción</entityname.opdeco_construction_barrier>
+<entityname.opdeco_supportbeam>Viga de soporte</entityname.opdeco_supportbeam>
+<entityname.opdeco_icecube>Cubito de hielo</entityname.opdeco_icecube>
+<entityname.opdeco_icepillar>Pilar de hielo</entityname.opdeco_icepillar>
+<entityname.opdeco_monitor>Monitor</entityname.opdeco_monitor>
+<entityname.decowire1>Cable decorativo</entityname.decowire1>
+<entityname.decopanel1>Panel decorativo</entityname.decopanel1>
+<entityname.decocolumn1>Columna decorativa</entityname.decocolumn1>
+<entityname.decobarrier1>Barrera protectora</entityname.decobarrier1>
+<entityname.opbg_jail>Prisión blanca</entityname.opbg_jail>
+<entityname.opbg_rock>Fondo de roca</entityname.opbg_rock>
+<entityname.opdeco_prisonbed>Cama de cárcel</entityname.opdeco_prisonbed>
+<entityname.shop_decoration>Decoración de tienda</entityname.shop_decoration>
+<entityname.op_circusposter.png>Póster</entityname.op_circusposter.png>
+<entityname.op_plaque.png>Placa</entityname.op_plaque.png>
+<entityname.wreckdecal>Pegatina de restos</entityname.wreckdecal>
+<entityname.engineerequipment>Equipo de ingeniería</entityname.engineerequipment>
+<entityname.Jaildoor>Puerta de cárcel</entityname.Jaildoor>
+<entityname.shelf>Estante</entityname.shelf>
+
+<!-- Modified values May 27th, 2024 -->
+<sp.turret.AutoOperate.description>Dejar que la torreta use el apuntado por IA y funcione de forma automática. Incluye algunos movimientos opcionales al azar que se configuran más abajo. También puedes ajustar el valor mediante una conexión (cableado), pero solo si has activado el modo automático desde el editor.</sp.turret.AutoOperate.description>
+<sp.turret.RandomAimAmount.description>Lo mucho que debe ajustar la torreta el apuntado del objetivo al azar en vez de apuntar con precisión. En grados.</sp.turret.RandomAimAmount.description>
+<sp.turret.RandomAimMinTime.description>La frecuencia de ajuste de la torreta al apuntar al azar en vez de rastrear al objetivo con precisión. Tiempo de espera mínimo en segundos.</sp.turret.RandomAimMinTime.description>
+<sp.turret.RandomAimMaxTime.description>La frecuencia de ajuste de la torreta al apuntar al azar en vez de rastrear al objetivo con precisión. Tiempo de espera máximo en segundos.</sp.turret.RandomAimMaxTime.description>
+<sp.turret.RandomMovement.description>Si la torreta debe moverse al azar mientras está inactiva.</sp.turret.RandomMovement.description>
+<sp.turret.AimDelay.description>Si la torreta debe tener un retraso al apuntar a los objetivos o hacerlo siempre con precisión.</sp.turret.AimDelay.description>
+<sp.turret.TargetCharacters.description>Si la torreta debe apuntar a los personajes en general.</sp.turret.TargetCharacters.description>
+<sp.turret.TargetMonsters.description>Si la torreta debe apuntar a todos los monstruos.</sp.turret.TargetMonsters.description>
+<sp.turret.TargetHumans.description>Si la torreta debe apuntar a todos los humanos o criaturas de un mismo grupo, como los animales.</sp.turret.TargetHumans.description>
+<sp.turret.TargetSubmarines.description>Si la torreta debe apuntar a otros submarinos.</sp.turret.TargetSubmarines.description>
+<sp.turret.TargetItems.description>Si la torreta debe apuntar a los objetos.</sp.turret.TargetItems.description>
+<sp.turret.FriendlyTag.description>Grupo o SpeciesName que la IA ignora cuando la torreta funciona de forma automática.</sp.turret.FriendlyTag.description>
+<!-- New values May 27th, 2024 -->
+<sp.turret.AutoOperate.propertyheader>Modo automático</sp.turret.AutoOperate.propertyheader>
+<sp.powered.propertyheader>Componente Energía</sp.powered.propertyheader>
+
+</infotexts>

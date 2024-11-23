@@ -1,0 +1,830 @@
+﻿[11/16/2024 16:17:58]
+  Ending the round...
+[11/16/2024 16:18:00]
+  Round ended.
+[11/16/2024 16:18:13]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:18:13]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:18:13]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:18:17]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 16:18:17]
+  Cryonite changed SelectedLevelDifficulty to 0
+[11/16/2024 16:18:21]
+  Client "Cryonite" started the round.
+[11/16/2024 16:18:21]
+  Starting a new round...
+[11/16/2024 16:18:26]
+  Norman Cork equipped Wrench
+[11/16/2024 16:18:26]
+  Norman Cork unequipped Wrench
+[11/16/2024 16:18:26]
+  Norman Cork equipped Screwdriver
+[11/16/2024 16:18:26]
+  Filiberto Basnett equipped Wrench
+[11/16/2024 16:18:26]
+  Filiberto Basnett unequipped Wrench
+[11/16/2024 16:18:26]
+  Filiberto Basnett equipped Screwdriver
+[11/16/2024 16:18:26]
+  Filiberto Basnett unequipped Screwdriver
+[11/16/2024 16:18:26]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:18:26]
+  Mission: Separatist Vessel
+[11/16/2024 16:18:26]
+  Seek out the Jovian Separatist vessel that has been terrorizing this area and eliminate its crew. The marked locations show where the ship has last been sighted.
+[11/16/2024 16:18:26]
+  Game mode: Mission
+[11/16/2024 16:18:26]
+  Submarine: Carrier
+[11/16/2024 16:18:26]
+  Level seed: RrHoWmDm
+[11/16/2024 16:18:26]
+  Mission: Separatist Vessel
+[11/16/2024 16:18:27]
+  Round started.
+[11/16/2024 16:18:28]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:18:28]
+  Norman Cork unequipped Screwdriver
+[11/16/2024 16:18:30]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:18:30]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:18:31]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:18:32]
+  Darius Wiley: All right folks, let's take her out for a spin!
+[11/16/2024 16:18:32]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:18:33]
+  Darius Wiley: Filiberto Basnett, man the reactor!
+[11/16/2024 16:18:34]
+  Filiberto Basnett: Yes, sir!
+[11/16/2024 16:18:40]
+  Darius Wiley: Amira Phoenix, man the weapons!
+[11/16/2024 16:18:41]
+  Amira Phoenix: Aye!
+[11/16/2024 16:18:44]
+  widjajajames: I'll power up the reactor!
+[11/16/2024 16:18:45]
+  Liberator762 placed Wrench in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:18:46]
+  Darius Wiley: Larissa Holter, man the weapons!
+[11/16/2024 16:18:46]
+  Liberator762 equipped Screwdriver
+[11/16/2024 16:18:46]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:18:46]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:18:47]
+  Larissa Holter: Got it!
+[11/16/2024 16:18:47]
+  Liberator762 placed Screwdriver in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:18:49]
+  Liberator762 placed Welding Tool in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:18:51]
+  Liberator762 placed Plasma Cutter in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:18:57]
+  widjajajames equipped Boarding Pod
+[11/16/2024 16:18:59]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:00]
+  widjajajames placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:19:00]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:00]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:00]
+  Liberator762 placed Toolbelt in the inventory of Large Steel Cabinet (ID: 243)
+[11/16/2024 16:19:00]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:00]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:01]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:01]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:01]
+  Console command "spawnitem "Assault Rifle Magazine" cursor" executed by Cryonite.
+[11/16/2024 16:19:03]
+  widjajajames equipped Boarding Pod
+[11/16/2024 16:19:03]
+  Liberator762 picked up Toolbelt
+[11/16/2024 16:19:05]
+  widjajajames placed Boarding Pod in the inventory of Depth Charge Loader (ID: 298)
+[11/16/2024 16:19:06]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:19:07]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:19:07]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:19:07]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:19:07]
+  Console command "spawnitem "Assault Rifle" cursor" executed by Cryonite.
+[11/16/2024 16:19:14]
+  Liberator762 equipped Assault Rifle
+[11/16/2024 16:19:14]
+  widjajajames equipped Assault Rifle
+[11/16/2024 16:19:17]
+  widjajajames placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 4900)
+[11/16/2024 16:19:21]
+  Liberator762 placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 4899)
+[11/16/2024 16:19:31]
+  widjajajames picked up Underwater Scooter
+[11/16/2024 16:19:32]
+  Liberator762 placed Assault Rifle Magazine in the inventory of Human
+[11/16/2024 16:19:33]
+  widjajajames placed Flashlight in the inventory of Assault Rifle (ID: 4900)
+[11/16/2024 16:19:34]
+  Cryonite picked up Assault Rifle
+[11/16/2024 16:19:37]
+  Cryonite placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 4901)
+[11/16/2024 16:19:45]
+  Cryonite picked up Diving Suit
+[11/16/2024 16:19:46]
+  widjajajames picked up Handheld Sonar
+[11/16/2024 16:19:49]
+  widjajajames picked up Flare
+[11/16/2024 16:19:53]
+  Cryonite picked up Oxygen Tank
+[11/16/2024 16:19:57]
+  widjajajames picked up Oxygen Tank
+[11/16/2024 16:19:58]
+  Cryonite equipped Assault Rifle
+[11/16/2024 16:20:00]
+  Cryonite dropped Assault Rifle
+[11/16/2024 16:20:03]
+  widjajajames picked up Diving Suit
+[11/16/2024 16:20:06]
+  Liberator762 placed Assault Rifle in the inventory of Large Steel Cabinet (ID: 243)
+[11/16/2024 16:20:09]
+  widjajajames placed Screwdriver in the inventory of Toolbelt (ID: 4464)
+[11/16/2024 16:20:09]
+  Liberator762 picked up Assault Rifle
+[11/16/2024 16:20:11]
+  widjajajames placed Wrench in the inventory of Toolbelt (ID: 4464)
+[11/16/2024 16:22:00]
+  Cryonite undocked CarrierBot from Carrier
+[11/16/2024 16:22:09]
+  Maira Sykes equipped Assault Rifle
+[11/16/2024 16:22:18]
+  Liberator762 dropped Assault Rifle
+[11/16/2024 16:22:20]
+  Pete Lozano equipped Assault Rifle
+[11/16/2024 16:22:21]
+  Liberator762 picked up Wrench
+[11/16/2024 16:22:22]
+  Liberator762 picked up Screwdriver
+[11/16/2024 16:22:26]
+  Liberator762 equipped Wrench
+[11/16/2024 16:22:32]
+  Liberator762 started repairing Junction Box
+[11/16/2024 16:22:39]
+  Maira Sykes equipped Assault Rifle
+[11/16/2024 16:22:52]
+  Cryonite docked CarrierBot to Carrier
+[11/16/2024 16:23:02]
+  Cryonite undocked CarrierBot from Carrier
+[11/16/2024 16:23:08]
+  Maira Sykes equipped Assault Rifle Magazine
+[11/16/2024 16:23:15]
+  Darius Wiley: Sure thing!
+[11/16/2024 16:23:31]
+  Liberator762 equipped Assault Rifle
+[11/16/2024 16:23:31]
+  Liberator762 picked up Assault Rifle
+[11/16/2024 16:23:31]
+  Darius Wiley: Amira Phoenix, man the weapons!
+[11/16/2024 16:23:32]
+  Amira Phoenix: Aye aye!
+[11/16/2024 16:23:34]
+  Liberator762 placed Wrench in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:23:37]
+  Liberator762 placed Screwdriver in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:23:55]
+  Darius Wiley: Amira Phoenix, operate the weapons!
+[11/16/2024 16:23:56]
+  Amira Phoenix: Yes, sir!
+[11/16/2024 16:24:05]
+  Amira Phoenix launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:24:06]
+  Amira Phoenix launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:24:07]
+  Amira Phoenix launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:24:08]
+  Amira Phoenix: What's that noise?
+[11/16/2024 16:24:08]
+  Inner wall breached by widjajajames
+[11/16/2024 16:24:08]
+  Raymon Hutchinson: What was that sound?
+[11/16/2024 16:24:09]
+  Larissa Holter: I think I heard something.
+[11/16/2024 16:24:09]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:10]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:11]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:11]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:11]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:11]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:12]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:12]
+  Mission info: Separatists detected - Neutralize the crew or sink the submarine to the bottom of the sea!
+[11/16/2024 16:24:12]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:12]
+  Raymon Hutchinson equipped Diving Knife
+[11/16/2024 16:24:12]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:13]
+  Darius Wiley equipped Revolver
+[11/16/2024 16:24:13]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:13]
+  Norman Cork equipped Wrench
+[11/16/2024 16:24:13]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:24:14]
+  Darius Wiley: Filiberto Basnett, start fixing leaks!
+[11/16/2024 16:24:14]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:14]
+  Darius Wiley unequipped Revolver
+[11/16/2024 16:24:14]
+  Larissa Holter attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:14]
+  Darius Wiley equipped Revolver
+[11/16/2024 16:24:14]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:15]
+  Filiberto Basnett: Sure thing!
+[11/16/2024 16:24:16]
+  Darius Wiley unequipped Revolver
+[11/16/2024 16:24:17]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:24:17]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:24:17]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:17]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:18]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:18]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:18]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:18]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:19]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:19]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:19]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:19]
+  Amira Phoenix equipped Harpoon Gun
+[11/16/2024 16:24:20]
+  Darius Wiley: Norman Cork, take care of any leaks!
+[11/16/2024 16:24:21]
+  Amira Phoenix attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:21]
+  Norman Cork: Yes, sir!
+[11/16/2024 16:24:22]
+  Amira Phoenix attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:23]
+  Amira Phoenix attacked by widjajajames. Gunshot wound: 11.3 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:25]
+  Amira Phoenix unequipped Harpoon Gun
+[11/16/2024 16:24:25]
+  Amira Phoenix equipped Diving Knife
+[11/16/2024 16:24:25]
+  Raymon Hutchinson unequipped Diving Knife
+[11/16/2024 16:24:25]
+  Raymon Hutchinson equipped Revolver
+[11/16/2024 16:24:25]
+  Darius Wiley equipped Revolver
+[11/16/2024 16:24:26]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:24:26]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:24:26]
+  Darius Wiley unequipped Revolver
+[11/16/2024 16:24:26]
+  Darius Wiley equipped Revolver
+[11/16/2024 16:24:27]
+  Darius Wiley unequipped Revolver
+[11/16/2024 16:24:28]
+  Darius Wiley equipped Revolver
+[11/16/2024 16:24:28]
+  Filiberto Basnett used Crowbar on Large Horizontal Inside Wall.
+[11/16/2024 16:24:29]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:24:30]
+  Amira Phoenix used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 16:24:30]
+  Amira Phoenix used Diving Knife on Filiberto Basnett.
+[11/16/2024 16:24:31]
+  Amira Phoenix used Diving Knife on widjajajames.
+[11/16/2024 16:24:32]
+  widjajajames dropped Assault Rifle
+[11/16/2024 16:24:32]
+  Amira Phoenix unequipped Diving Knife
+[11/16/2024 16:24:33]
+  Amira Phoenix equipped Diving Knife
+[11/16/2024 16:24:33]
+  Larissa Holter has died (Cause of death: Gunshot wound)
+[11/16/2024 16:24:35]
+  Cryonite equipped Assault Rifle
+[11/16/2024 16:24:38]
+  widjajajames picked up Wrench
+[11/16/2024 16:24:38]
+  widjajajames equipped Wrench
+[11/16/2024 16:24:39]
+  Liberator762 dropped Assault Rifle
+[11/16/2024 16:24:40]
+  Amira Phoenix attacked by widjajajames. Blunt force trauma: 1.8 Stun: 0.2
+[11/16/2024 16:24:40]
+  widjajajames used Wrench on Amira Phoenix.
+[11/16/2024 16:24:40]
+  Maira Sykes equipped Assault Rifle
+[11/16/2024 16:24:41]
+  Liberator762 picked up Welding Tool
+[11/16/2024 16:24:41]
+  Amira Phoenix attacked by widjajajames. Blunt force trauma: 1.8 Stun: 0.2
+[11/16/2024 16:24:41]
+  widjajajames used Wrench on Amira Phoenix.
+[11/16/2024 16:24:42]
+  Liberator762 picked up Plasma Cutter
+[11/16/2024 16:24:44]
+  Liberator762 equipped Plasma Cutter
+[11/16/2024 16:24:44]
+  Amira Phoenix used Diving Knife on widjajajames.
+[11/16/2024 16:24:45]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:24:45]
+  Amira Phoenix used Diving Knife on Large Horizontal Inside Wall With Cables.
+[11/16/2024 16:24:45]
+  widjajajames used Wrench on Large Horizontal Inside Wall With Cables.
+[11/16/2024 16:24:45]
+  Amira Phoenix used Diving Knife on widjajajames.
+[11/16/2024 16:24:45]
+  Amira Phoenix attacked by widjajajames. Blunt force trauma: 1.8 Stun: 0.2
+[11/16/2024 16:24:45]
+  widjajajames used Wrench on Amira Phoenix.
+[11/16/2024 16:24:46]
+  Inner wall breached by Liberator762
+[11/16/2024 16:24:46]
+  widjajajames used Wrench on Large Horizontal Inside Wall With Cables.
+[11/16/2024 16:24:47]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:47]
+  Amira Phoenix attacked by widjajajames. Blunt force trauma: 1.8 Stun: 0.2
+[11/16/2024 16:24:47]
+  widjajajames used Wrench on Amira Phoenix.
+[11/16/2024 16:24:47]
+  widjajajames used Wrench on Large Horizontal Inside Wall With Cables.
+[11/16/2024 16:24:48]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:24:48]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:48]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:48]
+  Amira Phoenix: What was that sound?
+[11/16/2024 16:24:48]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:49]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:49]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:24:49]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:49]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:50]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:24:50]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:50]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:24:50]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:24:51]
+  Amira Phoenix: Target eliminated!
+[11/16/2024 16:24:51]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:51]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:51]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:51]
+  Raymon Hutchinson: I think I heard something.
+[11/16/2024 16:24:51]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:52]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:52]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:52]
+  Darius Wiley attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:24:53]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:24:53]
+  Inner wall breached by Cryonite
+[11/16/2024 16:24:57]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:24:57]
+  Darius Wiley has died (Cause of death: Gunshot wound)
+[11/16/2024 16:24:59]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:24:59]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:24:59]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:25:00]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:25:00]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:25:00]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:25:01]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:25:02]
+  Cryonite dropped Assault Rifle Magazine
+[11/16/2024 16:25:02]
+  Cryonite placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 4901)
+[11/16/2024 16:25:02]
+  Amira Phoenix unequipped Diving Knife
+[11/16/2024 16:25:02]
+  Amira Phoenix equipped Machine Pistol
+[11/16/2024 16:25:02]
+  Amira Phoenix equipped Diving Knife
+[11/16/2024 16:25:02]
+  Amira Phoenix unequipped Machine Pistol
+[11/16/2024 16:25:03]
+  Amira Phoenix unequipped Diving Knife
+[11/16/2024 16:25:03]
+  Amira Phoenix equipped Machine Pistol
+[11/16/2024 16:25:04]
+  Filiberto Basnett equipped Crowbar
+[11/16/2024 16:25:06]
+  LaywithMind picked up Wrench
+[11/16/2024 16:25:06]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:06]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:06]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:06]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:06]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:25:07]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:07]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:07]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:07]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:08]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:08]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:08]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:08]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:25:09]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:09]
+  Norman Cork attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:25:09]
+  LaywithMind equipped Medic Crate
+[11/16/2024 16:25:09]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:09]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:25:10]
+  Outer wall breached by Liberator762
+[11/16/2024 16:25:10]
+  Raymon Hutchinson attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:10]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:10]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:25:11]
+  LaywithMind dropped Medic Crate
+[11/16/2024 16:25:11]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:12]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 11.6 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:12]
+  LaywithMind equipped Chemical Crate
+[11/16/2024 16:25:13]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:13]
+  LaywithMind dropped Chemical Crate
+[11/16/2024 16:25:13]
+  Amira Phoenix attacked by Cryonite. Gunshot wound: 10.5 Bleeding: 10.5 Stun: 0.3
+[11/16/2024 16:25:14]
+  LaywithMind equipped Metal Crate
+[11/16/2024 16:25:14]
+  Cryonite picked up Assault Rifle Magazine
+[11/16/2024 16:25:14]
+  Cryonite dropped Assault Rifle Magazine
+[11/16/2024 16:25:14]
+  Cryonite placed Assault Rifle Magazine in the inventory of Assault Rifle (ID: 4901)
+[11/16/2024 16:25:15]
+  Filiberto Basnett unequipped Crowbar
+[11/16/2024 16:25:16]
+  Maira Sykes: Need to find a diving suit!
+[11/16/2024 16:25:17]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:17]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:18]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:18]
+  LaywithMind picked up Screwdriver
+[11/16/2024 16:25:18]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:18]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:19]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3 Stun: 0.5
+[11/16/2024 16:25:19]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:19]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:19]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:20]
+  Norman Cork has died (Cause of death: Gunshot wound)
+[11/16/2024 16:25:20]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:20]
+  Mission info: Separatists eliminated - Navigate the submarine to Yasa Outpost to claim your reward.
+[11/16/2024 16:25:20]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:20]
+  Filiberto Basnett attacked by Cryonite. Gunshot wound: 12.5 Bleeding: 11.3 Stun: 0.3
+[11/16/2024 16:25:21]
+  LaywithMind picked up Plasma Cutter
+[11/16/2024 16:25:24]
+  LaywithMind dropped Metal Crate
+[11/16/2024 16:25:28]
+  Maira Sykes equipped Welding Tool
+[11/16/2024 16:25:28]
+  Outer wall repaired by Maira Sykes
+[11/16/2024 16:25:29]
+  Maira Sykes unequipped Welding Tool
+[11/16/2024 16:25:32]
+  LaywithMind equipped Plasma Cutter
+[11/16/2024 16:25:33]
+  LaywithMind equipped Screwdriver
+[11/16/2024 16:25:36]
+  Filiberto Basnett has died (Cause of death: Gunshot wound)
+[11/16/2024 16:25:36]
+  Amira Phoenix has died (Cause of death: Gunshot wound)
+[11/16/2024 16:25:37]
+  Cryonite picked up x8 Bandage
+[11/16/2024 16:25:38]
+  widjajajames has died (Cause of death: Blood loss)
+[11/16/2024 16:25:38]
+  Raymon Hutchinson has died (Cause of death: Blood loss)
+[11/16/2024 16:25:38]
+  Cryonite picked up x5 Blood Pack
+[11/16/2024 16:25:39]
+  Cryonite picked up x6 Morphine
+[11/16/2024 16:25:41]
+  Cryonite used item Blood Pack
+[11/16/2024 16:25:42]
+  Cryonite used item Blood Pack
+[11/16/2024 16:25:43]
+  Cryonite used item Blood Pack
+[11/16/2024 16:25:44]
+  Cryonite used item Morphine
+[11/16/2024 16:25:46]
+  Cryonite used item Bandage
+[11/16/2024 16:25:47]
+  Cryonite used item Bandage
+[11/16/2024 16:25:49]
+  Mathew Hocker: Treating Liberator762 in electrical!
+[11/16/2024 16:25:50]
+  Mathew Hocker: I'm sorry, there's nothing I can do for Liberator762!
+[11/16/2024 16:25:50]
+  LaywithMind turned off Pump
+[11/16/2024 16:25:52]
+  Mathew Hocker: I need to find plastiseal, antibiotic glue or bandage!
+[11/16/2024 16:25:53]
+  LaywithMind disconnected a wire from Pump (power_in) to Relay Component (power_out)
+[11/16/2024 16:25:53]
+  LaywithMind connected a wire from Pump (toggle) to Relay Component (power_out)
+[11/16/2024 16:25:53]
+  Liberator762 picked up Diving Suit
+[11/16/2024 16:25:55]
+  LaywithMind equipped Plasma Cutter
+[11/16/2024 16:26:11]
+  Console command "revive widjajajames" executed by Cryonite.
+[11/16/2024 16:26:19]
+  widjajajames picked up Screwdriver
+[11/16/2024 16:26:20]
+  widjajajames equipped Screwdriver
+[11/16/2024 16:26:21]
+  widjajajames used Screwdriver on Large Vertical Inside Wall.
+[11/16/2024 16:26:29]
+  widjajajames picked up Welding Tool
+[11/16/2024 16:26:30]
+  widjajajames equipped Welding Tool
+[11/16/2024 16:26:38]
+  LaywithMind disconnected a wire from Pump (toggle) to Relay Component (power_out)
+[11/16/2024 16:26:38]
+  LaywithMind connected a wire from Pump (power_in) to Relay Component (power_out)
+[11/16/2024 16:26:41]
+  LaywithMind turned on Pump
+[11/16/2024 16:26:46]
+  Outer wall breached by Liberator762
+[11/16/2024 16:26:57]
+  Liberator762 equipped Welding Tool
+[11/16/2024 16:26:59]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:27:03]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:27:09]
+  Outer wall repaired by widjajajames
+[11/16/2024 16:27:12]
+  Outer wall repaired by widjajajames
+[11/16/2024 16:27:24]
+  Liberator762 dropped Diving Suit
+[11/16/2024 16:27:24]
+  Outer wall repaired by widjajajames
+[11/16/2024 16:27:27]
+  Pete Lozano equipped Diving Suit
+[11/16/2024 16:27:32]
+  Pete Lozano equipped Screwdriver
+[11/16/2024 16:27:35]
+  Console command "giveitem "Boarding Pod" Laywithmind" executed by Cryonite.
+[11/16/2024 16:27:40]
+  Liberator762 picked up Wrench
+[11/16/2024 16:27:41]
+  Liberator762 picked up Screwdriver
+[11/16/2024 16:27:45]
+  Liberator762 started repairing Status Monitor
+[11/16/2024 16:27:46]
+  Pete Lozano unequipped Screwdriver
+[11/16/2024 16:27:48]
+  LaywithMind docked CarrierBot to Carrier
+[11/16/2024 16:27:52]
+  Maira Sykes equipped Diving Suit
+[11/16/2024 16:27:53]
+  Liberator762 started repairing Status Monitor
+[11/16/2024 16:27:57]
+  Inner wall repaired by widjajajames
+[11/16/2024 16:28:01]
+  Console command "spawnitem "Boarding Pod" LaywithMind" executed by Cryonite.
+[11/16/2024 16:28:01]
+  LaywithMind equipped Boarding Pod
+[11/16/2024 16:28:01]
+  widjajajames started repairing Nuclear Reactor
+[11/16/2024 16:28:04]
+  Liberator762 placed Wrench in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:28:05]
+  Liberator762 placed Screwdriver in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:28:07]
+  Liberator762 placed Plasma Cutter in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:28:09]
+  Liberator762 placed Welding Tool in the inventory of Toolbelt (ID: 4473)
+[11/16/2024 16:28:15]
+  widjajajames started repairing Junction Box
+[11/16/2024 16:28:20]
+  LaywithMind placed Boarding Pod in the inventory of Depth Charge Loader (ID: 679)
+[11/16/2024 16:28:24]
+  LaywithMind undocked CarrierBot from Carrier
+[11/16/2024 16:28:27]
+  Cryonite picked up x2 Fixfoam Grenade
+[11/16/2024 16:28:30]
+  Cryonite placed Flashlight in the inventory of Assault Rifle (ID: 4901)
+[11/16/2024 16:29:00]
+  widjajajames picked up Oxygen Tank
+[11/16/2024 16:29:00]
+  widjajajames dropped Oxygen Tank
+[11/16/2024 16:29:00]
+  widjajajames placed Oxygen Tank in the inventory of Diving Suit (ID: 191)
+[11/16/2024 16:29:04]
+  Maira Sykes: Do you ever feel...flat?
+[11/16/2024 16:29:21]
+  widjajajames equipped Handheld Sonar
+[11/16/2024 16:29:22]
+  widjajajames equipped Underwater Scooter
+[11/16/2024 16:29:23]
+  Liberator762 picked up Wrench
+[11/16/2024 16:29:23]
+  Liberator762 picked up Screwdriver
+[11/16/2024 16:29:40]
+  Liberator762 failed to repair Oxygen Generator
+[11/16/2024 16:29:41]
+  Maira Sykes equipped Wrench
+[11/16/2024 16:29:47]
+  Liberator762 started repairing Oxygen Generator
+[11/16/2024 16:29:48]
+  Maira Sykes unequipped Wrench
+[11/16/2024 16:29:55]
+  Liberator762 started repairing Oxygen Generator
+[11/16/2024 16:29:57]
+  Liberator762 started repairing Junction Box
+[11/16/2024 16:30:05]
+  Liberator762 started repairing Junction Box
+[11/16/2024 16:30:08]
+  Liberator762 started repairing Junction Box
+[11/16/2024 16:30:12]
+  LaywithMind docked CarrierBot to Carrier
+[11/16/2024 16:30:15]
+  Liberator762 started repairing Junction Box
+[11/16/2024 16:30:16]
+  LaywithMind undocked CarrierBot from Carrier
+[11/16/2024 16:30:59]
+  Liberator762 started repairing Navigation Terminal
+[11/16/2024 16:31:35]
+  Console command "teleportcharacter Cryonite Laywithmind" executed by Cryonite.
+[11/16/2024 16:31:38]
+  Liberator762 unequipped Screwdriver
+[11/16/2024 16:31:38]
+  Liberator762 unequipped Wrench
+[11/16/2024 16:31:38]
+  Liberator762 equipped Medic Crate
+[11/16/2024 16:31:40]
+  Console command "teleportcharacter Cryonite mainsub" executed by Cryonite.
+[11/16/2024 16:31:43]
+  Mathew Hocker: Treating Cryonite in weapons!
+[11/16/2024 16:31:43]
+  Pete Lozano equipped Diving Suit
+[11/16/2024 16:31:44]
+  Liberator762 placed Medic Crate in the inventory of Crate Shelf (ID: 209)
+[11/16/2024 16:31:45]
+  Liberator762 equipped Metal Crate
+[11/16/2024 16:31:49]
+  Liberator762 placed Metal Crate in the inventory of Crate Shelf (ID: 209)
+[11/16/2024 16:31:50]
+  Liberator762 equipped Chemical Crate
+[11/16/2024 16:31:53]
+  Maira Sykes equipped Wrench
+[11/16/2024 16:31:53]
+  Maira Sykes: Need to find a diving suit!
+[11/16/2024 16:31:57]
+  Liberator762 placed Chemical Crate in the inventory of Crate Shelf (ID: 210)
+[11/16/2024 16:31:58]
+  Liberator762 equipped Medic Crate
+[11/16/2024 16:32:01]
+  Mathew Hocker equipped Oxygen Tank
+[11/16/2024 16:32:02]
+  Mathew Hocker: Cryonite's injuries are so minor I don't think I should waste any meds on them.
+[11/16/2024 16:32:02]
+  Liberator762 picked up Medic Crate
+[11/16/2024 16:32:05]
+  Liberator762 removed Metal Crate from the inventory of Crate Shelf (ID: 209)
+[11/16/2024 16:32:05]
+  Liberator762 picked up Metal Crate
+[11/16/2024 16:32:08]
+  Maira Sykes started repairing Pump
+[11/16/2024 16:32:12]
+  Liberator762 placed Metal Crate in the inventory of Crate Shelf (ID: 211)
+[11/16/2024 16:32:13]
+  Liberator762 equipped Metal Crate
+[11/16/2024 16:32:17]
+  Liberator762 equipped Metal Crate
+[11/16/2024 16:32:20]
+  Maira Sykes unequipped Wrench
+[11/16/2024 16:32:20]
+  Console command "spawnitem "Boarding Pod" cursor" executed by Cryonite.
+[11/16/2024 16:32:22]
+  Liberator762 equipped Metal Crate
+[11/16/2024 16:32:28]
+  Pete Lozano equipped Boarding Pod
+[11/16/2024 16:32:29]
+  Liberator762 picked up Medic Crate
+[11/16/2024 16:32:35]
+  Liberator762 picked up x8 Morphine
+[11/16/2024 16:32:37]
+  Liberator762 placed x8 Morphine in the inventory of Medic Crate (ID: 4331)
+[11/16/2024 16:32:41]
+  Liberator762 picked up x8 Morphine
+[11/16/2024 16:32:51]
+  Liberator762 used item Morphine
+[11/16/2024 16:33:00]
+  Liberator762 picked up Medic Crate
+[11/16/2024 16:33:01]
+  Client "Cryonite" ended the round.
+[11/16/2024 16:33:01]
+  Ending the round...

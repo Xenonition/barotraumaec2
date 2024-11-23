@@ -1,0 +1,625 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<infotexts language="Russian" nowhitespace="false" translatedname="Русский">
+
+
+<!-- Modified values -->
+<entityname.piratehelmet>Шлем сепаратистов</entityname.piratehelmet>
+<entitydescription.piratehelmet>Модифицированный пуленепробиваемый шлем. Несмотря на кустарные улучшения, шлем выглядит на удивление крепким.</entitydescription.piratehelmet>
+<entityname.piratebodyarmor>Бронежилет сепаратистов</entityname.piratebodyarmor>
+<entitydescription.piratebodyarmor>Бронежилет юпитерианских сепаратистов, частично укрепленный поручными материалами. Он тяжелее, чем кажется.</entitydescription.piratebodyarmor>
+<entityname.piratecaptainhat>Шляпа капитана сепаратистов</entityname.piratecaptainhat>
+<entityname.piratebandana>Бандана сепаратиста</entityname.piratebandana>
+<entityname.pirateclothes>Костюм сепаратиста</entityname.pirateclothes>
+<entitydescription.pirateclothes>Сделанный юпитерианскими сепаратистами защитный костюм, предназначенный для суровых условий жизни моряка Европы. Этот костюм улучшен накладками легкой брони.</entitydescription.pirateclothes>
+<entityname.piratesubexterior>Часть экстерьера: подлодка сепаратистов</entityname.piratesubexterior>
+<entityname.piratesubdeco>Украшение: подлодка сепаратистов</entityname.piratesubdeco>
+<missionname.escort1>Перевозка работников Коалиции</missionname.escort1>
+<missiondescription.escort1>Коалиция наняла нескольких работников в точке [location1], их нужно отвезти в точку [location2]. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в [reward] кред.</missiondescription.escort1>
+<missiondescription.escort3>Пленных сепаратистов необходимо доставить в точку [location2]. Если справитесь, получите в награду [reward] кред. Обеспечьте надежную охрану при перевозке, чтобы они не сбежали. И чтобы никто их них не погиб.</missiondescription.escort3>
+<missionname.escort2>Перевозка чиновника Коалиции</missionname.escort2>
+<missiondescription.escort2>Сопроводите важного деятеля Коалиции с вооруженной охраной в точку [location2]. Не подвергайте ВИП-персону ненужному риску – вы получите награду в [reward] кред., только если она не погибнет.</missiondescription.escort2>
+<missionname.pirate1>Судно сепаратистов</missionname.pirate1>
+<missiondescription.pirate1>Отыщите судно юпитерианских сепаратистов, терроризирующее эту область, и уничтожьте его команду. Отмеченные точки указывают, где судно видели в последнее время.</missiondescription.pirate1>
+<missionsuccess.pirate1>Экипаж судна сепаратистов был успешно уничтожен.</missionsuccess.pirate1>
+<missionfailure.pirate1>Экипаж судна сепаратистов не был уничтожен.</missionfailure.pirate1>
+<missionsonarlabel.pirate1>Сепаратисты замечены</missionsonarlabel.pirate1>
+<missionheader0.pirate1>Сепаратисты обнаружены</missionheader0.pirate1>
+<missionheader1.pirate1>Сепаратисты уничтожены</missionheader1.pirate1>
+<eventtext.missionevent_escort1.c1>"Хотите заработать? Коалиция наняла у нас людей для работы на соседнем аванпосте. Перевезите их без происшествий, и получите деньги".</eventtext.missionevent_escort1.c1>
+<eventtext.missionevent_escort2.c1>"Есть отличная возможность для того, кто хочет выслужиться перед Коалицией... Важная персона из Коалиции с вооруженной охраной посещала наш аванпост, и теперь ищет транспорт до соседнего аванпоста. Доставьте их туда в целости и сохранности, заодно сможете неплохо заработать".</eventtext.missionevent_escort2.c1>
+<eventtext.missionevent_escort3.c1>"Недавно мы захватили в плен сепаратистов, и теперь ищем того, кто доставит их на соседний аванпост. Будь моя воля, их бы уже давно вытолкали из шлюза, но высокие чины Коалиции хотят их сперва допросить. За их транспортировку вам хорошо заплатят, но имейте в виду, что их нужно как следует охранять".</eventtext.missionevent_escort3.c1>
+<eventtext.missionevent_escort4.c1>"Мы считаем, что террористы из числа сепаратистов спрятались среди мирных гражданских и попытаются ускользнуть на следующем транспортном корабле. Если вы готовы предоставить свой корабль, выдав его за транспортный, возможно, вам удастся выманить террористов и задержать их. Главное, чтобы при этом выжили гражданские".</eventtext.missionevent_escort4.c1>
+<missiondescription.cargocompoundn>Юпитерианские сепаратисты предлагают [reward] кред. за доставку груза взрывчатки своим агентам в точке [location2].</missiondescription.cargocompoundn>
+<lockedpathtooltipcoalitionreputation>Маршрут закрыт. Для прохода по нему требуется репутация в ‖color:faction.coalition‖Коалиции Европы‖end‖: [requiredreputation] и разрешение, полученное у офицера в аванпосте. Репутация указана в информационном окне.\n\nВаша репутация: [currentreputation]</lockedpathtooltipcoalitionreputation>
+
+<!-- New values -->
+<missionname.separatistattack1>Засада сепаратистов</missionname.separatistattack1>
+<missionheader0.separatistattack1>Получено сообщение</missionheader0.separatistattack1>
+<missionmessage0.separatistattack1>"Этот маршрут контролируют юпитерианские сепаратисты. Быстро поворачивайте назад, иначе мы потопим вас прямо здесь, грязные фашисты".</missionmessage0.separatistattack1>
+<missionname.coalitionattack1>Засада Коалиции</missionname.coalitionattack1>
+<missionheader0.coalitionattack1>Получено сообщение</missionheader0.coalitionattack1>
+<missionmessage0.coalitionattack1>"Вы уже приехали, предатели! Наказание за предательство Коалиции – смерть!"</missionmessage0.coalitionattack1>
+<missionname.escort1separatists>Перевозка сепаратистов</missionname.escort1separatists>
+<missiondescription.escort1separatists>Юпитерианских сепаратистов необходимо доставить в точку [location2]. У них очень важное задание. Обеспечьте их безопасность – если ни один из них не погибнет, вы получите награду в [reward] кред.</missiondescription.escort1separatists>
+<missionname.escort2separatists>Перевозка важного сепаратиста</missionname.escort2separatists>
+<missiondescription.escort2separatists>Влиятельного представителя Юпитерианских сепаратистов следует доставить в точку [location2] вместе с охраной. Не подвергайте ВИП-персону ненужному риску – вы получите награду в [reward] кред. только если она не погибнет.</missiondescription.escort2separatists>
+<missionname.escort3separatists>Перевозка пленных</missionname.escort3separatists>
+<missiondescription.escort3separatists>Юпитерианские сепаратисты предлагают [reward] кред. за доставку пленных бойцов Коалиции в точку [location2]. Обеспечьте надежную охрану при перевозке, чтобы они не сбежали. И чтобы никто их них не погиб.</missiondescription.escort3separatists>
+<missionname.escort4separatists>Контрразведка</missionname.escort4separatists>
+<missiondescription.escort4separatists>Агенты Коалиции под прикрытием следят за действиями сепаратистов в этом секторе. Есть подозрения, что они проникли на ваш корабль вместе с обычными пассажирами. Сделайте все, чтобы пассажиры добрались до точки [location2] живыми, разберитесь со всеми выявленными агентами, и вы получите награду в размере [reward] кред.</missiondescription.escort4separatists>
+<missionsuccess.escort4separatists>Транспортировка пассажиров прошла успешно, и агенты Коалиции получили по заслугам.</missionsuccess.escort4separatists>
+<missionfailure.escort4separatists>Сопровождаемые пассажиры не добрались до места назначения или агенты Коалиции не были обнаружены и нейтрализованы.</missionfailure.escort4separatists>
+<missionheader1.escort4separatists>Агенты Коалиции побеждены</missionheader1.escort4separatists>
+<missionmessage1.escort4separatists>Кажется, агентов под прикрытием больше не осталось. Отведите подлодку в точку [location2], чтобы получить вознаграждение.</missionmessage1.escort4separatists>
+<eventtext.missionevent_escort1separatists.c1>"Группа важных юпитерианских сепаратистов ищет транспорт до соседнего аванпоста. Не буду вдаваться в подробности, но у них очень серьезное задание. Надеюсь, вы согласитесь помочь хорошему делу и получить достойную награду за то, что доставите их на соседний аванпост".</eventtext.missionevent_escort1separatists.c1>
+<eventtext.missionevent_escort2separatists.c1>"Если вы сочувствуете нашей борьбе против фашистов Коалиции, помогите делом... Нашему очень важному товарищу с вооруженной охраной нужен транспорт до соседнего аванпоста. Доставьте их туда в целости и сохранности, и мы достойно вознаградим вас".</eventtext.missionevent_escort2separatists.c1>
+<eventtext.missionevent_escort3separatists.c1>"Недавно у нас возникло небольшое недоразумение с боевой субмариной Коалиции, и теперь остатки их экипажа сидят у нас на гауптвахте. В итоге мы договорились переправить их на соседний аванпост. За их транспортировку вам хорошо заплатят, но имейте в виду, что их нужно как следует охранять".</eventtext.missionevent_escort3separatists.c1>
+<eventtext.missionevent_escort4separatists.c1>"Нам стало известно, что Коалиция отправила агентов под прикрытием следить за действиями сепаратистов в этом секторе. Мы полагаем, что они попытаются убраться отсюда на ближайшем транспорте, притворяясь обычными пассажирами. Если вы согласитесь выдать свой корабль за транспортный, возможно, вам удастся выявить агентов и задержать их. Главное, чтобы при этом выжили гражданские".</eventtext.missionevent_escort4separatists.c1>
+<missionname.escort1huskcult>Перевозка сектантов</missionname.escort1huskcult>
+<missiondescription.escort1huskcult>Церковь Хаска предлагает [reward] кред. за доставку группы своих последователей в точку [location2]. Вроде бы некоторые из них хотят совершить преждевременное причащение и затем сбежать в холодное море, но представители Церкви очень просят присматривать за ними и доставить всех в точку [location2] еще в человеческом виде.</missiondescription.escort1huskcult>
+<EventText.missionevent_escort1huskcult.c1>"Эй! Хотите заработать? Пара наших последователей ищет транспорт до соседнего аванпоста. Но хочу вас предупредить, что они могут попытаться совершить причащение, хотя мы им и объясняли, что к этому они пока не готовы. Поэтому присматривайте за ними, пожалуйста, чтобы они не учинили у вас на борту никаких глупостей".</EventText.missionevent_escort1huskcult.c1>
+<eventtext.missionevent_cargohuskcult>"Ищете работу? У нас есть кое-какие… скажем так, исследовательские материалы, которые очень нужны в соседнем аванпосте. Доставьте их туда без лишних вопросов, и мы вам заплатим".</eventtext.missionevent_cargohuskcult>
+<missionname.huskcultspecialassassinate>Хранитель тишины</missionname.huskcultspecialassassinate>
+<missiondescription.huskcultspecialassassinate>Церкви стало известно, что за ее деятельностью следит агент Коалиции. Этот агент уже так глубоко засунул нос в церковные тайны, что придется заставить его замолчать навеки. Отправляйтесь в точку [location1] и незаметно устраните агента.</missiondescription.huskcultspecialassassinate>
+<missionsuccess.huskcultspecialassassinate>Цель уничтожена, тайны Церкви в безопасности.</missionsuccess.huskcultspecialassassinate>
+<missionfailure.huskcultspecialassassinate>Цель все еще жива. Необходимо как можно быстрее устранить ее.</missionfailure.huskcultspecialassassinate>
+<missionname.huskcultrescuesubra>Спасение Субры</missionname.huskcultrescuesubra>
+<missiondescription.huskcultrescuesubra>Яков Субра, "главорг" Церкви Хаска, скрывается от властей в точке [location1]. Церковь опасается, что о его местоположении стало известно охотникам за головами. Отправляйтесь в точку [location1] и возьмите его на борт прежде, чем до него доберутся враги.</missiondescription.huskcultrescuesubra>
+<missionsuccess.huskcultrescuesubra>Яков Субра в безопасности на борту. Проводите его в следующую локацию и сообщите экклезиасту, что задание по спасению прошло успешно.</missionsuccess.huskcultrescuesubra>
+<missionfailure.huskcultrescuesubra>Яков Субра все еще в точке [location1], нужно спасти его как можно скорее.</missionfailure.huskcultrescuesubra>
+<missionname.escort1clowns>Перевозка клоунов</missionname.escort1clowns>
+<missiondescription.escort1clowns>Группа клоунов предлагает [reward] кред. за доставку в точку [location2]. Вы в курсе, что эти ребята со странностями или по крайней мере ни разу не были на борту подлодки.</missiondescription.escort1clowns>
+<EventText.missionevent_escort1clowns.c1>"Эй! У вас на лодке найдется местечко еще для пары пассажиров? Моим друзьям нужен транспорт до соседнего аванпоста, и они готовы заплатить за проезд!" Клоун говорит тише. "Но вам придется за ними приглядывать. У них под крышей тараканы строем ходят, если понимаете, о чем я. И они никогда не бывали на подлодке. Не знаю, как они с этим справятся".</EventText.missionevent_escort1clowns.c1>
+<missionname.gotoclownhaven>Шутка хоть куда</missionname.gotoclownhaven>
+<missiondescription.gotoclownhaven>Дети красного носа поручили вам отвоевать аванпост, некогда принадлежавший им. Они планируют досаждать обитателям аванпоста до тех пор, пока те не уберутся куда подальше. Для этого задания вам дали особый экзокостюм.</missiondescription.gotoclownhaven>
+<missionsuccess.gotoclownhaven>Похоже, план сработал. Местные жители сдались и решили уступить аванпост клоунам.</missionsuccess.gotoclownhaven>
+<eventtext.missionevent_pirate1separatists.c1>"Судно Коалиции патрулирует воды вокруг нашего аванпоста, захватывает прибывающие грузы и угрожает нашим судам. Пока нам удавалось избежать эскалации конфликта, однако припасы стали подходить к концу. Если вы разберетесь с этим судном, то спасете наш аванпост и поможете делу сепаратистов. И, конечно же, мы щедро вознаградим вас за помощь!"</eventtext.missionevent_pirate1separatists.c1>
+<EventText.missionevent_cargocompoundn.c1>"Если хотите помочь в нашей борьбе против Коалиции, могу предложить вам одно дело... Паре наших агентов на соседнем аванпосте нужна взрывчатка для выполнения задания. Доставьте им груз в целости и сохранности, и мы достойно вознаградим вас".</EventText.missionevent_cargocompoundn.c1>
+<missionname.cargoweaponscoalition>Доставка оружия</missionname.cargoweaponscoalition>
+<missiondescription.cargoweaponscoalition>Коалиция отправила агентов под прикрытием следить за действиями сепаратистов в точке [location2]. Им требуется оружие и боеприпасы – доставьте груз, и получите в награду [reward] кредитов.</missiondescription.cargoweaponscoalition>
+<missionsuccess.cargoweaponscoalition>Вы успешно доставили груз.</missionsuccess.cargoweaponscoalition>
+<EventText.missionevent_cargoweaponscoalition.c1>"У меня для вас есть важная задача. Коалиция отправила агентов под прикрытием следить за действиями сепаратистов на соседнем аванпосте. Не буду вдаваться в детали, но их нужно снабдить оружием и боеприпасами. Доставьте им груз, и вы окажете большую услугу Коалиции. Ну и, конечно, неплохо заработаете на этом".</EventText.missionevent_cargoweaponscoalition.c1>
+<missionname.pirate1separatists>Судно Коалиции</missionname.pirate1separatists>
+<missiondescription.pirate1separatists>Отыщите судно Коалиции, терроризирующее эту область, и уничтожьте его команду. Отмеченные точки указывают, где судно видели в последнее время.</missiondescription.pirate1separatists>
+<missionsuccess.pirate1separatists>Экипаж судна Коалиции был успешно уничтожен.</missionsuccess.pirate1separatists>
+<missionfailure.pirate1separatists>Экипаж судна Коалиции не был уничтожен.</missionfailure.pirate1separatists>
+<missionsonarlabel.pirate1separatists>Судно Коалиции замечено</missionsonarlabel.pirate1separatists>
+<missionheader0.pirate1separatists>Судно Коалиции обнаружено</missionheader0.pirate1separatists>
+<missionmessage0.pirate1separatists>Нейтрализуйте экипаж или затопите подлодку – пусть опустится на дно морское!</missionmessage0.pirate1separatists>
+<missionheader1.pirate1separatists>Судно Коалиции уничтожено</missionheader1.pirate1separatists>
+<missionmessage1.pirate1separatists>Отведите подлодку в точку [location2], чтобы получить вознаграждение.</missionmessage1.pirate1separatists>
+<missionname.tormsdalereport>Дело Тормсдейла</missionname.tormsdalereport>
+<missiondescription.tormsdalereport>Юпитерианские сепаратисты поручили вам раздобыть секретный доклад по так называемому "Делу Тормсдейла" – они полагают, что это была тайная операция Коалиции по устранению политической оппозиции.</missiondescription.tormsdalereport>
+<missionsuccess.tormsdalereport>Вы раздобыли документы.</missionsuccess.tormsdalereport>
+<missionfailure.tormsdalereport>Получить документы не удалось.</missionfailure.tormsdalereport>
+<missionmessage0.tormsdalereport>Вы нашли документы по делу Тормсдейла. Их нужно доставить на аванпост, контролируемый сепаратистами.</missionmessage0.tormsdalereport>
+<entityname.tormsdalereport>Дело Тормсдейла</entityname.tormsdalereport>
+<entitydescription.tormsdalereport>Запечатанный конверт с секретной информацией.</entitydescription.tormsdalereport>
+<missionname.jailbreak>Побег из тюрьмы</missionname.jailbreak>
+<missiondescription.jailbreak_separatists>Юпитерианские сепаратисты поручили вам освободить своих агентов, схваченных Коалицией.</missiondescription.jailbreak_separatists>
+<missiondescription.jailbreak_coalition>Коалиция Европы поручила вам освободить своих агентов, схваченных Юпитерианскими сепаратистами.</missiondescription.jailbreak_coalition>
+<missiondescription.jailbreak_sootman>Юпитерианские сепаратисты поручили вам освободить своего важного агента, схваченного Коалицией.</missiondescription.jailbreak_sootman>
+<missionsuccess.jailbreak>Заключенные спасены.</missionsuccess.jailbreak>
+<missionfailure.jailbreak>Освободить заключенных не удалось.</missionfailure.jailbreak>
+<missionsuccess.jailbreak_singletarget>Заключенный спасен.</missionsuccess.jailbreak_singletarget>
+<missionfailure.jailbreak_singletarget>Освободить заключенного не удалось.</missionfailure.jailbreak_singletarget>
+<missionheader0.prisonerrescue>Заключенные спасены</missionheader0.prisonerrescue>
+<missionmessage0.prisonerrescue>Заключенные освобождены и находятся в безопасности на борту субмарины. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.prisonerrescue>
+<missionheader0.prisonerrescue_singletarget>Заключенный спасен</missionheader0.prisonerrescue_singletarget>
+<missionmessage0.prisonerrescue_singletarget>Заключенный освобожден и находится в безопасности на борту субмарины. Отплывите от аванпоста, чтобы завершить задание.</missionmessage0.prisonerrescue_singletarget>
+<prisonerkilled>Задание провалено, один из заключенных погиб.</prisonerkilled>
+<dialogundercoverannounce>Это судно конфискует Коалиция Европы!</dialogundercoverannounce>
+<dialogundercoverannounce>Наказание за предательство Коалиции – смерть!</dialogundercoverannounce>
+<dialogundercoverannounce>Грязные террористы не уйдут отсюда живыми!</dialogundercoverannounce>
+<dialogundercoverannounce>Мы знаем, что вы в сговоре с сепаратистами! И прямо сейчас положим этому конец.</dialogundercoverannounce>
+<dialogundercoverannounce>Да здравствует Коалиция!</dialogundercoverannounce>
+<label.securespecimenenclosure>Надежное хранилище для организма</label.securespecimenenclosure>
+<faction>Фракция</faction>
+<locationchange.none.changeto.outpost.separatists>Группа ‖color:faction.separatists‖Юпитерианских сепаратистов‖end‖ отправилась в зону [previousname] и основала новый аванпост.</locationchange.none.changeto.outpost.separatists>
+<locationchange.none.changeto.outpost.coalition>Силы ‖color:faction.coalition‖Коалиции‖end‖ отправились в зону [previousname] и основали новый аванпост.</locationchange.none.changeto.outpost.coalition>
+<locationchange.outpost.changeto.military.separatists>[previousname]: силы ‖color:faction.separatists‖сепаратистов‖end‖ переместились сюда, нарастив свое военное присутствие в регионе.</locationchange.outpost.changeto.military.separatists>
+<locationchange.outpost.changeto.military.coalition>[previousname]: силы ‖color:faction.coalition‖Коалиции‖end‖ переместились сюда, нарастив свое военное присутствие в регионе.</locationchange.outpost.changeto.military.coalition>
+<locationchange.military.changeto.city.separatists>[previousname]: командующий был назначен губернатором, теперь [name] – настоящий город.</locationchange.military.changeto.city.separatists>
+<locationchange.military.changeto.city.coalition>[previousname]: население настолько выросло, что теперь [name] – настоящий город.</locationchange.military.changeto.city.coalition>
+<locationchange.outpost.changeto.mine.separatists>[previousname]: ‖color:faction.separatists‖Юпитерианские сепаратисты‖end‖ начали добычу минералов.</locationchange.outpost.changeto.mine.separatists>
+<locationchange.outpost.changeto.mine.coalition>[previousname]: ‖color:faction.coalition‖Коалиция‖end‖ начала добычу минералов.</locationchange.outpost.changeto.mine.coalition>
+<locationchange.outpost.changeto.research.separatists>[previousname]: группа исследователей при поддержке ‖color:faction.separatists‖сепаратистов‖end‖ превратила это место в независимую научную станцию.</locationchange.outpost.changeto.research.separatists>
+<locationchange.outpost.changeto.research.coalition>[previousname]: ‖color:faction.coalition‖Коалиция‖end‖ превратила это место в научную станцию по изучению местной фауны.</locationchange.outpost.changeto.research.coalition>
+<location.clownhaven>Клоунбург</location.clownhaven>
+<breakingnews>СЕНСАЦИЯ</breakingnews>
+<randomnews1>Прогноз юпитерианской радиации на эту неделю остается мрачным.</randomnews1>
+<randomnews2>Корабельные клоуны отмечают рост враждебности рабочей среды.</randomnews2>
+<randomnews3>Чиновники Коалиции напоминают законопослушным гражданам, что продавать на аванпосты сепаратистов запрещенные товары – это преступление.</randomnews3>
+<randomnews4>Научное сообщество требует финансирования исследований Ока Европы.</randomnews4>
+<randomnews5>Продвижение вглубь к Оку Европы продолжается.</randomnews5>
+<randomnews6>Червь Рока появляется все чаще.</randomnews6>
+<randomnews7>Церковь Хаска винят в нехватке каликсанида.</randomnews7>
+<randomnews8>Потеряна связь с поселением в секторе Дансомин.</randomnews8>
+<randomnews9>Стоимость жилья растет и к концу года достигнет нового рекорда.</randomnews9>
+<randomnews10>Субра все еще на свободе. Вооружен, непредсказуем и очень опасен.</randomnews10>
+<randomnews11>Винтерхалтер сгорел. Родные и друзья скорбят по восьми членам экипажа.</randomnews11>
+<randomnews12>Клоунцент упал ниже 0,0001 миникредита.</randomnews12>
+<randomnews13>Метеор Форд вырвался на первое место в схватке в Данвиче.</randomnews13>
+<randomnews14>Люди – не первые обитатели Европы. Ученые: "Да неужели?!"</randomnews14>
+<randomnews15>Исследования показали, что яйца паразита не улучшают здоровье.</randomnews15>
+<randomnews16>В Мелтуотере пропали журналисты. Европеец ведет расследование.</randomnews16>
+<randomnews17>На выборах снова победил действующий президент Коалиции.</randomnews17>
+<randomnews18>Население опасается положительных результатов теста.</randomnews18>
+<randomnews19>Странные резные камни найдены в Стомберне. "Они теплые!" – говорит очевидец.</randomnews19>
+<randomnews20>Курить водяной мак опасно. "Это как сигары, но не совсем!" – говорят медики.</randomnews20>
+<randomnews21>Радиоактивные сосиски ползунов вызывают помехи в ЭХО.</randomnews21>
+<randomnews22>Профессия инженера обогнала механика в популярности, нижняя позиция в рейтинге по-прежнему у священника.</randomnews22>
+<randomnews23>Автор заголовков тоскует в одиночестве.</randomnews23>
+<randomnews24>Глобальное потепление больше не волнует жителей Европы.</randomnews24>
+<randomnews25>Детскую шутку приняли за новое послание с Земли.</randomnews25>
+<randomnews26>Земля по-прежнему молчит.</randomnews26>
+<randomnews27>17-му сезону шоу "Вкусняшки тети Дорис" быть!</randomnews27>
+<randomnews28>Сеть закусочных "Тетя Дорис" обвиняют в антисанитарии.</randomnews28>
+<randomnews29>Коалиция назначила награду за голову таинственного террориста по прозвищу Сажа.</randomnews29>
+<randomnews30>Док Коалиции сгорел в пожаре – в поджоге обвиняют террориста в маске по прозвищу Сажа.</randomnews30>
+<randomnews31>Сегодня вечером в Дипфликсе: Сажа – легендарный преступник в маске.</randomnews31>
+<randomnews32>Главарь секты хаска Яков Субра все еще на свободе.</randomnews32>
+<randomnews33>Игнатий Мэй снова избран Капитаном внутренних дел – и при чем здесь непотизм?</randomnews33>
+<randomnews34>Поклонение Юпитеру и нелинейное пространство-время: криптоанализ проливает новый свет на культуру древних инопланетян.</randomnews34>
+<npctitle.merchantclown>Клоун-торговец</npctitle.merchantclown>
+<npctitle.merchanthusk>Сектант-торговец</npctitle.merchanthusk>
+<npctitle.huskcultecclesiast>Проповедник</npctitle.huskcultecclesiast>
+<npctitle.coalitionspy>Агент Коалиции</npctitle.coalitionspy>
+<npctitle.separatistcaptain>Капитан сепаратистов</npctitle.separatistcaptain>
+<npctitle.separatistcaptainlord>Адмирал сепаратистов</npctitle.separatistcaptainlord>
+<npctitle.separatistsecurityrecruit>Рекрут сепаратистов</npctitle.separatistsecurityrecruit>
+<npctitle.separatistsecuritygunner>Стрелок сепаратистов</npctitle.separatistsecuritygunner>
+<npctitle.separatistsecuritybrute>Боец сепаратистов</npctitle.separatistsecuritybrute>
+<npctitle.separatistsecurityelite>Элитный боец сепаратистов</npctitle.separatistsecurityelite>
+<npctitle.separatistmechanicrecruit>Механик сепаратистов</npctitle.separatistmechanicrecruit>
+<npctitle.separatistmechanicveteran>Ветеран-механик сепаратистов</npctitle.separatistmechanicveteran>
+<npctitle.separatistengineerrecruit>Инженер сепаратистов</npctitle.separatistengineerrecruit>
+<npctitle.separatistengineerveteran>Ветеран-инженер сепаратистов</npctitle.separatistengineerveteran>
+<npctitle.coalitioncaptain>Капитан Коалиции</npctitle.coalitioncaptain>
+<npctitle.coalitioncaptainlord>Адмирал Коалиции</npctitle.coalitioncaptainlord>
+<npctitle.coalitionsecurityrecruit>Рекрут Коалиции</npctitle.coalitionsecurityrecruit>
+<npctitle.coalitionsecuritygunner>Стрелок Коалиции</npctitle.coalitionsecuritygunner>
+<npctitle.coalitionsecuritybrute>Капрал Коалиции</npctitle.coalitionsecuritybrute>
+<npctitle.coalitionsecurityelite>Лейтенант Коалиции</npctitle.coalitionsecurityelite>
+<npctitle.coalitionmechanicrecruit>Механик Коалиции</npctitle.coalitionmechanicrecruit>
+<npctitle.coalitionmechanicveteran>Ветеран-механик Коалиции</npctitle.coalitionmechanicveteran>
+<npctitle.coalitionengineerrecruit>Инженер Коалиции</npctitle.coalitionengineerrecruit>
+<npctitle.coalitionengineerveteran>Ветеран-инженер Коалиции</npctitle.coalitionengineerveteran>
+<npctitle.hireablecoalitionsecurityofficer>Капрал Коалиции</npctitle.hireablecoalitionsecurityofficer>
+<npctitle.hireablecoalitionsecurityofficerveteran>Лейтенант Коалиции</npctitle.hireablecoalitionsecurityofficerveteran>
+<npctitle.hireablecoalitionmechanic>Механик Коалиции</npctitle.hireablecoalitionmechanic>
+<npctitle.hireablecoalitionmechanicveteran>Ветеран-механик Коалиции</npctitle.hireablecoalitionmechanicveteran>
+<npctitle.hireablecoalitionengineer>Инженер Коалиции</npctitle.hireablecoalitionengineer>
+<npctitle.hireablecoalitionengineerveteran>Ветеран-инженер Коалиции</npctitle.hireablecoalitionengineerveteran>
+<npctitle.hireablecoalitionmedic>Медик Коалиции</npctitle.hireablecoalitionmedic>
+<npctitle.hireablecoalitionmedicveteran>Ветеран-медик Коалиции</npctitle.hireablecoalitionmedicveteran>
+<npctitle.hireableseparatistsecurityofficer>Капрал сепаратистов</npctitle.hireableseparatistsecurityofficer>
+<npctitle.hireableseparatistsecurityofficerveteran>Лейтенант сепаратистов</npctitle.hireableseparatistsecurityofficerveteran>
+<npctitle.hireableseparatistmechanic>Механик сепаратистов</npctitle.hireableseparatistmechanic>
+<npctitle.hireableseparatistmechanicveteran>Ветеран-механик сепаратистов</npctitle.hireableseparatistmechanicveteran>
+<npctitle.hireableseparatistengineer>Инженер сепаратистов</npctitle.hireableseparatistengineer>
+<npctitle.hireableseparatistengineerveteran>Ветеран-инженер сепаратистов</npctitle.hireableseparatistengineerveteran>
+<npctitle.hireableseparatistmedic>Медик сепаратистов</npctitle.hireableseparatistmedic>
+<npctitle.hireableseparatistmedicveteran>Ветеран-медик сепаратистов</npctitle.hireableseparatistmedicveteran>
+<entityname.op_husktable>Стол для вскрытия</entityname.op_husktable>
+<entityname.op_huskscribble>Оккультная чушь</entityname.op_huskscribble>
+<entityname.op_huskstatue1>Оккультная статуя</entityname.op_huskstatue1>
+<entityname.op_huskgraffiti>Оккультный символ</entityname.op_huskgraffiti>
+<entityname.op_husklabel>Знак "Не входить"</entityname.op_husklabel>
+<entityname.op_husklabel1>Старый жетон с именем</entityname.op_husklabel1>
+<entityname.op_huskbody>Труп ребенка</entityname.op_huskbody>
+<entityname.op_humantank>Экспериментальная емкость</entityname.op_humantank>
+<entityname.op_huskincubator>Инкубатор для младенца</entityname.op_huskincubator>
+<entityname.op_huskphoto1>Мутная картинка</entityname.op_huskphoto1>
+<entityname.op_huskcloak>Плащ сектанта</entityname.op_huskcloak>
+<entityname.op_huskstroller1>Коляска</entityname.op_huskstroller1>
+<entityname.op_huskposter1>Аптечный плакат</entityname.op_huskposter1>
+<entityname.op_husksign>Картонный знак</entityname.op_husksign>
+<entityname.op_sepsandbag>Украшение сепаратистов</entityname.op_sepsandbag>
+<entityname.op_clowncurtain2>Декоративная ширма</entityname.op_clowncurtain2>
+<entityname.op_clownmannequin1>Манекен</entityname.op_clownmannequin1>
+<entityname.op_clownjukebox>Музыкальный автомат</entityname.op_clownjukebox>
+<entityname.op_clowninstrument1>Виолончель</entityname.op_clowninstrument1>
+<entityname.op_clownball1>Воздушный шар</entityname.op_clownball1>
+<entityname.op_clownmic>Сценический микрофон</entityname.op_clownmic>
+<entityname.op_clownsign1>Театральная афиша</entityname.op_clownsign1>
+<entityname.op_clownmask2>Декоративная маска</entityname.op_clownmask2>
+<entityname.op_clownshow1>Афиша шоу</entityname.op_clownshow1>
+<entityname.op_clownmarquee>Шатер</entityname.op_clownmarquee>
+<entityname.op_clowninstrument2>Ударная установка</entityname.op_clowninstrument2>
+<entityname.op_clownfence>Театральное ограждение</entityname.op_clownfence>
+<entityname.op_clownball2>Огромный шар</entityname.op_clownball2>
+<entityname.op_clownposter1>Рекламный плакат</entityname.op_clownposter1>
+<entityname.banana>Банан</entityname.banana>
+<entitydescription.banana>Экзотический фрукт с Земли. Приятный на вкус и содержит много калия.</entitydescription.banana>
+<entityname.bananapeel>Банановая кожура</entityname.bananapeel>
+<entitydescription.bananapeel>Содержит много калия. Может представлять опасность, если лежит на полу.</entitydescription.bananapeel>
+<entityname.cymbals>Дементонитовые цимбалы</entityname.cymbals>
+<entitydescription.cymbals>Ударный инструмент, используемый красноносыми для медитации. Уникальные акустические свойства дементонита придают цимбалам очень характерное и невыносимо громкое звучание, которое крайне трудно вынести не инициированным.</entitydescription.cymbals>
+<entityname.clowncrate>Клоунский сундук</entityname.clowncrate>
+<entitydescription.clowncrate>Сундук, достаточно большой, чтобы внутри поместился шут.</entitydescription.clowncrate>
+<itemmsggoinside>[[use]] Забраться внутрь</itemmsggoinside>
+<entityname.clownexosuit>Веселитель-3000</entityname.clownexosuit>
+<entitydescription.clownexosuit>Клоунистическое достижение красноносых технологий: экзокостюм с ядерным реактором, оснащенный орудиями массового увеселения.</entitydescription.clownexosuit>
+<clownexosuitweapon>Взрывной клаксон</clownexosuitweapon>
+<entityname.honkmotherianscriptures1>Писания Красного носа: Девять столпов веселья (I-III)</entityname.honkmotherianscriptures1>
+<pillarsoffun1>I. Гудок описуемый не есть извечный Гудок. Красный нос называемый не есть извечный Красный нос. Безымянность царит на сцене. Поименованы пьеса, актеры, зрители и стена между ними. Отринув серьезность, вы узрите сокрытое и тайное. Серьезный взгляд замечает лишь реально зримое.\n\nII. Мы придаем воздушному шару форму зверя, но это пустота внутри шара позволяет ему принять форму. Мы работаем с субстанцией, но используем то, что содержится между строк.\n\nIII. Величайшее веселье – не стремиться создавать веселье, а позволить себе стать им. Серьезные люди хотят веселиться, но оказывается, что они не способны делать это вечно. Серьезные люди пытаются выдавить все веселье из доставшихся им лимонов, но оказывается, что этот сок кислый.</pillarsoffun1>
+<entityname.honkmotherianscriptures2>Писания Красного носа: Девять столпов веселья (IV-VI)</entityname.honkmotherianscriptures2>
+<pillarsoffun2>IV. Шут, услышав великую шутку вселенной, позволяет ей направлять себя. Заурядная личность, услышав великую шутку вселенной, наполовину верит ей и наполовину сомневается. Дурак, услышав великую шутку вселенной, громко смеется над самой идеей такой шутки. Если не смеяться, то это значит, что шутка не смешная, да?\n\nV. Лучшие шуты – те, о ком люди даже не знают. Вторые после них – шуты, которых любят и восхваляют. Следующие – те, кого боятся. А самые худшие шуты – те, которых презирают. Когда великий шут исполняет свое предназначение, люди говорят, что было очень весело, не зная о восходящем потоке веселья, как не знают они и о величайшем шуте, наивысшем потоке, чистейшем листе.\n\nVI. Разум шута подобен чистейшему листу. Он ощущает разум толпы как свой собственный. С добрыми он добр. С недобрыми он тоже добр. Он доверяет достойным доверия. И не достойным доверия он тоже доверяет. Так он обретет доброту и доверие, ибо серьезные люди с навозом вместо мозгов мешают потоку веселья.</pillarsoffun2>
+<entityname.honkmotherianscriptures3>Писания Красного носа: Девять столпов веселья (VII-IX)</entityname.honkmotherianscriptures3>
+<pillarsoffun3>VII. Если ты не чувствуешь смерти, как она может тебя пугать? Понимание этой истины означает огромный шаг по Пути велосипедного клаксона. Противоестественные попытки продлить жизнь – это страх смерти. Попытки изменить дыхание жизни – это страх смерти. Шут понимает, что после достижения наивысшей точки есть лишь путь вниз. Изменение естественного хода вещей суть уклонение с Пути велосипедного клаксона. Те, кто это делает, не познают в конце концов веселья.\n\nVIII. Сочувствие позволит тебе быть храбрым. Спокойствие позволит тебе нести в мир веселье. Скромность позволит тебе вести за собой других. Отринув сочувствие, стараясь быть храбрым, или отринув спокойствие, стараясь быть забавным, или отринув скромность, стараясь повести за собой, не придешь к веселью.\n\nIX. Воздушный змей взлетает высоко, и шут позволяет ему парить; а когда змей обрывает нитку и улетает, шут позволяет ему улететь. Он имеет – но не обладает, действует, но не ожидает результата. Закончив дело, он о нем забывает. И потому оно существует вечно, как и величайший из шутов. Слава красному носу!</pillarsoffun3>
+<storename.merchantclown>Клоунские товары</storename.merchantclown>
+<storename.merchanthusk>Культовые товары</storename.merchanthusk>
+<entityname.cultistrobes>Рясы сектантов</entityname.cultistrobes>
+<entitydescription.cultistrobes>Традиционное темное облачение служителей Церкви Хаска. Оно пропитано феромонами, усмиряющими диких паразитов, и помогает верующим оставаться в безопасности перед вознесением.</entitydescription.cultistrobes>
+<entityname.zealotrobes>Рясы фанатиков</entityname.zealotrobes>
+<entitydescription.zealotrobes>Темное облачение многоуважаемых служителей Церкви Хаска. Оснащено генетическими технологиями и инъекторами гормонов, повышающими регенерацию симбиота и поддерживающими его в смиренном состоянии.</entitydescription.zealotrobes>
+<entityname.rituallantern>Ритуальная лампа</entityname.rituallantern>
+<entitydescription.rituallantern>Повсеместно используется в ритуалах Церкви Хаска. Содержит феромоны, усмиряющие диких паразитов, и вещества с незначительным лечебным эффектом.</entitydescription.rituallantern>
+<entityname.huskcontainerspawner>Контейнер для хранения паразитов</entityname.huskcontainerspawner>
+<entitydescription.huskcontainerspawner>В контейнере находится организм вида велонацепс каликс. Удобный автономный контейнер, хотя и недолговечный, поскольку паразит недолго живет в неорганической оболочке.</entitydescription.huskcontainerspawner>
+<entityname.bookofchalices1>Книга чаш: Три метаморфозы</entityname.bookofchalices1>
+<threemetamorphoses>Три метаморфозы духа назначаю я тебе: как дух становится чашей, имеющей форму силы духа человека, проливает чаша сия дурное вино, и наполняется вновь вином добрым.\n\nМножество испытаний уготовано для духа, и в сильном духе обретается благость.\n\nЧто же нести? Так вопрошает дух, протягивая руки. Что тяжелее всего? Так вопрошает дух. Какую ношу мне принять в ликовании моей силы?\n\nНе о том ли это: Спуститься в глубочайшую бездну, дабы унять искушение?\n\nИли это: Вкусить плода познания, и ради истины страдать от глада духовного?\n\nИли это: Войти в грязную воду, если это вода истины, не отринув ее вредителей и паразитов?\n\nИли это: Любить презирающих нас и протягивать руку призраку, желающему нас испугать?\n\nВсе это тяжкие испытания для духа: и поскольку чаша имеет форму силы духа человека, возликует она в его силе духа.\n\nНо затем поднимутся миазмы из чаши, ибо человеческий дух обременен старостью, и ныне дурен и грязен.\n\nИ изрекут миазмы духа: "Быть по сему!"\n\nИдеи и ценности тысячелетий на воздухе обращаются в гниль. Вся ценность вещей наполняет меня благоуханием. Все ценности, что уже созданы, и создающие ценность – их все представляю я. Воистину, больше не может быть "Я буду". Так рекли миазмы.\n\nБратие, откуда же проистекла необходимость опустошить чашу? Отчего не доставало силы духа человека, известной своей благостью? Создавать новые ценности – не по силам обычному человеку: но создать саму свободу для нового созидания – на такое дух человека способен.\n\nСоздать саму свободу, святое ничто даже в долге и человечности: для этого, братие, человек не требуется. Допускать новые ценности – наиболее значительное допущение для благостного духа.\n\nНо скажите мне, братие, какова ценность пустой чаши? Ибо не вино ли дарует ей предназначение? Значит, следует найти иное вино, свежее и незамутненное, помимо духа человека, но в пределах его постижения.\n\nА потому, братие, для творения и созидания требуется живое священное Эа, дух самой жизни. Дух в пределах достижимости того, кто отважится к нему дотянуться, словно Дар, который протягивает нам сей мир.\n\nИ тогда наступит третья и последняя метаморфоза, вознесение: душа человека наполняется новой жизнью, дух человека сливается воедино с духом мира. Дух сей обретает собственную волю; изгой сего мира обретает свой собственный мир. Такова квинтэссенция формы.</threemetamorphoses>
+<entityname.bookofchalices2>Книга чаш: Слово вестника перемен.</entityname.bookofchalices2>
+<heraldofthetide>Человек – это мост, соединяющий животность и квинтэссенцию формы, мост над Бездной.\n\nОпасный переход, опасный путь, на котором опасно оглядываться назад, дрожать от неуверенности и останавливаться.\n\nВеличие человека в том, что он – путь, а не цель: красота человека в том, что он преодолевает и погружается. Немногим удалось миновать мост, но воистину благословенны они.\n\nИм неведомо погружение вниз, ведь они – те, кто преодолевает.\n\nИм не нужно искать среди звезд причину для погружения и жертвования, они приносят себя в жертву миру, чтобы приблизить явление в мир квинтэссенции формы.\n\nОни живут ради познания, и жаждут познания ради обретения в мире квинтэссенции формы. Тем самым они ищут для себя погружения.\n\nОни трудятся и изобретают, дабы сотворить дом для квинтэссенции формы, и готовят к ее явлению океан, животных, растения и свое тело: так они устремляются к своему погружению.\n\nОни усмиряют своего бога из любви к нему, ибо должно им погибнуть от гнева божьего.\n\nИх душа глубока даже в малом уязвлении, и может погибнуть из-за малости: так идут они своей волею через мост.\n\nОни – открытые сердца и открытые души: мыслями их правит сердце; однако же их сердца желают погружения.\n\nТем самым я становлюсь вестником грядущих перемен, и вижу мощный поток в воде: то течет квинтэссенция формы.</heraldofthetide>
+<character.huskcontainer>Контейнер для хранения паразитов</character.huskcontainer>
+<entityname.40mmnuke>Ядерный мини-снаряд 40 мм</entityname.40mmnuke>
+<entitydescription.40mmnuke>Небольшой ядерный снаряд для гранатомета.</entitydescription.40mmnuke>
+<entityname.molotovcoctail>Коктейль Молотова</entityname.molotovcoctail>
+<entitydescription.molotovcoctail>Дешевая самодельная зажигательная граната.</entitydescription.molotovcoctail>
+<campaignstore.reputationrequired>Требуется репутация: [amount] ([faction])</campaignstore.reputationrequired>
+<charactername.ignatiusmay>Игнатий Мэй</charactername.ignatiusmay>
+<charactername.auntdoris>Тетя Дорис</charactername.auntdoris>
+<charactername.victoriapetran>Виктория Петран</charactername.victoriapetran>
+<charactername.sootman>Сажа</charactername.sootman>
+<charactername.jestmaster>Шутмейстер</charactername.jestmaster>
+<eventtext.separatistspecialhire1.c1>К вам подходит угрюмая женщина. Почему-то она кажется вам знакомой, и вскоре вы понимаете, что ее лицо не раз мелькало в передачах новостей.\n\nОна протягивает вам руку. "Здравствуйте! Я давно ищу с вами встречи. Виктория Петран, первый лейтенант Юпитерианских сепаратистов".</eventtext.separatistspecialhire1.c1>
+<eventtext.separatistspecialhire1.o1>"Это большая честь для меня. Чем могу помочь?"</eventtext.separatistspecialhire1.o1>
+<eventtext.separatistspecialhire1.o1.c1>"Вообще-то, я хочу не просить вас о помощи, а скорее наоборот. Я уже давно слежу за вашей командой, и могу сказать, что ваш вклад в наше общее дело поистине огромен. Если бы среди нас было больше таких людей, как вы, на Европе уже давно не было бы никакой Коалиции".</eventtext.separatistspecialhire1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1>"Спасибо за добрые слова. Стараемся как можем".</eventtext.separatistspecialhire1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.c1>"Я считаю, что вы делаете исключительно важное дело, поэтому подумала, что, работая в вашей команде, я принесу больше пользы, чем за столом в офисе. Я не стану для вас обузой – мне приходилось бывать на подлодках, и я неплохо разбираюсь в оружии и медицине. Ну, что скажете? Возьмете меня офицером охраны?"</eventtext.separatistspecialhire1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o1>"Как я могу отказаться! Добро пожаловать на борт, мэм!"</eventtext.separatistspecialhire1.o1.o1.o1>
+<eventtext.separatistspecialhire1.o1.o1.o1.c1>"Отлично! Тогда не называйте меня "мэм" – я теперь в вашей команде, и вы старше меня по званию. Я готова отправляться на задание!"</eventtext.separatistspecialhire1.o1.o1.o1.c1>
+<eventtext.separatistspecialhire1.o1.o1.o2>"Это большая честь для меня, но надо все обдумать".</eventtext.separatistspecialhire1.o1.o1.o2>
+<eventtext.separatistspecialhire1.o1.o1.o2.c1>"Я понимаю. Ну, может, решите взять меня на борт в будущем. Мы еще не раз встретимся на аванпостах сепаратистов".</eventtext.separatistspecialhire1.o1.o1.o2.c1>
+<eventtext.separatistspecialhire1.repeat>"И снова здравствуйте. Вы обдумали мое предложение? Возьмете меня в свою команду?"</eventtext.separatistspecialhire1.repeat>
+<eventtext.separatistspecialhire1.o1.o1.repeat>"Да, нам пригодится еще один офицер охраны. Добро пожаловать на борт, мэм!"</eventtext.separatistspecialhire1.o1.o1.repeat>
+<eventtext.separatistspecialhire1.o1.o2.repeat>"Увы, сейчас моя команда полностью укомплектована. Но если что я дам вам знать!"</eventtext.separatistspecialhire1.o1.o2.repeat>
+<eventtext.separatistspecialhire2.c1>К вам подходит некто, который выглядит как будто только что вылез из выхлопной трубы дизель-генератора.\n\n"Я как раз вас ищу".</eventtext.separatistspecialhire2.c1>
+<eventtext.separatistspecialhire2.o1>"Ваше лицо мне знакомо. Мы уже встречались?"</eventtext.separatistspecialhire2.o1>
+<eventtext.separatistspecialhire2.o1.c1>"Это ведь ваша команда спасла меня из тюрьмы Коалиции, да? Правда, тогда мы толком и не познакомились. Меня зовут Сажа. Вот, теперь мы знакомы. У вас случайно не найдется места в команде?"</eventtext.separatistspecialhire2.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1>"Сажа? Как того знаменитого сепаратиста в маске, которого Коалиция никак не может поймать? Да ладно, вы меня разыгрываете!"</eventtext.separatistspecialhire2.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.c1>"Это я и есть. На аванпостах говорят, что ваша команда задает Коалиции жару, поэтому я хочу к вам присоединиться. Ну, что скажете?"</eventtext.separatistspecialhire2.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o1>"Однозначно да! Работать с вами вместе – огромная честь для нас!"</eventtext.separatistspecialhire2.o1.o1.o1>
+<eventtext.separatistspecialhire2.o1.o1.o1.c1>"Супер. Тогда до встречи на борту".</eventtext.separatistspecialhire2.o1.o1.o1.c1>
+<eventtext.separatistspecialhire2.o1.o1.o2>"Мне надо все обдумать".</eventtext.separatistspecialhire2.o1.o1.o2>
+<eventtext.separatistspecialhire2.o1.o1.o2.c1>"Ладно".</eventtext.separatistspecialhire2.o1.o1.o2.c1>
+<eventtext.separatistspecialhire2.repeat>"Итак? У вас найдется для меня место на борту?"</eventtext.separatistspecialhire2.repeat>
+<eventtext.coalitionspecialhire2.c1>Вы заприметили знакомую старушку. Тетя Дорис! Ее заведения быстрого питания, если честно, так себе, зато она превосходно ведет кулинарные шоу.\n\nНеожиданно она подошла к вам. "Здравствуйте! Я услышала, что вы с командой здесь у нас, и сразу пришла с вами поговорить".</eventtext.coalitionspecialhire2.c1>
+<eventtext.coalitionspecialhire2.o1>"Приятно с вами увидеться, мэм! Чем могу помочь?"</eventtext.coalitionspecialhire2.o1>
+<eventtext.coalitionspecialhire2.o1.c1>"Это немного глупо, но ведь за спрос не бьют в нос! Понимаете, у меня... как бы это сказать... кризис пожилого возраста. Вы наверняка в курсе, что я веду кулинарные шоу и управляю сетью ресторанов уже более сорока лет. Слушая рассказы о невероятных приключениях вашей команды, и обо всем, что вы сделали на благо нашей старушки-луны, я не могла не задуматься о том, каково это – жить на подлодке?"</eventtext.coalitionspecialhire2.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1>"Такая жизнь подойдет не каждому".</eventtext.coalitionspecialhire2.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.c1>"Да, конечно! Но мне бы очень хотелось попробовать. И знаете что? Я крепче, чем кажусь на первый взгляд – в юности я была агентом и оторвала головы целой куче сепаратистов. И мне это ужасно нравилось! К тому же, я немного разбираюсь в медицине, и на всей Европе не найдется животного, тушу которого я не знала бы, как разделать.\n\nНу так что, возьмете старушку в команду? Я мечтаю внести свой вклад в борьбу за будущее Европы!"</eventtext.coalitionspecialhire2.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o1>"Как я могу отказаться! Добро пожаловать на борт, мэм!"</eventtext.coalitionspecialhire2.o1.o1.o1>
+<eventtext.coalitionspecialhire2.o1.o1.o1.c1>"Отлично! Бегу собирать вещички, увидимся на борту!"</eventtext.coalitionspecialhire2.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire2.o1.o1.o2.c1>"Я понимаю. Не буду вас торопить!"</eventtext.coalitionspecialhire2.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire2.repeat>"И снова здравствуйте! Вы уже обдумали мое предложение?"</eventtext.coalitionspecialhire2.repeat>
+<eventtext.clownspecialhire1.c1>"Всегда приятно вас видеть! Есть одна забавная идея, которую я хочу с вами обсудить".</eventtext.clownspecialhire1.c1>
+<eventtext.clownspecialhire1.o1>"Внимательно вас слушаю!"</eventtext.clownspecialhire1.o1>
+<eventtext.clownspecialhire1.o1.c1>"Знаете, жизнь на этом аванпосте порой бывает весьма унылой. Не так уж часто здесь кто-то ищет моих наставлений на пути, и я то и дело задумываюсь, насколько больше пользы от меня было бы, путешествуй я вместе с вами. Новая шутка обычно гораздо смешнее той, которую слышал тысячу раз, верно?"</eventtext.clownspecialhire1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1>"Понимаю. С интересом послушаю о вашей идее!"</eventtext.clownspecialhire1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.c1>"Найдется ли в вашей команде место для еще одного помощника? Участвовать вместе с вами во всех этих приключениях – это составило бы счастье всей моей жизни. И хотя мне раньше не доводилось служить на подлодках, в рукавах у этого старого шута найдется немало полезных штучек-дрючек".</eventtext.clownspecialhire1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o1>"Пресвятой красный нос, конечно же! Добро пожаловать на борт!"</eventtext.clownspecialhire1.o1.o1.o1>
+<eventtext.clownspecialhire1.o1.o1.o1.c1>"Вот и чудненько! С радостью присоединюсь к вам".</eventtext.clownspecialhire1.o1.o1.o1.c1>
+<eventtext.clownspecialhire1.o1.o1.o2>"Мне надо все обдумать".</eventtext.clownspecialhire1.o1.o1.o2>
+<eventtext.clownspecialhire1.o1.o1.o2.c1>"Я понимаю. Мы наверняка еще встретимся – скажите мне, когда определитесь!"</eventtext.clownspecialhire1.o1.o1.o2.c1>
+<eventtext.clownspecialhire1.repeat>"Чудесного вам дня! Что насчет моего предложения? Позволите мне к вам присоединиться?"</eventtext.clownspecialhire1.repeat>
+<eventtext.clownspecialhire1.o1.o1.repeat>"Пожалуй, нам не помешает еще один помощник. Добро пожаловать на борт!"</eventtext.clownspecialhire1.o1.o1.repeat>
+<eventtext.clownspecialhire1.o1.o2.repeat>"Увы, сейчас моя команда полностью укомплектована. Но если что я дам вам знать!"</eventtext.clownspecialhire1.o1.o2.repeat>
+<eventtext.huskcultspecialhire1.c1>К вам подходит смутно знакомый мужчина. "О, это вы! Я надеялся как-то встретиться с вами снова".</eventtext.huskcultspecialhire1.c1>
+<eventtext.huskcultspecialhire1.o1>"И вам всего хорошего, господин Субра!"</eventtext.huskcultspecialhire1.o1>
+<eventtext.huskcultspecialhire1.o1.c1>"Давайте оставим любезности и сразу перейдем к сути. Не каждый день увидишь команду подлодки с такими широкими взглядами, тем более настолько компетентную. Поэтому у меня есть предложение, которое еще более укрепит вашу тесную связь с Церковью. И, если честно, для меня лично это будет поистине неоценимый дар".</eventtext.huskcultspecialhire1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1>"Слушаю вас".</eventtext.huskcultspecialhire1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.c1>"Попросту говоря, мне давно хотелось присоединиться к вашей команде, даже до дела охотников за головами. Ваша помощь Церкви неоценима и необъятна, и объединив с вами усилия, мы затопили бы весь этот мир благостью господа нашего. К тому же, если уж говорить совсем без утайки, мне не терпится побывать в диких водах за пределами аванпостов. Что вы на это скажете?"</eventtext.huskcultspecialhire1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o1>"Как я могу отказаться! Добро пожаловать в команду, брат!"</eventtext.huskcultspecialhire1.o1.o1.o1>
+<eventtext.huskcultspecialhire1.o1.o1.o1.c1>"Великолепно! Тогда до встречи на борту".</eventtext.huskcultspecialhire1.o1.o1.o1.c1>
+<eventtext.huskcultspecialhire1.o1.o1.o2>"Мне надо все обдумать".</eventtext.huskcultspecialhire1.o1.o1.o2>
+<eventtext.huskcultspecialhire1.o1.o1.o2.c1>"Не буду вас торопить!"</eventtext.huskcultspecialhire1.o1.o1.o2.c1>
+<eventtext.huskcultspecialhire1.repeat>"Приятно видеть вас снова, брат. Какие у вас мысли по поводу моего предложения? Найдется для меня место в команде?"</eventtext.huskcultspecialhire1.repeat>
+<eventtext.huskcultspecialhire1.o1.o1.repeat>"Мы с радостью вас примем!"</eventtext.huskcultspecialhire1.o1.o1.repeat>
+<eventtext.huskcultspecialhire1.o1.o2.repeat>"Увы, сейчас моя команда полностью укомплектована. Но если что я дам вам знать!"</eventtext.huskcultspecialhire1.o1.o2.repeat>
+<eventtext.coalitionspecialhire1.announcement>По громкой связи приходит оповещение: "Вызываем экипаж только что пристыковавшегося судна. Пришлите своего представителя в администрацию аванпоста".</eventtext.coalitionspecialhire1.announcement>
+<eventtext.coalitionspecialhire1.c1>Пожилой мужчина в роскошной униформе подходит к вам и пожимает руку. "А вот и вы! Я уж забеспокоился, не сломалась ли громкая связь. Приятно познакомиться! Я слышал, что ваша подлодка идет сюда, и не мог упустить возможности встретиться с вами лично. Если уделите мне время, я хотел бы кое-что вам предложить".</eventtext.coalitionspecialhire1.c1>
+<eventtext.coalitionspecialhire1.o1>"Простите, а вы кто?"</eventtext.coalitionspecialhire1.o1>
+<eventtext.coalitionspecialhire1.o1.c1>"О, это вы меня простите – не каждый день встречаешь героев нации вроде вас! Я Игнатий Мэй, Капитан внутренних дел Коалиции Европы. Я давно наблюдаю за достижениями вашей команды, и если честно, должен сказать, что многие из заданий вы выполняли по моему поручению. От имени Коалиции Европы я хотел бы выразить вам и вашей команде огромную благодарность за безупречную службу".</eventtext.coalitionspecialhire1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1>"Спасибо, сэр! А могу я узнать, о каком предложении вы говорили?"</eventtext.coalitionspecialhire1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.c1>"Вот так сразу к делу, да? Это по-нашему! А дело в том, что я хочу присоединиться к вашей команде. Я уже давно хотел снова побывать на передовой, и каждое задание вашей команды напоминало мне о былых днях, когда я делал что-то действительно важное для Коалиции".</eventtext.coalitionspecialhire1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o1>"Мы с радостью вас примем, сэр!"</eventtext.coalitionspecialhire1.o1.o1.o1>
+<eventtext.coalitionspecialhire1.o1.o1.o1.c1>"Великолепно! Тогда до встречи на борту".</eventtext.coalitionspecialhire1.o1.o1.o1.c1>
+<eventtext.coalitionspecialhire1.o1.o1.o2>"Мне надо все обдумать".</eventtext.coalitionspecialhire1.o1.o1.o2>
+<eventtext.coalitionspecialhire1.o1.o1.o2.c1>"Я не думал, что вы сочтете это просьбой. Но из уважения к вам лично и вашей команде не стану настаивать. Мы наверняка еще встретимся – сообщите мне, когда определитесь!"</eventtext.coalitionspecialhire1.o1.o1.o2.c1>
+<eventtext.coalitionspecialhire1.repeat>"И снова здравствуйте. Вы обдумали мое предложение?"</eventtext.coalitionspecialhire1.repeat>
+<eventtext.coalitionspecialhire1.o1.o1.repeat>"Мы с радостью вас примем, сэр!"</eventtext.coalitionspecialhire1.o1.o1.repeat>
+<eventtext.coalitionspecialhire1.o1.o2.repeat>"Увы, сейчас моя команда полностью укомплектована. Но если что я дам вам знать!"</eventtext.coalitionspecialhire1.o1.o2.repeat>
+<EventText.youngcultists.c1>Пара людей в одинаковых рясах суетилась вокруг кого-то, лежащего на полу. Вы не сразу поняли, удерживают они этого человека или реанимируют – его тело дергалось как будто в судорогах. Один из людей в рясах заметил вас. "Эй, вы! Бросьте мне шприц с каликсанидом из вон того шкафа!"</EventText.youngcultists.c1>
+<EventText.youngcultists.o1>Бросить им шприц из шкафа рядом с вами.</EventText.youngcultists.o1>
+<EventText.youngcultists.o1.c1>Вы бросаете им шприц с надписью "каликсанид", и как только они делают инъекцию в шею больного, судороги прекращаются. Один из людей в рясах разозлился. "Марк, ты нетерпеливый идиот, сколько раз тебе надо было повторить, что ты еще не готов принять Дар?!"</EventText.youngcultists.o1.c1>
+<EventText.youngcultists.o1.o1>"Что случилось?"</EventText.youngcultists.o1.o1>
+<EventText.youngcultists.o1.o1.c1>Люди в рясах повернулись к вам. Увидев их лица, вы заметили, что оба очень молоды. "Это был просто своего рода несчастный случай. Наш друг решил, что будет забавно... отправиться в трип, если вы понимаете, о чем я. Спасибо вам за помощь! И, если вы не против, пусть это останется между нами!"</EventText.youngcultists.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1>"Это очень подозрительно. Объясните, что вы с ним делали, или я сообщу властям".</EventText.youngcultists.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.c1>Все трое нервно переглянулись. "Послушайте, мы не хотим неприятностей. Это наш брат, который слишком рьяно стремился воссоединиться с великим симбиотом, и немного пострадал. Но мы ему помогли, и теперь все в порядке. Это больше не повторится. Не надо сообщать об этом всему аванпосту, или даже нашей секте. Нам не простят, если узнают, что мы пытались пролезть без очереди!"</EventText.youngcultists.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1>"Ваша секта? Значит, вы служители Церкви Хаска? Так у вас там вроде весь смысл в том, чтобы отдаться паразиту?"</EventText.youngcultists.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.c1>"Паразиту? Паразит лишь отнимает; а симбиот дает! Он может унести тебя за пределы возможностей мешка плоти, который называется телом! Но надо, чтобы ты был готов принять его в себя. Так говорит проповедник".</EventText.youngcultists.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o1>Хватит с меня сектантской чуши. Надо сообщить в службу безопасности.</EventText.youngcultists.o1.o1.o1.o1.o1>
+<EventText.youngcultists.o1.o1.o1.o1.o1.c1>Вы связываетесь по радио со службой безопасности и сообщаете о подозрительном происшествии в этом модуле.</EventText.youngcultists.o1.o1.o1.o1.o1.c1>
+<EventText.youngcultists.o1.o1.o1.o1.o2>"Меня этот "мешок плоти" вполне устраивает. Счастливо оставаться".</EventText.youngcultists.o1.o1.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o1.o1.o3>"И если мне захочется преодолеть эти пределы, что надо делать?"</EventText.youngcultists.o1.o1.o1.o1.o3>
+<EventText.youngcultists.o1.o1.o2>"Не вопрос, братья. Мне просто интересно, почему вы решили остановить его трансформацию".</EventText.youngcultists.o1.o1.o2>
+<EventText.youngcultists.o1.o1.o2.c1>Напряженность заметно снизилась. "Ты же помнишь, какие у него были судороги? Вознесение выглядит совсем не так. Симбиот едва не поглотил его. Он явно еще не готов к полному единению с симбиотом".</EventText.youngcultists.o1.o1.o2.c1>
+<EventText.youngcultists.o1.o1.o2.o1>"Понимаю. А если кто-то хочет полного единения с симбиотом, что ему надо сделать?"</EventText.youngcultists.o1.o1.o2.o1>
+<EventText.youngcultists.o1.o1.o2.o1.c1>"Ну, если честно, мы сами новообращенные. Про такое лучше спросить не у нас. Проповедник говорит, что ты должен быть готов принять Дар, искренне открыть свое сердце, разум и все прочие части своей плоти для причащения. Есть особые ритуалы и средства, чтобы ублажить и принять священного симбиота и пройти метаморфоз. Но мы и сами пока не так много об этом знаем. Проповедник расскажет вам больше, если вы его найдете!"</EventText.youngcultists.o1.o1.o2.o1.c1>
+<EventText.youngcultists.o1.o1.o2.o1.o1>Вы распрощались с милыми ребятами и пожелали им приятного вознесения.</EventText.youngcultists.o1.o1.o2.o1.o1>
+<EventText.youngcultists.o1.o1.o2.o1.o2>Хватит с меня сектантской чуши. Надо сообщить в службу безопасности.</EventText.youngcultists.o1.o1.o2.o1.o2>
+<EventText.youngcultists.o1.o1.o2.o2>"Так у вас там вроде весь смысл в том, чтобы отдаться паразиту?"</EventText.youngcultists.o1.o1.o2.o2>
+<EventText.youngcultists.o2>Муть какая-то. Лучше в это не ввязываться.</EventText.youngcultists.o2>
+<EventText.waytoascension1.c2>Вы подслушали разговор двух людей в рясах. "Признаюсь, мне отвратительны эти сборища обдолбанных содомитов, это какое-то извращение вместо причащения". Одетый в рясу с более сложной отделкой пожал плечами. "Как проповедник я должен согласиться, хотя, между нами, я считаю, что послушникам неплохо время от времени испытывать себя, чтобы знать те свои ограничения, которые стремишься превозмочь!"</EventText.waytoascension1.c2>
+<EventText.waytoascension1.o5>"Простите, вы сказали, что вы – проповедник Церкви Хаска?"</EventText.waytoascension1.o5>
+<EventText.waytoascension1.o5.c1>Человек в рясе повернулся к вам и, судя по выражению его лица, вы поняли, что услышали нечто не предназначенное для посторонних. "Кто вы, и какое у вас здесь дело?" – спросил он.</EventText.waytoascension1.o5.c1>
+<EventText.waytoascension1.o5.o1>"Наша команда интересуется учением вашей церкви, и мне говорили, что проповедник мог бы наставить меня на путь истинный".</EventText.waytoascension1.o5.o1>
+<EventText.waytoascension1.o5.o1.c1>Он усмехнулся. "Это вам не воскресная школа. Даже если бы я хотел проповедовать первому встречному подводнику, откуда мне знать, что вы не шпион Коалиции или не в меру любопытный клоун?"</EventText.waytoascension1.o5.o1.c1>
+<EventText.waytoascension1.o5.o1.o1>"Можем ли мы заслужить доверие Церкви, если будем помогать ей каким-то образом?"</EventText.waytoascension1.o5.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.c1>"Это не будет отличать вас от множества других команд подлодок, чуждых морали и духовности и работающих на кого попало, не задумываясь о том, какую сторону они поддерживают. Церковь интересуется искренностью ваших устремлений и готовностью жертвовать во имя достижения цели".</EventText.waytoascension1.o5.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1>"Мы можем как-нибудь еще доказать свою искренность?"</EventText.waytoascension1.o5.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.c1>"Это происходит не так быстро, дитя. А впрочем, давайте попробуем. Чтобы доказать, что вы хотя бы в какой-то мере понимаете нашу идею, дайте мне ответ на такой вопрос. Что такое вторая метаморфоза духа?"</EventText.waytoascension1.o5.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1>"Появление из кокона вашего человеческого тела".</EventText.waytoascension1.o5.o1.o1.o1.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o1.c1>Человек усмехается и качает головой. "Я так и думал. Вам предстоит еще многое изучить самостоятельно, и пока не изучите, мне нечего вам сказать".</EventText.waytoascension1.o5.o1.o1.o1.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o2>"Стать единым с симбиотом".</EventText.waytoascension1.o5.o1.o1.o1.o2>
+<EventText.waytoascension1.o5.o1.o1.o1.o3>"Пролить из чаши дурное вино".</EventText.waytoascension1.o5.o1.o1.o1.o3>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.c1>"Признаюсь, я удивлен, что моряку с подлодки знакома концепция трех метаморфоз. Как я уже сказал, у вас впереди еще долгий путь познания. Но мы что-нибудь придумаем. Скоро у нас состоится большое церковное собрание, и потребуется много "облаток" для причащения, чтобы хватило на всех. Вы наверняка поняли, что я имею в виду".</EventText.waytoascension1.o5.o1.o1.o1.o3.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1>"Вам нужны яйца трупного паразита?"</EventText.waytoascension1.o5.o1.o1.o1.o3.o1>
+<EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>"Собственно говоря, да. Это будет не только испытанием вашей целеустремленности, но и приблизит вашу команду к первой метаморфозе. Спуститься в глубочайшую бездну, отважно погрузиться в грязнейшие воды. Другими словами... Принесите мне или другому проповеднику дюжину фиалов с яйцами, и тогда продолжим разговор".</EventText.waytoascension1.o5.o1.o1.o1.o3.o1.c1>
+<EventText.waytoascension1.o5.o1.o1.o1.o4>"Я не знаю... Пока".</EventText.waytoascension1.o5.o1.o1.o1.o4>
+<EventText.waytoascension1.o5.o1.o1.o1.o4.c1>"Есть некая мудрость в том, чтобы признавать свою ограниченность. Вам предстоит еще многое изучить самостоятельно, и пока не изучите, мне нечего вам сказать".</EventText.waytoascension1.o5.o1.o1.o1.o4.c1>
+<EventText.waytoascension1.o5.o1.o2>"Если оно чего-то стоит, мы охотно заплатим вам за труды".</EventText.waytoascension1.o5.o1.o2>
+<EventText.waytoascension1.o5.o1.o2.c1>"Конечно! Моряк с подлодки уверен, что деньги заставят людей сделать то, что вам нужно, но само это предложение подразумевает, что вы не имеете ни малейшего понятия об устремлениях нашей Церкви".</EventText.waytoascension1.o5.o1.o2.c1>
+<EventText.waytoascension1.o5.o2>"Прошу прощения, мы обознались. Счастливо оставаться".</EventText.waytoascension1.o5.o2>
+<EventText.waytoascension1.o6>Похоже, этот тип – важная шишка в секте паразита. Надо сообщить в службу безопасности аванпоста.</EventText.waytoascension1.o6>
+<EventText.waytoascension1.o6.c1>Вы связываетесь по радио со службой безопасности и сообщаете о подозрительном происшествии в этом модуле.</EventText.waytoascension1.o6.c1>
+<EventText.waytoascension1.o7>Муть какая-то. Лучше в это не ввязываться.</EventText.waytoascension1.o7>
+<EventText.waytoascension1.c1>"Я так понимаю, ваша команда выразила интерес к учению нашей Церкви. Прежде чем продолжить разговор, я хотел бы задать вам тот же вопрос, который уже задавал мой коллега: Что такое вторая метаморфоза духа?"</EventText.waytoascension1.c1>
+<EventText.waytoascension2.c1>"Я так понимаю, Церковь дала вам некое поручение... Удалось ли вам заполучить "облатки"?</EventText.waytoascension2.c1>
+<EventText.waytoascension2.o1>"Вот 12 фиалов с яйцами, как просили".</EventText.waytoascension2.o1>
+<EventText.waytoascension2.o1.c1>Проповедник вытаращил глаза, увидев фиалы. Он буквально вырвал их у вас из рук и спрятал в складках своей рясы. "Как видно, наши подозрения в отношении вашей команды были беспочвенными. Надеюсь, вы простите наше недоверие... Не каждый день моряки с подлодки проявляют такое рвение в деле веры. Что ж, это вполне объяснимо. Не следует ждать понимания от людей, которым известны исключительно дикие хаски".</EventText.waytoascension2.o1.c1>
+<EventText.waytoascension2.o1.o1>"Это справедливо. А теперь вы расскажете нам больше об учении Церкви?</EventText.waytoascension2.o1.o1>
+<EventText.waytoascension2.o1.o1.c1>"Подобная тяга к знаниям – добрый знак. Да, наши проповедники обсудили ваш вопрос, и мы готовы назначить вас служителями Церкви Хаска, если таково ваше пожелание".</EventText.waytoascension2.o1.o1.c1>
+<EventText.waytoascension2.o1.o1.o1>"А что это значит на практике?"</EventText.waytoascension2.o1.o1.o1>
+<EventText.waytoascension2.o1.o1.o1.c1>"Это значит, что мы поможем вам на вашем индивидуальном пути к вознесению, а вы поможете Церкви на нашем коллективном пути к сотворению лучшего человека – более чем человека. Обязанности послушников не обременительны, каждый делает что может и хочет, но мы конечно же надеемся, что ваша команда продолжит помогать делу Церкви. Не спешите, обдумайте мое предложение как следует. Скажите мне, когда определитесь".</EventText.waytoascension2.o1.o1.o1.c1>
+<EventText.waytoascension2.o1.c2>"Доставьте их мне, и тогда мы продолжим".</EventText.waytoascension2.o1.c2>
+<EventText.waytoascension2.o2>"Я все еще занимаюсь этим".</EventText.waytoascension2.o2>
+<EventText.waytoascension2.c2>"Вы уже определились? Решились стать послушником нашей Церкви?"</EventText.waytoascension2.c2>
+<EventText.waytoascension2.o3>"Да, я хочу присоединиться к вам".</EventText.waytoascension2.o3>
+<EventText.waytoascension2.o3.c1>"Быть по сему. Принимаете ли вы вознесение как великую цель и для себя лично, и для человечества?"</EventText.waytoascension2.o3.c1>
+<EventText.waytoascension2.o3.o1>"Да".</EventText.waytoascension2.o3.o1>
+<EventText.waytoascension2.o3.o1.c1>"Быть по сему. Принимаете ли вы отречение от человечности и принятие квинтэссенции формы?"</EventText.waytoascension2.o3.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.c1>"Быть по сему. Принимаете ли вы единение с духом мира и тем самым обретение квинтэссенции формы?"</EventText.waytoascension2.o3.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.c1>"Быть по сему. Мы принимаем вас в свою семью. Я рад, что вы теперь с нами! На самом деле, я уверен, что вся Церковь вплоть до архипроповедника будет рада этой новости".</EventText.waytoascension2.o3.o1.o1.o1.c1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1>"И что теперь?"</EventText.waytoascension2.o3.o1.o1.o1.o1>
+<EventText.waytoascension2.o3.o1.o1.o1.o1.c1>"Зависит от вас. Как говорится, каждый служит Церкви по мере сил и желания. Если ищете наставлений, ознакомьтесь для начала с Книгой чаш", – Проповедник протянул вам бумажный свиток. – "Примите ее в свое сердце, и вы будете лучше подготовлены, когда придет время для следующего задания".</EventText.waytoascension2.o3.o1.o1.o1.o1.c1>
+<EventText.waytoascension2.thinkaboutthis>"Мне надо все обдумать".</EventText.waytoascension2.thinkaboutthis>
+<EventText.waytoascension3.c1>"Приятно видеть вас снова. И это очень кстати, потому что нам как раз очень нужна ваша помощь. Новое дело гораздо более тонкое, чем ваши предыдущие поручения. Нам нужен опытный человек, которому Церковь может доверять, и вы с вашей командой идеально подходите".</EventText.waytoascension3.c1>
+<EventText.waytoascension3.o1>"Интересно".</EventText.waytoascension3.o1>
+<EventText.waytoascension3.o1.c1>"Нам сообщили, что агент Коалиции внедрился в одну из наших сект, чтобы вызнать тайны Церкви. Возможно, ему в руки попала секретная информация, в том числе личные данные и местонахождение некоторых архипроповедников. Мы узнали, что он сейчас на соседнем аванпосте, поэтому надо срочно принять меры, чтобы он никому ничего не рассказал".</EventText.waytoascension3.o1.c1>
+<EventText.waytoascension3.o1.o1>"Понимаю. Мы займемся этим!"</EventText.waytoascension3.o1.o1>
+<EventText.waytoascension3.o1.o2>"Вы что, хотите, чтобы мы кого-то убили?!"</EventText.waytoascension3.o1.o2>
+<EventText.waytoascension3.o1.o2.c1>"Вы ведь читали "Три метаморфозы"? Сие рекут миазмы. Отриньте надуманные человеческие представления о морали. К тому же, вы ведь постоянно убиваете существ в своих странствиях. Это то же самое, только сейчас вопрос очень важен для нашего дела".</EventText.waytoascension3.o1.o2.c1>
+<EventText.waytoascension3.o1.o2.o1>"Пожалуй, вы правы".</EventText.waytoascension3.o1.o2.o1>
+<EventText.waytoascension3.o1.o2.o1.c1>"Я отмечу место на вашей карте. Сделайте все как следует. Избавьтесь от соглядатая".</EventText.waytoascension3.o1.o2.o1.c1>
+<EventText.waytoascension4.c1>"Мы знаем, что ваша миссия увенчалась успехом. Я знал, что на вас можно положиться! К сожалению, нам теперь надо обсудить другое, еще более срочное дело".</EventText.waytoascension4.c1>
+<EventText.waytoascension4.o1>"Внимательно вас слушаю!"</EventText.waytoascension4.o1>
+<EventText.waytoascension4.o1.c1>"Как вы знаете, Коалиция назначила награду за голову архипроповедника Якова Субры".</EventText.waytoascension4.o1.c1>
+<EventText.waytoascension4.o1.o1>"Имя знакомое, но подробностей я не припоминаю".</EventText.waytoascension4.o1.o1>
+<EventText.waytoascension4.o1.o1.c1>"Он один из архипроповедников, но предпочитает, чтобы его называли "главоргом". Это организатор фестиваля "Церковь моллюска", прекрасного мероприятия для привлечения новых последователей. Сейчас он скрывается от властей на заброшенном аванпосте, и мы узнали, что некие охотники за головами узнали, где он. Похоже, агент, о котором вы "позаботились", все же успел проболтаться".</EventText.waytoascension4.o1.o1.c1>
+<EventText.waytoascension4.o1.o1.o1>"Как мы можем помочь?"</EventText.waytoascension4.o1.o1.o1>
+<EventText.waytoascension4.o1.o1.o1.c1>"Найдите его раньше, чем охотники за головами, и увезите оттуда. Я отмечу место на вашей карте. Это чрезвычайно спешное дело, не теряйте времени. Отправляйтесь в путь, поговорим, когда он будет спасен".</EventText.waytoascension4.o1.o1.o1.c1>
+<EventText.waytoascensionfoundsubra.c1>"Вам не взять меня живым!"</EventText.waytoascensionfoundsubra.c1>
+<EventText.waytoascensionfoundsubra.o1>"Спокойно, брат! Нас прислала Церковь".</EventText.waytoascensionfoundsubra.o1>
+<EventText.waytoascensionfoundsubra.o1.c1>"О! Я слышал радиопереговоры о награде и подумал, что враги нашли меня первыми".</EventText.waytoascensionfoundsubra.o1.c1>
+<EventText.waytoascensionfoundsubra.o1.o1>"Да? Это были не мы".</EventText.waytoascensionfoundsubra.o1.o1>
+<EventText.waytoascensionfoundsubra.o1.o1.c1>"Вот как? Тогда держим оружие наготове и быстро убираемся отсюда. Иди вперед".</EventText.waytoascensionfoundsubra.o1.o1.c1>
+<EventText.waytoascension_assassination1.c1>Агент, следящий за Церковью Хаска, которого вам надо устранить, должен быть где-то на этом аванпосте.</EventText.waytoascension_assassination1.c1>
+<EventText.waytoascension_assassination1.c1.c1>Наверное, это шпион. Вы пытаетесь придумать, что с ним делать.</EventText.waytoascension_assassination1.c1.c1>
+<EventText.waytoascension_assassination1.c1.o1>"Ты сунул свой нос куда не следует, мешок плоти..."</EventText.waytoascension_assassination1.c1.o1>
+<EventText.waytoascension_assassination1.c1.o1.c1>Он сразу выхватил оружие.</EventText.waytoascension_assassination1.c1.o1.c1>
+<EventText.waytoascension_assassination1.c1.o2>"Сэр, вы не могли бы мне помочь? Мой друг ранен, нужно срочно доставить его в медотсек. Идите за мной, прошу вас!"</EventText.waytoascension_assassination1.c1.o2>
+<EventText.waytoascension_assassination1.c1.o2.c1>"Конечно! Ведите!"</EventText.waytoascension_assassination1.c1.o2.c1>
+<EventText.waytoascension_assassination1.c1.o2.c1.c1>"Это что еще такое? Вы что, разыгрываете меня? Как будто у меня своих дел нет".</EventText.waytoascension_assassination1.c1.o2.c1.c1>
+<EventText.waytoascension_assassination1.c1.o3>Проигнорировать его и продолжить путь.</EventText.waytoascension_assassination1.c1.o3>
+<EventText.waytoascension5.c1>"Добро пожаловать! Мы вас ждали".</EventText.waytoascension5.c1>
+<EventText.waytoascension5.o1>"Что?"</EventText.waytoascension5.o1>
+<EventText.waytoascension5.o1.c1>"С тех пор, как наши пути пересеклись, вы очень хорошо поработали на благо Церкви. Но спасение архипроповедника – поистине великое деяние, за которое мы всегда будем перед вами в долгу. Поэтому мы решили удостоить вас причащения. Вы готовы. Призовите сюда остальную команду, и приступим".</EventText.waytoascension5.o1.c1>
+<EventText.waytoascension5.c1.c1>"Все собрались? Начинаем?"</EventText.waytoascension5.c1.c1>
+<EventText.waytoascension5.c1.o1>"За дело!"</EventText.waytoascension5.c1.o1>
+<EventText.waytoascension5.c1.o1.c1>Собрание людей в рясах затянуло какой-то напев, и проповедник поднял руки. "Братие, воистину чаши наши пусты и жаждут принять вино, свежее и незамутненное!" Один из служителей протянул фиалы с яйцами собравшимся.</EventText.waytoascension5.c1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1>Принять яйца.</EventText.waytoascension5.c1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.c1>"О дух жизни, наполни наши чаши твоей силой. Дай нам воссоединиться и одолеть изгнанников мира. Дай нам принять твой дар и явить квинтэссенцию формы". Проповедник поднял фиал, и остальные последовали его примеру.</EventText.waytoascension5.c1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1>Поднять фиал.</EventText.waytoascension5.c1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.c1>"Станем же вестниками перемен, увидим мощные потоки в воде. Примем же симбиота!" Все проглатывают содержимое фиалов.</EventText.waytoascension5.c1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1>Проглотить яйца.</EventText.waytoascension5.c1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.c1>Вы чувствуете, как внутри шевелится и растет симбиот. Что это? Почему все происходит так быстро? Не успели вы сформулировать вопросы, как они словно растаяли. Ваше сознание стало... Стало совсем другим. Вы теперь одно целое, и больше нет ни страха, ни беспокойства.</EventText.waytoascension5.c1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1>"Мы можем говорить?"</EventText.waytoascension5.c1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>Проповедник, изо рта которого теперь свисал извивающийся яйцеклад, повернулся к вам. "Конечно! Так наши тела и умы более ценны для нас". Проповедник указал на остальных, которые еще корчились на полу. "А эти слабаки нам не нужны. Их мы должны поглотить".</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>"Что дальше?"</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1>
+<EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>"Вам предстоит самостоятельно это узнать. А пока уходите – скоро сюда явятся люди. Еще увидимся".</EventText.waytoascension5.c1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.waytoascension5.c1.o2>"Подождите... Немножко".</EventText.waytoascension5.c1.o2>
+<EventText.waytoascensionsubraescort.c1>"Уф, у меня уже поджилки затряслись! Ты же не против, если я побуду здесь, пока мы не уберемся подальше от этих охотников за головами?"</EventText.waytoascensionsubraescort.c1>
+<EventText.waytoascensionsubraescort.o1>"Конечно нет! Располагайся".</EventText.waytoascensionsubraescort.o1>
+<EventText.waytoascensionsubraescort.c2>"Спасибо! Я сойду при первой возможности".</EventText.waytoascensionsubraescort.c2>
+<EventText.waytoascensionsubraescort.c3>"Ну что, как там у тебя с опустошением чаши и всем прочим?"</EventText.waytoascensionsubraescort.c3>
+<EventText.waytoascensionsubraescort.c3.o1>"Пока не очень понятно".</EventText.waytoascensionsubraescort.c3.o1>
+<EventText.waytoascensionsubraescort.c4>"По секрету скажу: остальные считают, что с тобой все уже чертовски понятно."</EventText.waytoascensionsubraescort.c4>
+<EventText.waytoascensionsubraescort.c5>"Так что настойчиво советую тебе поразмышлять над тем, не сделать ли последний рывок. Возможность может появиться раньше, чем ты думаешь".</EventText.waytoascensionsubraescort.c5>
+<EventText.waytoascensionsubraescort.c5.o1>"То есть ты думаешь, что мне стоит это сделать?"</EventText.waytoascensionsubraescort.c5.o1>
+<EventText.waytoascensionsubraescort.c6>"Ну, как ты можешь заметить, я все еще тупая обезьяна из плоти и дерьма... что несомненно полезно, когда дело доходит до общения с себе подобными. Поэтому не мне здесь раздавать советы. Думай и решай самостоятельно".</EventText.waytoascensionsubraescort.c6>
+<EventText.pathofthebikehorn1.c1>Некто в забавном клоунском наряде подходит и отводит вас в сторону. "Раньше вас здесь не видели – какими судьбами? Вы из веселых людей или как?"</EventText.pathofthebikehorn1.c1>
+<EventText.pathofthebikehorn1.o1>"Мы просто шли мимо. А кто такие эти веселые люди?"</EventText.pathofthebikehorn1.o1>
+<EventText.pathofthebikehorn1.o1.c1>"Те, кого ведет гудок велосипедного клаксона: шуты, шутники и дураки! Я и мои не-ученики нашли себе приятный и безопасный уголок в этом мире, и мы надеемся сохранить его таким как сейчас".</EventText.pathofthebikehorn1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1>"Не-ученики? Значит, вы тут за главного?"</EventText.pathofthebikehorn1.o1.o1>
+<EventText.pathofthebikehorn1.o1.o1.c1>"Нет, нет, ничего подобного! Я шутмейстер. Меня называют учителем, но я лишь наставляю людей на путь велосипедного клаксона".</EventText.pathofthebikehorn1.o1.o1.c1>
+<EventText.pathofthebikehorn1.o1.o1.o1>"А можете нас тоже научить пути велосипедного клаксона?"</EventText.pathofthebikehorn1.o1.o1.o1>
+<EventText.pathofthebikehorn1.o2>"Как по мне, всех этих бесполезных развеселых бездельников надо согнать в трудовые лагеря и приставить к работе".</EventText.pathofthebikehorn1.o2>
+<EventText.pathofthebikehorn1.o2.c1>"Вот я уже и грустный клоун. Но я вас не осуждаю. Очень многие ослеплены ложью. Но если передумаете и захотите раскрыть глаза, шутмейстер укажет вам путь!"</EventText.pathofthebikehorn1.o2.c1>
+<EventText.pathofthebikehorn1.o2.o1>"Эта ерунда меня не интересует. Прощайте".</EventText.pathofthebikehorn1.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2>"Расскажите подробнее об этом пути".</EventText.pathofthebikehorn1.o2.o2>
+<EventText.pathofthebikehorn1.o2.o2.c1>"Трудовые лагеря? Это совсем не смешно. А очень даже подозрительно! Хотя, если переодеть вас во что-то более приемлемое, я может и поверю в вашу искренность..."</EventText.pathofthebikehorn1.o2.o2.c1>
+<EventText.pathofthebikehorn1.o2.o2.o1>"Хорошо, сейчас вернусь".</EventText.pathofthebikehorn1.o2.o2.o1>
+<EventText.pathofthebikehorn1.o2.o2.c1.c1>"Без клоунского костюма разговора не будет!"</EventText.pathofthebikehorn1.o2.o2.c1.c1>
+<EventText.pathofthebikehorn1.o3>"Не стоит нас опасаться. Да благословит красный нос и вас, и весь ваш аванпост!"</EventText.pathofthebikehorn1.o3>
+<EventText.pathofthebikehorn1.o3.c1>"Слава тебе, красный нос! Значит, вы не из тех серьезных людей, которым не нравится, что я наставляю на путь велосипедного клаксона".</EventText.pathofthebikehorn1.o3.c1>
+<EventText.pathofthebikehorn1.o3.o1>"А можете нас тоже научить пути велосипедного клаксона?"</EventText.pathofthebikehorn1.o3.o1>
+<EventText.pathofthebikehorn1.o3.o1.c1>"Вот это да! Я не люблю, когда меня зовут учителем, потому что мне нечему вас учить – вы учитесь сами. А я лишь указываю верный путь – следуя ему, вы сами однажды увидите истину. А пока у меня есть небольшое поручение для вас и вашей команды – это как первый шаг в объятия красного носа".</EventText.pathofthebikehorn1.o3.o1.c1>
+<EventText.pathofthebikehorn1.o3.o1.o1>"Слушаю вас".</EventText.pathofthebikehorn1.o3.o1.o1>
+<EventText.pathofthebikehorn1.o3.o1.o1.c1>"Видите эту маску на мне? На этой луге осталось мало таких, но если вы постараетесь, то наверняка найдете ее в своих странствиях. Вот тогда придите с ней ко мне или другому шутмейстеру, и посмотрим, что получится! А, и возьмите это – почитаете в дороге. Та-дам!"</EventText.pathofthebikehorn1.o3.o1.o1.c1>
+<EventText.pathofthebikehorn2.c1>"Слава красному носу! Это снова вы. Ну, как дела?"</EventText.pathofthebikehorn2.c1>
+<EventText.pathofthebikehorn2.o1>"Мне удалось найти маску".</EventText.pathofthebikehorn2.o1>
+<EventText.pathofthebikehorn2.o1.c1>"Вижу, вижу! Поздравляю! Оставьте себе – у меня такая уже есть. Или можете выбросить, если хотите. Это просто маска, и довольно уродливая".</EventText.pathofthebikehorn2.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1>"Тогда зачем надо было ее искать?"</EventText.pathofthebikehorn2.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.c1>"Суть задания не важна, это все равно что тупой квест со сбором крышечек в детской игре. Но разве не подарил радость сам процесс поиска? Наверняка в пути было множество препятствий и даже настоящих приключений, которые ценны сами по себе. Какой же моряк с подлодки не любит приключения! Поэтому мне скорее следует спросить, почему вам хотелось найти ее – или же почему вам хочется путешествовать вокруг Европы, выполняя всякие поручения".</EventText.pathofthebikehorn2.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1>"Да, я люблю приключения, но при чем тут путь велосипедного клаксона?"</EventText.pathofthebikehorn2.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.c1>"Игры и веселье, игры и веселье! Пример с квестом в игре был выбран мною неспроста. Если присмотреться, все социальные взаимодействия – это игры. А если заглянуть в самую глубину сути вещей, то и весь мир – это система игр. Игра в людей, игра в ползунов, игра в кладку яиц, игра в набивание трюма и всякие другие игры, в которые играют подводники..."</EventText.pathofthebikehorn2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1>"И что?"</EventText.pathofthebikehorn2.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>"Но слово "игра" обманчиво. Не стоит думать, что это нечто бессмысленное. Как песня... Она может быть несерьезной и в то же время очень искренней. Она принимает множество прекрасных форм во всей их сложности, без какого-либо смысла помимо самого процесса. Вот так!" Шутмейстер гудит вам в лицо велосипедным клаксоном.</EventText.pathofthebikehorn2.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>"Кажется, я понимаю. И что теперь?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>"О, это будет нечто нетривиальное! Во-первых, необходимо раздобыть игрушечный молот. Ну, такую смешную пластиковую игрушку, которая пищит, когда колотишь ею обо что-нибудь".</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>"А потом?.."</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>"А потом начнется веселье. Я хочу, чтобы вы погрузились в бездну и нашли огромную тварь, которая там обитает. Блокиратор тоже сойдет, но, если удастся отыскать харибду или червя рока, веселья будет втрое больше. Так вот, эту тварь надо побить молотом, причем побить как следует!"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>"Идея безумная, но я верю, что в этом есть какой-то смысл".</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>"Вот это да! Идея совершенно безумна, но иногда лучше не думать о смысле и просто наслаждаться поездкой на американских горках, в которую вас отправил величайший из шутов. В общем, когда все сделаете, возвращайтесь ко мне или моим коллегам. И вот держите еще кое-какое чтиво на дорожку! Удачи! Желаю увлекательного и, надеюсь, несмертельного приключения!"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>"Что за бред? Ты смерти моей хочешь?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>"Полагаю, вы пока не видите ни глупости, ни глубины этого вопроса, и именно поэтому вам необходимо пройти через это, чтобы сделать следующий шаг на пути. В общем, пока мне больше нечего вам сказать, но когда все сделаете, возвращайтесь ко мне или моим коллегам. И вот держите еще кое-какое чтиво на дорожку! Удачи, и не забудьте повеселиться как следует!"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>"От этого псевдофилософского бреда у меня уже мозги закипают. Можете мне просто объяснить про красный нос?"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>"Я вижу, вам прекрасно удается не воспринимать кое-что всерьез! Вот бы направить эту вашу способность полностью что-то игнорировать в мирное русло... Я могу сказать, что красный нос – это три фунта кремового торта, но это не будет значит ровным счетом ничего, да? Да. Вам надо больше упражняться. Попробуем другое задание!"</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>"Ладно".</EventText.pathofthebikehorn2.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn2.o1.c2>"Может, это невидимая маска? Мнет бы все же хотелось ее увидеть".</EventText.pathofthebikehorn2.o1.c2>
+<EventText.pathofthebikehorn2.o2>"Материнская поддержка все еще не найдена. Есть подсказки?"</EventText.pathofthebikehorn2.o2>
+<EventText.pathofthebikehorn2.o2.c1>"Эти маски давно вышли из моды, но на достаточно старых обломках что-то могло остаться. И, конечно, это традиционный аксессуар шутмейстеров, так что пораскинь мозгами, ну, напряги извилины, и сообразишь, что к чему. Ну, и вот у меня например она есть..."</EventText.pathofthebikehorn2.o2.c1>
+<EventText.pathofthebikehorn2.o2.o1>"В смысле – у вас она есть?"</EventText.pathofthebikehorn2.o2.o1>
+<EventText.toyhammeronabyssmonster.c1>Игрушечный молот бьет чудище из бездны, но ничего не происходит. Вы думаете о смысле этого действа, но вскоре понимаете, что лучше пока оставить размышления и как-то убраться отсюда, не расставшись с жизнью.</EventText.toyhammeronabyssmonster.c1>
+<EventText.pathofthebikehorn3.c0>"Мне нужен совет. Вот, например, если бы кто-то соорудил клоунский экзокостюм, нормально было бы назвать его "ТУ-ТУ-бот"?</EventText.pathofthebikehorn3.c0>
+<EventText.pathofthebikehorn3.o0>"Неожиданный вопрос..."</EventText.pathofthebikehorn3.o0>
+<EventText.pathofthebikehorn3.c1>"Ну, в общем, это неважно. Ближе к делу. Маленькая птичка напела мне, что у вас был некий квест. И как же прошла встреча с монстром из бездны?"</EventText.pathofthebikehorn3.c1>
+<EventText.pathofthebikehorn3.o1>"И как, по-вашему, она могла пройти?! Мне едва удалось унести оттуда ноги!"</EventText.pathofthebikehorn3.o1>
+<EventText.pathofthebikehorn3.o1.c1>"Я и не сомневался, что вы справитесь – а вот у вас, похоже, такой уверенности не было? Похоже, вы еще не готовы ощутить вкус кремового торта. Поразмыслите над этим. Какого исхода вы боялись – и чего вы все еще боитесь? Если бы монстр из бездны поглотил вас, вы правда верите, что ваш клаксон замолк бы навеки, и всей истории настал конец? Кого вы так боитесь потерять?"</EventText.pathofthebikehorn3.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1>"Если бы мне не удалось спастись, моей личной истории уж точно пришел бы конец".</EventText.pathofthebikehorn3.o1.o1>
+<EventText.pathofthebikehorn3.o1.o1.c1>"В самом деле?" Это зависит от точки зрения. Если считать, что ваша нынешняя роль, вот эта точка зрения на вселенную или на что вы там еще смотрите, и есть все содержание истории, тогда, конечно, это был бы весьма печальный конец "вашей личной" истории".</EventText.pathofthebikehorn3.o1.o1.c1>
+<EventText.pathofthebikehorn3.o1.o1.o1>"Мне не совсем понятно, что вы имеете в виду".</EventText.pathofthebikehorn3.o1.o1.o1>
+<EventText.pathofthebikehorn3.o1.o2>"Не понимаю, что вы пытаетесь до меня донести".</EventText.pathofthebikehorn3.o1.o2>
+<EventText.pathofthebikehorn3.o2>"Мне было весело, но чудище, кажется, не поняло шутку".</EventText.pathofthebikehorn3.o2>
+<EventText.pathofthebikehorn3.o2.c1>"Ха-ха! Гудок вашего клаксона с каждым днем звучит все громче. Но признайтесь, вот эта близость смерти, или даже почти что краткое ощущение смерти, заставило вас ощутить в себе нечто новое?"</EventText.pathofthebikehorn3.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1>"Мне не совсем понятно, что вы имеете в виду".</EventText.pathofthebikehorn3.o2.o1>
+<EventText.pathofthebikehorn3.o2.o1.c1>"Мы ступаем в область, где слова теряют смысл, но все же я попытаюсь. Когда мы смотрим представление под куполом цирка, мы не думаем и не говорим о мире снаружи – мы полностью погружаемся в шоу. И это хорошо! Просто наслаждайтесь шоу, не думая о том, что в конце представления вам придется покинуть цирковой шатер".</EventText.pathofthebikehorn3.o2.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1>"Это какая-то аллюзия на жизнь после смерти?"</EventText.pathofthebikehorn3.o2.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.c1>"Не более чем аллюзия на "жизнь до рождения", что бы это ни значило. Скажем так: подумайте о том, как выглядело ваше прежнее лицо до рождения. Или до того, как вы надели эту маску. И после того, как вы покинете шатер, не вернетесь ли вы в него снова? Однажды вы уже вошли в шатер, а может и не однажды, так почему это не может произойти снова?"</EventText.pathofthebikehorn3.o2.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1>"А теперь вы говорите про что-то вроде реинкарнации?"</EventText.pathofthebikehorn3.o2.o1.o1.o1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>"Это невозможно описать словами. Я не могу рассказать про все это подробнее, но основной смысл таков: смерть – это такой трюк. Или шутка. Кого вы так боитесь потерять, и возможна ли такая потеря на самом деле? Поразмыслите об этом до нашей следующей встречи! Та-дам!"</EventText.pathofthebikehorn3.o2.o1.o1.o1.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2>"Я знаю, о чем вы говорите, но пока давайте не будем снимать маски и продолжим исполнять свои роли!"</EventText.pathofthebikehorn3.o2.o1.o1.o2>
+<EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>"Пресвятой красный нос! Полагаю, вы и вправду уже заглядывали в шатер разок-другой. Или, скажем так, вы прямо сейчас и заглядываете в шатер? Как бы то ни было, ваш прогресс впечатляет. Пожалуй, мне понадобится время, чтобы обдумать наш следующий шаг, поэтому пока давайте закруглимся. Да встречи!"</EventText.pathofthebikehorn3.o2.o1.o1.o2.c1>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3>"Я знаю, о чем вы говорите. После моей смерти не будет ничего, но это не более страшно, чем то ничего, которое было до моего рождения".</EventText.pathofthebikehorn3.o2.o1.o1.o3>
+<EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>"Что ж, можно сказать и так, но я боюсь, что вы сейчас наступили на просто огромную банановую кожуру! Вы совершенно не поняли, что я пытался вам объяснить. Скажем так... Подумайте о том, как выглядело ваше прежнее лицо до рождения. Или до того, как вы надели эту маску. Поразмыслите об этом до нашей следующей встречи! Та-дам!"</EventText.pathofthebikehorn3.o2.o1.o1.o3.c1>
+<EventText.pathofthebikehorn4.c1>"Приятно вас снова увидеть! И надо сказать, эта встреча очень кстати. Мы как раз ищем добровольца для одного задания".</EventText.pathofthebikehorn4.c1>
+<EventText.pathofthebikehorn4.o1>"Интересно".</EventText.pathofthebikehorn4.o1>
+<EventText.pathofthebikehorn4.o1.c1>"Узнав, как вы управились с чудовищем из бездны, я теперь думаю, что у вас хватит отваги или же безрассудства, чтобы справиться и с этой задачей. Помните, мы недавно говорили о клоунском экзокостюме?"</EventText.pathofthebikehorn4.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1>"Да. И что?"</EventText.pathofthebikehorn4.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.c1>"О нем поговорим чуть позже... Здесь неподалеку есть аванпост, некогда служивший приютом и тихой гаванью для услышавших зов велосипедного клаксона. Независимый аванпост, где мы могли жить тихо и мирно. И вы наверняка знаете, что сейчас на всей Европе не найдешь подобного места. Недели не проходит без новостей о том, как клоуна избили или нашли мертвым в балластном отсеке или где-то еще".</EventText.pathofthebikehorn4.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1>"Я знаю. И что вы задумали?"</EventText.pathofthebikehorn4.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.c1>"Мы собираемся снова создать для себя безопасную гавань! Сейчас дело застопорилось, аванпост как будто перешел в собственность серьезных людей, и наш веселый народ ничего не может с этим поделать, сколько ни старается. По правилам, кто занял аванпост, тот остается его владельцем навсегда. Мы хотим немного прогнуть это правило под себя! И тут на сцену выходит наш экзокостюм".</EventText.pathofthebikehorn4.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1>"Вы и правда его построили?"</EventText.pathofthebikehorn4.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>"Да! Мы не хотим играть так же грязно, как они, и я верю, что прибегать к насилию не придется. Мы собираемся наполнить этот аванпост невыносимым весельем, с оглушительным ревом велосипедных клаксонов и горами банановой кожуры, превращающей все проходы в полосы препятствий, день и ночь напролет, сколь угодно долго, пока они не поймут, что лучше всего будет сдаться и найти себе другое, не такое веселое место".</EventText.pathofthebikehorn4.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>"Вы думаете, они не остановят нас силой?"</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>"Конечно, они попытаются. Но "Веселитель-3000" наверняка выдержит пару попаданий. Или пару десятков. Надеюсь. И тут мы подходим к моему следующему умозаключению. Я полагаю, что ваша команда лучше всех справится с этой задачей, обладая и боевым опытом, и полным презрением к опасности. Мы будем вечно благодарны вам, если вы наденете этот костюм и поможете нам захватить этот аванпост".</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>"Конечно же, мы вам поможем!"</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>"Чудесно! Я знал, что вы не сможете отказаться. Ведь это задание гарантирует вам небывалое развлечение. Вот костюм. Я отметил расположение аванпоста на вашей карте".</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>"Мне надо все обдумать".</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>"Ну, что насчет моего предложения? Вы согласны надеть "Веселитель-3000" и помочь нам захватить тот аванпост?"</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.c1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>"Конечно же, мы вам поможем!"</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o1>
+<EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>"Мне надо все обдумать".</EventText.pathofthebikehorn4.o1.o1.o1.o1.o1.o2.o2>
+<EventText.pathofthebikehorn4.o2>"Сейчас нам некогда".</EventText.pathofthebikehorn4.o2>
+<EventText.clownhaven1.c1>Вы прибыли на аванпост, о котором говорил шутмейстер. Используя "Веселитель-3000", затопите аванпост весельем, пока слишком серьезные его обитатели не поймут, что лучше оставить это место детям красного носа!</EventText.clownhaven1.c1>
+<EventText.clownhaven1.c1.c1>"Веселитель" изрядно досаждает жителям. Пожалуй, это должно сработать!</EventText.clownhaven1.c1.c1>
+<EventText.clownhaven1.c1.c2>Далекие звуки клаксонов эхом разносились по аванпосту, а вслед им летело звонкое: "Слава красному носу!"</EventText.clownhaven1.c1.c2>
+<EventText.clownhaven1.c1.c3>Один из жителей аванпоста закричал на вас: "Убери отсюда эту штуку, или я вызову службу безопасности!"</EventText.clownhaven1.c1.c3>
+<EventText.clownhaven1.c1.c4>По громкой связи прозвучало оповещение: "Всем сотрудникам службы безопасности! Любыми способами заткните эту адскую клоунскую машину. Применение оружия разрешено... нет, рекомендовано!"</EventText.clownhaven1.c1.c4>
+<EventText.clownhaven1.c1.c5>По громкой связи прозвучало оповещение: "Все, мы сдаемся. Оно того не стоит. Забирайте аванпост, только выключите эту проклятую машину!"</EventText.clownhaven1.c1.c5>
+<EventText.pathofthebikehorn5.c1>"О, это вы! Вы это сделали! Честно говоря, даже удивительно, что этот безумный план сработал! Просто не знаю, как вас отблагодарить. Пожалуйста, хотя бы костюм оставьте себе. Надеюсь, он вам еще пригодится".</EventText.pathofthebikehorn5.c1>
+<EventText.pathofthebikehorn5.o1>"Спасибо!"</EventText.pathofthebikehorn5.o1>
+<EventText.pathofthebikehorn5.o1.c1>"Поразительно, как далеко вы продвинулись на пути клаксона, да так быстро! Для многих путь гораздо дольше, а некоторые вовсе его не видят".</EventText.pathofthebikehorn5.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1>"И что теперь?"</EventText.pathofthebikehorn5.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.c1>"Мне и радостно и грустно признавать, что дальше я вас провести не могу – остаток пути вам предстоит пройти в одиночку. Однако я вижу, что вы точно знаете верное направление".</EventText.pathofthebikehorn5.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1>"Как так? Вы не собираетесь объяснить мне про красный нос?"</EventText.pathofthebikehorn5.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.c1>"Глупости! Что вы хотите услышать? Что красный нос – само веселье, текущее в наших венах, или друзья, которых мы находим на пути? Или три фунта кремового торта? Или бог-обезьяна верхом на черепахе, символ всего этого мира вокруг нас? Все это лишь слова, но, как и прежде, это такая тема, которую не описать словами".</EventText.pathofthebikehorn5.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1>"..."</EventText.pathofthebikehorn5.o1.o1.o1.o1>
+<EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>"Пытаться описать это словами – все равно что объяснить суть шутки. От этого шутка теряет смысл. Великую шутку вселенной тоже не описать словами, и не надо путать мир вещей, которые мы как-то называем, с тем миром, каков он есть на самом деле".</EventText.pathofthebikehorn5.o1.o1.o1.o1.c1>
+<EventText.pathofthebikehorn5.c1.c1>Шутмейстер смотрит на вас с любопытством.</EventText.pathofthebikehorn5.c1.c1>
+<EventText.pathofthebikehorn5.c1.o1>"Неужели вы нам ничего больше не посоветуете?"</EventText.pathofthebikehorn5.c1.o1>
+<EventText.pathofthebikehorn5.c1.o1.c1>"Я только намекну, куда в конце концов приведет ваш путь. Оказавшись там, вы будете понимать правила игры в жизнь даже лучше, чем сейчас. Когда эти правила станут настолько очевидными, кто-то может расхотеть играть дальше, выбрав жизнь аскета или навсегда покинув шатер цирка. И это хорошо! Когда-то нужно и титры почитать. А кто-то, как я и другие шутмейстеры, будет и дальше исполнять свою роль, чтобы продолжить веселье и помочь другим понять смысл игры. И это тоже хороший выбор! Какой бы путь вы ни выбрали, желаю вам на нем удачи и веселья. Слава красному носу!"</EventText.pathofthebikehorn5.c1.o1.c1>
+<EventText.pathofthebikehorn5.c1.o1.o1>"Слава красному носу!"</EventText.pathofthebikehorn5.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1>Управляющий аванпоста достал документ из кармана и задумчиво посмотрел на вас. "Хм... Это персональное задание от самой Виктории Петран, причем оно секретное, но вы, я полагаю, уже достаточно заслужили наше доверие".</EventText.missionevent_tormsdalereport.c1>
+<EventText.missionevent_tormsdalereport.whosthat>"А кто это?"</EventText.missionevent_tormsdalereport.whosthat>
+<EventText.missionevent_tormsdalereport.whospetran>"Что? Вы так давно на нас работаете и даже не слышали о ней? Она первый лейтенант Юпитерианских сепаратистов. По сути, она наш лидер, если у столь разрозненной организации вообще может быть лидер".</EventText.missionevent_tormsdalereport.whospetran>
+<EventText.missionevent_tormsdalereport.o1.o1>"Ясно. И в чем суть задания?"</EventText.missionevent_tormsdalereport.o1.o1>
+<EventText.missionevent.pleasecontinue>"Интересно. Пожалуйста, продолжайте..."</EventText.missionevent.pleasecontinue>
+<EventText.missionevent_tormsdalereport.c1.c1>"Вы слышали о деле Тормсдейла?"</EventText.missionevent_tormsdalereport.c1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1>"Название знакомое, но расскажите подробнее".</EventText.missionevent_tormsdalereport.c1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.c1>"Тогда я начну с самого начала. В те времена, когда Коалиция только начала укреплять свои позиции на Европе, Тормсдейл был крупнейшей независимой колонией, поддерживавшей Юпитерианское народное движение. В каком-то смысле его можно было считать центром и независимых колоний, и Движения. Тогда на Европе еще была какая-никакая демократия, и вскоре должны были пройти всеобщие выборы".</EventText.missionevent_tormsdalereport.c1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1>"М-м..."</EventText.missionevent_tormsdalereport.c1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.c1>"Всего за несколько недель до выборов в Тормсдейле произошла ядерная катастрофа. Погибло больше сотни людей. Что оказалось очень на руку Коалиции – ведь почти все они были сторонниками Юпитерианского народного движения. Этого хватило, чтобы Коалиция получила весомое преимущество и стала, по факту, править Европой".</EventText.missionevent_tormsdalereport.c1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1>"Такие "случайности" обычно не случайны".</EventText.missionevent_tormsdalereport.c1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>"Так и есть. Официально это сочли несчастным случаем, но я этому не верю. А дальше все стало стремительно ухудшаться – Движение объявили террористической организацией, нашего основателя Харлоу Петрана убили, большую часть независимых аванпостов захватили".</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>"Понятно. И как все это связано с заданием?"</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>"Мы узнали, что Коалиция все еще располагает секретными материалами о том, что на самом деле произошло в Тормсдейле. Наши агенты докладывают, что копии этих документов хранятся на соседнем аванпосте. Заполучив их, мы, возможно, сумеем доказать, что это не просто теория заговора, и покажем всем, как грязно играет Коалиция еще с тех времен".</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.c1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>"Конечно же, мы вам поможем!"</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1>
+<EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>"Отлично! Я отмечу аванпост на вашей карте. Документы хранятся в сейфе в кабинете управляющего аванпоста. Достать их будет непросто – придется захватить управляющего или украсть удостоверение. Постарайтесь действовать незаметно".</EventText.missionevent_tormsdalereport.c1.o1.o1.o1.o1.o1.c1>
+<EventText.tormsdalereport_outpost.c1>Наверное, это управляющий аванпоста. Нужно заполучить удостоверение управляющего, чтобы открыть сейф.</EventText.tormsdalereport_outpost.c1>
+<EventText.tormsdalereport_outpost.o1>"Здравствуйте! Коалиция поручила нам провести проверку безопасности и осмотреть сейф в вашем кабинете. Откройте его, пожалуйста".</EventText.tormsdalereport_outpost.o1>
+<EventText.tormsdalereport_outpost.o1.c1>"Э-э... Что? Думаете, у меня совсем ума нет? Убирайтесь отсюда, а то позову охрану!"</EventText.tormsdalereport_outpost.o1.c1>
+<EventText.tormsdalereport_outpost.o2>"Революция уже близко! Давайте сюда свое удостоверение, а то убьем".</EventText.tormsdalereport_outpost.o2>
+<EventText.tormsdalereport_outpost.o2.c1>Управляющий сразу выхватил оружие.</EventText.tormsdalereport_outpost.o2.c1>
+<EventText.tormsdalereport_outpost.o3>"Простите, пожалуйста! Несколькими палубами ниже произошел спор, и меня попросили позвать вас туда".</EventText.tormsdalereport_outpost.o3>
+<EventText.tormsdalereport_outpost.o3.c1>"Понимаю. Показывай, куда идти!"</EventText.tormsdalereport_outpost.o3.c1>
+<EventText.tormsdalereport_outpost.o3.c1.c1>"Что еще за ерунда? Никуда я не пойду. Как будто у меня других дел мало. Прощайте".</EventText.tormsdalereport_outpost.o3.c1.c1>
+<EventText.tormsdalereport_outpost.o4>Проигнорировать его и продолжить путь.</EventText.tormsdalereport_outpost.o4>
+<EventText.tormsdalereport_complete.c1>"Здравствуйте! Вам поручили добыть для нас секретные документы. Вам это удалось?"</EventText.tormsdalereport_complete.c1>
+<EventText.tormsdalereport_complete.o1>"Документы у меня".</EventText.tormsdalereport_complete.o1>
+<EventText.tormsdalereport_complete.o1.c1>Управляющий аванпоста просматривает бумаги, и удивленно вскидывает брови. "Ого! Вот это да! Если бумаги подлинные, то Коалиция ответственна за массовое убийство в Тормсдейле. Обнародование этих документов будет для нее огромным ударом. Это очень важные улики. Я доложу лейтенанту Петран, что их добыла ваша команда. И, конечно же, хорошо заплачу вам".</EventText.tormsdalereport_complete.o1.c1>
+<EventText.tormsdalereport_complete.o1.c2>"Ну так принесите их мне! Не терпится узнать, что там".</EventText.tormsdalereport_complete.o1.c2>
+<EventText.tormsdalereport_complete.o2>"Достать документы пока не удалось".</EventText.tormsdalereport_complete.o2>
+<afflictionname.husksymbiosis>Симбиоз</afflictionname.husksymbiosis>
+<afflictiondescription.husksymbiosis>Это не похоже на обычное заражение трупным паразитом. Каким-то образом пациент все еще может говорить и сохраняет мыслительные способности.</afflictiondescription.husksymbiosis>
+<lockedpathtooltipseparatistreputation>Маршрут закрыт. Для прохода по нему требуется репутация у ‖color:faction.separatists‖Юпитерианских сепаратистов‖end‖: [requiredreputation] и разрешение, полученное у офицера в аванпосте. Репутация указана в информационном окне.\n\nВаша репутация: [currentreputation]</lockedpathtooltipseparatistreputation>
+<eventtext.unlockpathcoldcavernsseparatists.c1>"Вы наверняка знаете, что это последний аванпост перед Европейским кряжем. Мы пропускаем не всех подряд, но если слухи не врут, то ваша команда – надежные союзники в нашей борьбе против Коалиции, поэтому вас мы пропустим".</eventtext.unlockpathcoldcavernsseparatists.c1>
+<eventtext.unlockpathcoldcavernsseparatists.c2>"Хотите пройти через наш аванпост в глубинные области? Очень жаль, но вам придется поискать другой маршрут. Я не знаю, кто вы и на кого работаете – может, вы наемник Коалиции и собираетесь досаждать нашим людям в глубине Европейского кряжа. Впрочем, за некоторую сумму кредитов наше мнение о вас определенно улучшится..."</eventtext.unlockpathcoldcavernsseparatists.c2>
+<eventtext.unlockpathcoldcavernsseparatists.o1.c1>"А с другой стороны, с вами вроде все в порядке. Пожалуй, я все же пропущу вас. С таким человеком приятно иметь дело".</eventtext.unlockpathcoldcavernsseparatists.o1.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o2.c1>"Ну, как хотите. Похоже, вам еще рано выплывать за пределы детского бассейна, пока вы не выбрали флаг для своей подлодки".</eventtext.unlockpathcoldcavernsseparatists.o2.c1>
+<eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>"Мало денег? Жаль, жаль. Похоже, вам надо еще немного поплескаться в детском бассейне, пока не докажете, что вы не на стороне наших врагов".</eventtext.unlockpathcoldcavernsseparatists.o1.nomoney>
+<eventtext.unlockpatheuropanridgeseparatists.c1>"Оказывается, вы по мере сил помогаете нам в борбе против Коалиции здесь, на Кряже. За это мы решили пропустить вас на Темное плато. Счастливого пути!"</eventtext.unlockpatheuropanridgeseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.c1>"Примите мои поздравления! Немногим удается пройти через Плато, и мало кто из них приносит столько пользы. Я сообщу по радио на пост, чтобы вас пропустили в Великое море".</eventtext.unlockpathaphoticplateauseparatists.c1>
+<eventtext.unlockpathaphoticplateauseparatists.o1.c1>"Я думаю, да. Но никаких официальных гарантий или поддержки от Юпитерианских сепаратистов. Я сообщу охране, что вы способны сами о себе позаботиться".</eventtext.unlockpathaphoticplateauseparatists.o1.c1>
+<eventtext.unlockpathgreatseaseparatists.c1>"Значит, вы хотите отправиться в Гидротермальные пустоши? Ради Европы, зачем вам это понадобилось? Впрочем, это не мое дело. Друг сепаратистов – мой друг. Отправляйтесь!"</eventtext.unlockpathgreatseaseparatists.c1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>Взять деньги и пообещать держать рот на замке.</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o1>
+<EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>"Мне не нужны ваши грязные деньги! Прощайте".</EventText.nothingtoseehere.o1.o1.o1.c1.o1.o2.o1.o2>
+<EventText.jailbreak.c1>"Слава богу! Мы думали, что никогда не выберемся отсюда!"</EventText.jailbreak.c1>
+<EventText.missionevent_jailbreak_separatists.c1>Управляющий аванпоста замешкался. "Это очень непростое задание, но судя по вашей репутации, вы должны с ним справиться".</EventText.missionevent_jailbreak_separatists.c1>
+<EventText.missionevent_jailbreak_separatists.o1.c1>"Коалиция недавно захватила в плен нескольких наших агентов, и сейчас их держат в тюрьме на аванпосте неподалеку отсюда. Вывезите их оттуда в целости и сохранности, и мы достойно вознаградим вас. Я отмечу место на вашей карте".</EventText.missionevent_jailbreak_separatists.o1.c1>
+<EventText.missionevent_jailbreak_coalition.c1>Управляющий аванпоста замешкался. "Это очень непростое задание, но судя по вашей репутации, вы должны с ним справиться".</EventText.missionevent_jailbreak_coalition.c1>
+<EventText.missionevent_jailbreak_coalition.o1.c1>"Сепаратисты недавно захватили в плен нескольких наших агентов, и сейчас их держат в тюрьме на аванпосте неподалеку отсюда. Вывезите их оттуда в целости и сохранности, и мы достойно вознаградим вас. Я отмечу место на вашей карте".</EventText.missionevent_jailbreak_coalition.o1.c1>
+<EventText.jailbreak_alarm.c1>По громкой связи прозвучало оповещение: "Всем сотрудникам службы безопасности! Код: красный! Узники сбежали!"</EventText.jailbreak_alarm.c1>
+<EventText.jailbreak_sootman.c1>"Привет! Полагаю, вы от лейтенанта Петран?"</EventText.jailbreak_sootman.c1>
+<EventText.jailbreak_sootman.o1>"Да, нас прислали забрать вас отсюда".</EventText.jailbreak_sootman.o1>
+<EventText.jailbreak_sootman.o1.c1>"Я так и понял. Спасибо! Ваша подлодка готова к отбытию?"</EventText.jailbreak_sootman.o1.c1>
+<EventText.jailbreak_sootman.o1.o1>"Да, идите за мной!"</EventText.jailbreak_sootman.o1.o1>
+<EventText.jailbreak_sootman.o1.o1.c1>"Вообще-то, у меня здесь осталась пара незавершенных дел. Встретимся на борту вашей подлодки через пять минут!" Вы не успели ничего сказать, как он убежал.</EventText.jailbreak_sootman.o1.o1.c1>
+<EventText.missionevent_jailbreak_sootman.c1>Управляющий аванпоста достал из кармана документ. "Надеюсь, вы понимаете, что это совершенно секретное задание. Поручение от лейтенанта Петран. Она хочет, чтобы его выполнила именно ваша команда".</EventText.missionevent_jailbreak_sootman.c1>
+<EventText.missionevent_jailbreak_sootman.c1.c1>"Недавно Коалиция схватила одного из наших агентов. Это очень важная персона – к счастью, враги об этом не подозревают, иначе его бы уже казнили".</EventText.missionevent_jailbreak_sootman.c1.c1>
+<EventText.missionevent_jailbreak_sootman.c1.o1>"Кто это?"</EventText.missionevent_jailbreak_sootman.c1.o1>
+<EventText.missionevent_jailbreak_sootman.c1.o1.c1>"Давайте не будем называть имена, я просто скажу, что он изрядно задал жару аванпостам Коалиции... Как бы то ни было, сейчас его держат в плену на аванпосте неподалеку отсюда. Вытащите его оттуда целым и невредимым, и мы вас достойно наградим".</EventText.missionevent_jailbreak_sootman.c1.o1.c1>
+
+</infotexts>

@@ -1,0 +1,1601 @@
+﻿[11/16/2024 16:57:13]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:13]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:14]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:15]
+  Console command "revive Liberator762" executed by Cryonite.
+[11/16/2024 16:57:17]
+  Marylee Hutchinson unequipped Screwdriver
+[11/16/2024 16:57:17]
+  Marylee Hutchinson equipped Welding Tool
+[11/16/2024 16:57:17]
+  Outer wall repaired by Marylee Hutchinson
+[11/16/2024 16:57:17]
+  Rowena Dyer unequipped Screwdriver
+[11/16/2024 16:57:17]
+  Rowena Dyer equipped Welding Tool
+[11/16/2024 16:57:18]
+  Outer wall repaired by Rowena Dyer
+[11/16/2024 16:57:18]
+  Liberator762 picked up Disposable Diving Suit
+[11/16/2024 16:57:18]
+  Inner wall repaired by Rowena Dyer
+[11/16/2024 16:57:18]
+  Rowena Dyer: No more leaks in Electrical!
+[11/16/2024 16:57:18]
+  Marylee Hutchinson: No more leaks in Reactor Engine!
+[11/16/2024 16:57:19]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:19]
+  Marylee Hutchinson unequipped Welding Tool
+[11/16/2024 16:57:19]
+  Marylee Hutchinson equipped Screwdriver
+[11/16/2024 16:57:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:19]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling has died (Cause of death: Bite wounds)
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:57:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:22]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  Spineling attacked by widjajajames. Lacerations: 30.0 Bleeding: 2.0
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:25]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:25]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:27]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:27]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:28]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:29]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:32]
+  Outer wall breached by Spineling
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:32]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:33]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:57:34]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:34]
+  Spineling has died (Cause of death: Bite wounds)
+[11/16/2024 16:57:39]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:40]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:41]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:41]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:42]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:57:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:44]
+  bjoe998822 picked up Diving Suit
+[11/16/2024 16:57:44]
+  bjoe998822 dropped Diving Suit
+[11/16/2024 16:57:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:47]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:57:52]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:53]
+  Rowena Dyer unequipped Welding Tool
+[11/16/2024 16:57:53]
+  Rowena Dyer equipped Screwdriver
+[11/16/2024 16:57:54]
+  Outer wall repaired by LaywithMind
+[11/16/2024 16:57:59]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:59]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:57:59]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:58:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:01]
+  Spineling has died (Cause of death: Lacerations)
+[11/16/2024 16:58:01]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:01]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:02]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:02]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:03]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:04]
+  The respawn shuttle is leaving.
+[11/16/2024 16:58:05]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:58:06]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:06]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:10]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:14]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:58:14]
+  Outer wall breached by Bonethresher
+[11/16/2024 16:58:14]
+  Inner wall breached by Bonethresher
+[11/16/2024 16:58:19]
+  Inner wall repaired by Liberator762
+[11/16/2024 16:58:20]
+  Outer wall repaired by Liberator762
+[11/16/2024 16:58:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:24]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:25]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:25]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:26]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:26]
+  Liberator762 has died (Cause of death: Unknown)
+[11/16/2024 16:58:26]
+  Console command "respawnnow" executed by Cryonite.
+[11/16/2024 16:58:26]
+  Respawning Cryonite (139.0.137.235:56152) as Assistant.
+[11/16/2024 16:58:26]
+  Dispatching the respawn shuttle.
+[11/16/2024 16:58:27]
+  Respawning Liberator762 (76.65.29.83:53662) as Mechanic.
+[11/16/2024 16:58:27]
+  Dispatching the respawn shuttle.
+[11/16/2024 16:58:28]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:58:28]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 16:58:36]
+  Bonethresher has died (Cause of death: Bite wounds)
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:42]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:42]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:43]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:43]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:44]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:45]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:49]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:49]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:50]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:50]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:51]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:52]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:52]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:58:59]
+  Liberator762 picked up Disposable Diving Suit
+[11/16/2024 16:59:02]
+  Liberator762 equipped Welding Tool
+[11/16/2024 16:59:04]
+  LaywithMind equipped Coilgun Ammunition Box
+[11/16/2024 16:59:04]
+  LaywithMind picked up Coilgun Ammunition Box
+[11/16/2024 16:59:06]
+  LaywithMind placed Coilgun Ammunition Box in the inventory of Coilgun Loader (ID: 48)
+[11/16/2024 16:59:06]
+  LaywithMind removed Coilgun Ammunition Box from the inventory of Coilgun Loader (ID: 48)
+[11/16/2024 16:59:06]
+  LaywithMind equipped Coilgun Ammunition Box
+[11/16/2024 16:59:06]
+  LaywithMind picked up Coilgun Ammunition Box
+[11/16/2024 16:59:07]
+  LaywithMind dropped Coilgun Ammunition Box
+[11/16/2024 16:59:07]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:08]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:09]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:09]
+  Crawler attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:09]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:11]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:15]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:16]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:17]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:17]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:18]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:19]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:19]
+  Outer wall breached by widjajajames
+[11/16/2024 16:59:19]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:20]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:20]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:21]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:21]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:22]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:22]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Crawler_large has died (Cause of death: Lacerations)
+[11/16/2024 16:59:23]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:23]
+  Mission info: Target terminated - The crawler is terminated. Reach the next station to claim the reward.
+[11/16/2024 16:59:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Spineling attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:23]
+  widjajajames launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 16:59:23]
+  Crawler_large attacked by widjajajames. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 16:59:42]
+  bjoe998822 equipped Underwater Scooter
+[11/16/2024 17:00:11]
+  Cryonite docked Hemulen to Yasa Outpost
+[11/16/2024 17:00:21]
+  bjoe998822 equipped Screwdriver
+[11/16/2024 17:00:21]
+  The respawn shuttle is leaving.
+[11/16/2024 17:00:23]
+  bjoe998822 equipped Wrench
+[11/16/2024 17:00:25]
+  Ending round (submarine reached the end of the level)
+[11/16/2024 17:00:25]
+  Ending the round...
+[11/16/2024 17:00:26]
+  Round ended.
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:26]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:37]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:37]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:37]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:00:44]
+  Gamemode changed to Campaign
+[11/16/2024 17:00:49]
+  Gamemode changed to Campaign
+[11/16/2024 17:00:58]
+  Starting a new round...
+[11/16/2024 17:01:00]
+  Cryonite changed SelectedOutpostName to Random
+[11/16/2024 17:01:06]
+  Game mode: Campaign
+[11/16/2024 17:01:06]
+  Submarine: HiveSub
+[11/16/2024 17:01:06]
+  Level seed: LocationName.city.1721
+[11/16/2024 17:01:06]
+  Lavinia Wheeling equipped Wrench
+[11/16/2024 17:01:06]
+  Lavinia Wheeling unequipped Wrench
+[11/16/2024 17:01:06]
+  Lavinia Wheeling equipped Screwdriver
+[11/16/2024 17:01:06]
+  Denisha Celina Ryder equipped Wrench
+[11/16/2024 17:01:06]
+  Denisha Celina Ryder unequipped Wrench
+[11/16/2024 17:01:06]
+  Denisha Celina Ryder equipped Screwdriver
+[11/16/2024 17:01:06]
+  Alonso Vazquez equipped Wrench
+[11/16/2024 17:01:06]
+  Alonso Vazquez unequipped Wrench
+[11/16/2024 17:01:06]
+  Alonso Vazquez equipped Screwdriver
+[11/16/2024 17:01:06]
+  Maurice Vaughn equipped Wrench
+[11/16/2024 17:01:06]
+  Maurice Vaughn unequipped Wrench
+[11/16/2024 17:01:06]
+  Maurice Vaughn equipped Screwdriver
+[11/16/2024 17:01:06]
+  Maurice Vaughn unequipped Screwdriver
+[11/16/2024 17:01:06]
+  Maurice Vaughn equipped Crowbar
+[11/16/2024 17:01:06]
+  Melany Goodin equipped Wrench
+[11/16/2024 17:01:06]
+  Melany Goodin unequipped Wrench
+[11/16/2024 17:01:06]
+  Melany Goodin equipped Screwdriver
+[11/16/2024 17:01:06]
+  Franklin Mendel equipped Crowbar
+[11/16/2024 17:01:06]
+  Darleen Huber equipped Crowbar
+[11/16/2024 17:01:06]
+  Nolan Gregory equipped Screwdriver
+[11/16/2024 17:01:06]
+  LaywithMind equipped Screwdriver
+[11/16/2024 17:01:06]
+  Liberator762 equipped Welding Tool
+[11/16/2024 17:01:06]
+  Round started.
+[11/16/2024 17:01:07]
+  Franklin Mendel unequipped Crowbar
+[11/16/2024 17:01:07]
+  Maurice Vaughn unequipped Crowbar
+[11/16/2024 17:01:07]
+  Nolan Gregory unequipped Screwdriver
+[11/16/2024 17:01:07]
+  Darleen Huber unequipped Crowbar
+[11/16/2024 17:01:14]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:01:15]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:01:16]
+  bjoe998822 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:01:16]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:01:16]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:01:23]
+  LaywithMind dropped Battery Cell
+[11/16/2024 17:01:35]
+  Liberator762 equipped Duffel Bag
+[11/16/2024 17:01:35]
+  Liberator762 picked up Duffel Bag
+[11/16/2024 17:01:38]
+  Liberator762 placed Duffel Bag in the inventory of Medium Windowed Steel Cabinet (ID: 81)
+[11/16/2024 17:01:43]
+  Liberator762 equipped Medic Crate
+[11/16/2024 17:01:50]
+  Liberator762 placed Medic Crate in the inventory of Crate Shelf (ID: 670)
+[11/16/2024 17:01:57]
+  Majorie Feinman: Oh, we've got visitors again.
+[11/16/2024 17:01:57]
+  Console command "teleportcharacter LaywithMind cursor" executed by Cryonite.
+[11/16/2024 17:02:17]
+  Melany Goodin unequipped Screwdriver
+[11/16/2024 17:02:31]
+  Liberator762 placed Battery Cell in the inventory of Medium Windowed Steel Cabinet (ID: 81)
+[11/16/2024 17:02:41]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:02:41]
+  Liberator762 picked up Coilgun Ammunition Box
+[11/16/2024 17:02:48]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:49]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:49]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:50]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:50]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:50]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:50]
+  Console command "unlockmission" executed by Cryonite.
+[11/16/2024 17:02:52]
+  LaywithMind started repairing Surveillance Center
+[11/16/2024 17:03:04]
+  Console command "unlockmission killmopingjack" executed by Cryonite.
+[11/16/2024 17:03:14]
+  Console command "unlockmission salvagewreck1" executed by Cryonite.
+[11/16/2024 17:03:15]
+  Liberator762 placed Coilgun Ammunition Box in the inventory of Fabricator (ID: 1192)
+[11/16/2024 17:03:16]
+  Console command "unlockmission salvagewreck1" executed by Cryonite.
+[11/16/2024 17:03:51]
+  Cryonite purchased 1 item(s) for 735 mk
+ - Coilgun Ammunition Box x5
+[11/16/2024 17:03:58]
+  Darwin Huber: Hey, you! I need to check your pockets. Hold on for a second.
+[11/16/2024 17:04:00]
+  Liberator762 picked up Coilgun Ammunition Box
+[11/16/2024 17:04:01]
+  Darwin Huber: Stop moving already!
+[11/16/2024 17:04:12]
+  Client "Cryonite" ended the round.
+[11/16/2024 17:04:12]
+  Ending the round...
+[11/16/2024 17:04:13]
+  Round ended.
+[11/16/2024 17:04:16]
+  Starting a new round...
+[11/16/2024 17:04:18]
+  Mission: Killing a large crawler
+[11/16/2024 17:04:18]
+  An especially large crawler has been terrorizing vessels traveling between Erlangshen Outpost and Telephassa Linea. A reward of 1,500 marks has been promised to any crew that can neutralize it.
+[11/16/2024 17:04:18]
+  Mission: Kill Moping Jack
+[11/16/2024 17:04:18]
+  Captain Hognose has recruited you to help him kill his old nemesis, Moping Jack the Hammerhead.
+[11/16/2024 17:04:18]
+  Mission: Wreck salvage
+[11/16/2024 17:04:18]
+  Erlangshen Outpost just received a fragmented distress call from a vessel that was thought to have been lost along with some highly sensitive encrypted data. Retrieve the captain's logbook as a priority and return it.
+[11/16/2024 17:04:19]
+  Game mode: Campaign
+[11/16/2024 17:04:19]
+  Submarine: HiveSub
+[11/16/2024 17:04:19]
+  Level seed: LocationName.city.1721LocationName.generic.8922
+[11/16/2024 17:04:19]
+  Mission: Killing a large crawler
+[11/16/2024 17:04:19]
+  Mission: Kill Moping Jack
+[11/16/2024 17:04:19]
+  Mission: Wreck salvage
+[11/16/2024 17:04:19]
+  Dorsey Pickett equipped Screwdriver
+[11/16/2024 17:04:19]
+  LaywithMind equipped Screwdriver
+[11/16/2024 17:04:19]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:04:19]
+  Round started.
+[11/16/2024 17:04:20]
+  Cryonite has left the server.
+[11/16/2024 17:04:24]
+  Liberator762 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:04:25]
+  widjajajames set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:04:27]
+  bjoe998822 set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:04:34]
+  LaywithMind set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:04:40]
+  Cryonite has joined the server.
+[11/16/2024 17:04:40]
+  Saving client permissions
+[11/16/2024 17:04:43]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:04:43]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:04:45]
+  widjajajames removed Duffel Bag from the inventory of Medium Windowed Steel Cabinet (ID: 81)
+[11/16/2024 17:04:46]
+  widjajajames equipped Duffel Bag
+[11/16/2024 17:04:47]
+  Liberator762 placed Coilgun Ammunition Box in the inventory of Ammunition Shelf (ID: 50)
+[11/16/2024 17:04:48]
+  Liberator762 placed Coilgun Ammunition Box in the inventory of Ammunition Shelf (ID: 50)
+[11/16/2024 17:04:50]
+  Cryonite has died (Cause of death: Disconnected)
+[11/16/2024 17:04:50]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:04:51]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:04:52]
+  widjajajames placed Duffel Bag in the inventory of Medium Windowed Steel Cabinet (ID: 81)
+[11/16/2024 17:04:52]
+  Cryonite set the value "Channel" of the item "Headset" to "0".
+[11/16/2024 17:04:58]
+  Liberator762 removed Coilgun Ammunition Box from the inventory of Ammunition Shelf (ID: 51)
+[11/16/2024 17:04:58]
+  Liberator762 picked up Coilgun Ammunition Box
+[11/16/2024 17:04:59]
+  Liberator762 dropped Coilgun Ammunition Box
+[11/16/2024 17:05:01]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:05:06]
+  Liberator762 placed Coilgun Ammunition Box in the inventory of Ammunition Shelf (ID: 51)
+[11/16/2024 17:05:06]
+  Liberator762 removed Coilgun Ammunition Box from the inventory of Ammunition Shelf (ID: 51)
+[11/16/2024 17:05:06]
+  Liberator762 equipped Coilgun Ammunition Box
+[11/16/2024 17:05:06]
+  Liberator762 picked up Coilgun Ammunition Box
+[11/16/2024 17:05:12]
+  Captain Hognose: Can I put all my annoying problems inside a decoy?
+[11/16/2024 17:05:17]
+  Liberator762 dropped Coilgun Ammunition Box
+[11/16/2024 17:05:21]
+  widjajajames picked up Welding Tool
+[11/16/2024 17:05:23]
+  Cryonite equipped Welding Tool
+[11/16/2024 17:05:27]
+  Cryonite picked up Diving Suit
+[11/16/2024 17:05:32]
+  Liberator762 dropped Coilgun Ammunition Box
+[11/16/2024 17:05:32]
+  Liberator762 dropped Coilgun Ammunition Box
+[11/16/2024 17:05:40]
+  bjoe998822 picked up Diving Suit
+[11/16/2024 17:05:43]
+  Liberator762 picked up Diving Suit
+[11/16/2024 17:05:43]
+  widjajajames picked up Diving Suit
+[11/16/2024 17:05:45]
+  bjoe998822 picked up Oxygen Tank
+[11/16/2024 17:05:46]
+  Cryonite picked up Oxygen Tank
+[11/16/2024 17:05:47]
+  Cryonite dropped Sulphuric Acid
+[11/16/2024 17:05:48]
+  Cryonite picked up Oxygen Tank
+[11/16/2024 17:05:50]
+  Cryonite dropped Screwdriver
+[11/16/2024 17:05:51]
+  Cryonite dropped Wrench
+[11/16/2024 17:06:02]
+  Cryonite dropped Bike Horn
+[11/16/2024 17:06:04]
+  Liberator762 picked up Underwater Scooter
+[11/16/2024 17:06:08]
+  Cryonite equipped Plasma Cutter
+[11/16/2024 17:06:17]
+  Liberator762 placed Screwdriver in the inventory of Toolbelt (ID: 3280)
+[11/16/2024 17:06:19]
+  Liberator762 placed Wrench in the inventory of Toolbelt (ID: 3280)
+[11/16/2024 17:06:25]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 17:06:25]
+  widjajajames picked up Underwater Scooter
+[11/16/2024 17:06:26]
+  Console command "spawnitem "Welding Tool" cursor" executed by Cryonite.
+[11/16/2024 17:06:29]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:06:32]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 17:06:33]
+  Console command "spawnitem "Welding Fuel Tank" cursor" executed by Cryonite.
+[11/16/2024 17:06:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:35]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:36]
+  Dorsey Case: I need diving gear!
+[11/16/2024 17:06:37]
+  Inner wall breached by Mudraptor_unarmored
+[11/16/2024 17:06:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:38]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:39]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:06:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:39]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:40]
+  Liberator762 equipped Welding Tool
+[11/16/2024 17:06:42]
+  bjoe998822 picked up Underwater Scooter
+[11/16/2024 17:06:42]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:06:42]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:43]
+  Outer wall breached by LaywithMind
+[11/16/2024 17:06:43]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:43]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:43]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:43]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:43]
+  Console command "spawnitem "Plasma Cutter" cursor" executed by Cryonite.
+[11/16/2024 17:06:46]
+  Liberator762 unequipped Welding Tool
+[11/16/2024 17:06:46]
+  Liberator762 equipped Fire Extinguisher
+[11/16/2024 17:06:46]
+  widjajajames equipped Wrench
+[11/16/2024 17:06:52]
+  Dorsey Case: I need an oxygen tank!
+[11/16/2024 17:06:53]
+  Captain Hognose: I need diving gear!
+[11/16/2024 17:06:54]
+  LaywithMind placed x6 Shotgun Shell in the inventory of Riot Shotgun (ID: 441)
+[11/16/2024 17:06:54]
+  Liberator762 dropped Fire Extinguisher
+[11/16/2024 17:06:55]
+  widjajajames equipped Welding Tool
+[11/16/2024 17:06:55]
+  LaywithMind picked up Riot Shotgun
+[11/16/2024 17:06:55]
+  Captain Hognose: Pressure rising in Electrical!
+[11/16/2024 17:06:55]
+  Liberator762 equipped Welding Tool
+[11/16/2024 17:06:55]
+  Dorsey Case: Pressure rising in Electrical!
+[11/16/2024 17:06:56]
+  Captain Hognose equipped Revolver
+[11/16/2024 17:06:56]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:06:56]
+  Captain Hognose: Help, I'm bleeding!
+[11/16/2024 17:06:57]
+  Liberator762 equipped Plasma Cutter
+[11/16/2024 17:06:58]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:06:58]
+  Cryonite equipped Diving Knife
+[11/16/2024 17:06:58]
+  Cryonite equipped Diving Knife
+[11/16/2024 17:07:02]
+  widjajajames equipped Fuel Rod
+[11/16/2024 17:07:02]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:07:03]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:03]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:03]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:03]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:03]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:03]
+  LaywithMind equipped Riot Shotgun
+[11/16/2024 17:07:04]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:04]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:05]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:05]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:05]
+  Liberator762 attacked by Cryonite. Lacerations: 3.8 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:07:05]
+  Cryonite used Diving Knife on Liberator762.
+[11/16/2024 17:07:06]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:06]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:07]
+  Captain Hognose unequipped Revolver
+[11/16/2024 17:07:07]
+  Captain Hognose equipped Bandage
+[11/16/2024 17:07:07]
+  Cryonite used Diving Knife on Door with Buttons.
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:07]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:07:08]
+  widjajajames attacked by Cryonite. Lacerations: 4.3 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:07:08]
+  Cryonite used Diving Knife on widjajajames.
+[11/16/2024 17:07:08]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored has died (Cause of death: Gunshot wound)
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 12.0 Bleeding: 9.0
+[11/16/2024 17:07:08]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:08]
+  widjajajames attacked by Cryonite. Lacerations: 4.3 Bleeding: 6.8 Stun: 0.2
+[11/16/2024 17:07:08]
+  Cryonite used Diving Knife on widjajajames.
+[11/16/2024 17:07:09]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:09]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:09]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:09]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:09]
+  Captain Hognose equipped Bandage
+[11/16/2024 17:07:10]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:10]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:11]
+  Dorsey Case: Need to find a diving suit!
+[11/16/2024 17:07:12]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:07:12]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:07:12]
+  Captain Hognose unequipped Bandage
+[11/16/2024 17:07:12]
+  Captain Hognose equipped Morphine
+[11/16/2024 17:07:12]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:12]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:17]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:18]
+  Captain Hognose equipped Welding Tool
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:21]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 8.0 Bleeding: 6.0
+[11/16/2024 17:07:22]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 0.8
+[11/16/2024 17:07:24]
+  bjoe998822 picked up Diving Knife
+[11/16/2024 17:07:24]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:07:26]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:07:26]
+  bjoe998822 equipped Diving Knife
+[11/16/2024 17:07:27]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:28]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:28]
+  Mudraptor_unarmored has died (Cause of death: Gunshot wound)
+[11/16/2024 17:07:28]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:28]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:29]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:29]
+  LaywithMind attacked by Cryonite. Lacerations: 4.8 Bleeding: 7.5 Stun: 0.2
+[11/16/2024 17:07:29]
+  Cryonite used Diving Knife on LaywithMind.
+[11/16/2024 17:07:29]
+  Dorsey Case: Pressure rising in Midsection!
+[11/16/2024 17:07:29]
+  LaywithMind equipped Plasma Cutter
+[11/16/2024 17:07:29]
+  LaywithMind equipped SMG
+[11/16/2024 17:07:29]
+  Cryonite used Diving Knife on Large Horizontal Inside Wall.
+[11/16/2024 17:07:29]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:29]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:30]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:30]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:30]
+  Cryonite attacked by LaywithMind. Gunshot wound: 7.4 Bleeding: 11.2
+[11/16/2024 17:07:30]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:30]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:30]
+  Cryonite attacked by LaywithMind. Gunshot wound: 7.4 Bleeding: 11.2
+[11/16/2024 17:07:31]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:31]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:31]
+  Mudraptor_unarmored attacked by LaywithMind. Gunshot wound: 16.3 Bleeding: 16.3
+[11/16/2024 17:07:31]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:31]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:32]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 10.0 Bleeding: 10.0 Stun: 0.2
+[11/16/2024 17:07:32]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:33]
+  Mudraptor_unarmored attacked by Cryonite. Lacerations: 1.0 Stun: 0.2
+[11/16/2024 17:07:33]
+  Cryonite used Diving Knife on Mudraptor_unarmored.
+[11/16/2024 17:07:33]
+  LaywithMind attacked by Cryonite. Lacerations: 4.8 Bleeding: 7.5 Stun: 0.2
+[11/16/2024 17:07:33]
+  Cryonite used Diving Knife on LaywithMind.
+[11/16/2024 17:07:35]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:07:36]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:07:37]
+  Captain Hognose unequipped Welding Tool
+[11/16/2024 17:07:38]
+  Captain Hognose equipped Welding Tool
+[11/16/2024 17:07:39]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:07:41]
+  Captain Hognose unequipped Welding Tool
+[11/16/2024 17:07:45]
+  Cryonite: Captain Hognose, rescue anyone in distress!
+[11/16/2024 17:07:45]
+  bjoe998822 picked up x2 Bandage
+[11/16/2024 17:07:46]
+  Captain Hognose: Sure thing!
+[11/16/2024 17:07:49]
+  Outer wall repaired by Liberator762
+[11/16/2024 17:07:50]
+  Dorsey Case: I need diving gear!
+[11/16/2024 17:07:50]
+  Captain Hognose equipped Revolver
+[11/16/2024 17:07:50]
+  Captain Hognose unequipped Revolver
+[11/16/2024 17:07:50]
+  Captain Hognose equipped Bandage
+[11/16/2024 17:07:52]
+  Captain Hognose: Dorsey Case is mildly injured, but I think they'll manage without my help.
+[11/16/2024 17:07:53]
+  Captain Hognose: Giving first aid to Cryonite in diving!
+[11/16/2024 17:07:53]
+  bjoe998822 used item Bandage
+[11/16/2024 17:07:55]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:07:56]
+  Captain Hognose equipped Saline
+[11/16/2024 17:07:56]
+  Captain Hognose: I need to find deusizine, fentanyl, opium or morphine!
+[11/16/2024 17:07:56]
+  bjoe998822 used item Bandage
+[11/16/2024 17:08:00]
+  Inner wall repaired by widjajajames
+[11/16/2024 17:08:02]
+  Captain Hognose equipped Bandage
+[11/16/2024 17:08:08]
+  Captain Hognose unequipped Bandage
+[11/16/2024 17:08:08]
+  Captain Hognose equipped Morphine
+[11/16/2024 17:08:12]
+  Captain Hognose: Treating LaywithMind in diving!
+[11/16/2024 17:08:12]
+  Captain Hognose equipped Saline
+[11/16/2024 17:08:13]
+  Captain Hognose: I need deusizine, fentanyl, morphine or opium to treat LaywithMind!
+[11/16/2024 17:08:16]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:08:17]
+  Liberator762 picked up x8 Bandage
+[11/16/2024 17:08:20]
+  Dorsey Case: I need diving gear!
+[11/16/2024 17:08:20]
+  bjoe998822 picked up x7 Bandage
+[11/16/2024 17:08:20]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:21]
+  Captain Hognose equipped Saline
+[11/16/2024 17:08:22]
+  widjajajames picked up x4 Saline
+[11/16/2024 17:08:23]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:25]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:26]
+  widjajajames used item Saline
+[11/16/2024 17:08:27]
+  Captain Hognose equipped Morphine
+[11/16/2024 17:08:27]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:30]
+  Cryonite: Captain Hognose, thanks for giving medical aid!
+[11/16/2024 17:08:30]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:39]
+  Liberator762 used item Bandage
+[11/16/2024 17:08:40]
+  Captain Hognose: I don't have the means to treat myself!
+[11/16/2024 17:08:49]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:08:49]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:08:52]
+  Liberator762 picked up x8 Saline
+[11/16/2024 17:08:52]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:08:52]
+  Dorsey Case: All leaks repaired in Diving!
+[11/16/2024 17:08:55]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:08:55]
+  Liberator762 used item Saline
+[11/16/2024 17:09:03]
+  Outer wall repaired by Cryonite
+[11/16/2024 17:09:03]
+  Dorsey Case: Need to find a diving suit!
+[11/16/2024 17:09:03]
+  Liberator762 used item Saline
+[11/16/2024 17:09:04]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:09:07]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:09:08]
+  Dorsey Case: No more leaks in Diving!
+[11/16/2024 17:09:08]
+  Outer wall breached by Mudraptor_unarmored
+[11/16/2024 17:09:14]
+  widjajajames equipped Screwdriver
+[11/16/2024 17:09:16]
+  widjajajames started repairing Battery
+[11/16/2024 17:09:18]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:18]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:18]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:19]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:19]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:19]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:19]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:19]
+  Cryonite picked up x2 Fuel Rod
+[11/16/2024 17:09:19]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:19]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:19]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:20]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:20]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:21]
+  Outer wall repaired by Dorsey Case
+[11/16/2024 17:09:24]
+  Cryonite placed Fuel Rod in the inventory of Medium Steel Cabinet (ID: 19)
+[11/16/2024 17:09:25]
+  widjajajames started repairing Battery
+[11/16/2024 17:09:26]
+  Cryonite picked up Fuel Rod
+[11/16/2024 17:09:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:28]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 22.5 Bleeding: 1.5
+[11/16/2024 17:09:28]
+  Mudraptor_unarmored has died (Cause of death: Unknown)
+[11/16/2024 17:09:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:28]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:28]
+  widjajajames started repairing Junction Box
+[11/16/2024 17:09:28]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:28]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:28]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:29]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:30]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:30]
+  LaywithMind launched Coilgun (projectile: Coilgun Bolt)
+[11/16/2024 17:09:30]
+  Mudraptor_unarmored attacked by LaywithMind. Lacerations: 15.0 Bleeding: 1.0
+[11/16/2024 17:09:31]
+  Captain Hognose equipped Welding Tool
+[11/16/2024 17:09:31]
+  Liberator762 placed x6 Saline in the inventory of Supplies Cabinet (ID: 322)
+[11/16/2024 17:09:33]
+  Liberator762 placed x2 Bandage in the inventory of Supplies Cabinet (ID: 322)
+[11/16/2024 17:09:33]
+  Dorsey Case: Need to find a diving suit!
+[11/16/2024 17:09:37]
+  Captain Hognose unequipped Welding Tool
+[11/16/2024 17:09:37]
+  widjajajames started repairing Junction Box
+[11/16/2024 17:09:38]
+  LaywithMind placed x6 Shotgun Shell in the inventory of Riot Shotgun (ID: 441)
+[11/16/2024 17:09:38]
+  LaywithMind removed x3 Shotgun Shell from the inventory of Riot Shotgun (ID: 441)
+[11/16/2024 17:09:47]
+  widjajajames started repairing Junction Box
+[11/16/2024 17:09:47]
+  Liberator762 equipped Medic Crate
+[11/16/2024 17:09:47]
+  Liberator762 picked up Medic Crate
+[11/16/2024 17:09:49]
+  Liberator762 picked up x5 Morphine
+[11/16/2024 17:09:52]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:09:52]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:09:54]
+  Liberator762 used item Morphine
+[11/16/2024 17:09:58]
+  Dorsey Case failed to repair Engine
+[11/16/2024 17:10:03]
+  Dorsey Case started repairing Engine
+[11/16/2024 17:10:13]
+  bjoe998822 equipped Underwater Scooter
+[11/16/2024 17:10:14]
+  Liberator762 placed x4 Morphine in the inventory of Medic Crate (ID: 764)
+[11/16/2024 17:10:17]
+  Liberator762 placed Medic Crate in the inventory of Crate Shelf (ID: 669)
+[11/16/2024 17:10:20]
+  Dorsey Case started repairing Engine
+[11/16/2024 17:10:25]
+  Outer wall repaired by Liberator762
+[11/16/2024 17:10:31]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:10:31]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:10:33]
+  LaywithMind picked up Mudraptor Shell
+[11/16/2024 17:10:35]
+  Dorsey Case started repairing Supercapacitor
+[11/16/2024 17:10:42]
+  Dorsey Case started repairing Junction Box
+[11/16/2024 17:10:46]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:10:46]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:10:47]
+  Dorsey Case: Need to find a diving suit!
+[11/16/2024 17:10:53]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:10:53]
+  Dorsey Case equipped Morphine
+[11/16/2024 17:10:58]
+  bjoe998822 picked up Welding Fuel Tank
+[11/16/2024 17:11:01]
+  bjoe998822 placed Welding Fuel Tank in the inventory of Welding Tool (ID: 3353)
+[11/16/2024 17:11:05]
+  Liberator762 picked up Handheld Sonar
+[11/16/2024 17:11:06]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:08]
+  Liberator762 equipped Handheld Sonar
+[11/16/2024 17:11:13]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:18]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:24]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:34]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:38]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:11:38]
+  Dorsey Case: I need diving gear!
+[11/16/2024 17:11:41]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:41]
+  Dorsey Case failed to repair Oxygen Generator
+[11/16/2024 17:11:45]
+  Dorsey Case started repairing Oxygen Generator
+[11/16/2024 17:11:49]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:11:50]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:11:50]
+  Dorsey Case equipped Welding Fuel Tank
+[11/16/2024 17:11:50]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:11:50]
+  Dorsey Case unequipped Welding Tool
+[11/16/2024 17:11:50]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:11:50]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:11:50]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:11:50]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:11:51]
+  Dorsey Case equipped Sulphuric Acid
+[11/16/2024 17:11:55]
+  Cryonite detached Aquatic Poppy from a wall
+[11/16/2024 17:12:00]
+  Cryonite equipped Underwater Scooter
+[11/16/2024 17:12:09]
+  Cryonite detached Elastin Plant from a wall
+[11/16/2024 17:12:14]
+  widjajajames started repairing Custom Hatch
+[11/16/2024 17:12:15]
+  Cryonite detached Elastin Plant from a wall
+[11/16/2024 17:12:19]
+  widjajajames started repairing Custom Hatch
+[11/16/2024 17:12:22]
+  Cryonite detached Elastin Plant from a wall
+[11/16/2024 17:12:43]
+  Dorsey Case equipped Fire Extinguisher
+[11/16/2024 17:12:47]
+  Dorsey Case equipped Bike Horn
+[11/16/2024 17:12:55]
+  Dorsey Case equipped Oxygen Tank
+[11/16/2024 17:12:56]
+  Cryonite placed Diving Suit in the inventory of Diving Suit Locker (ID: 169)
+[11/16/2024 17:12:57]
+  Dorsey Case equipped Welding Fuel Tank
+[11/16/2024 17:13:00]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:13:00]
+  bjoe998822 picked up Hydroxyapatite
+[11/16/2024 17:13:02]
+  Cryonite placed x3 Elastin Plant in the inventory of Medium Steel Cabinet (ID: 18)
+[11/16/2024 17:13:03]
+  Cryonite placed x8 Aquatic Poppy in the inventory of Medium Steel Cabinet (ID: 18)
+[11/16/2024 17:13:20]
+  widjajajames removed Oxygen Tank from the inventory of Oxygen Tank Shelf (ID: 158)
+[11/16/2024 17:13:20]
+  widjajajames placed Oxygen Tank in the inventory of Diving Suit (ID: 73)
+[11/16/2024 17:13:28]
+  widjajajames equipped Underwater Scooter
+[11/16/2024 17:13:54]
+  Liberator762 equipped Underwater Scooter
+[11/16/2024 17:14:00]
+  Dorsey Case equipped Welding Tool
+[11/16/2024 17:14:03]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:14:10]
+  widjajajames detached Fiber Plant from a wall
+[11/16/2024 17:14:12]
+  bjoe998822 dropped Oxygen Tank
+[11/16/2024 17:14:12]
+  bjoe998822 placed Oxygen Tank in the inventory of Diving Suit (ID: 170)
+[11/16/2024 17:14:14]
+  Captain Hognose unequipped Wrench
+[11/16/2024 17:14:14]
+  Captain Hognose equipped Wrench
+[11/16/2024 17:14:17]
+  widjajajames detached Fiber Plant from a wall
+[11/16/2024 17:14:23]
+  widjajajames detached Fiber Plant from a wall
+[11/16/2024 17:14:45]
+  bjoe998822 placed Oxygen Tank in the inventory of Plasma Cutter (ID: 780)
+[11/16/2024 17:14:55]
+  Liberator762 placed Diving Suit in the inventory of Diving Suit Locker (ID: 166)
+[11/16/2024 17:15:07]
+  bjoe998822 placed Oxygen Tank in the inventory of Oxygen Tank Shelf (ID: 162)
+[11/16/2024 17:15:09]
+  bjoe998822 placed Oxygen Tank in the inventory of Plasma Cutter (ID: 780)
+[11/16/2024 17:15:10]
+  Dorsey Case equipped Plasma Cutter
+[11/16/2024 17:15:20]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:15:22]
+  Cryonite picked up Diving Suit
+[11/16/2024 17:15:26]
+  Dorsey Case started repairing Junction Box
+[11/16/2024 17:15:30]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:15:40]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:15:40]
+  widjajajames unequipped Plasma Cutter
+[11/16/2024 17:15:41]
+  Liberator762 picked up Diving Suit
+[11/16/2024 17:15:42]
+  Dorsey Case started repairing Battery
+[11/16/2024 17:15:46]
+  Dorsey Case started repairing Junction Box
+[11/16/2024 17:15:46]
+  bjoe998822 equipped Plasma Cutter
+[11/16/2024 17:15:49]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:16:07]
+  widjajajames placed x3 Fiber Plant in the inventory of Supplies Cabinet (ID: 321)
+[11/16/2024 17:16:12]
+  Captain Hognose: I think I'm going to throw up.
+[11/16/2024 17:16:15]
+  widjajajames placed Oxygen Tank in the inventory of Plasma Cutter (ID: 3360)
+[11/16/2024 17:16:29]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:16:35]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:16:35]
+  Dorsey Case equipped Wrench
+[11/16/2024 17:16:38]
+  Dorsey Case started repairing Pump
+[11/16/2024 17:16:42]
+  Dorsey Case unequipped Wrench
+[11/16/2024 17:16:52]
+  Outer wall breached by Cryonite
+[11/16/2024 17:17:01]
+  widjajajames equipped Plasma Cutter
+[11/16/2024 17:17:03]
+  Dorsey Case equipped Screwdriver
+[11/16/2024 17:17:12]
+  Dorsey Case unequipped Screwdriver
+[11/16/2024 17:17:19]
+  bjoe998822 picked up Stun Baton
+[11/16/2024 17:17:19]
+  Liberator762 grabbed Dorsey Pickett's body and received 29 mk.
+[11/16/2024 17:17:20]
+  bjoe998822 picked up x2 Scrap
+[11/16/2024 17:17:25]
+  widjajajames placed Fuel Rod in the inventory of Toolbelt (ID: 3269)
+[11/16/2024 17:17:25]
+  Cryonite picked up Shipwreck ID Card
+[11/16/2024 17:17:25]
+  Cryonite dropped ID Card
