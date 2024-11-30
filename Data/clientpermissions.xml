@@ -5,306 +5,306 @@
     accountid="STEAM_1:1:72092102"
     permissions="All">
     <command
-      name="setclientcharacter" />
+      name="eventmanager" />
     <command
-      name="listtasks" />
+      name="unban" />
     <command
-      name="lock" />
+      name="setskill" />
     <command
-      name="respawnnow" />
+      name="showseed" />
     <command
-      name="togglehud" />
+      name="locky" />
     <command
-      name="giveaffliction" />
+      name="kick" />
+    <command
+      name="givetalent" />
+    <command
+      name="enableenemyai" />
+    <command
+      name="seed" />
     <command
       name="botspawnmode" />
     <command
-      name="debugdraw" />
+      name="items" />
     <command
-      name="randomizeseed" />
+      name="sub" />
     <command
-      name="mute" />
+      name="help" />
     <command
-      name="unlocktalents" />
+      name="setclientcharacter" />
     <command
-      name="startwhenclientsready" />
+      name="setdifficulty" />
+    <command
+      name="hidemonsters" />
+    <command
+      name="togglecharacternames" />
+    <command
+      name="shuttle" />
+    <command
+      name="killmonsters" />
+    <command
+      name="fixitems" />
+    <command
+      name="showmonsters" />
+    <command
+      name="sendchatmessage" />
+    <command
+      name="explosion" />
+    <command
+      name="oxygen" />
+    <command
+      name="setcampaignmetadata" />
+    <command
+      name="giveexperience" />
+    <command
+      name="los" />
+    <command
+      name="enablecheats" />
+    <command
+      name="revokecommandperm" />
+    <command
+      name="water" />
+    <command
+      name="kill" />
+    <command
+      name="readycheck" />
+    <command
+      name="skipeventcooldown" />
+    <command
+      name="heal" />
+    <command
+      name="banid" />
+    <command
+      name="resetkarma" />
+    <command
+      name="freeze" />
+    <command
+      name="lighting" />
+    <command
+      name="respawnnow" />
+    <command
+      name="disableenemyai" />
     <command
       name="tags" />
     <command
-      name="setkarma" />
+      name="givecommandperm" />
+    <command
+      name="debugdraw" />
+    <command
+      name="showperm" />
+    <command
+      name="servername" />
+    <command
+      name="exit" />
+    <command
+      name="setsalary" />
+    <command
+      name="togglehud" />
+    <command
+      name="lock" />
+    <command
+      name="endgame" />
+    <command
+      name="restart" />
+    <command
+      name="togglevoicechatfilters" />
+    <command
+      name="startwhenclientsready" />
+    <command
+      name="toggleaitargets" />
+    <command
+      name="setreputation" />
+    <command
+      name="monstertargetingrestrictions" />
+    <command
+      name="campaigndestination" />
+    <command
+      name="kickid" />
+    <command
+      name="debugjobassignment" />
+    <command
+      name="unlockmission" />
+    <command
+      name="setpassword" />
+    <command
+      name="control" />
+    <command
+      name="msg" />
+    <command
+      name="disablecrewai" />
+    <command
+      name="simulatedduplicateschance" />
+    <command
+      name="startitems" />
+    <command
+      name="showkarma" />
+    <command
+      name="autoitemplacerdebug" />
+    <command
+      name="showreputation" />
+    <command
+      name="giveperm" />
+    <command
+      name="monstersignoresub" />
+    <command
+      name="botcount" />
+    <command
+      name="entitydata" />
+    <command
+      name="setlocationreputation" />
+    <command
+      name="monstersrestoretargets" />
+    <command
+      name="godmode" />
+    <command
+      name="freecamera" />
+    <command
+      name="maxupgrades" />
+    <command
+      name="toggleupperhud" />
+    <command
+      name="followsub" />
+    <command
+      name="unmute" />
+    <command
+      name="calculatehashes" />
+    <command
+      name="debugwiring" />
+    <command
+      name="showmoney" />
+    <command
+      name="clientlist" />
+    <command
+      name="listsuitabletreatments" />
+    <command
+      name="say" />
+    <command
+      name="giveaffliction" />
+    <command
+      name="mute" />
+    <command
+      name="money" />
     <command
       name="giverank" />
+    <command
+      name="healme" />
+    <command
+      name="teleportcharacter" />
+    <command
+      name="gamemode" />
+    <command
+      name="spawn" />
+    <command
+      name="listtasks" />
+    <command
+      name="campaigninfo" />
+    <command
+      name="findentityids" />
+    <command
+      name="autorestarttimer" />
+    <command
+      name="autorestart" />
+    <command
+      name="traitorlist" />
+    <command
+      name="growthdelay" />
+    <command
+      name="difficulty" />
+    <command
+      name="itemassemblies" />
+    <command
+      name="startgame" />
+    <command
+      name="autorestartinterval" />
+    <command
+      name="debugevent" />
+    <command
+      name="setkarma" />
+    <command
+      name="verboselogging" />
+    <command
+      name="give" />
+    <command
+      name="monstersignoreplayer" />
+    <command
+      name="godmode_mainsub" />
+    <command
+      name="triggertraitorevent" />
+    <command
+      name="unlocktalents" />
+    <command
+      name="mission" />
+    <command
+      name="toggleitemhighlights" />
+    <command
+      name="power" />
+    <command
+      name="randomizeseed" />
+    <command
+      name="togglekarma" />
+    <command
+      name="debugai" />
+    <command
+      name="despawnnow" />
+    <command
+      name="debugdrawlocalization" />
+    <command
+      name="simulatedlatency" />
+    <command
+      name="revokeperm" />
+    <command
+      name="debugdrawlos" />
+    <command
+      name="ragdoll" />
+    <command
+      name="togglekarmatestmode" />
+    <command
+      name="revive" />
+    <command
+      name="spawnitem" />
+    <command
+      name="listcoroutines" />
+    <command
+      name="dumptofile" />
     <command
       name="triggerevent" />
     <command
       name="unbanaddress" />
     <command
-      name="unmute" />
-    <command
-      name="freecamera" />
-    <command
-      name="autorestarttimer" />
-    <command
-      name="toggleaitargets" />
-    <command
-      name="entitydata" />
-    <command
-      name="traitorlist" />
-    <command
-      name="togglecampaignteleport" />
-    <command
-      name="items" />
-    <command
-      name="oxygen" />
-    <command
-      name="water" />
-    <command
-      name="kick" />
-    <command
-      name="setmaxplayers" />
-    <command
-      name="difficulty" />
-    <command
-      name="servermsg" />
-    <command
-      name="setreputation" />
-    <command
-      name="givetalent" />
-    <command
-      name="listcoroutines" />
-    <command
-      name="endgame" />
-    <command
-      name="sendchatmessage" />
-    <command
-      name="calculatehashes" />
-    <command
-      name="disablecrewai" />
-    <command
-      name="toggleupperhud" />
-    <command
-      name="los" />
-    <command
-      name="godmode_mainsub" />
-    <command
-      name="banid" />
-    <command
-      name="despawnnow" />
-    <command
-      name="servername" />
-    <command
-      name="debugdrawlocalization" />
-    <command
-      name="revive" />
-    <command
-      name="exit" />
-    <command
-      name="readycheck" />
-    <command
-      name="listlocations" />
-    <command
-      name="shuttle" />
-    <command
-      name="setcampaignmetadata" />
-    <command
-      name="fixitems" />
-    <command
-      name="fixhulls" />
-    <command
-      name="listsuitabletreatments" />
-    <command
-      name="campaigndestination" />
-    <command
-      name="locky" />
-    <command
-      name="lockx" />
-    <command
-      name="killdisconnectedtimer" />
-    <command
-      name="teleportcharacter" />
-    <command
-      name="simulatedduplicateschance" />
-    <command
-      name="killmonsters" />
-    <command
-      name="debugdrawlos" />
-    <command
-      name="setdifficulty" />
-    <command
-      name="setlocationreputation" />
-    <command
-      name="godmode" />
-    <command
-      name="setpassword" />
-    <command
-      name="triggertraitorevent" />
-    <command
-      name="ragdoll" />
-    <command
-      name="maxupgrades" />
-    <command
-      name="dumptofile" />
-    <command
-      name="unlockmission" />
-    <command
-      name="showperm" />
-    <command
-      name="giveexperience" />
-    <command
-      name="kickid" />
-    <command
-      name="setskill" />
-    <command
-      name="restart" />
-    <command
-      name="revokeperm" />
-    <command
-      name="growthdelay" />
-    <command
-      name="enablecrewai" />
-    <command
-      name="debugai" />
-    <command
-      name="monstersignoresub" />
-    <command
-      name="followsub" />
-    <command
-      name="heal" />
-    <command
-      name="enablecheats" />
-    <command
-      name="campaigninfo" />
-    <command
-      name="spawn" />
-    <command
-      name="give" />
-    <command
-      name="ban" />
-    <command
-      name="disableenemyai" />
-    <command
-      name="lighting" />
-    <command
-      name="dumpids" />
-    <command
       name="devmode" />
-    <command
-      name="healme" />
-    <command
-      name="explosion" />
-    <command
-      name="simulatedlatency" />
-    <command
-      name="autorestart" />
-    <command
-      name="teleportsub" />
-    <command
-      name="findentityids" />
-    <command
-      name="autoitemplacerdebug" />
-    <command
-      name="debugevent" />
-    <command
-      name="giveperm" />
-    <command
-      name="netstats" />
-    <command
-      name="debugwiring" />
-    <command
-      name="togglevoicechatfilters" />
-    <command
-      name="monstersrestoretargets" />
-    <command
-      name="resetkarma" />
-    <command
-      name="monstersignoreplayer" />
-    <command
-      name="revokecommandperm" />
-    <command
-      name="showmoney" />
-    <command
-      name="setsalary" />
-    <command
-      name="togglekarmatestmode" />
-    <command
-      name="fire" />
-    <command
-      name="hidemonsters" />
-    <command
-      name="ballastflora" />
-    <command
-      name="skipeventcooldown" />
-    <command
-      name="togglecharacternames" />
-    <command
-      name="banaddress" />
-    <command
-      name="togglekarma" />
-    <command
-      name="showkarma" />
-    <command
-      name="spawnitem" />
-    <command
-      name="botcount" />
-    <command
-      name="showseed" />
-    <command
-      name="unban" />
-    <command
-      name="help" />
-    <command
-      name="startitems" />
-    <command
-      name="showmonsters" />
-    <command
-      name="power" />
-    <command
-      name="debugjobassignment" />
-    <command
-      name="msg" />
-    <command
-      name="control" />
-    <command
-      name="say" />
-    <command
-      name="money" />
-    <command
-      name="enableenemyai" />
-    <command
-      name="autorestartinterval" />
-    <command
-      name="freeze" />
-    <command
-      name="itemassemblies" />
-    <command
-      name="givecommandperm" />
-    <command
-      name="simulatedloss" />
-    <command
-      name="monstertargetingrestrictions" />
-    <command
-      name="verboselogging" />
-    <command
-      name="gamemode" />
-    <command
-      name="startgame" />
-    <command
-      name="kill" />
-    <command
-      name="eventmanager" />
-    <command
-      name="seed" />
-    <command
-      name="showreputation" />
-    <command
-      name="mission" />
     <command
       name="ambientlight" />
     <command
-      name="sub" />
+      name="enablecrewai" />
     <command
-      name="clientlist" />
+      name="dumpids" />
     <command
-      name="toggleitemhighlights" />
+      name="fixhulls" />
+    <command
+      name="ballastflora" />
+    <command
+      name="servermsg" />
+    <command
+      name="simulatedloss" />
+    <command
+      name="teleportsub" />
+    <command
+      name="lockx" />
+    <command
+      name="listlocations" />
+    <command
+      name="setmaxplayers" />
+    <command
+      name="banaddress" />
+    <command
+      name="ban" />
+    <command
+      name="fire" />
+    <command
+      name="togglecampaignteleport" />
+    <command
+      name="killdisconnectedtimer" />
+    <command
+      name="netstats" />
   </Client>
 </ClientPermissions>
